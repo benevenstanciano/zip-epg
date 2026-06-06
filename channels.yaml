@@ -1,0 +1,25 @@
+channels:
+
+  - id: daystar
+    enabled: true
+    name: Daystar
+
+    epg_sources:
+      - source: us
+        channel_id: Daystar.us
+
+    placeholder:
+      title: Programming Information Unavailable
+      description: No schedule available.
+
+  - id: arirang
+    enabled: true
+    name: Arirang
+
+    epg_sources:
+      - source: uk
+        channel_id: Arirang.uk
+
+    placeholder:
+      title: Programming Information Unavailable
+      description: No schedule available.
