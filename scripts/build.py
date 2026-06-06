@@ -56,8 +56,12 @@ for source_id, source in sources.items():
 
     if refresh:
 
-        r = requests.get(source["url"], timeout=120)
-        r.raise_for_status()
+        try:
+            r = requests.get(source["url"], timeout=120)
+            r.raise_for_status()
+        except Exception as e:
+            print(f"Failed source {source_id}: {e}")
+            continue
 
         if source["url"].endswith(".gz"):
             content = gzip.decompress(r.content)
