@@ -12,14 +12,14 @@ channels:
       title: Programming Information Unavailable
       description: No schedule available.
 
-  - id: arirang
-    enabled: true
-    name: Arirang
+  # - id: arirang
+  #   enabled: true
+  #   name: Arirang
 
-    epg_sources:
-      - source: uk
-        channel_id: Arirang.uk
+  #   epg_sources:
+  #     - source: uk
+  #       channel_id: Arirang.uk
 
-    placeholder:
-      title: Programming Information Unavailable
-      description: No schedule available.
+  #   placeholder:
+  #     title: Programming Information Unavailable
+  #     description: No schedule available.
