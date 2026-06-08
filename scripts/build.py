@@ -10,7 +10,7 @@ import requests
 
 from lxml import etree
 
-# Import utilities (will fail gracefully if missing)
+# Import utilities (with graceful fallback)
 try:
     from xmltv_utils import (
         parse_xmltv_time,
@@ -133,17 +133,21 @@ for channel in channels:
 
         print(f"  → Looking for {xmltv_id} in {source_id}")
 
-        for programme in source_doc.xpath(f'//programme[@channel="{xmltv_id}"]'):
-            try:
-                start = parse_xmltv_time(programme.get("start"))
-                stop = parse_xmltv_time(programme.get("stop"))
+        # FIXED: Safer way to find programmes (avoids XPath dot issue)
+        all_programmes = source_doc.findall(".//programme")
+        for programme in all_programmes:
+            if programme.get("channel") == xmltv_id:
+                try:
+                    start = parse_xmltv_time(programme.get("start"))
+                    stop = parse_xmltv_time(programme.get("stop"))
 
-                if stop < history_limit or start > future_limit:
+                    if stop < history_limit or start > future_limit:
+                        continue
+
+                    programmes.append((start, stop, programme))
+                except Exception as e:
+                    print(f"    Warning: Could not parse time for a programme: {e}")
                     continue
-
-                programmes.append((start, stop, programme))
-            except Exception:
-                pass
 
         if programmes:
             found = True
@@ -159,9 +163,9 @@ for channel in channels:
             stop=xmltv_time(future_limit)
         )
         title = etree.SubElement(placeholder, "title")
-        title.text = channel["placeholder"]["title"]
+        title.text = channel.get("placeholder", {}).get("title", "Programming")
         desc = etree.SubElement(placeholder, "desc")
-        desc.text = channel["placeholder"]["description"]
+        desc.text = channel.get("placeholder", {}).get("description", "No program information available.")
         json_output[cid] = {
             "name": channel["name"],
             "current": None,
@@ -183,7 +187,7 @@ for channel in channels:
             stop=xmltv_time(stop)
         )
 
-        for child in programme:
+        for child in list(programme):   # Use list() to avoid modification issues
             new_prog.append(child)
 
         # Track current + next for JSON
