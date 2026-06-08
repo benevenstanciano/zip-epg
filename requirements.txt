@@ -2,3 +2,5 @@ lxml
 PyYAML
 requests
 python-dateutil
+ics
+pytz
