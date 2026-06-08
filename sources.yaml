@@ -4,3 +4,6 @@ sources:
     url: https://iptv-epg.org/files/epg-us.xml.gz
     refresh_hours: 48
 
+  uk:
+    url: https://iptv-epg.org/files/epg-gb.xml.gz
+    refresh_hours: 48
