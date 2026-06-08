@@ -19,3 +19,43 @@ channels:
     epg_sources:
       - source: uk
         channel_id: "Arirang.uk"
+
+  - id: weathernation
+    name: WeatherNation
+    enabled: true
+    placeholder:
+      title: "WeatherNation"
+      description: "24/7 Weather"
+    epg_sources:
+      - source: us
+        channel_id: "WeatherNationTV.us"
+
+  - id: qvc
+    name: QVC
+    enabled: true
+    placeholder:
+      title: "QVC"
+      description: "Quality. Value. Convenience."
+    epg_sources:
+      - source: us
+        channel_id: "QVC.us"  
+
+  - id: hsn
+    name: HSN
+    enabled: true
+    placeholder:
+      title: "HSN"
+      description: "Home Shopping Network"
+    epg_sources:
+      - source: us
+        channel_id: "HSN.us"
+
+  - id: nhkworld
+    name: NHK World-Japan
+    enabled: true
+    placeholder:
+      title: "NHK World-Japan"
+      description: "International news and culture from Japan"
+    epg_sources:
+      - source: us
+        channel_id: "NHKWorld.us"        
