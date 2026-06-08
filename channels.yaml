@@ -148,7 +148,7 @@ channels:
       description: "Indonesian news and culture, in English"
     epg_sources:
       - source: us
-        channel_id: "ImpactNetwork.us"   
+        channel_id: "TVRIWorld.us"   
 
   - id: nost
     name: NOST
