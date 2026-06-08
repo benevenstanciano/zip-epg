@@ -59,3 +59,133 @@ channels:
     epg_sources:
       - source: us
         channel_id: "NHKWorld.us"        
+
+  - id: buzzr
+    name: Buzzr
+    enabled: true
+    placeholder:
+      title: "Buzzr"
+      description: "Classic gameshows"
+    epg_sources:
+      - source: us
+        channel_id: "BUZZR.us"
+
+  - id: byutv
+    name: BYUtv
+    enabled: true
+    placeholder:
+      title: "BYUtv"
+      description: "Family-friendly TV"
+    epg_sources:
+      - source: us
+        channel_id: "BYUTV.us"        
+
+  - id: ewtn
+    name: EWTN
+    enabled: true
+    placeholder:
+      title: "EWTN"
+      description: "Global Catholic Television"
+    epg_sources:
+      - source: us
+        channel_id: "EWTN.us" 
+
+  - id: rightnowtv
+    name: Right Now TV
+    enabled: true
+    placeholder:
+      title: "Right Now TV"
+      description: "What guys want!"
+    epg_sources:
+      - source: us
+        channel_id: "RightNowTV.us"     
+
+  - id: classicarts
+    name: Classic Arts Showcase
+    enabled: true
+    placeholder:
+      title: "Classic Arts Showcase"
+      description: "Commercial-free arts programming"
+    epg_sources:
+      - source: us
+        channel_id: "ClassicArtsShowcase.us"   
+
+  - id: nrbtv
+    name: NRB TV
+    enabled: true
+    placeholder:
+      title: "NRB TV"
+      description: "Think deeply. Live differently."
+    epg_sources:
+      - source: us
+        channel_id: "RightNowTV.us"   
+
+  - id: smtv
+    name: SMTV
+    enabled: true
+    placeholder:
+      title: "SMTV"
+      description: "Constructive Programming for a Peaceful World"
+    epg_sources:
+      - source: us
+        channel_id: "SupremeMasterTV.us"   
+
+  - id: impact
+    name: Impact
+    enabled: true
+    placeholder:
+      title: "Impact Network"
+      description: "Urban inspirational voice"
+    epg_sources:
+      - source: us
+        channel_id: "ImpactNetwork.us"   
+
+  - id: tvriworld
+    name: TVRI World
+    enabled: true
+    placeholder:
+      title: "TVRI World"
+      description: "Indonesian news and culture, in English"
+    epg_sources:
+      - source: us
+        channel_id: "ImpactNetwork.us"   
+
+  - id: nost
+    name: NOST
+    enabled: true
+    placeholder:
+      title: "NOST - The Nostalgia Network"
+      description: "Classic Movies. Timeless Stories."
+    epg_sources:
+      - source: us
+        channel_id: "ImpactNetwork.us"  
+
+  - id: faithworld
+    name: Faith World TV
+    enabled: true
+    placeholder:
+      title: "Faith World TV"
+      description: "Live from the UK"
+    epg_sources:
+      - source: uk
+        channel_id: "FaithWorldTV.uk"
+
+  - id: bctv
+    name: Being Catholic TV
+    enabled: true
+    placeholder:
+      title: "Being Catholic TV"
+      description: "Scottish Catholic TV"
+    epg_sources:
+      - source: uk
+        channel_id: "BeingCatholicTV.uk"
+
+  - id: jltv
+    name: JLTV
+    enabled: true
+    placeholder:
+      title: "JLTV"
+      description: "Jewish Life Television"
+    epg_sources:
+      - source: ca
+        channel_id: "JLTV.ca"         
