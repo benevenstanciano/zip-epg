@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Standalone PTN EPG generator from Tockify ICS feed.
-Outputs: output/epg-ptn.xml
+Standalone PTN EPG generator - robust for GitHub Actions
 """
 
 import requests
@@ -9,38 +8,57 @@ import sys
 from datetime import datetime, timedelta
 from pathlib import Path
 
-import pytz
-from ics import Calendar
-from lxml import etree
+try:
+    import pytz
+    from ics import Calendar
+    from lxml import etree
+except ImportError as e:
+    print(f"❌ Missing dependency: {e}")
+    print("Run: pip install ics pytz lxml")
+    sys.exit(1)
 
 # Config
 ICS_URL = "https://tockify.com/api/feeds/ics/ptn.schedule"
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "output"
+OUTPUT_DIR = Path("output")
 CHANNEL_ID = "ptn"
 CHANNEL_NAME = "Pioneer Network"
 MAX_DAYS = 14
 
-OUTPUT_DIR.mkdir(exist_ok=True)
+def main():
+    OUTPUT_DIR.mkdir(exist_ok=True)
+    print(f"Working directory: {Path.cwd()}")
+    print(f"Output dir: {OUTPUT_DIR.absolute()}")
 
-def fetch_ics():
-    print(f"Fetching Pioneer Network ICS...")
+    # Fetch
+    print("Fetching ICS...")
     headers = {"User-Agent": "ZipWave-EPG/1.0"}
     try:
-        r = requests.get(ICS_URL, timeout=30, headers=headers)
+        r = requests.get(ICS_URL, timeout=45, headers=headers)
         r.raise_for_status()
-        return Calendar(r.text)
+        print(f"✅ Fetched {len(r.text)} characters")
     except Exception as e:
-        print(f"❌ Failed to fetch ICS: {e}")
+        print(f"❌ Fetch failed: {e}")
         sys.exit(1)
 
+    # Parse
+    try:
+        cal = Calendar(r.text)
+        print(f"✅ Parsed calendar with {len(cal.events)} events")
+    except Exception as e:
+        print(f"❌ ICS parsing failed: {e}")
+        sys.exit(1)
+
+    # Convert
+    tv = convert_to_xmltv(cal)
+    save_xml(tv)
+
 def convert_to_xmltv(cal):
-    print(f"Converting {len(cal.events)} events...")
+    print("Converting to XMLTV...")
 
     tv = etree.Element("tv")
     tv.set("generator-info-name", "ZipWave PTN EPG Generator")
     tv.set("generator-info-url", "https://github.com/benevenstanciano/zip-epg")
 
-    # Channel definition
     channel = etree.SubElement(tv, "channel", id=CHANNEL_ID)
     etree.SubElement(channel, "display-name").text = CHANNEL_NAME
 
@@ -70,25 +88,22 @@ def convert_to_xmltv(cal):
                 clean_desc = " ".join(str(event.description).split())
                 desc.text = clean_desc[:1200]
 
-            if hasattr(event, 'categories') and event.categories:
-                cat = etree.SubElement(prog, "category")
-                cat.text = ", ".join(event.categories)
-
             count += 1
-
-        except Exception:
+        except Exception as e:
             continue
 
-    print(f"✅ Generated {count} programme entries for Pioneer Network")
+    print(f"✅ Generated {count} programme entries")
     return tv
 
 def save_xml(tv):
     xml_path = OUTPUT_DIR / "epg-ptn.xml"
-    tree = etree.ElementTree(tv)
-    tree.write(str(xml_path), encoding="utf-8", pretty_print=True, xml_declaration=True)
-    print(f"✅ Saved: {xml_path}")
+    try:
+        tree = etree.ElementTree(tv)
+        tree.write(str(xml_path), encoding="utf-8", pretty_print=True, xml_declaration=True)
+        print(f"✅ Saved {xml_path} ({xml_path.stat().st_size} bytes)")
+    except Exception as e:
+        print(f"❌ Save failed: {e}")
+        sys.exit(1)
 
 if __name__ == "__main__":
-    cal = fetch_ics()
-    tv = convert_to_xmltv(cal)
-    save_xml(tv)
+    main()
