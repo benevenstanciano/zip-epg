@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="daystar">
+    <display-name>Daystar</display-name>
+  </channel>
+  <programme channel="daystar" start="20260608090448 +0000" stop="20260611090448 +0000">
+    <title>Programming Information Unavailable</title>
+    <desc>No schedule available.</desc>
+  </programme>
+</tv>
