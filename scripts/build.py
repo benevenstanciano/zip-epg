@@ -1,13 +1,10 @@
 import gzip
 import json
-import os
 from pathlib import Path
 from datetime import timedelta
-from collections import defaultdict
 
 import yaml
 import requests
-
 from lxml import etree
 
 # Import utilities (with graceful fallback)
@@ -81,7 +78,6 @@ for source_id, source in sources.items():
                 print(f"  → No cache available - skipping source")
                 continue
 
-        # Decompress if needed
         if source["url"].endswith(".gz"):
             content = gzip.decompress(r.content)
         else:
@@ -89,7 +85,6 @@ for source_id, source in sources.items():
 
         cache_file.write_bytes(content)
 
-    # Parse only if file exists
     if cache_file.exists():
         try:
             source_docs[source_id] = etree.parse(str(cache_file))
@@ -115,6 +110,7 @@ for channel in channels:
     cid = channel["id"]
     print(f"Processing channel: {channel['name']} ({cid})")
 
+    # Channel definition
     channel_element = etree.SubElement(tv, "channel", id=cid)
     display = etree.SubElement(channel_element, "display-name")
     display.text = channel["name"]
@@ -131,9 +127,8 @@ for channel in channels:
         source_doc = source_docs[source_id]
         xmltv_id = source_ref["channel_id"]
 
-        print(f"  → Looking for {xmltv_id} in {source_id}")
+        print(f"  → Looking for '{xmltv_id}' in {source_id}")
 
-        # FIXED: Safer way to find programmes (avoids XPath dot issue)
         all_programmes = source_doc.findall(".//programme")
         for programme in all_programmes:
             if programme.get("channel") == xmltv_id:
@@ -145,35 +140,43 @@ for channel in channels:
                         continue
 
                     programmes.append((start, stop, programme))
-                except Exception as e:
-                    print(f"    Warning: Could not parse time for a programme: {e}")
+                except Exception:
                     continue
 
         if programmes:
             found = True
-            print(f"  ✓ Found programmes for {cid}")
+            print(f"  ✓ Found {len(programmes)} programmes for {cid}")
             break
 
     if not found:
-        print(f"  → No programmes found - using placeholder")
+        print(f"  → No programmes found - using placeholder from channels.yaml")
         placeholder = etree.SubElement(
             tv, "programme",
             channel=cid,
             start=xmltv_time(now),
             stop=xmltv_time(future_limit)
         )
-        title = etree.SubElement(placeholder, "title")
-        title.text = channel.get("placeholder", {}).get("title", "Programming")
-        desc = etree.SubElement(placeholder, "desc")
-        desc.text = channel.get("placeholder", {}).get("description", "No program information available.")
+
+        ph = channel.get("placeholder", {})
+        title_elem = etree.SubElement(placeholder, "title")
+        title_elem.text = ph.get("title", "Programming")
+
+        if "description" in ph:
+            desc_elem = etree.SubElement(placeholder, "desc")
+            desc_elem.text = ph["description"]
+
         json_output[cid] = {
             "name": channel["name"],
-            "current": None,
+            "current": {
+                "title": ph.get("title", "Programming"),
+                "start": now.isoformat(),
+                "end": future_limit.isoformat()
+            },
             "next": None
         }
         continue
 
-    # Sort and build output
+    # === Real programmes found ===
     programmes.sort(key=lambda x: x[0])
 
     current_item = None
@@ -187,12 +190,15 @@ for channel in channels:
             stop=xmltv_time(stop)
         )
 
-        for child in list(programme):   # Use list() to avoid modification issues
+        for child in list(programme):
             new_prog.append(child)
 
-        # Track current + next for JSON
+        # Extract title safely
+        title_elem = programme.find("title")
+        title = title_elem.text if title_elem is not None else "Unknown"
+
+        # Current / Next detection
         if start <= now < stop:
-            title = programme.findtext("title") or "Unknown"
             current_item = {
                 "title": title,
                 "start": start.isoformat(),
@@ -200,8 +206,10 @@ for channel in channels:
             }
             if idx + 1 < len(programmes):
                 ns, ne, np = programmes[idx + 1]
+                next_title_elem = np.find("title")
+                next_title = next_title_elem.text if next_title_elem is not None else "Unknown"
                 next_item = {
-                    "title": np.findtext("title") or "Unknown",
+                    "title": next_title,
                     "start": ns.isoformat(),
                     "end": ne.isoformat()
                 }
@@ -216,12 +224,7 @@ for channel in channels:
 tree = etree.ElementTree(tv)
 
 xml_path = OUTPUT_DIR / "epg.xml"
-tree.write(
-    str(xml_path),
-    encoding="utf-8",
-    pretty_print=True,
-    xml_declaration=True
-)
+tree.write(str(xml_path), encoding="utf-8", pretty_print=True, xml_declaration=True)
 
 with gzip.open(OUTPUT_DIR / "epg.xml.gz", "wb") as f:
     f.write(xml_path.read_bytes())
