@@ -120,6 +120,9 @@ for channel in channels:
         print(f" → No programmes found - using placeholder")
         
         placeholder_config = channel.get("placeholder", {})
+        ph_title = placeholder_config.get("title", "Programming")
+        ph_desc = placeholder_config.get("description", "No program information available.")
+        
         current_time = now
         while current_time < future_limit:
             next_time = current_time + timedelta(hours=1)
@@ -131,9 +134,9 @@ for channel in channels:
                 stop=xmltv_time(next_time)
             )
             title = etree.SubElement(placeholder, "title")
-            title.text = placeholder_config.get("title", "Programming")
+            title.text = ph_title
             desc = etree.SubElement(placeholder, "desc")
-            desc.text = placeholder_config.get("description", "No program information available.")
+            desc.text = ph_desc
             
             current_time = next_time
         
