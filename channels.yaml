@@ -1,16 +1,14 @@
 channels:
 
   - id: daystar
-    enabled: true
     name: Daystar
-
+    enabled: true
+    placeholder:
+      title: "Daystar Television"
+      description: "Faith-based Christian programming"
     epg_sources:
       - source: us
-        channel_id: DAYSTAR.us
-
-    placeholder:
-      title: Programming Information Unavailable
-      description: No schedule available.
+        channel_id: "DAYSTAR.us"
 
   # - id: arirang
   #   enabled: true
