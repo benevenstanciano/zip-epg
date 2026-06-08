@@ -3,8 +3,1103 @@
   <channel id="daystar">
     <display-name>Daystar</display-name>
   </channel>
-  <programme channel="daystar" start="20260608090448 +0000" stop="20260611090448 +0000">
-    <title>Programming Information Unavailable</title>
-    <desc>No schedule available.</desc>
+  <programme channel="daystar" start="20260607210000 +0000" stop="20260607213000 +0000"><category lang="en">Religious</category>
+    <date>2000</date>
+    <desc lang="en">Practical Bible teaching.</desc>
+    <icon src="https://iptv-epg.org/images/5rKP3AfmV22RMeoP1Us2PxhatnsHQZ5O5ve28u_gTkbb9IC5kAtHjiefxUGW55Wf2SfTAiUCuhCGFdbGCRY5aWRzPg7GpEmrBirjrlYtzMU"/>
+    <title lang="en">Dr. David Jeremiah</title>
+  </programme>
+  <programme channel="daystar" start="20260607213000 +0000" stop="20260607220000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Our Sinless Savior
+John Ankerberg, a Baptist minister, spreads the message of Jesus Christ among the followers and urges them to live a more spiritual life.</desc>
+    <icon src="https://iptv-epg.org/images/r1JVL_wmIqm6X4as0tIuiGEtIMT5fiDRjujHNlaUkdstvRHT5A4Dw-JA60DRo3BoYY6u3_ebOljku1yljXqx7S-PNjjJsxEfwVfFp-viKHE"/>
+    <previously-shown/>
+    <title lang="en">John Ankerberg</title>
+  </programme>
+  <programme channel="daystar" start="20260607220000 +0000" stop="20260607223000 +0000"><category lang="en">Public affairs</category>
+    <category lang="en">Special</category>
+    <date>2020</date>
+    <desc lang="en">Bridging the Gap</desc>
+    <icon src="https://iptv-epg.org/images/OWpHNYbIc50UAMaydaYFwT29JpoCHEyJP4x81Rf5Newx_SxPDGJ-76EwefvQcn0E1CnSwC-AcEjZfqtpG_4VShrvU37darDW0UJkdSfZ5mU"/>
+    <title lang="en">Bridging the Gap</title>
+  </programme>
+  <programme channel="daystar" start="20260607223000 +0000" stop="20260607230000 +0000"><category lang="en">Religious</category>
+    <date>1998</date>
+    <desc lang="en">Mark and Trina Hankins share messages about faith, helping believers understand their identity in Christ and the Holy Spirit's role in their lives.</desc>
+    <icon src="https://iptv-epg.org/images/kFQDWKoMOjp41o9ynG7IR_odL_1CESd_-i74VtaRkTaIM0Ifhy69OCoEjGBHXSVEL_TwHdIHVVg4ShZMtWTJHt192fPzN7iBluezR88iW7I"/>
+    <title lang="en">Faith Is the Victory</title>
+  </programme>
+  <programme channel="daystar" start="20260607230000 +0000" stop="20260607233000 +0000"><category lang="en">Religious</category>
+    <date>2006</date>
+    <desc lang="en">Bishop T.D. Jakes offers practical and spiritual solutions to life's toughest questions, including taboos and hidden issues.</desc>
+    <icon src="https://iptv-epg.org/images/GYKSpUmZZWHxNb6-pCpZdi87K7A-MBuXLrRcPAPvBcaAdZKu0cSKxJ_Ll5MKhR42yp6Y8SVs5hVKwC8CRkbQXnHN6cxu1-1GfF_sw-FyOxY"/>
+    <title lang="en">The Potter's Touch With Bishop T.D. Jakes</title>
+  </programme>
+  <programme channel="daystar" start="20260607233000 +0000" stop="20260608000000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Special</category>
+    <date>2013</date>
+    <desc lang="en">Power for living encourages, empowers, and equips viewers to live a triumphant life with Christ.</desc>
+    <icon src="https://iptv-epg.org/images/KYz91YjqMS9Q_l8mPLlrIDOw7udQtr1Fr2TwyQ2neN7vcQAl9-wahW-NXc_rmrtJ6lphWjTFYFoizRKZqi_Ojul6iKwc0SUn-nbulIbwtFo"/>
+    <title lang="en">Bishop Dale C. Bronner</title>
+  </programme>
+  <programme channel="daystar" start="20260608000000 +0000" stop="20260608010000 +0000"><category lang="en">Religious</category>
+    <credits>
+      <director>Reza Baktar</director>
+    </credits>
+    <date>2012</date>
+    <desc lang="en">Join the pastoral leaders and praise-and-worship team for the Word of God from the Campus Church of Pensacola Christian College.</desc>
+    <icon src="https://iptv-epg.org/images/PTzuWj35zq4TxrP7BmKs-w9LzRhrQPgk_sEc_5XoQNkwk82HjbEQtTosC7msZq1Is2NrTIXNzYBide_VyWppHJvc508jOCSz0jvg2p6hMoQ"/>
+    <title lang="en">Rejoice in the Lord</title>
+  </programme>
+  <programme channel="daystar" start="20260608010000 +0000" stop="20260608013000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Our Sinless Savior
+John Ankerberg, a Baptist minister, spreads the message of Jesus Christ among the followers and urges them to live a more spiritual life.</desc>
+    <icon src="https://iptv-epg.org/images/r1JVL_wmIqm6X4as0tIuiGEtIMT5fiDRjujHNlaUkdstvRHT5A4Dw-JA60DRo3BoYY6u3_ebOljku1yljXqx7S-PNjjJsxEfwVfFp-viKHE"/>
+    <previously-shown/>
+    <title lang="en">John Ankerberg</title>
+  </programme>
+  <programme channel="daystar" start="20260608013000 +0000" stop="20260608020000 +0000"><category lang="en">Religious</category>
+    <date>2009</date>
+    <desc lang="en">Pastor Michael Youssef proclaims God's word to all the people around the world through the ministries of Leading The Way.</desc>
+    <icon src="https://iptv-epg.org/images/fwyF4j6URhzuZ0tlshrsv6T2StIyWKyNBonAJ2fg3SmDcKWbFvkP_fKSBI2gPYuFAN-wYWd_uZX4MmZmcnbtw5soPmdEEcs2ii5n6hvXsI4"/>
+    <title lang="en">Michael A. Youssef</title>
+  </programme>
+  <programme channel="daystar" start="20260608020000 +0000" stop="20260608023000 +0000"><category lang="en">Religious</category>
+    <date>2006</date>
+    <desc lang="en">Messianic Rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+    <icon src="https://iptv-epg.org/images/JcraNVdWywVGkwWJmsnl7xridlQH1bk3arLq2HsJVzXqgGzwGE87OZa8EYbhubNuAWZEh5O553TbmyPgvPPSEyZbGLA9Yq5KKn1IWvC4GLw"/>
+    <title lang="en">Discovering the Jewish Jesus</title>
+  </programme>
+  <programme channel="daystar" start="20260608023000 +0000" stop="20260608030000 +0000"><category lang="en">Religious</category>
+    <date>2000</date>
+    <desc lang="en">Practical Bible teaching.</desc>
+    <icon src="https://iptv-epg.org/images/5rKP3AfmV22RMeoP1Us2PxhatnsHQZ5O5ve28u_gTkbb9IC5kAtHjiefxUGW55Wf2SfTAiUCuhCGFdbGCRY5aWRzPg7GpEmrBirjrlYtzMU"/>
+    <title lang="en">Dr. David Jeremiah</title>
+  </programme>
+  <programme channel="daystar" start="20260608030000 +0000" stop="20260608033000 +0000"><category lang="en">Religious</category>
+    <date>2019</date>
+    <desc lang="en">Hal Lindsey shares his insights into the prophecies in the Book of John.</desc>
+    <icon src="https://iptv-epg.org/images/jNEy4P4wdmf0tUilrX2Y4KgzVO3a1-OlZpBiXz49HQ3weTAop2d9iBh0_vj1J8HDRVWuYGe9Vm4hemnHQTAAQ-0MtE073KCCSBptxNHyJTQ"/>
+    <title lang="en">Hal Lindsey</title>
+  </programme>
+  <programme channel="daystar" start="20260608033000 +0000" stop="20260608040000 +0000"><category lang="en">Debate</category>
+    <category lang="en">Interview</category>
+    <category lang="en">Religious</category>
+    <date>2021</date>
+    <desc lang="en">Bible prophecy lives! Join Gary Stearman and Mondo Gonzales as they examine the end times with prophecy experts.</desc>
+    <icon src="https://iptv-epg.org/images/2Ql58FtUe0lOpxLp8X2rDp815tw2Rev9J1TvDg4EL0c2OdlzuyzNBznx2qb0i3G-cbPTmA8V2gjmGGYSFOUI0-ZN5yxyfjEWxBzDDN1CGRE"/>
+    <title lang="en">Prophecy Watchers</title>
+  </programme>
+  <programme channel="daystar" start="20260608040000 +0000" stop="20260608043000 +0000"><category lang="en">Religious</category>
+    <date>2026</date>
+    <desc lang="en">Prophecy Live</desc>
+    <icon src="https://iptv-epg.org/images/jc3RUyPaNUwRL98f4nMU2jQBovah_iaBF2AF-NbkW3ieR6NTSTkhdqzSHlIM_0QmAclbVu45lEWemwXZExuooErfBi9FQeSTLLpvObrgcMI"/>
+    <title lang="en">Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260608043000 +0000" stop="20260608050000 +0000"><category lang="en">Religious</category>
+    <date>2024</date>
+    <desc lang="en">Cardiologist, evangelist, medical missionary and author Samuel Kojoglanian, MD, known as Dr. Sam, provides a Biblical study of the end times with geopolitical views and heartwarming medical analogies.</desc>
+    <icon src="https://iptv-epg.org/images/kYdiPqk5Lbis_p9hue4-fH_d58hg9QSkAgdTEMnkW3Yur5UFNRO3HK_abngMP68hDp_eM_Ep7-kofafa5Egrxe713If6K-i18T5rzdx6yCk"/>
+    <title lang="en">Dr. Sam</title>
+  </programme>
+  <programme channel="daystar" start="20260608050000 +0000" stop="20260608053000 +0000"><category lang="en">Religious</category>
+    <date>1996</date>
+    <desc lang="en">A mission to share the profound truths of God's Word; with each episode, viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+    <icon src="https://iptv-epg.org/images/XjE6K3-ZlD4X8RwyEyB-zw5zyNWPqohagM7DPbTa38giSJXy0nfi0b3j3xqne6hlNLkZdTGdYqd2l_pbXC3XaRPs4k5HsdrKc3dhpns0xIE"/>
+    <title lang="en">Kingdom Connection With Jentezen Franklin</title>
+  </programme>
+  <programme channel="daystar" start="20260608053000 +0000" stop="20260608060000 +0000"><category lang="en">Religious</category>
+    <date>2015</date>
+    <desc lang="en">Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God's love and promises.</desc>
+    <icon src="https://iptv-epg.org/images/MiKDleUNtsEk40avu6-udnGUJaCoA1jppu8ULLvYlPVhmJx9RW6_jNwIITg74nMvx1XuQx84rAywMMJcJw-QKmJick3iDMN_5ZiCL6d6i4g"/>
+    <title lang="en">Creflo Dollar</title>
+  </programme>
+  <programme channel="daystar" start="20260608060000 +0000" stop="20260608063000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Paula White Cain and husband Jonathan discuss real-life situations and offer practical, biblical solutions. They give down-to-earth, refreshing, sometimes unfiltered words and aim to share the life-changing love of Jesus through lessons or music.</desc>
+    <icon src="https://iptv-epg.org/images/l20ENMG8fyJL1RJwhtw3zOIc3jgZJu6y5VlCyAhRtPGEOX2G2iSMhmEBy789KBlyI3_uWAdKeyYO6E6MlXWcz4-pE7AqG-jlnriAae42UVQ"/>
+    <title lang="en">Paula Today</title>
+  </programme>
+  <programme channel="daystar" start="20260608063000 +0000" stop="20260608070000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260608070000 +0000" stop="20260608073000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260608073000 +0000" stop="20260608080000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260608080000 +0000" stop="20260608083000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260608083000 +0000" stop="20260608093000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260608093000 +0000" stop="20260608100000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260608100000 +0000" stop="20260608103000 +0000"><category lang="en">Religious</category>
+    <date>1996</date>
+    <desc lang="en">A mission to share the profound truths of God's Word; with each episode, viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+    <icon src="https://iptv-epg.org/images/XjE6K3-ZlD4X8RwyEyB-zw5zyNWPqohagM7DPbTa38giSJXy0nfi0b3j3xqne6hlNLkZdTGdYqd2l_pbXC3XaRPs4k5HsdrKc3dhpns0xIE"/>
+    <title lang="en">Kingdom Connection With Jentezen Franklin</title>
+  </programme>
+  <programme channel="daystar" start="20260608103000 +0000" stop="20260608110000 +0000"><category lang="en">Religious</category>
+    <date>2026</date>
+    <desc lang="en">Prophecy Live</desc>
+    <icon src="https://iptv-epg.org/images/jc3RUyPaNUwRL98f4nMU2jQBovah_iaBF2AF-NbkW3ieR6NTSTkhdqzSHlIM_0QmAclbVu45lEWemwXZExuooErfBi9FQeSTLLpvObrgcMI"/>
+    <title lang="en">Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260608110000 +0000" stop="20260608113000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Finding Peace Through Humility
+Dr. Joel Muddamalle reveals how humility could be the key to unlocking a brighter tomorrow.</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260608113000 +0000" stop="20260608120000 +0000"><category lang="en">Religious</category>
+    <date>1999</date>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <icon src="https://iptv-epg.org/images/ky-i0NVYzm3y5OnNckS6Ahe_VfQIu25vlQwegOYkPQNUg9Kfv018vOJbULbq4akhRJJsku-nUH8YFv3RAKviLvZV4Tbt5guQ76x0wtOsxQg"/>
+    <title lang="en">Joel Osteen</title>
+  </programme>
+  <programme channel="daystar" start="20260608120000 +0000" stop="20260608123000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Betty Robison</actor>
+    </credits>
+    <desc lang="en">Shattered By Loss
+A young mother suddenly widowed shares the hope and courage that carried her through her darkest season.</desc>
+    <icon src="https://iptv-epg.org/images/LD4RfSczP0CVx5wV0lEUTgaO7Tu2U-L_sENV7p4t7CQ6rEQ7qI87OW5nPDlYpqSi08UCJXOyBjnl55eHVcKnqTewaCNFLEink9UeceqLQG0"/>
+    <previously-shown/>
+    <title lang="en">Life Today with James &amp; Betty Robison</title>
+  </programme>
+  <programme channel="daystar" start="20260608123000 +0000" stop="20260608130000 +0000"><category lang="en">Religious</category>
+    <date>2017</date>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <icon src="https://iptv-epg.org/images/8sTEkcwPo0q9V2LrOkIbNcvRqGaxOvLynZTvo_6H7GI_3HNHNc1H_QTw58axmZvWJL-NiGvqkeHt2yJK1OQFYbFNVM1tkgsZF5ou_2nPwfI"/>
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260608130000 +0000" stop="20260608133000 +0000"><category lang="en">Religious</category>
+    <date>2006</date>
+    <desc lang="en">Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+    <icon src="https://iptv-epg.org/images/fch-kEeDRRh2IQb-ltaiAOcEtKpP84a-nSE0r44n2EuymIcOoR4k_KsDe89-Sw0aMbM7F-100N4x65wtZ5WUUBjA9w1HUrxe1Z6Sgabf4mw"/>
+    <title lang="en">Larry and Tiz Huch</title>
+  </programme>
+  <programme channel="daystar" start="20260608133000 +0000" stop="20260608140000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <date>2019</date>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <icon src="https://iptv-epg.org/images/OQNT63FKV2Sn6aDMpiIfM-nW1EPWFUa-mABJaRQbX0op69zZB3_urFvGPNZMlTH9aiyDBgdolML_Cjn34QApC4nK-f9ov9bYQQXmjYZv2X8"/>
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+  </programme>
+  <programme channel="daystar" start="20260608140000 +0000" stop="20260608143000 +0000"><category lang="en">Religious</category>
+    <date>1985</date>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <icon src="https://iptv-epg.org/images/Wd9rU3SY6uakSq85MXD699UtWXX1RoED6PpdTbE6kUVzhDGws-obBVNjYcm7oxmI77fi8M9BoKBsrL0z9jefXV83RvZC37jmBfkFGxc6sWk"/>
+    <title lang="en">Kenneth Copeland</title>
+  </programme>
+  <programme channel="daystar" start="20260608143000 +0000" stop="20260608150000 +0000"><category lang="en">Religious</category>
+    <date>2015</date>
+    <desc lang="en">Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God's love and promises.</desc>
+    <icon src="https://iptv-epg.org/images/MiKDleUNtsEk40avu6-udnGUJaCoA1jppu8ULLvYlPVhmJx9RW6_jNwIITg74nMvx1XuQx84rAywMMJcJw-QKmJick3iDMN_5ZiCL6d6i4g"/>
+    <title lang="en">Creflo Dollar</title>
+  </programme>
+  <programme channel="daystar" start="20260608150000 +0000" stop="20260608153000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <credits>
+      <director>Wes Llewellyn</director>
+      <producer>Amanda Llewellyn</producer>
+    </credits>
+    <date>1996</date>
+    <desc lang="en">Messianic investigator Sid Roth presents this show discussing and examining the supernatural reality and power of God.</desc>
+    <icon src="https://iptv-epg.org/images/YZY3g9tXhc9r8GNicEsGb1SDqZpXk9pIgAFlOsJSBW2_LaObT3UKTBVom3ymIyOfvVoLT9DeMzS-4iQYApt8ur4DG5PbPjDyDTmi6kwYt_M"/>
+    <title lang="en">Sid Roth's It's Supernatural!</title>
+  </programme>
+  <programme channel="daystar" start="20260608153000 +0000" stop="20260608160000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Are You Safe From Destruction?
+How do you stay safe in a crazy world? The only safe place is in Christ. Learn what it really means to be in Christ and how to get there.</desc>
+    <icon src="https://iptv-epg.org/images/SqH2wcGdWxLj0jdt4-90qsJf9ljz2qfkKWBbxcuTdP0m4KQQdJwRaB5mwjIeQxpDbNb2KYK5WTrVLLXMUjl4YdqCPv8LzjhIlHNViVCgWhE"/>
+    <previously-shown/>
+    <title lang="en">Rick Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260608160000 +0000" stop="20260608170000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260608170000 +0000" stop="20260608173000 +0000"><category lang="en">Religious</category>
+    <date>2024</date>
+    <desc lang="en">Drenda's deep desire is to see you experience more of what matters in your life.</desc>
+    <icon src="https://iptv-epg.org/images/_bYcpsrczuvt0opaROE9OADC_86GPBiWfYQ8UPxTdAm0cwVoj8-_twnVB0vjqfc8KXJugOxb2yv3mwVCVEIstbcqgm8ck_dAqj83KEA6ZsI"/>
+    <title lang="en">Drenda</title>
+  </programme>
+  <programme channel="daystar" start="20260608173000 +0000" stop="20260608180000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Burdened but Hopeful
+Missionaries work to share hope and spread the message of God's love by feeding and educating over 5,000 orphaned children who live in extreme poverty in Haiti.</desc>
+    <icon src="https://iptv-epg.org/images/DeQGST2bYFRhF5PtJ4u2qjk9j3nwRFn4Qz5kphNA67YfxeAexynInccugVs7n0tbzgBcIHTpjIti5-9qLV4P4nQu5Vghwv982sj2EECmTAU"/>
+    <previously-shown/>
+    <title lang="en">Love a Child</title>
+  </programme>
+  <programme channel="daystar" start="20260608180000 +0000" stop="20260608183000 +0000"><category lang="en">Religious</category>
+    <date>2006</date>
+    <desc lang="en">Messianic Rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+    <icon src="https://iptv-epg.org/images/JcraNVdWywVGkwWJmsnl7xridlQH1bk3arLq2HsJVzXqgGzwGE87OZa8EYbhubNuAWZEh5O553TbmyPgvPPSEyZbGLA9Yq5KKn1IWvC4GLw"/>
+    <title lang="en">Discovering the Jewish Jesus</title>
+  </programme>
+  <programme channel="daystar" start="20260608183000 +0000" stop="20260608190000 +0000"><category lang="en">Religious</category>
+    <date>2001</date>
+    <desc lang="en">Tuning in to receive inspirational messages from special guests; Bible teachings and encouragement from Marylin and Sarah's ministry outreaches going on around the world.</desc>
+    <icon src="https://iptv-epg.org/images/u62p42kP4zsnATVfutIiMtYjfXHi6TON1bOSczBNo5o53qfhdFUvMK7lGiecoZ8OqFWiF3eWQy30e4US0ZXqdzXtV6cGmEN-rKbpG2d49Zg"/>
+    <title lang="en">Today With Marilyn and Sarah</title>
+  </programme>
+  <programme channel="daystar" start="20260608190000 +0000" stop="20260608193000 +0000"><category lang="en">Religious</category>
+    <date>2026</date>
+    <desc lang="en">Prophecy Live</desc>
+    <icon src="https://iptv-epg.org/images/jc3RUyPaNUwRL98f4nMU2jQBovah_iaBF2AF-NbkW3ieR6NTSTkhdqzSHlIM_0QmAclbVu45lEWemwXZExuooErfBi9FQeSTLLpvObrgcMI"/>
+    <title lang="en">Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260608193000 +0000" stop="20260608200000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">The Antichrist Beast, Pt. 1
+Just as ancient Babylon persecuted those who would not worship its gods, so modern Babylon will persecute those who will not worship Revelation's "the beast and his image"; who is this beast that blasphemes God for 1,200 days?</desc>
+    <icon src="https://iptv-epg.org/images/zhj8jG0TlMAGHGA7FooxbXT6fnApdZ_kMiPdybFK3FMZo05Y-Xk-gQvzGqLNX4-sPfUis-aodLSejZvA-LN1sRPfKz0mIvlGLJk8KR88nIE"/>
+    <previously-shown/>
+    <title lang="en">Amazing Facts With Doug Batchelor</title>
+  </programme>
+  <programme channel="daystar" start="20260608200000 +0000" stop="20260608203000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Are You Safe From Destruction?
+How do you stay safe in a crazy world? The only safe place is in Christ. Learn what it really means to be in Christ and how to get there.</desc>
+    <icon src="https://iptv-epg.org/images/SqH2wcGdWxLj0jdt4-90qsJf9ljz2qfkKWBbxcuTdP0m4KQQdJwRaB5mwjIeQxpDbNb2KYK5WTrVLLXMUjl4YdqCPv8LzjhIlHNViVCgWhE"/>
+    <previously-shown/>
+    <title lang="en">Rick Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260608203000 +0000" stop="20260608210000 +0000"><category lang="en">Religious</category>
+    <date>1994</date>
+    <desc lang="en">Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+    <icon src="https://iptv-epg.org/images/ed_fk85PnYnycTBp8uAEU8WA5aOjO1jwV4cFPfWGSZuOCxUUkw36dNtPZuIazGoXufn5GIUd5fp2h5xci4CIo6c8jaeM38zGGQRi1BXAl-k"/>
+    <title lang="en">Believer's Walk of Faith With Bill Winston</title>
+  </programme>
+  <programme channel="daystar" start="20260608210000 +0000" stop="20260608213000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Special</category>
+    <date>2025</date>
+    <desc lang="en">Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
+    <icon src="https://iptv-epg.org/images/_K7S7mALYxHgXVTWWaWg8qwTOHWi6FCh4oMozIR9uP3qiZSaudwtMIVAuBHU7CfwUiiMQ38q386E36xlzi-oSeXMGJ8PZqUjbIPGbGq2cCE"/>
+    <title lang="en">PSB Prophetic Sound Broadcast With Shawn Baker</title>
+  </programme>
+  <programme channel="daystar" start="20260608213000 +0000" stop="20260608220000 +0000"><category lang="en">Religious</category>
+    <date>2000</date>
+    <desc lang="en">Practical Bible teaching.</desc>
+    <icon src="https://iptv-epg.org/images/5rKP3AfmV22RMeoP1Us2PxhatnsHQZ5O5ve28u_gTkbb9IC5kAtHjiefxUGW55Wf2SfTAiUCuhCGFdbGCRY5aWRzPg7GpEmrBirjrlYtzMU"/>
+    <title lang="en">Dr. David Jeremiah</title>
+  </programme>
+  <programme channel="daystar" start="20260608220000 +0000" stop="20260608223000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Doug Weiss</actor>
+    </credits>
+    <desc lang="en">Greg Swan
+Greg Swan is turning his grief over losing his son to a fentanyl overdose into a mission to raise awareness and help save lives.</desc>
+    <icon src="https://iptv-epg.org/images/Yr1mWeyUBXzSb1oNsYUNejeBJIpTbRcfVowIol7kEB6NVLbHI8Pjna3h1qiBUUhgtuNpFUuvRZiMBqltL0LCv-nzya7IFoWq-5X-AGQTAH4"/>
+    <previously-shown/>
+    <title lang="en">Healing Time With Dr. Doug Weiss</title>
+  </programme>
+  <programme channel="daystar" start="20260608223000 +0000" stop="20260608230000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <date>2024</date>
+    <desc lang="en">Jewish Voice Special: Ethiopia
+Rabbi Jonathan Bernis of Jewish Voice Ministries provides valuable insights into the Jewish roots of Christianity. Is Israel the aggressor in the Middle East? What is the truth?</desc>
+    <icon src="https://iptv-epg.org/images/KVRc4U2toxhRHOXssQ4TUMYMpzAIFH5NiLcWcStsre9d4IkMNkiwhI_RWBLNUWKqE9wnFW1xD9P2SS31UZU2F9gBmKOG2-UpdHA3RH1mrPg"/>
+    <previously-shown/>
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+  </programme>
+  <programme channel="daystar" start="20260608230000 +0000" stop="20260608233000 +0000"><category lang="en">Religious</category>
+    <date>2000</date>
+    <desc lang="en">Perry Stone hosts this exciting program that deals with in-depth prophetic and practical studies of the Word of God; Manna-fest is a resource to help you better understand where we are now in light of Bible prophecy.</desc>
+    <icon src="https://iptv-epg.org/images/OzuboJ4CkaeY_qgMgfrVjh-6osM9eTZ-_Slm2KFcgoKdaOKGZe_u8Vx_Ek2oP2mUhD4Vk6LSsWri0eNyiX0rM4dTF-0x6CqeLi7pR_yoOJM"/>
+    <title lang="en">Manna Fest With Perry Stone</title>
+  </programme>
+  <programme channel="daystar" start="20260608233000 +0000" stop="20260609000000 +0000"><category lang="en">Religious</category>
+    <date>2003</date>
+    <desc lang="en">"Breakthrough" is the worldwide soul-winning ministry of Rod Parsley reaping the end-time harvest.</desc>
+    <icon src="https://iptv-epg.org/images/AtXdXiTqZjCjXzWRKKfhYrLDmG1PmA1GwHItL2mB-rdVVHYVlwe-lhzJifU-wUPzjYwdHk2o4gfRnXb5bitpti8qIcLW2H3r3QERQOdRpfk"/>
+    <title lang="en">Breakthrough With Rod Parsley</title>
+  </programme>
+  <programme channel="daystar" start="20260609000000 +0000" stop="20260609003000 +0000"><category lang="en">Religious</category>
+    <date>2017</date>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <icon src="https://iptv-epg.org/images/8sTEkcwPo0q9V2LrOkIbNcvRqGaxOvLynZTvo_6H7GI_3HNHNc1H_QTw58axmZvWJL-NiGvqkeHt2yJK1OQFYbFNVM1tkgsZF5ou_2nPwfI"/>
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260609003000 +0000" stop="20260609010000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Finding Peace Through Humility
+Dr. Joel Muddamalle reveals how humility could be the key to unlocking a brighter tomorrow.</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260609010000 +0000" stop="20260609020000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260609020000 +0000" stop="20260609023000 +0000"><category lang="en">Religious</category>
+    <date>2017</date>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <icon src="https://iptv-epg.org/images/8sTEkcwPo0q9V2LrOkIbNcvRqGaxOvLynZTvo_6H7GI_3HNHNc1H_QTw58axmZvWJL-NiGvqkeHt2yJK1OQFYbFNVM1tkgsZF5ou_2nPwfI"/>
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260609023000 +0000" stop="20260609030000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Pastor Ron Carpenter of Redemption Bay Area in San Jose, Calif.</desc>
+    <icon src="https://iptv-epg.org/images/j4DZtZdDsk7NUKfKW7TXX1BI32HcA8wonNu8kw0q58zi2uSkD9lZzXEGSEyr-YW7V0vdgjtD0SH7vbF0zl3Ab4M7aKWUZF_apJtb99RsOWQ"/>
+    <previously-shown/>
+    <title lang="en">Ron Carpenter</title>
+  </programme>
+  <programme channel="daystar" start="20260609030000 +0000" stop="20260609033000 +0000"><date>2025</date>
+    <desc lang="en">Pastor Kenneth Hagin presents viewers and congregants with an inspired message and music from Rhema Bible Church in Tulsa, Oklahoma.</desc>
+    <icon src="https://iptv-epg.org/images/pJAMPll2H4xlkvmfxWjhDV6BiroIzi4dwGAvwrVm_Op0G7PyTE9ikS7IjaxXlTNWJkvSkvxLhYtNWVn5VSomH5ZkQTAzcmcos57hh-YVPuA"/>
+    <title lang="en">Kenneth W. Hagin</title>
+  </programme>
+  <programme channel="daystar" start="20260609033000 +0000" stop="20260609040000 +0000"><category lang="en">Religious</category>
+    <date>1985</date>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <icon src="https://iptv-epg.org/images/Wd9rU3SY6uakSq85MXD699UtWXX1RoED6PpdTbE6kUVzhDGws-obBVNjYcm7oxmI77fi8M9BoKBsrL0z9jefXV83RvZC37jmBfkFGxc6sWk"/>
+    <title lang="en">Kenneth Copeland</title>
+  </programme>
+  <programme channel="daystar" start="20260609040000 +0000" stop="20260609043000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Doug Weiss</actor>
+    </credits>
+    <desc lang="en">Greg Swan
+Greg Swan is turning his grief over losing his son to a fentanyl overdose into a mission to raise awareness and help save lives.</desc>
+    <icon src="https://iptv-epg.org/images/Yr1mWeyUBXzSb1oNsYUNejeBJIpTbRcfVowIol7kEB6NVLbHI8Pjna3h1qiBUUhgtuNpFUuvRZiMBqltL0LCv-nzya7IFoWq-5X-AGQTAH4"/>
+    <previously-shown/>
+    <title lang="en">Healing Time With Dr. Doug Weiss</title>
+  </programme>
+  <programme channel="daystar" start="20260609043000 +0000" stop="20260609050000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Finding Peace Through Humility
+Dr. Joel Muddamalle reveals how humility could be the key to unlocking a brighter tomorrow.</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260609050000 +0000" stop="20260609060000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260609060000 +0000" stop="20260609063000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260609063000 +0000" stop="20260609070000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <date>2019</date>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <icon src="https://iptv-epg.org/images/OQNT63FKV2Sn6aDMpiIfM-nW1EPWFUa-mABJaRQbX0op69zZB3_urFvGPNZMlTH9aiyDBgdolML_Cjn34QApC4nK-f9ov9bYQQXmjYZv2X8"/>
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+  </programme>
+  <programme channel="daystar" start="20260609070000 +0000" stop="20260609073000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260609073000 +0000" stop="20260609080000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260609080000 +0000" stop="20260609083000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260609083000 +0000" stop="20260609093000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260609093000 +0000" stop="20260609100000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260609100000 +0000" stop="20260609103000 +0000"><category lang="en">Religious</category>
+    <date>1996</date>
+    <desc lang="en">A mission to share the profound truths of God's Word; with each episode, viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+    <icon src="https://iptv-epg.org/images/XjE6K3-ZlD4X8RwyEyB-zw5zyNWPqohagM7DPbTa38giSJXy0nfi0b3j3xqne6hlNLkZdTGdYqd2l_pbXC3XaRPs4k5HsdrKc3dhpns0xIE"/>
+    <title lang="en">Kingdom Connection With Jentezen Franklin</title>
+  </programme>
+  <programme channel="daystar" start="20260609103000 +0000" stop="20260609110000 +0000"><category lang="en">Religious</category>
+    <date>2026</date>
+    <desc lang="en">Prophecy Live</desc>
+    <icon src="https://iptv-epg.org/images/jc3RUyPaNUwRL98f4nMU2jQBovah_iaBF2AF-NbkW3ieR6NTSTkhdqzSHlIM_0QmAclbVu45lEWemwXZExuooErfBi9FQeSTLLpvObrgcMI"/>
+    <title lang="en">Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260609110000 +0000" stop="20260609113000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">The Power of Your Dreams
+Stephanie Ike Okafor reveals how a person can unlock their power and step into God's plan for their lives through her book, "The Power of Your Dreams."</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260609113000 +0000" stop="20260609120000 +0000"><category lang="en">Religious</category>
+    <date>1999</date>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <icon src="https://iptv-epg.org/images/ky-i0NVYzm3y5OnNckS6Ahe_VfQIu25vlQwegOYkPQNUg9Kfv018vOJbULbq4akhRJJsku-nUH8YFv3RAKviLvZV4Tbt5guQ76x0wtOsxQg"/>
+    <title lang="en">Joel Osteen</title>
+  </programme>
+  <programme channel="daystar" start="20260609120000 +0000" stop="20260609123000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Jason Crabb: Through the Fire
+Award-winning gospel singer Jason Crabb discusses the heartache and pain that made his song lyrics deeply personal.</desc>
+    <icon src="https://iptv-epg.org/images/oQfZgCIa12uE4FN4YKehdipkAniKISyL0L7H3Zxuf8XI2oW9m2tzJNjLF0peCuZVT_3OgqsglUvx-CvsQpb4uBpMYbtxZt8cElP1Bv6v3A0"/>
+    <previously-shown/>
+    <title lang="en">Life Today</title>
+  </programme>
+  <programme channel="daystar" start="20260609123000 +0000" stop="20260609130000 +0000"><category lang="en">Religious</category>
+    <date>2017</date>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <icon src="https://iptv-epg.org/images/8sTEkcwPo0q9V2LrOkIbNcvRqGaxOvLynZTvo_6H7GI_3HNHNc1H_QTw58axmZvWJL-NiGvqkeHt2yJK1OQFYbFNVM1tkgsZF5ou_2nPwfI"/>
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260609130000 +0000" stop="20260609133000 +0000"><category lang="en">Religious</category>
+    <date>2006</date>
+    <desc lang="en">Messianic Rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+    <icon src="https://iptv-epg.org/images/JcraNVdWywVGkwWJmsnl7xridlQH1bk3arLq2HsJVzXqgGzwGE87OZa8EYbhubNuAWZEh5O553TbmyPgvPPSEyZbGLA9Yq5KKn1IWvC4GLw"/>
+    <title lang="en">Discovering the Jewish Jesus</title>
+  </programme>
+  <programme channel="daystar" start="20260609133000 +0000" stop="20260609140000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <date>2019</date>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <icon src="https://iptv-epg.org/images/OQNT63FKV2Sn6aDMpiIfM-nW1EPWFUa-mABJaRQbX0op69zZB3_urFvGPNZMlTH9aiyDBgdolML_Cjn34QApC4nK-f9ov9bYQQXmjYZv2X8"/>
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+  </programme>
+  <programme channel="daystar" start="20260609140000 +0000" stop="20260609143000 +0000"><category lang="en">Religious</category>
+    <date>1985</date>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <icon src="https://iptv-epg.org/images/Wd9rU3SY6uakSq85MXD699UtWXX1RoED6PpdTbE6kUVzhDGws-obBVNjYcm7oxmI77fi8M9BoKBsrL0z9jefXV83RvZC37jmBfkFGxc6sWk"/>
+    <title lang="en">Kenneth Copeland</title>
+  </programme>
+  <programme channel="daystar" start="20260609143000 +0000" stop="20260609150000 +0000"><category lang="en">Religious</category>
+    <date>2015</date>
+    <desc lang="en">Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God's love and promises.</desc>
+    <icon src="https://iptv-epg.org/images/MiKDleUNtsEk40avu6-udnGUJaCoA1jppu8ULLvYlPVhmJx9RW6_jNwIITg74nMvx1XuQx84rAywMMJcJw-QKmJick3iDMN_5ZiCL6d6i4g"/>
+    <title lang="en">Creflo Dollar</title>
+  </programme>
+  <programme channel="daystar" start="20260609150000 +0000" stop="20260609153000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <date>2003</date>
+    <desc lang="en">Rabbi Jonathan Bernis of Jewish Voice Ministries provides valuable insights into the Jewish roots of Christianity. Is Israel the aggressor in the Middle East? What is the truth?</desc>
+    <icon src="https://iptv-epg.org/images/KVRc4U2toxhRHOXssQ4TUMYMpzAIFH5NiLcWcStsre9d4IkMNkiwhI_RWBLNUWKqE9wnFW1xD9P2SS31UZU2F9gBmKOG2-UpdHA3RH1mrPg"/>
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+  </programme>
+  <programme channel="daystar" start="20260609153000 +0000" stop="20260609160000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Are You Stable Enough for a Storm?
+Join Rick as he explains the importance of faithfully obeying God's Word as you try to avoid capsizing in turbulent times.</desc>
+    <icon src="https://iptv-epg.org/images/SqH2wcGdWxLj0jdt4-90qsJf9ljz2qfkKWBbxcuTdP0m4KQQdJwRaB5mwjIeQxpDbNb2KYK5WTrVLLXMUjl4YdqCPv8LzjhIlHNViVCgWhE"/>
+    <previously-shown/>
+    <title lang="en">Rick Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260609160000 +0000" stop="20260609170000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260609170000 +0000" stop="20260609173000 +0000"><category lang="en">Educational</category>
+    <category lang="en">Religious</category>
+    <date>2010</date>
+    <desc lang="en">Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+    <icon src="https://iptv-epg.org/images/b1hW-997QwwnqxFPPmd5Ql3WU02uUnV2b4DL2l3Bhhvk228VXrwr0Gcbwv6r-MLoD0gJ1DopmgxfYFnqtUQh8D4aFJAS3KDQSt1AcaMGAQk"/>
+    <title lang="en">Gary Keesee: Fixing the Money Thing</title>
+  </programme>
+  <programme channel="daystar" start="20260609173000 +0000" stop="20260609180000 +0000"><category lang="en">Religious</category>
+    <date>2006</date>
+    <desc lang="en">Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+    <icon src="https://iptv-epg.org/images/fch-kEeDRRh2IQb-ltaiAOcEtKpP84a-nSE0r44n2EuymIcOoR4k_KsDe89-Sw0aMbM7F-100N4x65wtZ5WUUBjA9w1HUrxe1Z6Sgabf4mw"/>
+    <title lang="en">Larry and Tiz Huch</title>
+  </programme>
+  <programme channel="daystar" start="20260609180000 +0000" stop="20260609183000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <credits>
+      <director>Wes Llewellyn</director>
+      <producer>Amanda Llewellyn</producer>
+    </credits>
+    <date>1996</date>
+    <desc lang="en">Messianic investigator Sid Roth presents this show discussing and examining the supernatural reality and power of God.</desc>
+    <icon src="https://iptv-epg.org/images/YZY3g9tXhc9r8GNicEsGb1SDqZpXk9pIgAFlOsJSBW2_LaObT3UKTBVom3ymIyOfvVoLT9DeMzS-4iQYApt8ur4DG5PbPjDyDTmi6kwYt_M"/>
+    <title lang="en">Sid Roth's It's Supernatural!</title>
+  </programme>
+  <programme channel="daystar" start="20260609183000 +0000" stop="20260609190000 +0000"><category lang="en">Religious</category>
+    <date>2001</date>
+    <desc lang="en">Tuning in to receive inspirational messages from special guests; Bible teachings and encouragement from Marylin and Sarah's ministry outreaches going on around the world.</desc>
+    <icon src="https://iptv-epg.org/images/u62p42kP4zsnATVfutIiMtYjfXHi6TON1bOSczBNo5o53qfhdFUvMK7lGiecoZ8OqFWiF3eWQy30e4US0ZXqdzXtV6cGmEN-rKbpG2d49Zg"/>
+    <title lang="en">Today With Marilyn and Sarah</title>
+  </programme>
+  <programme channel="daystar" start="20260609190000 +0000" stop="20260609193000 +0000"><category lang="en">Religious</category>
+    <date>2026</date>
+    <desc lang="en">Prophecy Live</desc>
+    <icon src="https://iptv-epg.org/images/jc3RUyPaNUwRL98f4nMU2jQBovah_iaBF2AF-NbkW3ieR6NTSTkhdqzSHlIM_0QmAclbVu45lEWemwXZExuooErfBi9FQeSTLLpvObrgcMI"/>
+    <title lang="en">Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260609193000 +0000" stop="20260609200000 +0000"><category lang="en">Religious</category>
+    <date>2025</date>
+    <desc lang="en">From Word of God Ministries in Shreveport, LA, Pastor James A. McMenis teaches God's love through scripture to bring clarity to the Word of God.</desc>
+    <icon src="https://iptv-epg.org/images/c3wH8nBYFEVPkuhDcMci9t4GD0L_SMmc-NB3qRybhMju5RQgnW-ixpiTZNn2Wt1JqdfxkiY_tR8d6_KrfBt4Ae5KQCkggzKi_SXGfxlzEuM"/>
+    <title lang="en">James A. McMenis</title>
+  </programme>
+  <programme channel="daystar" start="20260609200000 +0000" stop="20260609203000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Are You Stable Enough for a Storm?
+Join Rick as he explains the importance of faithfully obeying God's Word as you try to avoid capsizing in turbulent times.</desc>
+    <icon src="https://iptv-epg.org/images/SqH2wcGdWxLj0jdt4-90qsJf9ljz2qfkKWBbxcuTdP0m4KQQdJwRaB5mwjIeQxpDbNb2KYK5WTrVLLXMUjl4YdqCPv8LzjhIlHNViVCgWhE"/>
+    <previously-shown/>
+    <title lang="en">Rick Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260609203000 +0000" stop="20260609210000 +0000"><category lang="en">Religious</category>
+    <date>1994</date>
+    <desc lang="en">Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+    <icon src="https://iptv-epg.org/images/ed_fk85PnYnycTBp8uAEU8WA5aOjO1jwV4cFPfWGSZuOCxUUkw36dNtPZuIazGoXufn5GIUd5fp2h5xci4CIo6c8jaeM38zGGQRi1BXAl-k"/>
+    <title lang="en">Believer's Walk of Faith With Bill Winston</title>
+  </programme>
+  <programme channel="daystar" start="20260609210000 +0000" stop="20260609213000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Special</category>
+    <date>2025</date>
+    <desc lang="en">Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
+    <icon src="https://iptv-epg.org/images/_K7S7mALYxHgXVTWWaWg8qwTOHWi6FCh4oMozIR9uP3qiZSaudwtMIVAuBHU7CfwUiiMQ38q386E36xlzi-oSeXMGJ8PZqUjbIPGbGq2cCE"/>
+    <title lang="en">PSB Prophetic Sound Broadcast With Shawn Baker</title>
+  </programme>
+  <programme channel="daystar" start="20260609213000 +0000" stop="20260609220000 +0000"><category lang="en">Religious</category>
+    <date>2000</date>
+    <desc lang="en">Practical Bible teaching.</desc>
+    <icon src="https://iptv-epg.org/images/5rKP3AfmV22RMeoP1Us2PxhatnsHQZ5O5ve28u_gTkbb9IC5kAtHjiefxUGW55Wf2SfTAiUCuhCGFdbGCRY5aWRzPg7GpEmrBirjrlYtzMU"/>
+    <title lang="en">Dr. David Jeremiah</title>
+  </programme>
+  <programme channel="daystar" start="20260609220000 +0000" stop="20260609223000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Doug Weiss</actor>
+    </credits>
+    <desc lang="en">Recovery for Everyone: Part 2
+Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+    <icon src="https://iptv-epg.org/images/Yr1mWeyUBXzSb1oNsYUNejeBJIpTbRcfVowIol7kEB6NVLbHI8Pjna3h1qiBUUhgtuNpFUuvRZiMBqltL0LCv-nzya7IFoWq-5X-AGQTAH4"/>
+    <previously-shown/>
+    <title lang="en">Healing Time With Dr. Doug Weiss</title>
+  </programme>
+  <programme channel="daystar" start="20260609223000 +0000" stop="20260609230000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Paula White Cain and husband Jonathan discuss real-life situations and offer practical, biblical solutions. They give down-to-earth, refreshing, sometimes unfiltered words and aim to share the life-changing love of Jesus through lessons or music.</desc>
+    <icon src="https://iptv-epg.org/images/l20ENMG8fyJL1RJwhtw3zOIc3jgZJu6y5VlCyAhRtPGEOX2G2iSMhmEBy789KBlyI3_uWAdKeyYO6E6MlXWcz4-pE7AqG-jlnriAae42UVQ"/>
+    <title lang="en">Paula Today</title>
+  </programme>
+  <programme channel="daystar" start="20260609230000 +0000" stop="20260609233000 +0000"><category lang="en">Talk</category>
+    <date>2021</date>
+    <desc lang="en">A division of Heritage Christian Ministries Association, these are candid conversations in a world of agendas and manipulation that is a threat to our country's foundation; the father and son team of Allan and Corri Hunsperger interview experts.</desc>
+    <icon src="https://iptv-epg.org/images/nqsRQ8xwAgDCqkYKHSAeL6-eP0bYvxjaK_BsPjX9HS5QOYp8A7EAW7aQawhWSO1E71D7_tf2_w-x6BveW38yWjt0LmDjFpIdmQ8NVI59xuo"/>
+    <title lang="en">Talk Truth</title>
+  </programme>
+  <programme channel="daystar" start="20260609233000 +0000" stop="20260610000000 +0000"><category lang="en">Religious</category>
+    <date>2003</date>
+    <desc lang="en">"Breakthrough" is the worldwide soul-winning ministry of Rod Parsley reaping the end-time harvest.</desc>
+    <icon src="https://iptv-epg.org/images/AtXdXiTqZjCjXzWRKKfhYrLDmG1PmA1GwHItL2mB-rdVVHYVlwe-lhzJifU-wUPzjYwdHk2o4gfRnXb5bitpti8qIcLW2H3r3QERQOdRpfk"/>
+    <title lang="en">Breakthrough With Rod Parsley</title>
+  </programme>
+  <programme channel="daystar" start="20260610000000 +0000" stop="20260610003000 +0000"><category lang="en">Religious</category>
+    <date>2017</date>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <icon src="https://iptv-epg.org/images/8sTEkcwPo0q9V2LrOkIbNcvRqGaxOvLynZTvo_6H7GI_3HNHNc1H_QTw58axmZvWJL-NiGvqkeHt2yJK1OQFYbFNVM1tkgsZF5ou_2nPwfI"/>
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260610003000 +0000" stop="20260610010000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">The Power of Your Dreams
+Stephanie Ike Okafor reveals how a person can unlock their power and step into God's plan for their lives through her book, "The Power of Your Dreams."</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260610010000 +0000" stop="20260610020000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260610020000 +0000" stop="20260610023000 +0000"><category lang="en">Religious</category>
+    <date>2006</date>
+    <desc lang="en">Messianic Rabbi Kirt Schneider, a Jewish believer in Jesus, shares his insights into the Old and New Testaments, provides guidance on prayer and delivers the Word of God.</desc>
+    <icon src="https://iptv-epg.org/images/JcraNVdWywVGkwWJmsnl7xridlQH1bk3arLq2HsJVzXqgGzwGE87OZa8EYbhubNuAWZEh5O553TbmyPgvPPSEyZbGLA9Yq5KKn1IWvC4GLw"/>
+    <title lang="en">Discovering the Jewish Jesus</title>
+  </programme>
+  <programme channel="daystar" start="20260610023000 +0000" stop="20260610030000 +0000"><category lang="en">Religious</category>
+    <date>1998</date>
+    <desc lang="en">Mark and Trina Hankins share messages about faith, helping believers understand their identity in Christ and the Holy Spirit's role in their lives.</desc>
+    <icon src="https://iptv-epg.org/images/kFQDWKoMOjp41o9ynG7IR_odL_1CESd_-i74VtaRkTaIM0Ifhy69OCoEjGBHXSVEL_TwHdIHVVg4ShZMtWTJHt192fPzN7iBluezR88iW7I"/>
+    <title lang="en">Faith Is the Victory</title>
+  </programme>
+  <programme channel="daystar" start="20260610030000 +0000" stop="20260610033000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Your Time to Shine
+Having faith in God's favor.</desc>
+    <icon src="https://iptv-epg.org/images/ky-i0NVYzm3y5OnNckS6Ahe_VfQIu25vlQwegOYkPQNUg9Kfv018vOJbULbq4akhRJJsku-nUH8YFv3RAKviLvZV4Tbt5guQ76x0wtOsxQg"/>
+    <previously-shown/>
+    <title lang="en">Joel Osteen</title>
+  </programme>
+  <programme channel="daystar" start="20260610033000 +0000" stop="20260610040000 +0000"><category lang="en">Religious</category>
+    <date>1985</date>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <icon src="https://iptv-epg.org/images/Wd9rU3SY6uakSq85MXD699UtWXX1RoED6PpdTbE6kUVzhDGws-obBVNjYcm7oxmI77fi8M9BoKBsrL0z9jefXV83RvZC37jmBfkFGxc6sWk"/>
+    <title lang="en">Kenneth Copeland</title>
+  </programme>
+  <programme channel="daystar" start="20260610040000 +0000" stop="20260610043000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Doug Weiss</actor>
+    </credits>
+    <desc lang="en">Recovery for Everyone: Part 2
+Equipping Pastors, group leaders and church members with biblical truth and tools to heal themselves and take healing to a wounded world.</desc>
+    <icon src="https://iptv-epg.org/images/Yr1mWeyUBXzSb1oNsYUNejeBJIpTbRcfVowIol7kEB6NVLbHI8Pjna3h1qiBUUhgtuNpFUuvRZiMBqltL0LCv-nzya7IFoWq-5X-AGQTAH4"/>
+    <previously-shown/>
+    <title lang="en">Healing Time With Dr. Doug Weiss</title>
+  </programme>
+  <programme channel="daystar" start="20260610043000 +0000" stop="20260610050000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">The Power of Your Dreams
+Stephanie Ike Okafor reveals how a person can unlock their power and step into God's plan for their lives through her book, "The Power of Your Dreams."</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260610050000 +0000" stop="20260610060000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260610060000 +0000" stop="20260610063000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260610063000 +0000" stop="20260610070000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <date>2019</date>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <icon src="https://iptv-epg.org/images/OQNT63FKV2Sn6aDMpiIfM-nW1EPWFUa-mABJaRQbX0op69zZB3_urFvGPNZMlTH9aiyDBgdolML_Cjn34QApC4nK-f9ov9bYQQXmjYZv2X8"/>
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+  </programme>
+  <programme channel="daystar" start="20260610070000 +0000" stop="20260610073000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260610073000 +0000" stop="20260610080000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260610080000 +0000" stop="20260610083000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260610083000 +0000" stop="20260610093000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260610093000 +0000" stop="20260610100000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260610100000 +0000" stop="20260610103000 +0000"><category lang="en">Religious</category>
+    <date>1996</date>
+    <desc lang="en">A mission to share the profound truths of God's Word; with each episode, viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+    <icon src="https://iptv-epg.org/images/XjE6K3-ZlD4X8RwyEyB-zw5zyNWPqohagM7DPbTa38giSJXy0nfi0b3j3xqne6hlNLkZdTGdYqd2l_pbXC3XaRPs4k5HsdrKc3dhpns0xIE"/>
+    <title lang="en">Kingdom Connection With Jentezen Franklin</title>
+  </programme>
+  <programme channel="daystar" start="20260610103000 +0000" stop="20260610110000 +0000"><category lang="en">Religious</category>
+    <date>2026</date>
+    <desc lang="en">Prophecy Live</desc>
+    <icon src="https://iptv-epg.org/images/jc3RUyPaNUwRL98f4nMU2jQBovah_iaBF2AF-NbkW3ieR6NTSTkhdqzSHlIM_0QmAclbVu45lEWemwXZExuooErfBi9FQeSTLLpvObrgcMI"/>
+    <title lang="en">Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260610110000 +0000" stop="20260610113000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Hormone Havoc
+Dr. Terri DeNeui shares how hormone therapy can significantly improve quality of life and dispels the myths and misconceptions about hormone health.</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260610113000 +0000" stop="20260610120000 +0000"><category lang="en">Religious</category>
+    <date>1999</date>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <icon src="https://iptv-epg.org/images/ky-i0NVYzm3y5OnNckS6Ahe_VfQIu25vlQwegOYkPQNUg9Kfv018vOJbULbq4akhRJJsku-nUH8YFv3RAKviLvZV4Tbt5guQ76x0wtOsxQg"/>
+    <title lang="en">Joel Osteen</title>
+  </programme>
+  <programme channel="daystar" start="20260610120000 +0000" stop="20260610123000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Tasha Calvert: You Are Holy
+Tasha Calvert, the author of "Set Apart for More," explains the biblical idea of holiness and how God transforms believers into holy people.</desc>
+    <icon src="https://iptv-epg.org/images/oQfZgCIa12uE4FN4YKehdipkAniKISyL0L7H3Zxuf8XI2oW9m2tzJNjLF0peCuZVT_3OgqsglUvx-CvsQpb4uBpMYbtxZt8cElP1Bv6v3A0"/>
+    <previously-shown/>
+    <title lang="en">Life Today</title>
+  </programme>
+  <programme channel="daystar" start="20260610123000 +0000" stop="20260610130000 +0000"><category lang="en">Religious</category>
+    <date>2017</date>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <icon src="https://iptv-epg.org/images/8sTEkcwPo0q9V2LrOkIbNcvRqGaxOvLynZTvo_6H7GI_3HNHNc1H_QTw58axmZvWJL-NiGvqkeHt2yJK1OQFYbFNVM1tkgsZF5ou_2nPwfI"/>
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260610130000 +0000" stop="20260610133000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Am I Being Critical Again?
+Judgment often causes you to miss your own flaws and to hurt those around you. Learn what criticism looks like and how it can affect you.</desc>
+    <icon src="https://iptv-epg.org/images/Q1kZ1XjADML5cPhJYAFJU82BNiuSLc4d0uorfsgp33bnPa0MztqBDS1lLjKKLpfzWFS5U9ZRg9TaxUSLTWYUqQwXxo3oq6Gq8sS4iU2D4nA"/>
+    <previously-shown/>
+    <title lang="en">Time With Denise Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260610133000 +0000" stop="20260610140000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <date>2019</date>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <icon src="https://iptv-epg.org/images/OQNT63FKV2Sn6aDMpiIfM-nW1EPWFUa-mABJaRQbX0op69zZB3_urFvGPNZMlTH9aiyDBgdolML_Cjn34QApC4nK-f9ov9bYQQXmjYZv2X8"/>
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+  </programme>
+  <programme channel="daystar" start="20260610140000 +0000" stop="20260610143000 +0000"><category lang="en">Religious</category>
+    <date>1985</date>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <icon src="https://iptv-epg.org/images/Wd9rU3SY6uakSq85MXD699UtWXX1RoED6PpdTbE6kUVzhDGws-obBVNjYcm7oxmI77fi8M9BoKBsrL0z9jefXV83RvZC37jmBfkFGxc6sWk"/>
+    <title lang="en">Kenneth Copeland</title>
+  </programme>
+  <programme channel="daystar" start="20260610143000 +0000" stop="20260610150000 +0000"><category lang="en">Religious</category>
+    <date>2015</date>
+    <desc lang="en">Dr. Creflo Dollar ministers to people from all backgrounds with hopes for change; Creflo helps viewers find ways to renew their faith, mind, and spirit; Creflo and his wife Taffi share their vision for everyone to understand God's love and promises.</desc>
+    <icon src="https://iptv-epg.org/images/MiKDleUNtsEk40avu6-udnGUJaCoA1jppu8ULLvYlPVhmJx9RW6_jNwIITg74nMvx1XuQx84rAywMMJcJw-QKmJick3iDMN_5ZiCL6d6i4g"/>
+    <title lang="en">Creflo Dollar</title>
+  </programme>
+  <programme channel="daystar" start="20260610150000 +0000" stop="20260610153000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <date>2022</date>
+    <desc lang="en">Lion of Judah
+Rabbi Jonathan Bernis of Jewish Voice Ministries provides valuable insights into the Jewish roots of Christianity. Is Israel the aggressor in the Middle East? What is the truth?</desc>
+    <icon src="https://iptv-epg.org/images/KVRc4U2toxhRHOXssQ4TUMYMpzAIFH5NiLcWcStsre9d4IkMNkiwhI_RWBLNUWKqE9wnFW1xD9P2SS31UZU2F9gBmKOG2-UpdHA3RH1mrPg"/>
+    <previously-shown/>
+    <title lang="en">Jewish Voice with Jonathan Bernis</title>
+  </programme>
+  <programme channel="daystar" start="20260610153000 +0000" stop="20260610160000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Must You Sacrifice To Stay Afloat?
+Today Rick shares how to serve God with a sacrificial heart and usher the presence, power, and promise of God into your life.</desc>
+    <icon src="https://iptv-epg.org/images/SqH2wcGdWxLj0jdt4-90qsJf9ljz2qfkKWBbxcuTdP0m4KQQdJwRaB5mwjIeQxpDbNb2KYK5WTrVLLXMUjl4YdqCPv8LzjhIlHNViVCgWhE"/>
+    <previously-shown/>
+    <title lang="en">Rick Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260610160000 +0000" stop="20260610170000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260610170000 +0000" stop="20260610173000 +0000"><category lang="en">Educational</category>
+    <category lang="en">Religious</category>
+    <date>2010</date>
+    <desc lang="en">Pastor Gary Keesee provides insights and solutions on the topics of finances, family and faith.</desc>
+    <icon src="https://iptv-epg.org/images/b1hW-997QwwnqxFPPmd5Ql3WU02uUnV2b4DL2l3Bhhvk228VXrwr0Gcbwv6r-MLoD0gJ1DopmgxfYFnqtUQh8D4aFJAS3KDQSt1AcaMGAQk"/>
+    <title lang="en">Gary Keesee: Fixing the Money Thing</title>
+  </programme>
+  <programme channel="daystar" start="20260610173000 +0000" stop="20260610180000 +0000"><category lang="en">Religious</category>
+    <date>2012</date>
+    <desc lang="en">Offering biblical teaching that addresses the spiritual battles you face; Mike Signorelli provides practical guidance for walking in freedom through Christ.</desc>
+    <icon src="https://iptv-epg.org/images/PP5NHDNPizXwREZkw0G_bDvsshu7Kjc-qpTaCS8yuzd_3PhyZH2XirUqlEWRo_-iOFL1fQB9gIMbF99IZgG-VQwkR7Na6CrJK5VsrQy-0b4"/>
+    <title lang="en">The Narrow Way</title>
+  </programme>
+  <programme channel="daystar" start="20260610180000 +0000" stop="20260610183000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Special</category>
+    <date>2025</date>
+    <desc lang="en">Pastor Travis Johnson ministers internationally and develops ministerial networks across churches.</desc>
+    <icon src="https://iptv-epg.org/images/upa8P6qpD__ChnM4Rg7DcGiQVSDwMHkHEYRcD-CfXIORK_qeP8bVpDu4nVBsqO1eWJoR2N_IVPFMRIgU1NJ52_5Yav2THV9kxQWH0vBErpU"/>
+    <title lang="en">Travis Johnson</title>
+  </programme>
+  <programme channel="daystar" start="20260610183000 +0000" stop="20260610190000 +0000"><category lang="en">Religious</category>
+    <date>2001</date>
+    <desc lang="en">Tuning in to receive inspirational messages from special guests; Bible teachings and encouragement from Marylin and Sarah's ministry outreaches going on around the world.</desc>
+    <icon src="https://iptv-epg.org/images/u62p42kP4zsnATVfutIiMtYjfXHi6TON1bOSczBNo5o53qfhdFUvMK7lGiecoZ8OqFWiF3eWQy30e4US0ZXqdzXtV6cGmEN-rKbpG2d49Zg"/>
+    <title lang="en">Today With Marilyn and Sarah</title>
+  </programme>
+  <programme channel="daystar" start="20260610190000 +0000" stop="20260610193000 +0000"><category lang="en">Religious</category>
+    <date>2026</date>
+    <desc lang="en">Prophecy Live</desc>
+    <icon src="https://iptv-epg.org/images/jc3RUyPaNUwRL98f4nMU2jQBovah_iaBF2AF-NbkW3ieR6NTSTkhdqzSHlIM_0QmAclbVu45lEWemwXZExuooErfBi9FQeSTLLpvObrgcMI"/>
+    <title lang="en">Prophecy Live</title>
+  </programme>
+  <programme channel="daystar" start="20260610193000 +0000" stop="20260610200000 +0000"><category lang="en">Religious</category>
+    <credits>
+      <actor>Aquilla Nash</actor>
+    </credits>
+    <date>2024</date>
+    <desc lang="en">Aquila Nash helps devotees draw closer to God by sharing teachings found in the Bible while also featuring testimonies from various people.</desc>
+    <icon src="https://iptv-epg.org/images/A0fMEku24D1cY2s4p-K1LJZziZ4W6-y61crMPILngH0-y1i2UxGLTjT7I0vtXHvaoCfBVyPuyxn3weQKtUKWI9krvPZmmKlqvBCaKlH-Tmk"/>
+    <title lang="en">The Prophetic Whisper with Aquilla Nash</title>
+  </programme>
+  <programme channel="daystar" start="20260610200000 +0000" stop="20260610203000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Must You Sacrifice To Stay Afloat?
+Today Rick shares how to serve God with a sacrificial heart and usher the presence, power, and promise of God into your life.</desc>
+    <icon src="https://iptv-epg.org/images/SqH2wcGdWxLj0jdt4-90qsJf9ljz2qfkKWBbxcuTdP0m4KQQdJwRaB5mwjIeQxpDbNb2KYK5WTrVLLXMUjl4YdqCPv8LzjhIlHNViVCgWhE"/>
+    <previously-shown/>
+    <title lang="en">Rick Renner</title>
+  </programme>
+  <programme channel="daystar" start="20260610203000 +0000" stop="20260610210000 +0000"><category lang="en">Religious</category>
+    <date>1994</date>
+    <desc lang="en">Fighter pilot turned minister, Dr. Winston shares his way of finding the strength to face fears, failures and other problems or concerns by taking the path of faith.</desc>
+    <icon src="https://iptv-epg.org/images/ed_fk85PnYnycTBp8uAEU8WA5aOjO1jwV4cFPfWGSZuOCxUUkw36dNtPZuIazGoXufn5GIUd5fp2h5xci4CIo6c8jaeM38zGGQRi1BXAl-k"/>
+    <title lang="en">Believer's Walk of Faith With Bill Winston</title>
+  </programme>
+  <programme channel="daystar" start="20260610210000 +0000" stop="20260610213000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Special</category>
+    <date>2025</date>
+    <desc lang="en">Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
+    <icon src="https://iptv-epg.org/images/_K7S7mALYxHgXVTWWaWg8qwTOHWi6FCh4oMozIR9uP3qiZSaudwtMIVAuBHU7CfwUiiMQ38q386E36xlzi-oSeXMGJ8PZqUjbIPGbGq2cCE"/>
+    <title lang="en">PSB Prophetic Sound Broadcast With Shawn Baker</title>
+  </programme>
+  <programme channel="daystar" start="20260610213000 +0000" stop="20260610220000 +0000"><category lang="en">Religious</category>
+    <date>2000</date>
+    <desc lang="en">Practical Bible teaching.</desc>
+    <icon src="https://iptv-epg.org/images/5rKP3AfmV22RMeoP1Us2PxhatnsHQZ5O5ve28u_gTkbb9IC5kAtHjiefxUGW55Wf2SfTAiUCuhCGFdbGCRY5aWRzPg7GpEmrBirjrlYtzMU"/>
+    <title lang="en">Dr. David Jeremiah</title>
+  </programme>
+  <programme channel="daystar" start="20260610220000 +0000" stop="20260610223000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Doug Weiss</actor>
+    </credits>
+    <desc lang="en">Robert Kiessling
+After losing both of his sons to fentanyl, Robert Kiessling is sounding the alarm to help parents recognize the danger before it's too late.</desc>
+    <icon src="https://iptv-epg.org/images/Yr1mWeyUBXzSb1oNsYUNejeBJIpTbRcfVowIol7kEB6NVLbHI8Pjna3h1qiBUUhgtuNpFUuvRZiMBqltL0LCv-nzya7IFoWq-5X-AGQTAH4"/>
+    <previously-shown/>
+    <title lang="en">Healing Time With Dr. Doug Weiss</title>
+  </programme>
+  <programme channel="daystar" start="20260610223000 +0000" stop="20260610230000 +0000"><category lang="en">Religious</category>
+    <date>2013</date>
+    <desc lang="en">What's the best way to prepare for the uncertain future? Trust God with our resources! Pastor Allen Jackson talks about biblical principles surrounding the money, resources, and possessions.</desc>
+    <icon src="https://iptv-epg.org/images/yc_diWAQv0q9LemKyAHswTdCk-iU5pQ34B-UjcrrES1OvNPoIrpNc6lWow9fbIoXRdmgD1JKTgNgKX3EXo0t-lMbomQxLkicq_q8oFPXG_A"/>
+    <title lang="en">Allen Jackson Ministries</title>
+  </programme>
+  <programme channel="daystar" start="20260610230000 +0000" stop="20260610233000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260610233000 +0000" stop="20260611000000 +0000"><category lang="en">Religious</category>
+    <date>2003</date>
+    <desc lang="en">"Breakthrough" is the worldwide soul-winning ministry of Rod Parsley reaping the end-time harvest.</desc>
+    <icon src="https://iptv-epg.org/images/AtXdXiTqZjCjXzWRKKfhYrLDmG1PmA1GwHItL2mB-rdVVHYVlwe-lhzJifU-wUPzjYwdHk2o4gfRnXb5bitpti8qIcLW2H3r3QERQOdRpfk"/>
+    <title lang="en">Breakthrough With Rod Parsley</title>
+  </programme>
+  <programme channel="daystar" start="20260611000000 +0000" stop="20260611003000 +0000"><category lang="en">Religious</category>
+    <date>2017</date>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <icon src="https://iptv-epg.org/images/8sTEkcwPo0q9V2LrOkIbNcvRqGaxOvLynZTvo_6H7GI_3HNHNc1H_QTw58axmZvWJL-NiGvqkeHt2yJK1OQFYbFNVM1tkgsZF5ou_2nPwfI"/>
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+  </programme>
+  <programme channel="daystar" start="20260611003000 +0000" stop="20260611010000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Hormone Havoc
+Dr. Terri DeNeui shares how hormone therapy can significantly improve quality of life and dispels the myths and misconceptions about hormone health.</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260611010000 +0000" stop="20260611020000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260611020000 +0000" stop="20260611023000 +0000"><category lang="en">Religious</category>
+    <date>2006</date>
+    <desc lang="en">Pastors Larry and Tiz Huch teach about the blessings and miracles found in rediscovering the Judeo-Christian roots of our faith and the biblical importance of standing with the nation of Israel.</desc>
+    <icon src="https://iptv-epg.org/images/fch-kEeDRRh2IQb-ltaiAOcEtKpP84a-nSE0r44n2EuymIcOoR4k_KsDe89-Sw0aMbM7F-100N4x65wtZ5WUUBjA9w1HUrxe1Z6Sgabf4mw"/>
+    <title lang="en">Larry and Tiz Huch</title>
+  </programme>
+  <programme channel="daystar" start="20260611023000 +0000" stop="20260611030000 +0000"><category lang="en">Religious</category>
+    <credits>
+      <actor>Aquilla Nash</actor>
+    </credits>
+    <date>2024</date>
+    <desc lang="en">Aquila Nash helps devotees draw closer to God by sharing teachings found in the Bible while also featuring testimonies from various people.</desc>
+    <icon src="https://iptv-epg.org/images/A0fMEku24D1cY2s4p-K1LJZziZ4W6-y61crMPILngH0-y1i2UxGLTjT7I0vtXHvaoCfBVyPuyxn3weQKtUKWI9krvPZmmKlqvBCaKlH-Tmk"/>
+    <title lang="en">The Prophetic Whisper with Aquilla Nash</title>
+  </programme>
+  <programme channel="daystar" start="20260611030000 +0000" stop="20260611033000 +0000"><category lang="en">Religious</category>
+    <date>1979</date>
+    <desc lang="en">Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <icon src="https://iptv-epg.org/images/qUeUsNrifh6Jzt0tUqRAqZvTqE_fOdi2xQVoiCNXd7oIAWwGjbf4hqGJljxd-NgDt5TBmtvhLL4mW_mL9DZBgXF6T3hMO9cGquKaifAuhWg"/>
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
+  </programme>
+  <programme channel="daystar" start="20260611033000 +0000" stop="20260611040000 +0000"><category lang="en">Religious</category>
+    <date>1985</date>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <icon src="https://iptv-epg.org/images/Wd9rU3SY6uakSq85MXD699UtWXX1RoED6PpdTbE6kUVzhDGws-obBVNjYcm7oxmI77fi8M9BoKBsrL0z9jefXV83RvZC37jmBfkFGxc6sWk"/>
+    <title lang="en">Kenneth Copeland</title>
+  </programme>
+  <programme channel="daystar" start="20260611040000 +0000" stop="20260611043000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Doug Weiss</actor>
+    </credits>
+    <desc lang="en">Robert Kiessling
+After losing both of his sons to fentanyl, Robert Kiessling is sounding the alarm to help parents recognize the danger before it's too late.</desc>
+    <icon src="https://iptv-epg.org/images/Yr1mWeyUBXzSb1oNsYUNejeBJIpTbRcfVowIol7kEB6NVLbHI8Pjna3h1qiBUUhgtuNpFUuvRZiMBqltL0LCv-nzya7IFoWq-5X-AGQTAH4"/>
+    <previously-shown/>
+    <title lang="en">Healing Time With Dr. Doug Weiss</title>
+  </programme>
+  <programme channel="daystar" start="20260611043000 +0000" stop="20260611050000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Hormone Havoc
+Dr. Terri DeNeui shares how hormone therapy can significantly improve quality of life and dispels the myths and misconceptions about hormone health.</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260611050000 +0000" stop="20260611060000 +0000"><category lang="en">Religious</category>
+    <date>2020</date>
+    <desc lang="en">Powerful, moving testimonies from top authors, leaders in faith and business, special music guests, professional athletes and many other inspiring figures.</desc>
+    <icon src="https://iptv-epg.org/images/oSPG4GWK1kNJ2z8XEk5vDBx8BDYhdNy6OFnoDifhvNEqKGeZ-9rh8WDZJSlPO4_yaF1updoj3LFT24V2w31fxuGgj5gesmHrS0N8ySPumls"/>
+    <title lang="en">Ministry Now</title>
+  </programme>
+  <programme channel="daystar" start="20260611060000 +0000" stop="20260611063000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260611063000 +0000" stop="20260611070000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <date>2019</date>
+    <desc lang="en">The weekly broadcast of Nancy Dufresne ministers from the Word on various topics, including faith, healing and more.</desc>
+    <icon src="https://iptv-epg.org/images/OQNT63FKV2Sn6aDMpiIfM-nW1EPWFUa-mABJaRQbX0op69zZB3_urFvGPNZMlTH9aiyDBgdolML_Cjn34QApC4nK-f9ov9bYQQXmjYZv2X8"/>
+    <title lang="en">Jesus the Healer With Nancy Dufresne</title>
+  </programme>
+  <programme channel="daystar" start="20260611070000 +0000" stop="20260611073000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260611073000 +0000" stop="20260611080000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260611080000 +0000" stop="20260611083000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260611083000 +0000" stop="20260611093000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
   </programme>
 </tv>
