@@ -6,7 +6,7 @@ channels:
 
     epg_sources:
       - source: us
-        channel_id: Daystar.us
+        channel_id: DAYSTAR.us
 
     placeholder:
       title: Programming Information Unavailable
