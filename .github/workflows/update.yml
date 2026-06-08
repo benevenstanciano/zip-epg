@@ -32,6 +32,7 @@ jobs:
         run: |
           python scripts/build.py
           python scripts/generate_ptn_epg.py
+          python scripts/generate_bestcoachtv_epg.py
           
       - name: Publish Files
         run: |
