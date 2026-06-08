@@ -158,7 +158,7 @@ channels:
       description: "Classic Movies. Timeless Stories."
     epg_sources:
       - source: us
-        channel_id: "ImpactNetwork.us"  
+        channel_id: "NOST.us"  
 
   - id: faithworld
     name: Faith World TV
