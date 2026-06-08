@@ -3,10 +3,6 @@
   <channel id="ptn">
     <display-name>Pioneer Network</display-name>
   </channel>
-  <programme start="20260608113000 +0000" stop="20260608120000 +0000" channel="ptn">
-    <title>Joyce Meyer: Enjoying Everyday Life</title>
-    <desc>Joyce Meyer, one of the world’s leading practicalBible teachers and New York Times bestselling author, shares encouragement andadvice to help people enjoy daily life.</desc>
-  </programme>
   <programme start="20260608120000 +0000" stop="20260608123000 +0000" channel="ptn">
     <title>Good Morning LIVE</title>
     <desc>Good Morning LIVE is an engaging 30-minute program designed to inspire, inform, and connect viewers to the heart of meaningful living. Hosted by James Epperly, this dynamic show brings together a unique blend of inspirational devotions, thought-provoking interviews, and discussions on current events that matter most to you. Each episode offers uplifting messages to start your day on a positive note, insightful conversations with special guests, and a closer look at how current events align with faith and personal growth. Whether you're seeking encouragement, knowledge, or a deeper connection to today's world, Good Morning LIVE is your source for faith-filled and relevant content. Join us weekday mornings to experience a fresh perspective, inspired by truth and guided by hope.</desc>
@@ -2094,5 +2090,9 @@
   <programme start="20260622113000 +0000" stop="20260622120000 +0000" channel="ptn">
     <title>Joyce Meyer: Enjoying Everyday Life</title>
     <desc>Joyce Meyer, one of the world’s leading practicalBible teachers and New York Times bestselling author, shares encouragement andadvice to help people enjoy daily life.</desc>
+  </programme>
+  <programme start="20260622120000 +0000" stop="20260622123000 +0000" channel="ptn">
+    <title>Good Morning LIVE</title>
+    <desc>Good Morning LIVE is an engaging 30-minute program designed to inspire, inform, and connect viewers to the heart of meaningful living. Hosted by James Epperly, this dynamic show brings together a unique blend of inspirational devotions, thought-provoking interviews, and discussions on current events that matter most to you. Each episode offers uplifting messages to start your day on a positive note, insightful conversations with special guests, and a closer look at how current events align with faith and personal growth. Whether you're seeking encouragement, knowledge, or a deeper connection to today's world, Good Morning LIVE is your source for faith-filled and relevant content. Join us weekday mornings to experience a fresh perspective, inspired by truth and guided by hope.</desc>
   </programme>
 </tv>
