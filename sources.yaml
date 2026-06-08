@@ -7,3 +7,7 @@ sources:
   uk:
     url: https://iptv-epg.org/files/epg-gb.xml.gz
     refresh_hours: 48
+
+  ca:
+    url: https://iptv-epg.org/files/epg-ca.xml.gz
+    refresh_hours: 48
