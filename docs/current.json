@@ -3,26 +3,26 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T10:30:00+00:00",
-      "end": "2026-06-08T11:00:00+00:00"
+      "start": "2026-06-08T11:30:00+00:00",
+      "end": "2026-06-08T12:00:00+00:00"
     },
     "next": {
-      "title": "Joni Table Talk",
-      "start": "2026-06-08T11:00:00+00:00",
-      "end": "2026-06-08T11:30:00+00:00"
+      "title": "Life Today with James & Betty Robison",
+      "start": "2026-06-08T12:00:00+00:00",
+      "end": "2026-06-08T12:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T10:30:00+00:00",
-      "end": "2026-06-08T11:00:00+00:00"
-    },
-    "next": {
-      "title": "PerformArts Reload",
       "start": "2026-06-08T11:00:00+00:00",
       "end": "2026-06-08T12:00:00+00:00"
+    },
+    "next": {
+      "title": "Arirang Special",
+      "start": "2026-06-08T12:00:00+00:00",
+      "end": "2026-06-08T12:30:00+00:00"
     }
   },
   "weathernation": {
@@ -42,39 +42,39 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T10:00:00+00:00",
-      "end": "2026-06-08T11:00:00+00:00"
-    },
-    "next": {
-      "title": "Fashion Deals With Leah Williams",
       "start": "2026-06-08T11:00:00+00:00",
       "end": "2026-06-08T13:00:00+00:00"
+    },
+    "next": {
+      "title": "Lug - Bags & Accessories",
+      "start": "2026-06-08T13:00:00+00:00",
+      "end": "2026-06-08T14:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T10:00:00+00:00",
-      "end": "2026-06-08T11:00:00+00:00"
-    },
-    "next": {
-      "title": "Rise & Shine Savings - Joy Mangano",
       "start": "2026-06-08T11:00:00+00:00",
       "end": "2026-06-08T12:00:00+00:00"
+    },
+    "next": {
+      "title": "HSN Today With Friends",
+      "start": "2026-06-08T12:00:00+00:00",
+      "end": "2026-06-08T13:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T10:30:00+00:00",
-      "end": "2026-06-08T10:55:00+00:00"
+      "start": "2026-06-08T11:28:00+00:00",
+      "end": "2026-06-08T11:43:00+00:00"
     },
     "next": {
-      "title": "Time-Lapse Japan",
-      "start": "2026-06-08T10:55:00+00:00",
-      "end": "2026-06-08T11:00:00+00:00"
+      "title": "Culture Crossroads",
+      "start": "2026-06-08T11:43:00+00:00",
+      "end": "2026-06-08T11:55:00+00:00"
     }
   }
 }

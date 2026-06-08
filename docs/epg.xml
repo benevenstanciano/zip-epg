@@ -3,18 +3,6 @@
   <channel id="daystar">
     <display-name>Daystar</display-name>
   </channel>
-  <programme channel="daystar" start="20260607223000 +0000" stop="20260607230000 +0000"><category lang="en">Religious</category>
-    <date>1998</date>
-    <desc lang="en">Mark and Trina Hankins share messages about faith, helping believers understand their identity in Christ and the Holy Spirit's role in their lives.</desc>
-    <icon src="https://iptv-epg.org/images/kFQDWKoMOjp41o9ynG7IR_odL_1CESd_-i74VtaRkTaIM0Ifhy69OCoEjGBHXSVEL_TwHdIHVVg4ShZMtWTJHt192fPzN7iBluezR88iW7I"/>
-    <title lang="en">Faith Is the Victory</title>
-  </programme>
-  <programme channel="daystar" start="20260607230000 +0000" stop="20260607233000 +0000"><category lang="en">Religious</category>
-    <date>2006</date>
-    <desc lang="en">Bishop T.D. Jakes offers practical and spiritual solutions to life's toughest questions, including taboos and hidden issues.</desc>
-    <icon src="https://iptv-epg.org/images/GYKSpUmZZWHxNb6-pCpZdi87K7A-MBuXLrRcPAPvBcaAdZKu0cSKxJ_Ll5MKhR42yp6Y8SVs5hVKwC8CRkbQXnHN6cxu1-1GfF_sw-FyOxY"/>
-    <title lang="en">The Potter's Touch With Bishop T.D. Jakes</title>
-  </programme>
   <programme channel="daystar" start="20260607233000 +0000" stop="20260608000000 +0000"><category lang="en">Religious</category>
     <category lang="en">Special</category>
     <date>2013</date>
@@ -1100,22 +1088,25 @@ Dr. Terri DeNeui shares how hormone therapy can significantly improve quality of
     <icon src="https://iptv-epg.org/images/jc3RUyPaNUwRL98f4nMU2jQBovah_iaBF2AF-NbkW3ieR6NTSTkhdqzSHlIM_0QmAclbVu45lEWemwXZExuooErfBi9FQeSTLLpvObrgcMI"/>
     <title lang="en">Prophecy Live</title>
   </programme>
+  <programme channel="daystar" start="20260611110000 +0000" stop="20260611113000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Talk</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Walking in Purpose
+Jack Hibbs reveals his journey of discovering God's plan and purpose for his life.</desc>
+    <icon src="https://iptv-epg.org/images/t3PVwVktJfvqKfaXVV1el41qMgTWIIKqTb6pec829bg-7OAeNSUyw0m0Y_HZZZ7vJLio7OYgkU2NugiSdFGJKGWDEIxlzq03bFzUb5Ny49Q"/>
+    <previously-shown/>
+    <title lang="en">Joni Table Talk</title>
+  </programme>
+  <programme channel="daystar" start="20260611113000 +0000" stop="20260611120000 +0000"><category lang="en">Religious</category>
+    <date>1999</date>
+    <desc lang="en">Joel and Victoria Osteen's message of unconditional love and unending hope reaches everyone across the world.</desc>
+    <icon src="https://iptv-epg.org/images/ky-i0NVYzm3y5OnNckS6Ahe_VfQIu25vlQwegOYkPQNUg9Kfv018vOJbULbq4akhRJJsku-nUH8YFv3RAKviLvZV4Tbt5guQ76x0wtOsxQg"/>
+    <title lang="en">Joel Osteen</title>
+  </programme>
   <channel id="arirang">
     <display-name>Arirang</display-name>
   </channel>
-  <programme channel="arirang" start="20260607223000 +0000" stop="20260607225000 +0000"><category lang="en">Arts And Culture</category>
-    <desc lang="en">This programme is part of Arirang TV's efforts to promote Korean culture and provide a window into the country's dynamic art scene for a global audience.</desc>
-    <icon src="https://iptv-epg.org/images/8PK8dJZcFskrQZLKc5hShHyJnNg255MUHrB2sshAG0v3ZIVKFV-64wkjc6FH9auuYxu5AF4QcUi6EdqE1EeZWQfcaGuwiTVkOZuJ0IfUP39ZSGljemHFa6t24Zr-RolZaGqOt5-wYDnnA60BjIQVUfuRmjBurAnUcuoTqnZphuSSBntGNsEvGLNQwA"/>
-    <title lang="en">K-Arts Artists</title>
-  </programme>
-  <programme channel="arirang" start="20260607225000 +0000" stop="20260607230000 +0000"><category lang="en">Lifestyle</category>
-    <category lang="en">Travel</category>
-    <icon src="https://iptv-epg.org/images/a-pngTOrdKrbHqVTDnyX_zTJMVkfu8zy7X8SJqVG2Ky8fN1N1x4U2OX_ZvnVq9ItTs-u6Z764xtgMghbMUMgjpiYMjnqh48ZpVsRYBv7fzypNLJk41qHOCidUYYUWo5yn3X-nKlUBVH8eGo0kUlq7ZxXzAFApDTFGUQLIq7kQrKQIq0cR8Yiu5KqOg"/>
-    <title lang="en">Heritage Walks With Little Friend</title>
-  </programme>
-  <programme channel="arirang" start="20260607230000 +0000" stop="20260607233000 +0000"><icon src="https://iptv-epg.org/images/TCAhyzHk7sDhXWp4M9Wf-itL40LcgTEMczIZzgHCj2QEU8hjiQS8SfLChFxariIFpenCUN-9VbijKqNZio7jkMXbhBkG_v2cfbVwDKaJuevXNG8Svs1qnQhyUGimK7AsiJQo_OuNMsjrXzmdWsvzl6rZJxyrPWVpFlzbBn88GkDl36OjMHOhxteK-w"/>
-    <title lang="en">Re: Space</title>
-  </programme>
   <programme channel="arirang" start="20260607233000 +0000" stop="20260607235000 +0000"><desc lang="en">Dive into Korean culture with Arirang TV.</desc>
     <icon src="https://iptv-epg.org/images/4QvARHp-5o4eB2r6a2nN6vXV1u-ErMUnpEsBCMpfAUezoxG__ZnqeZDu6M1NlWvVxaRj-X2RHCyJNr37hj7now2lLn4KOO_61LViwy909Tr5j543IOfN4XdNJuJEInMTM8mYV_vPCRJLmQpvhO5-WeY188dAS-xMYlaqQVtXa6sFLv8t6unH2sgP0w"/>
     <title lang="en">K-Culture Minutes: K-Now</title>
@@ -2011,6 +2002,22 @@ A documentary series comprising an eclectic selection of broad subjects.</desc>
     <desc lang="en">This programme explores the intersection of art and the urban environment.</desc>
     <title lang="en">Art And The City</title>
   </programme>
+  <programme channel="arirang" start="20260611105000 +0000" stop="20260611110000 +0000"><category lang="en">Arts And Culture</category>
+    <category lang="en">Travel</category>
+    <category lang="en">Documentary</category>
+    <desc lang="en">There is a growing interest in Korean literature among readers from around the world and so we bring Korean classics to Korean modern literature to viewers in this special series under three themes.</desc>
+    <title lang="en">Exploring Korean Literature</title>
+  </programme>
+  <programme channel="arirang" start="20260611110000 +0000" stop="20260611113000 +0000"><desc lang="en">News Center provides up-to-the-minute, objective and in-depth coverage of news.</desc>
+    <icon src="https://iptv-epg.org/images/IlZONXBX6pqjzGRhrzlmcDXpkkNdlGBX8jFRNPge18TKwmyPRaynNJV-7SwiQgGWI35y902HEgwwMCWRi-6m4Cpx7p0HHxyCavssgoEMCwO9G5pqg9pPHkCjejUyus2odvaSnkThMyhWz8DMOJal1ooCm4bhioLVAnLadSiLTqb3mEvLAgE6-qU3xA"/>
+    <title lang="en">News Center</title>
+  </programme>
+  <programme channel="arirang" start="20260611113000 +0000" stop="20260611120000 +0000"><category lang="en">Arts And Culture</category>
+    <category lang="en">Documentary</category>
+    <desc lang="en">A news program that analyzes issues in Korea and outside of it, such as economy, society, culture, and politics, through conversations with experts from related fields.</desc>
+    <icon src="https://iptv-epg.org/images/6zhy9HvbazmHb6uTBXcRtwdeqEOHC-sSzinZSvM1t-3YJx0to7XrAkwLzVoLwQeLjcmhfq8P0raqewkRvwnxyqNy4-ywe0dz8qggtIk5vvBXX68uRuyg4cjVDtHtNuOhJRq94i810108vp7nrHQCaaNvxbuPm4TEAQUPUGoLYfwpcOq7cBYNlaqY6w"/>
+    <title lang="en">Within The Frame</title>
+  </programme>
   <channel id="weathernation">
     <display-name>WeatherNation</display-name>
   </channel>
@@ -2686,17 +2693,16 @@ A documentary series comprising an eclectic selection of broad subjects.</desc>
     <title lang="en">Laura Geller Makeup Studio</title>
     <live/>
   </programme>
+  <programme channel="qvc" start="20260611110000 +0000" stop="20260611130000 +0000"><category lang="en">Talk</category>
+    <date>2024</date>
+    <desc lang="en">Program Hosts and Q50 Ambassadors Jayne Brown &amp; Pat James-Dementri share their favorite finds to support women.</desc>
+    <icon src="https://iptv-epg.org/images/Z0aALqtuKm2HoGkaO8KpIAeM0VMPZvCLEtc8UQAyDlAFR1UYRRv-uI_Ux_uoOtKn7bUjceQiTbMnSLS0azkiylQcgd71xdHrnLM4WH2_hOM"/>
+    <title lang="en">Q the Real Talk With Jayne and Pat</title>
+    <live/>
+  </programme>
   <channel id="hsn">
     <display-name>HSN</display-name>
   </channel>
-  <programme channel="hsn" start="20260607220000 +0000" stop="20260607230000 +0000"><category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <date>2022</date>
-    <desc lang="en">Getting glowing skin with clean bath and body care by Nakery.</desc>
-    <icon src="https://iptv-epg.org/images/m3cdfV6EQlRPGcybgqqe6JLczTEj86J432XXlB6nHmqYAz35X0ft8iriAdvrIKso2kmwyWrJoSe4JgEHoRal4w9f55K2dAxnhLhWbr4jHjA"/>
-    <title lang="en">Nakery Beauty - All on Free Shipping</title>
-    <live/>
-  </programme>
   <programme channel="hsn" start="20260607230000 +0000" stop="20260608000000 +0000"><category lang="en">Consumer</category>
     <category lang="en">Shopping</category>
     <date>2022</date>
@@ -3239,35 +3245,14 @@ A documentary series comprising an eclectic selection of broad subjects.</desc>
     <icon src="https://iptv-epg.org/images/NcspqM1rEUY4shNrWL9B9xFz9IgSWJRJ2EX7YqT5UVYMLIkNrfzKuCZ0dK0uZlrmeiQ9C5Hqpvj9KJ71i9Qt5VceWz5KktZ5TpS7wcepeRE"/>
     <title lang="en">C. Wonder Fashions</title>
   </programme>
+  <programme channel="hsn" start="20260611110000 +0000" stop="20260611120000 +0000"><date>2026</date>
+    <desc lang="en">Rise &amp; Shine Savings - Beauty</desc>
+    <icon src="https://iptv-epg.org/images/GPzbS2iw2y_ww13ogaA2YixUtLzjKejOjZl-eKwJUNyJ3Tpe6B7mbk13f8O-oPFrjJcy44KHaT8gKowRtGaoeoUtIhqIAONpcJSyw_q9AxU"/>
+    <title lang="en">Rise &amp; Shine Savings - Beauty</title>
+  </programme>
   <channel id="nhkworld">
     <display-name>NHK World-Japan</display-name>
   </channel>
-  <programme channel="nhkworld" start="20260607223000 +0000" stop="20260607224500 +0000"><category lang="en">Bus./financial</category>
-    <category lang="en">Educational</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Identifying your chance to speak at a meeting
-Timothy James Mahrt, an American developer, learns how to find the right time to speak up during meetings with his Japanese colleagues.</desc>
-    <icon src="https://iptv-epg.org/images/UNl75GquDiXG6OnWR-Dj4m7ia7pOuN6xAN2yyKJJ1R3d1ZOjwsvgrBwdWxW-KrOiQ_bXqcXFGmVIoD0iR9epPSfm-xgA0kkw0lVt2A5Slq0"/>
-    <previously-shown/>
-    <title lang="en">Easy Japanese for Work</title>
-  </programme>
-  <programme channel="nhkworld" start="20260607224500 +0000" stop="20260607230000 +0000"><category lang="en">Arts/crafts</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Nature</category>
-    <category lang="en">Series</category>
-    <desc lang="en">The Time Maker
-The filmmakers shed light on clockmaker Takumi Ada, who restores timepieces damaged during the 2024 Noto Peninsula earthquake and helps the survivors piece back together the time they lost.</desc>
-    <icon src="https://iptv-epg.org/images/FRkVkHe-1LjCjPQifk6BYLD24iqhjGK9-jLT5yH7v4SZ0Yi1VanraAphEUxOCRfZ7PoJhRfYnZZn1zAZCQnmV6Q6jCTwo3MxbJkU4BdxngI"/>
-    <previously-shown/>
-    <title lang="en">Zero Waste Life</title>
-  </programme>
-  <programme channel="nhkworld" start="20260607230000 +0000" stop="20260607231000 +0000"><category lang="en">News</category>
-    <date>2002</date>
-    <desc lang="en">Japan's disaster relief; Asia news; business and global current events.</desc>
-    <icon src="https://iptv-epg.org/images/jCsH4pjGAY-byIGiHf2zx03e2_fPEeg5cpxOc5hFNDc7baelPqjZffLYvwHLonIhm9_tQ7R1uTDpEyStL7UQVV2Sj5mBZ4pvjR3kS0_u3K0"/>
-    <title lang="en">NHK Newsline</title>
-    <new/>
-  </programme>
   <programme channel="nhkworld" start="20260607231000 +0000" stop="20260608000000 +0000"><category lang="en">Documentary</category>
     <category lang="en">Special</category>
     <category lang="en">Series</category>
@@ -5118,5 +5103,22 @@ The hosts learn about Japan's food culture as they explore the country to find u
     <desc lang="en">Dig deeper into current affairs; cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
     <icon src="https://iptv-epg.org/images/7s_QkF3vadEaJGXp0dPs3cyr1N2XHjceEzpzuf_2XPSGJG-JZPwaSMVlbwtk1c0OnQT6ng3mv7BgHIkKcQ0rKM5BDwxlfb-4M6WZDyEfA84"/>
     <title lang="en">Today's Close-Up</title>
+  </programme>
+  <programme channel="nhkworld" start="20260611110000 +0000" stop="20260611112800 +0000"><category lang="en">News</category>
+    <date>2015</date>
+    <desc lang="en">We introduce the renewed NEWSROOM TOKYO featuring its team of new anchors and highlighting its appeal through a special Expo-focused episode.</desc>
+    <icon src="https://iptv-epg.org/images/tmxt8jhHHq6D7wM4Ix7sE58iS7F1qzdO0zWUgVhDNvJdNpzoDAhb0MqgP3KuhZK3fTcmm8mQAMJlhn-_Xfh8nrXIQFeDUYcTMIjKkpj07Vw"/>
+    <title lang="en">Newsroom Tokyo</title>
+    <new/>
+  </programme>
+  <programme channel="nhkworld" start="20260611112800 +0000" stop="20260611114300 +0000"><category lang="en">Documentary</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <date>2025</date>
+    <desc lang="en">A Device That Improves Children's Vision
+Ishigaki Yo introduces a gaming device designed to improve children's vision, sharing his philosophy on creating products that benefit society.</desc>
+    <icon src="https://iptv-epg.org/images/qR0ktYRvIi8DZJwe_GyuMjCrL7SvOo1DxQf33q-AdQy13hIPdViv95apI9vYb0pbUrNWjhA81iwh8Q4R6r7DaZWD6flx6LPRvS8495DGUKI"/>
+    <title lang="en">Direct Talk</title>
+    <new/>
   </programme>
 </tv>
