@@ -118,7 +118,7 @@ channels:
       description: "Think deeply. Live differently."
     epg_sources:
       - source: us
-        channel_id: "RightNowTV.us"   
+        channel_id: "NRBTV.us"   
 
   - id: smtv
     name: SMTV
