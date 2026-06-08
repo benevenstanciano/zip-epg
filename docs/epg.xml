@@ -3,20 +3,6 @@
   <channel id="daystar">
     <display-name>Daystar</display-name>
   </channel>
-  <programme channel="daystar" start="20260607210000 +0000" stop="20260607213000 +0000"><category lang="en">Religious</category>
-    <date>2000</date>
-    <desc lang="en">Practical Bible teaching.</desc>
-    <icon src="https://iptv-epg.org/images/5rKP3AfmV22RMeoP1Us2PxhatnsHQZ5O5ve28u_gTkbb9IC5kAtHjiefxUGW55Wf2SfTAiUCuhCGFdbGCRY5aWRzPg7GpEmrBirjrlYtzMU"/>
-    <title lang="en">Dr. David Jeremiah</title>
-  </programme>
-  <programme channel="daystar" start="20260607213000 +0000" stop="20260607220000 +0000"><category lang="en">Religious</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Our Sinless Savior
-John Ankerberg, a Baptist minister, spreads the message of Jesus Christ among the followers and urges them to live a more spiritual life.</desc>
-    <icon src="https://iptv-epg.org/images/r1JVL_wmIqm6X4as0tIuiGEtIMT5fiDRjujHNlaUkdstvRHT5A4Dw-JA60DRo3BoYY6u3_ebOljku1yljXqx7S-PNjjJsxEfwVfFp-viKHE"/>
-    <previously-shown/>
-    <title lang="en">John Ankerberg</title>
-  </programme>
   <programme channel="daystar" start="20260607220000 +0000" stop="20260607223000 +0000"><category lang="en">Public affairs</category>
     <category lang="en">Special</category>
     <date>2020</date>
@@ -1101,5 +1087,18 @@ Dr. Terri DeNeui shares how hormone therapy can significantly improve quality of
     <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
     <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
     <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260611093000 +0000" stop="20260611100000 +0000"><category lang="en">Music</category>
+    <category lang="en">Religious</category>
+    <date>2011</date>
+    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
+    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
+    <title lang="en">Reflections</title>
+  </programme>
+  <programme channel="daystar" start="20260611100000 +0000" stop="20260611103000 +0000"><category lang="en">Religious</category>
+    <date>1996</date>
+    <desc lang="en">A mission to share the profound truths of God's Word; with each episode, viewers are inspired by Franklin Jentezen's words, which echo the timeless wisdom of the scriptures.</desc>
+    <icon src="https://iptv-epg.org/images/XjE6K3-ZlD4X8RwyEyB-zw5zyNWPqohagM7DPbTa38giSJXy0nfi0b3j3xqne6hlNLkZdTGdYqd2l_pbXC3XaRPs4k5HsdrKc3dhpns0xIE"/>
+    <title lang="en">Kingdom Connection With Jentezen Franklin</title>
   </programme>
 </tv>
