@@ -31,7 +31,8 @@ jobs:
       - name: Build
         run: |
           python scripts/build.py
-
+          python scripts/generate_ptn_epg.py
+          
       - name: Publish Files
         run: |
           mkdir -p docs
