@@ -3,22 +3,6 @@
   <channel id="ptn">
     <display-name>Pioneer Network</display-name>
   </channel>
-  <programme start="20260608123000 +0000" stop="20260608130000 +0000" channel="ptn">
-    <title>Worldview Matters</title>
-    <desc>David Fiorazo is an author, ordained pastor, truth proclaimer, media contributor, and podcaster. Since the1990’s David has been working in both TV and radio broadcasting and in Christian ministry. On Worldview Matters, Fiorazo and expert guests tackle current events, demonic agendas &amp;movements, and controversial topics including church &amp; state issues, religious freedom, the culture war, Bible prophecy, education, politics, media&amp; more.</desc>
-  </programme>
-  <programme start="20260608130000 +0000" stop="20260608133000 +0000" channel="ptn">
-    <title>Gospel Truth with Andrew Wommack</title>
-    <desc>God called Andrew over 50 years ago toteach the truth of the gospel to the body of Christ with a special emphasis onHis unconditional love and the balance between grace and faith. To fulfil thatcall, Andrew teaches at conferences, in churches, on television, throughpodcasts, and by training people from all walks of life globally at CharisBible College.</desc>
-  </programme>
-  <programme start="20260608130000 +0000" stop="20260608133000 +0000" channel="ptn">
-    <title>Gospel Truth with Andrew Wommack</title>
-    <desc>Thirty-two years ago a man had an encounter with God that changed his life forever. Today, he shares that experience with thousands of people all over the world. The goal of Andrew Wommack is to reach as many people as possible with the love of God and message of grace and faith. He doesn’t measure the success of the ministry by the number of tapes distributed, books sold or offerings received. The real rewards, and proof that God is alive and working in people’s lives, are the many testimonies he receives from the people impacted by his teachings. To find out more, please visit our website at: http://www.awmi.net http://www.awmi.net/ www.awmi.net</desc>
-  </programme>
-  <programme start="20260608133000 +0000" stop="20260608140000 +0000" channel="ptn">
-    <title>Rick Renner</title>
-    <desc>Rick Renner is widely known for his interpretation of the Greek New Testament and his engaging teaching style. His teaching is punctuated by a unique ability to draw vividly descriptive word pictures from the Greek that illuminate the Scriptures in a fresh, new way. Rick also distinctively shares Bible principles through contemporary illustrations set against an extensive cultural and historical backdrop of New Testament times. In each episode of “Rick Renner,” Rick teaches in-depth on a passage of Scripture verse by verse, centered around a specific theme that is vitally relevant to the lives of believers who are hungry to dig deeper into the treasures of God’s Word. For more information, visit http://www.renner.org.</desc>
-  </programme>
   <programme start="20260608140000 +0000" stop="20260608143000 +0000" channel="ptn">
     <title>Run The Streets with Debra George</title>
     <desc>Debra takes you to the darkest streets of America to win souls.</desc>
@@ -2094,5 +2078,21 @@
   <programme start="20260622123000 +0000" stop="20260622130000 +0000" channel="ptn">
     <title>Worldview Matters</title>
     <desc>David Fiorazo is an author, ordained pastor, truth proclaimer, media contributor, and podcaster. Since the1990’s David has been working in both TV and radio broadcasting and in Christian ministry. On Worldview Matters, Fiorazo and expert guests tackle current events, demonic agendas &amp;movements, and controversial topics including church &amp; state issues, religious freedom, the culture war, Bible prophecy, education, politics, media&amp; more.</desc>
+  </programme>
+  <programme start="20260622130000 +0000" stop="20260622133000 +0000" channel="ptn">
+    <title>Gospel Truth with Andrew Wommack</title>
+    <desc>God called Andrew over 50 years ago toteach the truth of the gospel to the body of Christ with a special emphasis onHis unconditional love and the balance between grace and faith. To fulfil thatcall, Andrew teaches at conferences, in churches, on television, throughpodcasts, and by training people from all walks of life globally at CharisBible College.</desc>
+  </programme>
+  <programme start="20260622130000 +0000" stop="20260622133000 +0000" channel="ptn">
+    <title>Gospel Truth with Andrew Wommack</title>
+    <desc>Thirty-two years ago a man had an encounter with God that changed his life forever. Today, he shares that experience with thousands of people all over the world. The goal of Andrew Wommack is to reach as many people as possible with the love of God and message of grace and faith. He doesn’t measure the success of the ministry by the number of tapes distributed, books sold or offerings received. The real rewards, and proof that God is alive and working in people’s lives, are the many testimonies he receives from the people impacted by his teachings. To find out more, please visit our website at: http://www.awmi.net http://www.awmi.net/ www.awmi.net</desc>
+  </programme>
+  <programme start="20260622133000 +0000" stop="20260622140000 +0000" channel="ptn">
+    <title>Rick Renner</title>
+    <desc>Rick Renner is widely known for his interpretation of the Greek New Testament and his engaging teaching style. His teaching is punctuated by a unique ability to draw vividly descriptive word pictures from the Greek that illuminate the Scriptures in a fresh, new way. Rick also distinctively shares Bible principles through contemporary illustrations set against an extensive cultural and historical backdrop of New Testament times. In each episode of “Rick Renner,” Rick teaches in-depth on a passage of Scripture verse by verse, centered around a specific theme that is vitally relevant to the lives of believers who are hungry to dig deeper into the treasures of God’s Word. For more information, visit http://www.renner.org.</desc>
+  </programme>
+  <programme start="20260622140000 +0000" stop="20260622143000 +0000" channel="ptn">
+    <title>Run The Streets with Debra George</title>
+    <desc>Debra takes you to the darkest streets of America to win souls.</desc>
   </programme>
 </tv>

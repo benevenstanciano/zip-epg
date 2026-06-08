@@ -3,26 +3,6 @@
   <channel id="bestcoachtv">
     <display-name>Best Coach TV</display-name>
   </channel>
-  <programme start="20260608124733 +0000" stop="20260608131234 +0000" channel="bestcoachtv">
-    <title>Wealth Building Coaching</title>
-    <desc>Welcome to a transformative program designed to empower you on your journey to financial prosperity. This session focuses on building wealth not just through strategies, but through profound self-discovery. We believe that true financial empowerment begins with asking the right questions.</desc>
-  </programme>
-  <programme start="20260608131234 +0000" stop="20260608131435 +0000" channel="bestcoachtv">
-    <title>Moment to Pause</title>
-    <desc>Take a brief moment to reflect on your day.</desc>
-  </programme>
-  <programme start="20260608131435 +0000" stop="20260608132936 +0000" channel="bestcoachtv">
-    <title>Recognizing opportunities life coaching session</title>
-    <desc>Welcome to our Life Changing Channel. In this session we are focusing on Unlocking the Opportunities in your life. How to recognise the opportunities around you. Explore how to chose the right opportunities and understanding the dynamic landscape of your life.</desc>
-  </programme>
-  <programme start="20260608132936 +0000" stop="20260608134437 +0000" channel="bestcoachtv">
-    <title>Daily Inspiration Overcome Obstacles</title>
-    <desc>This program will help you overcome your obstacles. It is your daily inspirational show.</desc>
-  </programme>
-  <programme start="20260608134437 +0000" stop="20260608140438 +0000" channel="bestcoachtv">
-    <title>Motivational Session</title>
-    <desc>This is your motivational session. Your time to pause in the rhythm of your day. Learn about the dynamic system of motivation.</desc>
-  </programme>
   <programme start="20260608140438 +0000" stop="20260608143439 +0000" channel="bestcoachtv">
     <title>Building Resilience Coaching session</title>
     <desc>Inner Strength for Resilience. We embark on the journey to understand the best human capacity - resilience.</desc>
