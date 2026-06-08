@@ -10,14 +10,12 @@ channels:
       - source: us
         channel_id: "DAYSTAR.us"
 
-  # - id: arirang
-  #   enabled: true
-  #   name: Arirang
-
-  #   epg_sources:
-  #     - source: uk
-  #       channel_id: Arirang.uk
-
-  #   placeholder:
-  #     title: Programming Information Unavailable
-  #     description: No schedule available.
+  - id: arirang
+    name: Arirang
+    enabled: true
+    placeholder:
+      title: "Arirang"
+      description: "Korea's window to the world."
+    epg_sources:
+      - source: uk
+        channel_id: "Arirang.uk"
