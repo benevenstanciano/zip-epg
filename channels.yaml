@@ -30,6 +30,16 @@ channels:
       - source: us
         channel_id: "WeatherNationTV.us"
 
+  - id: realamericasvoice
+    name: Real America's Voice
+    enabled: true
+    placeholder:
+      title: "Real America's Voice"
+      description: "24/7 News and Opinion"
+    epg_sources:
+      - source: us
+        channel_id: "RAV.us"
+
   - id: qvc
     name: QVC
     enabled: true
