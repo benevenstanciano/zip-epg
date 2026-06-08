@@ -1106,13 +1106,15 @@ Sheila asks many of the popular questions about heaven as Dr. Jeremiah shares hi
     <previously-shown/>
     <title lang="en">Life Today</title>
   </programme>
+  <programme channel="daystar" start="20260611123000 +0000" stop="20260611130000 +0000"><category lang="en">Religious</category>
+    <date>2017</date>
+    <desc lang="en">For over four and a half decades, Andrew has taught God's Word with clarity and simplicity, emphasizing the unconditional love and grace of God.</desc>
+    <icon src="https://iptv-epg.org/images/8sTEkcwPo0q9V2LrOkIbNcvRqGaxOvLynZTvo_6H7GI_3HNHNc1H_QTw58axmZvWJL-NiGvqkeHt2yJK1OQFYbFNVM1tkgsZF5ou_2nPwfI"/>
+    <title lang="en">Gospel Truth with Andrew Wommack</title>
+  </programme>
   <channel id="arirang">
     <display-name>Arirang</display-name>
   </channel>
-  <programme channel="arirang" start="20260608000000 +0000" stop="20260608003000 +0000"><category lang="en">Documentary</category>
-    <icon src="https://iptv-epg.org/images/0TFQ990blrcS5hS9C-bxvjqMXOVr5qrsKui9071mrdXA9B7-GPp-CtTz7pIIbPEQgKOdYdHuul5G_CwMLAexnhcvuhPJMZIs3-X_e8QwTppvuiK8sXuW5C0EAP0xOxkqrz7Ij_6JaN7A6gHG1Wr99Z_IBXudPCzEc5dhcOoXUE4ztLfiapLdImqWFQ"/>
-    <title lang="en">SmartBiz Accelerators</title>
-  </programme>
   <programme channel="arirang" start="20260608003000 +0000" stop="20260608010000 +0000"><category lang="en">Lifestyle</category>
     <category lang="en">Travel</category>
     <icon src="https://iptv-epg.org/images/CMu5cDKYc59uNAROvB8A0P-CSeRMFLKWXjZ2U-l0UCLBLWumbS4Xa1YZMgKK1P-TbJdqFOJTw5-wUxx4BkTvUxCor7Rr_WJk7THFq7iRz-b9-sKN39udePyVyDNlnhULROP5gAGJtLEn48Z6ROKdTtU72CNWJa8Y2JKN9mPv4AOTEoZt4-vUteWs8Q"/>
@@ -2014,6 +2016,10 @@ A documentary series comprising an eclectic selection of broad subjects.</desc>
   <programme channel="arirang" start="20260611120000 +0000" stop="20260611123000 +0000"><desc lang="en">Welcome to 'K-Culture Dive', where we dive deeper into the heart of Korean culture with daily K-entertainment issues and AI culture news.</desc>
     <icon src="https://iptv-epg.org/images/avzn6YScO5L5bM4u-yKp6odrMIih2dCUbhHXKHMV3kTOwZ1ddUbLXs1292LxKo2dXvOC_q5qa8BnTv1pfqsEsK3_GzRM5C_Ti4O2H0pEUVH5-QyeYZzkV5BjVHA3DKTEiaI5WbUM9Y1ppRymjnoma1j6eAtd4NjIZkI4_SUEOfx4MaDVpRb8Eyhqgg"/>
     <title lang="en">K-Culture Dive</title>
+  </programme>
+  <programme channel="arirang" start="20260611123000 +0000" stop="20260611125000 +0000"><desc lang="en">Dive into Korean culture with Arirang TV.</desc>
+    <icon src="https://iptv-epg.org/images/tOGB8WX6P2wgpLbDzXbfucyYzy4Wd00HvBqaQwUGVFcH92nd5sNte787T5TEJ6AGnnbTLHDmWSevZk4RgMT08lEpOgTsO_H3FDv1TY6qGkpJxWb__EHys24NUuT-iRagepEslqwDpwWCPADKP1Y6n8HMUaFvR7ffjgSV1fnYJf3uUQUpT_qf2cFtrw"/>
+    <title lang="en">K-Culture Minutes: K-Stage</title>
   </programme>
   <channel id="weathernation">
     <display-name>WeatherNation</display-name>
@@ -3242,24 +3248,6 @@ A documentary series comprising an eclectic selection of broad subjects.</desc>
   <channel id="nhkworld">
     <display-name>NHK World-Japan</display-name>
   </channel>
-  <programme channel="nhkworld" start="20260608001500 +0000" stop="20260608002500 +0000"><category lang="en">Documentary</category>
-    <category lang="en">Environment</category>
-    <category lang="en">Nature</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Food Waste Fuels Global Warming
-Food waste is a major driver of global warming; one institute warns that greenhouse gas emissions from food waste exceed those of nations like India and Russia; we examine the data behind this issue.</desc>
-    <icon src="https://iptv-epg.org/images/nXd0PO1_5rwIzut1sot4n628ylxvqQ0QP8Gr9CaXj4hFjHMjtzs2uXf53DtA__ZrWmXYJCqLwxfnET0g2gi93odymzBxqu8vf8GiG9PApe4"/>
-    <previously-shown/>
-    <title lang="en">IMPACTS:Climates Change the World</title>
-  </programme>
-  <programme channel="nhkworld" start="20260608002500 +0000" stop="20260608003000 +0000"><category lang="en">Art</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Spiritual Designs for Fishermen
-Hishikawa Seiichi, a video and craft artist based in Tottori Prefecture, makes fishing flags with colorful, hand-drawn designs.</desc>
-    <icon src="https://iptv-epg.org/images/a54iLI-RHAWfIlMTWc8x0cXc4fZrzbeer90QQxyK36UIXfxbFxjP9JRbtQXOYlskkvl7jJfG7531-nG6lblp_2lsmBleyvxAdoumjfXf3mw"/>
-    <previously-shown/>
-    <title lang="en">Design Museum Japan</title>
-  </programme>
   <programme channel="nhkworld" start="20260608003000 +0000" stop="20260608005500 +0000"><category lang="en">Documentary</category>
     <category lang="en">Series</category>
     <desc lang="en">Heat-resistant glass factory
@@ -5112,14 +5100,17 @@ The filmmakers shed light on how childbirth in the Edo period was a community af
     <title lang="en">Newsroom Tokyo</title>
     <new/>
   </programme>
+  <programme channel="nhkworld" start="20260611123000 +0000" stop="20260611130000 +0000"><category lang="en">Documentary</category>
+    <category lang="en">Series</category>
+    <desc lang="en">The Art World's Genealogy: Respect for creative predecessors
+A lineage of modern artists preserves and evolves Nihonga traditions, using the techniques as the foundation of their work. Convention and avant-garde, past and present resonate throughout their art.</desc>
+    <icon src="https://iptv-epg.org/images/X41GJpxE_VGls5c7lw6-zmnGPXZn4DRhjwJyLW4dSxWbiujvuDkVDwpnM0uNrbJTKxx31hQiiMBYY6wFMfeTU900uCHjMgktqsujoI5aoZo"/>
+    <previously-shown/>
+    <title lang="en">Core Kyoto</title>
+  </programme>
   <channel id="buzzr">
     <display-name>Buzzr</display-name>
   </channel>
-  <programme channel="buzzr" start="20260608000000 +0000" stop="20260608003000 +0000"><category lang="en">Game show</category>
-    <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
-    <icon src="https://iptv-epg.org/images/hyeBIN8s3iUwPPWQ5S97cEkWdSBZzPq2KFYziEyK8f84il0xnL0bZRO7uXuZNLAu-p4FZbXOlpDwVBQgAgnDgrzMFWyDecSW0xJN2pWy-TQ"/>
-    <title lang="en">Card Sharks</title>
-  </programme>
   <programme channel="buzzr" start="20260608003000 +0000" stop="20260608010000 +0000"><category lang="en">Game show</category>
     <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
     <icon src="https://iptv-epg.org/images/hyeBIN8s3iUwPPWQ5S97cEkWdSBZzPq2KFYziEyK8f84il0xnL0bZRO7uXuZNLAu-p4FZbXOlpDwVBQgAgnDgrzMFWyDecSW0xJN2pWy-TQ"/>
@@ -5970,10 +5961,303 @@ The filmmakers shed light on how childbirth in the Edo period was a community af
     <icon src="https://iptv-epg.org/images/iVLbLwwRM5ftBciXtyRnWlzpv3f4aHRn4aqELRBxhMdoevP74POklFkaacqbUYbImsxFVeVqDw9ps6FDrWZom7fdiLiAOcSEJWoXt6SfOW4"/>
     <title lang="en">Nursing Home Nightmares 2026</title>
   </programme>
+  <programme channel="buzzr" start="20260611123000 +0000" stop="20260611130000 +0000"><category lang="en">Game show</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E04
+Teams answer questions to earn time and advantages over their competitors before going on a supermarket shopping spree; the team that adds the most valuable items to their carts wins.</desc>
+    <episode-num>S01 E04</episode-num>
+    <icon src="https://iptv-epg.org/images/d-DOFY1tZIk_-wShIhKteqEIxtpl0vAsuRfqMjbZuV3z9QXOLiUDCnUlPP353V-2BUwXGQ33knRIAxV7anX7yeq99ME-mD9HJsM3WJJABGY"/>
+    <previously-shown/>
+    <title lang="en">Supermarket Sweep</title>
+  </programme>
   <channel id="byutv">
     <display-name>BYUtv</display-name>
   </channel>
-  <programme channel="byutv" start="20260608122243 +0000" stop="20260611122243 +0000">
+  <programme channel="byutv" start="20260608124348 +0000" stop="20260608134348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608134348 +0000" stop="20260608144348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608144348 +0000" stop="20260608154348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608154348 +0000" stop="20260608164348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608164348 +0000" stop="20260608174348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608174348 +0000" stop="20260608184348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608184348 +0000" stop="20260608194348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608194348 +0000" stop="20260608204348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608204348 +0000" stop="20260608214348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608214348 +0000" stop="20260608224348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608224348 +0000" stop="20260608234348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260608234348 +0000" stop="20260609004348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609004348 +0000" stop="20260609014348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609014348 +0000" stop="20260609024348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609024348 +0000" stop="20260609034348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609034348 +0000" stop="20260609044348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609044348 +0000" stop="20260609054348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609054348 +0000" stop="20260609064348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609064348 +0000" stop="20260609074348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609074348 +0000" stop="20260609084348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609084348 +0000" stop="20260609094348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609094348 +0000" stop="20260609104348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609104348 +0000" stop="20260609114348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609114348 +0000" stop="20260609124348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609124348 +0000" stop="20260609134348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609134348 +0000" stop="20260609144348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609144348 +0000" stop="20260609154348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609154348 +0000" stop="20260609164348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609164348 +0000" stop="20260609174348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609174348 +0000" stop="20260609184348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609184348 +0000" stop="20260609194348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609194348 +0000" stop="20260609204348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609204348 +0000" stop="20260609214348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609214348 +0000" stop="20260609224348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609224348 +0000" stop="20260609234348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260609234348 +0000" stop="20260610004348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610004348 +0000" stop="20260610014348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610014348 +0000" stop="20260610024348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610024348 +0000" stop="20260610034348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610034348 +0000" stop="20260610044348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610044348 +0000" stop="20260610054348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610054348 +0000" stop="20260610064348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610064348 +0000" stop="20260610074348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610074348 +0000" stop="20260610084348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610084348 +0000" stop="20260610094348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610094348 +0000" stop="20260610104348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610104348 +0000" stop="20260610114348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610114348 +0000" stop="20260610124348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610124348 +0000" stop="20260610134348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610134348 +0000" stop="20260610144348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610144348 +0000" stop="20260610154348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610154348 +0000" stop="20260610164348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610164348 +0000" stop="20260610174348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610174348 +0000" stop="20260610184348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610184348 +0000" stop="20260610194348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610194348 +0000" stop="20260610204348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610204348 +0000" stop="20260610214348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610214348 +0000" stop="20260610224348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610224348 +0000" stop="20260610234348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260610234348 +0000" stop="20260611004348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611004348 +0000" stop="20260611014348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611014348 +0000" stop="20260611024348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611024348 +0000" stop="20260611034348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611034348 +0000" stop="20260611044348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611044348 +0000" stop="20260611054348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611054348 +0000" stop="20260611064348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611064348 +0000" stop="20260611074348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611074348 +0000" stop="20260611084348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611084348 +0000" stop="20260611094348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611094348 +0000" stop="20260611104348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611104348 +0000" stop="20260611114348 +0000">
+    <title>BYUtv</title>
+    <desc>Family-friendly TV</desc>
+  </programme>
+  <programme channel="byutv" start="20260611114348 +0000" stop="20260611124348 +0000">
     <title>BYUtv</title>
     <desc>Family-friendly TV</desc>
   </programme>
@@ -7057,11 +7341,6 @@ Apostolic Journey to Spain</desc>
   <channel id="rightnowtv">
     <display-name>Right Now TV</display-name>
   </channel>
-  <programme channel="rightnowtv" start="20260608000000 +0000" stop="20260608003000 +0000"><category lang="en">Show</category>
-    <desc lang="en">Film critic Tony Toscano leads a red carpet tour of what's playing and what's hot.</desc>
-    <icon src="https://iptv-epg.org/images/Oc1ALWxFyC_ymIgXEKdZTE4YUTKu-xne9JHQbpM1eKqBWbyP_z50ysDG3Iv1SsU15emvQxCO4jPUcpMs7dZiUVUbiQnwnJmEfmzfmbPLD83bIh72x8CDPdKZegc"/>
-    <title lang="en">Screen Chatter</title>
-  </programme>
   <programme channel="rightnowtv" start="20260608003000 +0000" stop="20260608013000 +0000"><category lang="en">Show</category>
     <desc lang="en">Two teams racing to complete a series of weightlifting, body-weight and other athletic elements.</desc>
     <icon src="https://iptv-epg.org/images/4a_NZxrPoMMQEzzJb5BBvaJoTnhPZ-dbMdM0L17ZJAT7lynSLU3QMyT_h3TZcC0imRIj9nheGdWQ3CkB6vGUbfdSzwO1WvLtJRjZ_5GkoORawzqFcyMl5pCh9vI"/>
@@ -7746,6 +8025,11 @@ Apostolic Journey to Spain</desc>
     <icon src="https://iptv-epg.org/images/EpmQmuph-9TNSUvh6Tmc3y4sKGonp2UkyKIU4v1we-WimvJpt9c8mLrwm4z-GvjiRGZ5tdtnKARZ76rOKRHqHVg5lbDoYP7ArmMQmhbiljcmnug-OY2Qa6CoyQ"/>
     <title lang="en">The Outdoorsman</title>
   </programme>
+  <programme channel="rightnowtv" start="20260611123000 +0000" stop="20260611130000 +0000"><category lang="en">Show</category>
+    <desc lang="en">Scott Martin and a challenger go head-to-head in a unique fishing tournament format.</desc>
+    <icon src="https://iptv-epg.org/images/vWRnAJTPxyJuB5SiBSrDKO9QxhVI0fDVj3YxSbcH-hAl-ZMkRZv1PCH-Fe-_cQekE3QxZMklhy-GM8tWHnaFKzoWK0ZfV4dikJ47nFiefbZygEXBBvYZ534ZUCOg"/>
+    <title lang="en">Scott Martin Challenge</title>
+  </programme>
   <channel id="classicarts">
     <display-name>Classic Arts Showcase</display-name>
   </channel>
@@ -7862,7 +8146,6 @@ Apostolic Journey to Spain</desc>
   <channel id="nrbtv">
     <display-name>NRB TV</display-name>
   </channel>
-  <programme channel="nrbtv" start="20260608000000 +0000" stop="20260608003000 +0000"/>
   <programme channel="nrbtv" start="20260608003000 +0000" stop="20260608013000 +0000"/>
   <programme channel="nrbtv" start="20260608013000 +0000" stop="20260608023000 +0000"/>
   <programme channel="nrbtv" start="20260608023000 +0000" stop="20260608030000 +0000"/>
@@ -7999,10 +8282,295 @@ Apostolic Journey to Spain</desc>
   <programme channel="nrbtv" start="20260611110000 +0000" stop="20260611113000 +0000"/>
   <programme channel="nrbtv" start="20260611113000 +0000" stop="20260611120000 +0000"/>
   <programme channel="nrbtv" start="20260611120000 +0000" stop="20260611123000 +0000"/>
+  <programme channel="nrbtv" start="20260611123000 +0000" stop="20260611130000 +0000"/>
   <channel id="smtv">
     <display-name>SMTV</display-name>
   </channel>
-  <programme channel="smtv" start="20260608122243 +0000" stop="20260611122243 +0000">
+  <programme channel="smtv" start="20260608124348 +0000" stop="20260608134348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608134348 +0000" stop="20260608144348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608144348 +0000" stop="20260608154348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608154348 +0000" stop="20260608164348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608164348 +0000" stop="20260608174348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608174348 +0000" stop="20260608184348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608184348 +0000" stop="20260608194348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608194348 +0000" stop="20260608204348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608204348 +0000" stop="20260608214348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608214348 +0000" stop="20260608224348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608224348 +0000" stop="20260608234348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260608234348 +0000" stop="20260609004348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609004348 +0000" stop="20260609014348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609014348 +0000" stop="20260609024348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609024348 +0000" stop="20260609034348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609034348 +0000" stop="20260609044348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609044348 +0000" stop="20260609054348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609054348 +0000" stop="20260609064348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609064348 +0000" stop="20260609074348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609074348 +0000" stop="20260609084348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609084348 +0000" stop="20260609094348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609094348 +0000" stop="20260609104348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609104348 +0000" stop="20260609114348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609114348 +0000" stop="20260609124348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609124348 +0000" stop="20260609134348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609134348 +0000" stop="20260609144348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609144348 +0000" stop="20260609154348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609154348 +0000" stop="20260609164348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609164348 +0000" stop="20260609174348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609174348 +0000" stop="20260609184348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609184348 +0000" stop="20260609194348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609194348 +0000" stop="20260609204348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609204348 +0000" stop="20260609214348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609214348 +0000" stop="20260609224348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609224348 +0000" stop="20260609234348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260609234348 +0000" stop="20260610004348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610004348 +0000" stop="20260610014348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610014348 +0000" stop="20260610024348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610024348 +0000" stop="20260610034348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610034348 +0000" stop="20260610044348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610044348 +0000" stop="20260610054348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610054348 +0000" stop="20260610064348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610064348 +0000" stop="20260610074348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610074348 +0000" stop="20260610084348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610084348 +0000" stop="20260610094348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610094348 +0000" stop="20260610104348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610104348 +0000" stop="20260610114348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610114348 +0000" stop="20260610124348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610124348 +0000" stop="20260610134348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610134348 +0000" stop="20260610144348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610144348 +0000" stop="20260610154348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610154348 +0000" stop="20260610164348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610164348 +0000" stop="20260610174348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610174348 +0000" stop="20260610184348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610184348 +0000" stop="20260610194348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610194348 +0000" stop="20260610204348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610204348 +0000" stop="20260610214348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610214348 +0000" stop="20260610224348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610224348 +0000" stop="20260610234348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260610234348 +0000" stop="20260611004348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611004348 +0000" stop="20260611014348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611014348 +0000" stop="20260611024348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611024348 +0000" stop="20260611034348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611034348 +0000" stop="20260611044348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611044348 +0000" stop="20260611054348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611054348 +0000" stop="20260611064348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611064348 +0000" stop="20260611074348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611074348 +0000" stop="20260611084348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611084348 +0000" stop="20260611094348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611094348 +0000" stop="20260611104348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611104348 +0000" stop="20260611114348 +0000">
+    <title>SMTV</title>
+    <desc>Constructive Programming for a Peaceful World</desc>
+  </programme>
+  <programme channel="smtv" start="20260611114348 +0000" stop="20260611124348 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
@@ -8903,6 +9471,13 @@ Apostolic Journey to Spain</desc>
     <icon src="https://iptv-epg.org/images/KA6ClIfNPJ9fc4tIKjmuHSPAiPdrhttZ-XTy4wTus7qCnS_bsT_yrdD4xJzO3z-fAzS8K_pi2V26J2Ev_kPxyIdvQivTI2JfWENMadm-Vj0"/>
     <title lang="en">Creflo Dollar Ministries</title>
   </programme>
+  <programme channel="impact" start="20260611123000 +0000" stop="20260611130000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Self improvement</category>
+    <date>2006</date>
+    <desc lang="en">Joyce Meyer, a Christian minister, discusses religious teachings and encourages people to live ethically.</desc>
+    <icon src="https://iptv-epg.org/images/tILO1On2Lxy9-K0SI4X3AXVSTqWtypLJJ0RdSyzaHZ7qlPS4bmKcZRq0vvDh8HlxQncN2J2A7s-qssDuF2kvSJtasq3OrA6Mp8ECvcwf5FA"/>
+    <title lang="en">Joyce Meyer Enjoying Everyday Life</title>
+  </programme>
   <channel id="tvriworld">
     <display-name>TVRI World</display-name>
   </channel>
@@ -9055,6 +9630,7 @@ Apostolic Journey to Spain</desc>
   <programme channel="tvriworld" start="20260611110000 +0000" stop="20260611113000 +0000"/>
   <programme channel="tvriworld" start="20260611113000 +0000" stop="20260611120000 +0000"/>
   <programme channel="tvriworld" start="20260611120000 +0000" stop="20260611123000 +0000"/>
+  <programme channel="tvriworld" start="20260611123000 +0000" stop="20260611130000 +0000"/>
   <channel id="nost">
     <display-name>NOST</display-name>
   </channel>
@@ -9207,12 +9783,10 @@ Apostolic Journey to Spain</desc>
   <programme channel="nost" start="20260611110000 +0000" stop="20260611113000 +0000"/>
   <programme channel="nost" start="20260611113000 +0000" stop="20260611120000 +0000"/>
   <programme channel="nost" start="20260611120000 +0000" stop="20260611123000 +0000"/>
+  <programme channel="nost" start="20260611123000 +0000" stop="20260611130000 +0000"/>
   <channel id="faithworld">
     <display-name>Faith World TV</display-name>
   </channel>
-  <programme channel="faithworld" start="20260608000000 +0000" stop="20260608003000 +0000"><desc lang="en">Teaching and worship with Evangelical Global Outreach.</desc>
-    <title lang="en">Evangelical Global Outreach</title>
-  </programme>
   <programme channel="faithworld" start="20260608003000 +0000" stop="20260608010000 +0000"><desc lang="en">Tune in with Faith World Music.</desc>
     <title lang="en">Faith World Music</title>
   </programme>
@@ -9612,10 +10186,297 @@ Apostolic Journey to Spain</desc>
   <programme channel="faithworld" start="20260611120000 +0000" stop="20260611123000 +0000"><desc lang="en">Teaching and worship with Sword of the Spirit.</desc>
     <title lang="en">Sword of the Spirit Evangelical Sword of the Spirit Evangelical Outreach</title>
   </programme>
+  <programme channel="faithworld" start="20260611123000 +0000" stop="20260611130000 +0000"><desc lang="en">Royal Ladies International.</desc>
+    <title lang="en">Life &amp; Issues</title>
+  </programme>
   <channel id="bctv">
     <display-name>Being Catholic TV</display-name>
   </channel>
-  <programme channel="bctv" start="20260608122243 +0000" stop="20260611122243 +0000">
+  <programme channel="bctv" start="20260608124348 +0000" stop="20260608134348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608134348 +0000" stop="20260608144348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608144348 +0000" stop="20260608154348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608154348 +0000" stop="20260608164348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608164348 +0000" stop="20260608174348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608174348 +0000" stop="20260608184348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608184348 +0000" stop="20260608194348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608194348 +0000" stop="20260608204348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608204348 +0000" stop="20260608214348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608214348 +0000" stop="20260608224348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608224348 +0000" stop="20260608234348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260608234348 +0000" stop="20260609004348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609004348 +0000" stop="20260609014348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609014348 +0000" stop="20260609024348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609024348 +0000" stop="20260609034348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609034348 +0000" stop="20260609044348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609044348 +0000" stop="20260609054348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609054348 +0000" stop="20260609064348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609064348 +0000" stop="20260609074348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609074348 +0000" stop="20260609084348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609084348 +0000" stop="20260609094348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609094348 +0000" stop="20260609104348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609104348 +0000" stop="20260609114348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609114348 +0000" stop="20260609124348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609124348 +0000" stop="20260609134348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609134348 +0000" stop="20260609144348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609144348 +0000" stop="20260609154348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609154348 +0000" stop="20260609164348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609164348 +0000" stop="20260609174348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609174348 +0000" stop="20260609184348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609184348 +0000" stop="20260609194348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609194348 +0000" stop="20260609204348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609204348 +0000" stop="20260609214348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609214348 +0000" stop="20260609224348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609224348 +0000" stop="20260609234348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260609234348 +0000" stop="20260610004348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610004348 +0000" stop="20260610014348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610014348 +0000" stop="20260610024348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610024348 +0000" stop="20260610034348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610034348 +0000" stop="20260610044348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610044348 +0000" stop="20260610054348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610054348 +0000" stop="20260610064348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610064348 +0000" stop="20260610074348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610074348 +0000" stop="20260610084348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610084348 +0000" stop="20260610094348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610094348 +0000" stop="20260610104348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610104348 +0000" stop="20260610114348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610114348 +0000" stop="20260610124348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610124348 +0000" stop="20260610134348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610134348 +0000" stop="20260610144348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610144348 +0000" stop="20260610154348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610154348 +0000" stop="20260610164348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610164348 +0000" stop="20260610174348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610174348 +0000" stop="20260610184348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610184348 +0000" stop="20260610194348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610194348 +0000" stop="20260610204348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610204348 +0000" stop="20260610214348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610214348 +0000" stop="20260610224348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610224348 +0000" stop="20260610234348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260610234348 +0000" stop="20260611004348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611004348 +0000" stop="20260611014348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611014348 +0000" stop="20260611024348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611024348 +0000" stop="20260611034348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611034348 +0000" stop="20260611044348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611044348 +0000" stop="20260611054348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611054348 +0000" stop="20260611064348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611064348 +0000" stop="20260611074348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611074348 +0000" stop="20260611084348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611084348 +0000" stop="20260611094348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611094348 +0000" stop="20260611104348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611104348 +0000" stop="20260611114348 +0000">
+    <title>Being Catholic TV</title>
+    <desc>Scottish Catholic TV</desc>
+  </programme>
+  <programme channel="bctv" start="20260611114348 +0000" stop="20260611124348 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
@@ -11179,5 +12040,14 @@ The areas of the day are chest, back and triceps; a high energy cardio kickboxin
     <icon src="https://iptv-epg.org/images/LUcyKNBRUO-yOBY6yFH2-PEyYLiNexDzaiy99bo_7nN0ypNJImLuevL734QyVaQq-EsCcSFXNYZ_N0xa92AlWAHpg6igBYrnMOECRVRjLyQ"/>
     <previously-shown/>
     <title lang="en">Bodies in Motion With Gilad</title>
+  </programme>
+  <programme channel="jltv" start="20260611123000 +0000" stop="20260611130000 +0000"><category lang="en">Exercise</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S01 E05 — Cardio &amp; Whole Body
+Gilad is joined by Trella, Kim, Bryana, Wendy, and Trisha from Shark's Cove on Oahu.</desc>
+    <episode-num>S01 E05</episode-num>
+    <icon src="https://iptv-epg.org/images/ZH1wSJW70gr3a1Kvt8fnrPhJKQqDCJMp90oqbqytXN4VGO4392Qryi6JyI8z3whxKMBX5M17oS-zwR4UaA3gS4ZXhX5Wq-CzX8iBzxpx9CM"/>
+    <previously-shown/>
+    <title lang="en">Bodies in Motion: 30th Anniversary</title>
   </programme>
 </tv>
