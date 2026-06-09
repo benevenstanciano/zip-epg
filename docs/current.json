@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:30:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Creflo Dollar",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "title": "Reflections",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T07:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:30:00+00:00",
+      "end": "2026-06-09T06:50:00+00:00"
     },
     "next": {
-      "title": "The Grand Heritage: ASMR",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T14:50:00+00:00"
+      "title": "Fishing In The Museum",
+      "start": "2026-06-09T06:50:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T16:00:00+00:00"
+      "start": "2026-06-09T06:00:00+00:00",
+      "end": "2026-06-09T08:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-06-08T16:00:00+00:00",
-      "end": "2026-06-08T18:00:00+00:00"
+      "start": "2026-06-09T08:00:00+00:00",
+      "end": "2026-06-09T10:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,52 +47,52 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T16:00:00+00:00"
+      "start": "2026-06-09T06:00:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Celebrating 40 Years - Our Biggest Celebration Ever",
-      "start": "2026-06-08T16:00:00+00:00",
-      "end": "2026-06-08T17:00:00+00:00"
+      "title": "Denim & Co.",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T08:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "start": "2026-06-09T06:00:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Home Sweet Home with Rebekah",
-      "start": "2026-06-08T15:00:00+00:00",
-      "end": "2026-06-08T16:00:00+00:00"
+      "title": "Come on In! With Callie",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T08:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:30:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Medical Frontiers",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "title": "Newsline Asia 24",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T07:30:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:30:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Family Feud",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "title": "Password",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T07:30:00+00:00"
     }
   },
   "byutv": {
@@ -104,52 +104,52 @@
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:30:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Mother Angelica Live Classics",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:30:00+00:00"
+      "title": "Franciscan University Presents",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T08:00:00+00:00"
     }
   },
   "rightnowtv": {
     "name": "Right Now TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:00:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "The Short List",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "title": "World Poker Tour",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T08:00:00+00:00"
     }
   },
   "classicarts": {
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T18:00:00+00:00"
+      "start": "2026-06-09T06:00:00+00:00",
+      "end": "2026-06-09T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-06-08T18:00:00+00:00",
-      "end": "2026-06-08T22:00:00+00:00"
+      "start": "2026-06-09T10:00:00+00:00",
+      "end": "2026-06-09T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:00:00+00:00",
+      "end": "2026-06-09T08:00:00+00:00"
     },
     "next": {
-      "title": "Faithful Workouts",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "title": "Radiant TV",
+      "start": "2026-06-09T08:00:00+00:00",
+      "end": "2026-06-09T10:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "start": "2026-06-09T06:30:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Joseph Prince Ministries",
-      "start": "2026-06-08T15:00:00+00:00",
-      "end": "2026-06-08T15:30:00+00:00"
+      "title": "Inspiration Ministries Camp Meeting",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T08:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T05:30:00+00:00",
+      "end": "2026-06-09T06:55:00+00:00"
     },
     "next": {
-      "title": "The Beverly Hillbillies",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "title": "One-Eyed Jacks",
+      "start": "2026-06-09T06:55:00+00:00",
+      "end": "2026-06-09T09:30:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:00:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Bring the Nation Back to God",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "title": "Atlas For Men Outdoor Collection",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T07:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,13 +210,13 @@
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-08T14:00:00+00:00",
-      "end": "2026-06-08T14:30:00+00:00"
+      "start": "2026-06-09T06:30:00+00:00",
+      "end": "2026-06-09T07:00:00+00:00"
     },
     "next": {
-      "title": "Vitality 4 Life With Curtis Adams",
-      "start": "2026-06-08T14:30:00+00:00",
-      "end": "2026-06-08T15:00:00+00:00"
+      "title": "Bubbies Know Best",
+      "start": "2026-06-09T07:00:00+00:00",
+      "end": "2026-06-09T07:30:00+00:00"
     }
   }
 }
