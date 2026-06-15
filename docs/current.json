@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T07:30:00+00:00"
+      "start": "2026-06-15T08:30:00+00:00",
+      "end": "2026-06-15T09:30:00+00:00"
     },
     "next": {
       "title": "Reflections",
-      "start": "2026-06-14T07:30:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "start": "2026-06-15T09:30:00+00:00",
+      "end": "2026-06-15T10:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T07:30:00+00:00"
+      "start": "2026-06-15T08:30:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     },
     "next": {
-      "title": "Diplomat's Archive: Hidden Stories",
-      "start": "2026-06-14T07:30:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "title": "Arirang News",
+      "start": "2026-06-15T09:00:00+00:00",
+      "end": "2026-06-15T09:10:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T06:00:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "start": "2026-06-15T08:00:00+00:00",
+      "end": "2026-06-15T10:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-06-14T08:00:00+00:00",
-      "end": "2026-06-14T10:00:00+00:00"
+      "start": "2026-06-15T10:00:00+00:00",
+      "end": "2026-06-15T12:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,52 +47,52 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "start": "2026-06-15T08:00:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     },
     "next": {
-      "title": "Fun with Rick & Jane - Celebrating 40 Years",
-      "start": "2026-06-14T08:00:00+00:00",
-      "end": "2026-06-14T11:00:00+00:00"
+      "title": "Dr. Denese SkinScience",
+      "start": "2026-06-15T09:00:00+00:00",
+      "end": "2026-06-15T10:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "start": "2026-06-15T08:00:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     },
     "next": {
-      "title": "Andrew Lessman Your Vitamins",
-      "start": "2026-06-14T08:00:00+00:00",
-      "end": "2026-06-14T09:00:00+00:00"
+      "title": "Gotta See G With Giuliana Rancic",
+      "start": "2026-06-15T09:00:00+00:00",
+      "end": "2026-06-15T10:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:10:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "start": "2026-06-15T08:30:00+00:00",
+      "end": "2026-06-15T08:57:00+00:00"
     },
     "next": {
-      "title": "NHK Newsline",
-      "start": "2026-06-14T08:00:00+00:00",
-      "end": "2026-06-14T08:10:00+00:00"
+      "title": "Satoyama Kitchen Diary",
+      "start": "2026-06-15T08:57:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T07:30:00+00:00"
+      "start": "2026-06-15T08:30:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     },
     "next": {
-      "title": "Password",
-      "start": "2026-06-14T07:30:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "title": "Concentration",
+      "start": "2026-06-15T09:00:00+00:00",
+      "end": "2026-06-15T09:30:00+00:00"
     }
   },
   "byutv": {
@@ -104,52 +104,52 @@
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "start": "2026-06-15T08:30:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     },
     "next": {
-      "title": "Sunday Best With Fr. Groeschel",
-      "start": "2026-06-14T08:00:00+00:00",
-      "end": "2026-06-14T08:30:00+00:00"
+      "title": "EWTN Bookmark",
+      "start": "2026-06-15T09:00:00+00:00",
+      "end": "2026-06-15T09:30:00+00:00"
     }
   },
   "rightnowtv": {
     "name": "Right Now TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "start": "2026-06-15T08:30:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     },
     "next": {
-      "title": "Sports Stars of Tomorrow",
-      "start": "2026-06-14T08:00:00+00:00",
-      "end": "2026-06-14T08:30:00+00:00"
+      "title": "Jimmy Bowen and Friends",
+      "start": "2026-06-15T09:00:00+00:00",
+      "end": "2026-06-15T09:30:00+00:00"
     }
   },
   "classicarts": {
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T06:00:00+00:00",
-      "end": "2026-06-14T10:00:00+00:00"
+      "start": "2026-06-15T06:00:00+00:00",
+      "end": "2026-06-15T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-06-14T10:00:00+00:00",
-      "end": "2026-06-14T14:00:00+00:00"
+      "start": "2026-06-15T10:00:00+00:00",
+      "end": "2026-06-15T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T07:30:00+00:00"
+      "start": "2026-06-15T08:00:00+00:00",
+      "end": "2026-06-15T10:00:00+00:00"
     },
     "next": {
-      "title": "From His Heart With Jeff Schreve",
-      "start": "2026-06-14T07:30:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "title": "Your Life",
+      "start": "2026-06-15T10:00:00+00:00",
+      "end": "2026-06-15T10:30:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T07:30:00+00:00"
+      "start": "2026-06-15T08:30:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     },
     "next": {
-      "title": "Inspired Family Life With Dr. David Jefferson",
-      "start": "2026-06-14T07:30:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "title": "Jesus is our Jubilee",
+      "start": "2026-06-15T09:00:00+00:00",
+      "end": "2026-06-15T09:30:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T06:00:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "start": "2026-06-15T08:30:00+00:00",
+      "end": "2026-06-15T10:10:00+00:00"
     },
     "next": {
-      "title": "Day of Anger",
-      "start": "2026-06-14T08:00:00+00:00",
-      "end": "2026-06-14T10:05:00+00:00"
+      "title": "Loving You",
+      "start": "2026-06-15T10:10:00+00:00",
+      "end": "2026-06-15T12:05:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T07:30:00+00:00"
+      "start": "2026-06-15T08:00:00+00:00",
+      "end": "2026-06-15T09:00:00+00:00"
     },
     "next": {
-      "title": "Voice of Hope with Pastor Didi",
-      "start": "2026-06-14T07:30:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "title": "Pastor Melusi",
+      "start": "2026-06-15T09:00:00+00:00",
+      "end": "2026-06-15T09:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,13 +210,13 @@
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-14T07:00:00+00:00",
-      "end": "2026-06-14T07:30:00+00:00"
+      "start": "2026-06-15T08:00:00+00:00",
+      "end": "2026-06-15T09:30:00+00:00"
     },
     "next": {
-      "title": "Bubbies Know Best",
-      "start": "2026-06-14T07:30:00+00:00",
-      "end": "2026-06-14T08:00:00+00:00"
+      "title": "It's a Sweet World",
+      "start": "2026-06-15T09:30:00+00:00",
+      "end": "2026-06-15T10:00:00+00:00"
     }
   }
 }
