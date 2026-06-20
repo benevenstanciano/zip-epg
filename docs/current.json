@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T08:30:00+00:00"
+      "start": "2026-06-20T06:30:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Reflections",
-      "start": "2026-06-19T08:30:00+00:00",
-      "end": "2026-06-19T09:30:00+00:00"
+      "title": "The Winner's Way With Mac Hammond",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T07:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T08:30:00+00:00"
+      "start": "2026-06-20T06:00:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Press Perspective",
-      "start": "2026-06-19T08:30:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "title": "Peace Insight",
+      "start": "2026-06-21T07:00:00+00:00",
+      "end": "2026-06-21T07:30:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T10:00:00+00:00"
+      "start": "2026-06-20T06:00:00+00:00",
+      "end": "2026-06-20T08:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-06-19T10:00:00+00:00",
-      "end": "2026-06-19T12:00:00+00:00"
+      "start": "2026-06-20T08:00:00+00:00",
+      "end": "2026-06-20T10:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,52 +47,52 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "start": "2026-06-20T06:00:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Steel by Diamonique",
-      "start": "2026-06-19T09:00:00+00:00",
-      "end": "2026-06-19T10:00:00+00:00"
+      "title": "HomeWorx by Slatkin & Co. Candles & Home Fragrance",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T08:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "start": "2026-06-20T06:00:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Andrew Lessman Your Vitamins",
-      "start": "2026-06-19T09:00:00+00:00",
-      "end": "2026-06-19T10:00:00+00:00"
+      "title": "Chef Curtis Stone",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T08:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T08:30:00+00:00"
+      "start": "2026-06-20T06:10:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Document 72 Hours",
-      "start": "2026-06-19T08:30:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "title": "NHK Newsline",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T07:10:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T08:30:00+00:00"
+      "start": "2026-06-20T06:30:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Concentration",
-      "start": "2026-06-19T08:30:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "title": "Password",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T07:30:00+00:00"
     }
   },
   "byutv": {
@@ -104,52 +104,52 @@
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T08:30:00+00:00"
+      "start": "2026-06-20T06:30:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "The Holy Rosary With Mother Angelica",
-      "start": "2026-06-19T08:30:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "title": "Major Religious Orders of Men",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T07:30:00+00:00"
     }
   },
   "rightnowtv": {
     "name": "Right Now TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T08:30:00+00:00"
+      "start": "2026-06-20T06:00:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Country Classics",
-      "start": "2026-06-19T08:30:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "title": "MidAtlantic Wrestling",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T08:00:00+00:00"
     }
   },
   "classicarts": {
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T06:00:00+00:00",
-      "end": "2026-06-19T10:00:00+00:00"
+      "start": "2026-06-20T06:00:00+00:00",
+      "end": "2026-06-20T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-06-19T10:00:00+00:00",
-      "end": "2026-06-19T14:00:00+00:00"
+      "start": "2026-06-20T10:00:00+00:00",
+      "end": "2026-06-20T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T10:00:00+00:00"
+      "start": "2026-06-20T06:00:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Travis Johnson",
-      "start": "2026-06-19T10:00:00+00:00",
-      "end": "2026-06-19T10:30:00+00:00"
+      "title": "John McArthur - Grace to You",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T07:30:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T08:30:00+00:00"
+      "start": "2026-06-20T06:30:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Today With Marilyn and Sarah",
-      "start": "2026-06-19T08:30:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "title": "Transparency Ministries",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T07:30:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T07:25:00+00:00",
-      "end": "2026-06-19T09:15:00+00:00"
+      "start": "2026-06-20T05:15:00+00:00",
+      "end": "2026-06-20T07:50:00+00:00"
     },
     "next": {
-      "title": "Johnny Yuma",
-      "start": "2026-06-19T09:15:00+00:00",
-      "end": "2026-06-19T11:05:00+00:00"
+      "title": "Sabrina",
+      "start": "2026-06-20T07:50:00+00:00",
+      "end": "2026-06-20T10:00:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "start": "2026-06-20T06:30:00+00:00",
+      "end": "2026-06-20T07:00:00+00:00"
     },
     "next": {
-      "title": "Pastor Melusi",
-      "start": "2026-06-19T09:00:00+00:00",
-      "end": "2026-06-19T09:30:00+00:00"
+      "title": "Atlas For Men Outdoor Collection",
+      "start": "2026-06-20T07:00:00+00:00",
+      "end": "2026-06-20T07:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,13 +210,13 @@
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-19T08:00:00+00:00",
-      "end": "2026-06-19T08:30:00+00:00"
+      "start": "2026-06-20T06:30:00+00:00",
+      "end": "2026-06-20T08:30:00+00:00"
     },
     "next": {
-      "title": "LMAO",
-      "start": "2026-06-19T08:30:00+00:00",
-      "end": "2026-06-19T09:00:00+00:00"
+      "title": "You Bet Your Life",
+      "start": "2026-06-20T08:30:00+00:00",
+      "end": "2026-06-20T09:00:00+00:00"
     }
   }
 }
