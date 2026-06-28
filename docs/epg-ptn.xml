@@ -3,128 +3,6 @@
   <channel id="ptn">
     <display-name>Pioneer Network</display-name>
   </channel>
-  <programme start="20260627060000 +0000" stop="20260627063000 +0000" channel="ptn">
-    <title>The Place For Miracles</title>
-    <desc>The Place forMiracles is a half-hour broadcast hosted by Richard and Lindsay Roberts. Theprogram focuses on the power of prayer and biblical teaching by Richard andLindsay, plus occasional videos featuring classic sermons from Oral Roberts,praise and worship music, “Living Proof” miracle testimonies, including livecalls and video presentations, and frequent, special guest appearances.</desc>
-  </programme>
-  <programme start="20260627063000 +0000" stop="20260627070000 +0000" channel="ptn">
-    <title>Kingdom Connection with Jentezen Franklin</title>
-  </programme>
-  <programme start="20260627070000 +0000" stop="20260627073000 +0000" channel="ptn">
-    <title>Desire Of All Nations</title>
-  </programme>
-  <programme start="20260627073000 +0000" stop="20260627080000 +0000" channel="ptn">
-    <title>Samuel Rodriguez</title>
-  </programme>
-  <programme start="20260627080000 +0000" stop="20260627100000 +0000" channel="ptn">
-    <title>Valor Christian College Chapel</title>
-  </programme>
-  <programme start="20260627100000 +0000" stop="20260627103000 +0000" channel="ptn">
-    <title>Faithville</title>
-    <desc>Fun-filled, action-packed 30-minute comedy set in the 1940's to teach God's Word! Something taught with pleasure is learned full measure!</desc>
-  </programme>
-  <programme start="20260627103000 +0000" stop="20260627110000 +0000" channel="ptn">
-    <title>Miss Charity's Diner</title>
-    <desc>Miss Charity welcomes kids into her diner to learn about Friendship, Patience, Faithfulness, Creativity and more! Stop in to hear a story with Miss Geranium, visit with Farmer Shalom and Dusty the dog, or learn safety and responsibility from Constable Howie. A fun-filled lesson teaching God's Word in every show.</desc>
-  </programme>
-  <programme start="20260627110000 +0000" stop="20260627113000 +0000" channel="ptn">
-    <title>Seasons</title>
-    <desc>Follow the journey of young Josh and sister Lexie who go to live with the grandparents when life becomes difficult for single mother Debbie. See that God is faithful even in the most difficult of circumstances and discover a show that gives hope to every generation.</desc>
-  </programme>
-  <programme start="20260627113000 +0000" stop="20260627120000 +0000" channel="ptn">
-    <title>Gospel Time Square</title>
-    <desc>Friends meet at Gospel Time Square, the corner of 7th St. and Narrow Way. Join Melody and the rest as they learn about some of life's biggest lessons! Respect, Family, Serving and more!</desc>
-  </programme>
-  <programme start="20260627120000 +0000" stop="20260627123000 +0000" channel="ptn">
-    <title>Lessons From The Bible, with Pastor Doug</title>
-    <desc>Join Pastor Doug, Dusty, Amelia and all the characters as they learn about the Bible and how it applies to daily life. Games, songs, and some silly puppets will inspire kids to follow along and get into God's Word!</desc>
-  </programme>
-  <programme start="20260627123000 +0000" stop="20260627130000 +0000" channel="ptn">
-    <title>Faithville</title>
-    <desc>Fun-filled, action-packed 30-minute comedy set in the 1940's to teach God's Word! Something taught with pleasure is learned full measure!</desc>
-  </programme>
-  <programme start="20260627130000 +0000" stop="20260627133000 +0000" channel="ptn">
-    <title>Miss Charity's Diner</title>
-    <desc>Miss Charity welcomes kids into her diner to learn about Friendship, Patience, Faithfulness, Creativity and more! Stop in to hear a story with Miss Geranium, visit with Farmer Shalom and Dusty the dog, or learn safety and responsibility from Constable Howie. A fun-filled lesson teaching God's Word in every show.</desc>
-  </programme>
-  <programme start="20260627133000 +0000" stop="20260627140000 +0000" channel="ptn">
-    <title>Seasons</title>
-    <desc>Follow the journey of young Josh and sister Lexie who go to live with the grandparents when life becomes difficult for single mother Debbie. See that God is faithful even in the most difficult of circumstances and discover a show that gives hope to every generation.</desc>
-  </programme>
-  <programme start="20260627140000 +0000" stop="20260627143000 +0000" channel="ptn">
-    <title>Gospel Time Square</title>
-    <desc>Friends meet at Gospel Time Square, the corner of 7th St. and Narrow Way. Join Melody and the rest as they learn about some of life's biggest lessons! Respect, Family, Serving and more!</desc>
-  </programme>
-  <programme start="20260627143000 +0000" stop="20260627150000 +0000" channel="ptn">
-    <title>Lessons From The Bible, with Pastor Doug</title>
-    <desc>Join Pastor Doug, Dusty, Amelia and all the characters as they learn about the Bible and how it applies to daily life. Games, songs, and some silly puppets will inspire kids to follow along and get into God's Word!</desc>
-  </programme>
-  <programme start="20260627150000 +0000" stop="20260627160000 +0000" channel="ptn">
-    <title>ORU Chapel</title>
-  </programme>
-  <programme start="20260627160000 +0000" stop="20260627163000 +0000" channel="ptn">
-    <title>The James Epperly Show</title>
-    <desc>"The James Epperly Show" is a Christian television program that aims to inspire and uplift viewers through faith-based content. Hosted by Pastor James Epperly, the show features insightful sermons, engaging interviews with prominent Christian figures, and heartfelt testimonials from individuals who have experienced life-changing transformations through faith. Each episode is designed to offer spiritual guidance, biblical wisdom, and practical advice for living a Christ-centered life. With its friendly and welcoming vibe, 'The James Epperly Show' aims to support viewers' spiritual development and enhance their connection with God, making it a treasured part of their weekly viewing schedule.</desc>
-  </programme>
-  <programme start="20260627163000 +0000" stop="20260627170000 +0000" channel="ptn">
-    <title>Faith &amp; Law</title>
-    <desc>Faith &amp; Law is a 30-minute variety program that focuses on theintersection of faith and law.</desc>
-  </programme>
-  <programme start="20260627170000 +0000" stop="20260627190000 +0000" channel="ptn">
-    <title>Valor Christian College Chapel</title>
-  </programme>
-  <programme start="20260627190000 +0000" stop="20260627193000 +0000" channel="ptn">
-    <title>Christian Music Countdown</title>
-  </programme>
-  <programme start="20260627193000 +0000" stop="20260627200000 +0000" channel="ptn">
-    <title>Worldview Matters</title>
-    <desc>On Worldview Matters, Fiorazo and expert guests tackle currentevents, demonic agendas &amp; movements, and controversial topics includingchurch &amp; state issues, religious freedom, the culture war, Bible prophecy,education, politics, media &amp; more.</desc>
-  </programme>
-  <programme start="20260627200000 +0000" stop="20260627203000 +0000" channel="ptn">
-    <title>The James Epperly Show</title>
-    <desc>"The James Epperly Show" is a Christian television program that aims to inspire and uplift viewers through faith-based content. Hosted by Pastor James Epperly, the show features insightful sermons, engaging interviews with prominent Christian figures, and heartfelt testimonials from individuals who have experienced life-changing transformations through faith. Each episode is designed to offer spiritual guidance, biblical wisdom, and practical advice for living a Christ-centered life. With its friendly and welcoming vibe, 'The James Epperly Show' aims to support viewers' spiritual development and enhance their connection with God, making it a treasured part of their weekly viewing schedule.</desc>
-  </programme>
-  <programme start="20260627203000 +0000" stop="20260627210000 +0000" channel="ptn">
-    <title>VFI News</title>
-    <desc>VFI News with Barry Segal brings you timely, insightful reports on Israel, the Middle East, andglobal events - analysed through a biblical and prophetic lens.</desc>
-  </programme>
-  <programme start="20260627210000 +0000" stop="20260627213000 +0000" channel="ptn">
-    <title>The Jim Bakker Show</title>
-    <desc>The Jim Bakker Show is an hour-long dailyChristian broadcast that is aired throughout the United States, Canada, and theentire world through multiple broadcasts on Directv, Dish Network and otherworld wide satellites, PTL Television Network, and the Pioneer Network. Join Jim and Lori Bakker as they bring tothe stage today’s greatest prophets, health experts, and leaders of theChristian world to discuss and understand Biblical prophecy and the Revelationsof God’s Word.</desc>
-  </programme>
-  <programme start="20260627213000 +0000" stop="20260627230000 +0000" channel="ptn">
-    <title>Hope City Church</title>
-    <desc>Join Pastor James Epperly and the congregation of Hope City Church for inspirational teaching and ministry.</desc>
-  </programme>
-  <programme start="20260627230000 +0000" stop="20260628000000 +0000" channel="ptn">
-    <title>ORU Chapel</title>
-    <desc>Ranked as one of the Top 50 “Most DiverseColleges in America” and Oklahoma’s #1 university for diversity (Niche 2023),ORU https://oru.edu/ https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbllUSTZqTUJzVGRzTU90OV82YVVWc1liNEJrZ3xBQ3Jtc0tramk4WUVQcUNabmM5SGlNQklEX2JJSk9kMVJ5MmNJQWFFLWlfTTBULXY3WnF0T3g2LUtiV3JOaW1mR0o2N20tOS04N0ZqUUlNblRNTWhyWkx5QVVzemQ5VDNqNTUzM1BZc2o1S1hFOHVEZEFtYU1mbw&amp;q=https%3A%2F%2Foru.edu%2F&amp;v=rPj4d3Ei0EU is a multicultural, global campus withmore than 4,500 students representing well over 120 nations. And as a Top 10university for Engagement (Wall Street Journal/Times Higher Ed ranked), ORUworks closely with students to develop whole leaders for the whole worldthrough a unique Whole Person approach to college education. If you’re anon-campus student or if you’re seeking an online education, ORU offersbachelors, masters, and doctoral degrees in a global, Spirit-empoweredenvironment. Explore Oral Roberts University https://oru.edu/</desc>
-  </programme>
-  <programme start="20260628000000 +0000" stop="20260628003000 +0000" channel="ptn">
-    <title>The James Epperly Show</title>
-    <desc>"The James Epperly Show" is a Christian television program that aims to inspire and uplift viewers through faith-based content. Hosted by Pastor James Epperly, the show features insightful sermons, engaging interviews with prominent Christian figures, and heartfelt testimonials from individuals who have experienced life-changing transformations through faith. Each episode is designed to offer spiritual guidance, biblical wisdom, and practical advice for living a Christ-centered life. With its friendly and welcoming vibe, 'The James Epperly Show' aims to support viewers' spiritual development and enhance their connection with God, making it a treasured part of their weekly viewing schedule.</desc>
-  </programme>
-  <programme start="20260628003000 +0000" stop="20260628010000 +0000" channel="ptn">
-    <title>Life In Christ With Pastor Joe Spence</title>
-  </programme>
-  <programme start="20260628010000 +0000" stop="20260628013000 +0000" channel="ptn">
-    <title>Christian Music Countdown</title>
-  </programme>
-  <programme start="20260628013000 +0000" stop="20260628020000 +0000" channel="ptn">
-    <title>Manna Fest with Perry Stone</title>
-    <desc>Manna-fest is the weekly television program of Perry Stone that deals with in-depth prophetic and practical studies of the Word of God. As biblical prophecy continues to unfold, you will find Manna-fest to be a resource to help you better understand where we are now in light of Bible prophecy and what the Bible says about the future. Be sure to tune in each week!</desc>
-  </programme>
-  <programme start="20260628020000 +0000" stop="20260628040000 +0000" channel="ptn">
-    <title>Valor Christian College Chapel</title>
-  </programme>
-  <programme start="20260628040000 +0000" stop="20260628060000 +0000" channel="ptn">
-    <title>Be Made Whole Worldwide Prayer Cloth Service with Rod Parsley</title>
-    <desc>Experience the powerful anointing of our Be Made Whole Worldwide Prayer Cloth Service featuring Harvest Music Live and our outstanding choir. The miracle-working power of God changed multiplied hundreds of thousands, and now you can reserve your anointed prayer cloth from this year’s altar. The tangible transferrable anointing can heal your body, produce deliverance, family restoration, financial breakthrough, whatever you need!</desc>
-  </programme>
-  <programme start="20260628060000 +0000" stop="20260628063000 +0000" channel="ptn">
-    <title>The Place For Miracles</title>
-    <desc>The Place forMiracles is a half-hour broadcast hosted by Richard and Lindsay Roberts. Theprogram focuses on the power of prayer and biblical teaching by Richard andLindsay, plus occasional videos featuring classic sermons from Oral Roberts,praise and worship music, “Living Proof” miracle testimonies, including livecalls and video presentations, and frequent, special guest appearances.</desc>
-  </programme>
   <programme start="20260628063000 +0000" stop="20260628070000 +0000" channel="ptn">
     <title>Kingdom Connection with Jentezen Franklin</title>
   </programme>
@@ -2054,5 +1932,126 @@
   <programme start="20260711060000 +0000" stop="20260711063000 +0000" channel="ptn">
     <title>The Place For Miracles</title>
     <desc>The Place forMiracles is a half-hour broadcast hosted by Richard and Lindsay Roberts. Theprogram focuses on the power of prayer and biblical teaching by Richard andLindsay, plus occasional videos featuring classic sermons from Oral Roberts,praise and worship music, “Living Proof” miracle testimonies, including livecalls and video presentations, and frequent, special guest appearances.</desc>
+  </programme>
+  <programme start="20260711063000 +0000" stop="20260711070000 +0000" channel="ptn">
+    <title>Kingdom Connection with Jentezen Franklin</title>
+  </programme>
+  <programme start="20260711070000 +0000" stop="20260711073000 +0000" channel="ptn">
+    <title>Desire Of All Nations</title>
+  </programme>
+  <programme start="20260711073000 +0000" stop="20260711080000 +0000" channel="ptn">
+    <title>Samuel Rodriguez</title>
+  </programme>
+  <programme start="20260711080000 +0000" stop="20260711100000 +0000" channel="ptn">
+    <title>Valor Christian College Chapel</title>
+  </programme>
+  <programme start="20260711100000 +0000" stop="20260711103000 +0000" channel="ptn">
+    <title>Faithville</title>
+    <desc>Fun-filled, action-packed 30-minute comedy set in the 1940's to teach God's Word! Something taught with pleasure is learned full measure!</desc>
+  </programme>
+  <programme start="20260711103000 +0000" stop="20260711110000 +0000" channel="ptn">
+    <title>Miss Charity's Diner</title>
+    <desc>Miss Charity welcomes kids into her diner to learn about Friendship, Patience, Faithfulness, Creativity and more! Stop in to hear a story with Miss Geranium, visit with Farmer Shalom and Dusty the dog, or learn safety and responsibility from Constable Howie. A fun-filled lesson teaching God's Word in every show.</desc>
+  </programme>
+  <programme start="20260711110000 +0000" stop="20260711113000 +0000" channel="ptn">
+    <title>Seasons</title>
+    <desc>Follow the journey of young Josh and sister Lexie who go to live with the grandparents when life becomes difficult for single mother Debbie. See that God is faithful even in the most difficult of circumstances and discover a show that gives hope to every generation.</desc>
+  </programme>
+  <programme start="20260711113000 +0000" stop="20260711120000 +0000" channel="ptn">
+    <title>Gospel Time Square</title>
+    <desc>Friends meet at Gospel Time Square, the corner of 7th St. and Narrow Way. Join Melody and the rest as they learn about some of life's biggest lessons! Respect, Family, Serving and more!</desc>
+  </programme>
+  <programme start="20260711120000 +0000" stop="20260711123000 +0000" channel="ptn">
+    <title>Lessons From The Bible, with Pastor Doug</title>
+    <desc>Join Pastor Doug, Dusty, Amelia and all the characters as they learn about the Bible and how it applies to daily life. Games, songs, and some silly puppets will inspire kids to follow along and get into God's Word!</desc>
+  </programme>
+  <programme start="20260711123000 +0000" stop="20260711130000 +0000" channel="ptn">
+    <title>Faithville</title>
+    <desc>Fun-filled, action-packed 30-minute comedy set in the 1940's to teach God's Word! Something taught with pleasure is learned full measure!</desc>
+  </programme>
+  <programme start="20260711130000 +0000" stop="20260711133000 +0000" channel="ptn">
+    <title>Miss Charity's Diner</title>
+    <desc>Miss Charity welcomes kids into her diner to learn about Friendship, Patience, Faithfulness, Creativity and more! Stop in to hear a story with Miss Geranium, visit with Farmer Shalom and Dusty the dog, or learn safety and responsibility from Constable Howie. A fun-filled lesson teaching God's Word in every show.</desc>
+  </programme>
+  <programme start="20260711133000 +0000" stop="20260711140000 +0000" channel="ptn">
+    <title>Seasons</title>
+    <desc>Follow the journey of young Josh and sister Lexie who go to live with the grandparents when life becomes difficult for single mother Debbie. See that God is faithful even in the most difficult of circumstances and discover a show that gives hope to every generation.</desc>
+  </programme>
+  <programme start="20260711140000 +0000" stop="20260711143000 +0000" channel="ptn">
+    <title>Gospel Time Square</title>
+    <desc>Friends meet at Gospel Time Square, the corner of 7th St. and Narrow Way. Join Melody and the rest as they learn about some of life's biggest lessons! Respect, Family, Serving and more!</desc>
+  </programme>
+  <programme start="20260711143000 +0000" stop="20260711150000 +0000" channel="ptn">
+    <title>Lessons From The Bible, with Pastor Doug</title>
+    <desc>Join Pastor Doug, Dusty, Amelia and all the characters as they learn about the Bible and how it applies to daily life. Games, songs, and some silly puppets will inspire kids to follow along and get into God's Word!</desc>
+  </programme>
+  <programme start="20260711150000 +0000" stop="20260711160000 +0000" channel="ptn">
+    <title>ORU Chapel</title>
+  </programme>
+  <programme start="20260711160000 +0000" stop="20260711163000 +0000" channel="ptn">
+    <title>The James Epperly Show</title>
+    <desc>"The James Epperly Show" is a Christian television program that aims to inspire and uplift viewers through faith-based content. Hosted by Pastor James Epperly, the show features insightful sermons, engaging interviews with prominent Christian figures, and heartfelt testimonials from individuals who have experienced life-changing transformations through faith. Each episode is designed to offer spiritual guidance, biblical wisdom, and practical advice for living a Christ-centered life. With its friendly and welcoming vibe, 'The James Epperly Show' aims to support viewers' spiritual development and enhance their connection with God, making it a treasured part of their weekly viewing schedule.</desc>
+  </programme>
+  <programme start="20260711163000 +0000" stop="20260711170000 +0000" channel="ptn">
+    <title>Faith &amp; Law</title>
+    <desc>Faith &amp; Law is a 30-minute variety program that focuses on theintersection of faith and law.</desc>
+  </programme>
+  <programme start="20260711170000 +0000" stop="20260711190000 +0000" channel="ptn">
+    <title>Valor Christian College Chapel</title>
+  </programme>
+  <programme start="20260711190000 +0000" stop="20260711193000 +0000" channel="ptn">
+    <title>Christian Music Countdown</title>
+  </programme>
+  <programme start="20260711193000 +0000" stop="20260711200000 +0000" channel="ptn">
+    <title>Worldview Matters</title>
+    <desc>On Worldview Matters, Fiorazo and expert guests tackle currentevents, demonic agendas &amp; movements, and controversial topics includingchurch &amp; state issues, religious freedom, the culture war, Bible prophecy,education, politics, media &amp; more.</desc>
+  </programme>
+  <programme start="20260711200000 +0000" stop="20260711203000 +0000" channel="ptn">
+    <title>The James Epperly Show</title>
+    <desc>"The James Epperly Show" is a Christian television program that aims to inspire and uplift viewers through faith-based content. Hosted by Pastor James Epperly, the show features insightful sermons, engaging interviews with prominent Christian figures, and heartfelt testimonials from individuals who have experienced life-changing transformations through faith. Each episode is designed to offer spiritual guidance, biblical wisdom, and practical advice for living a Christ-centered life. With its friendly and welcoming vibe, 'The James Epperly Show' aims to support viewers' spiritual development and enhance their connection with God, making it a treasured part of their weekly viewing schedule.</desc>
+  </programme>
+  <programme start="20260711203000 +0000" stop="20260711210000 +0000" channel="ptn">
+    <title>VFI News</title>
+    <desc>VFI News with Barry Segal brings you timely, insightful reports on Israel, the Middle East, andglobal events - analysed through a biblical and prophetic lens.</desc>
+  </programme>
+  <programme start="20260711210000 +0000" stop="20260711213000 +0000" channel="ptn">
+    <title>The Jim Bakker Show</title>
+    <desc>The Jim Bakker Show is an hour-long dailyChristian broadcast that is aired throughout the United States, Canada, and theentire world through multiple broadcasts on Directv, Dish Network and otherworld wide satellites, PTL Television Network, and the Pioneer Network. Join Jim and Lori Bakker as they bring tothe stage today’s greatest prophets, health experts, and leaders of theChristian world to discuss and understand Biblical prophecy and the Revelationsof God’s Word.</desc>
+  </programme>
+  <programme start="20260711213000 +0000" stop="20260711230000 +0000" channel="ptn">
+    <title>Hope City Church</title>
+    <desc>Join Pastor James Epperly and the congregation of Hope City Church for inspirational teaching and ministry.</desc>
+  </programme>
+  <programme start="20260711230000 +0000" stop="20260712000000 +0000" channel="ptn">
+    <title>ORU Chapel</title>
+    <desc>Ranked as one of the Top 50 “Most DiverseColleges in America” and Oklahoma’s #1 university for diversity (Niche 2023),ORU https://oru.edu/ https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbllUSTZqTUJzVGRzTU90OV82YVVWc1liNEJrZ3xBQ3Jtc0tramk4WUVQcUNabmM5SGlNQklEX2JJSk9kMVJ5MmNJQWFFLWlfTTBULXY3WnF0T3g2LUtiV3JOaW1mR0o2N20tOS04N0ZqUUlNblRNTWhyWkx5QVVzemQ5VDNqNTUzM1BZc2o1S1hFOHVEZEFtYU1mbw&amp;q=https%3A%2F%2Foru.edu%2F&amp;v=rPj4d3Ei0EU is a multicultural, global campus withmore than 4,500 students representing well over 120 nations. And as a Top 10university for Engagement (Wall Street Journal/Times Higher Ed ranked), ORUworks closely with students to develop whole leaders for the whole worldthrough a unique Whole Person approach to college education. If you’re anon-campus student or if you’re seeking an online education, ORU offersbachelors, masters, and doctoral degrees in a global, Spirit-empoweredenvironment. Explore Oral Roberts University https://oru.edu/</desc>
+  </programme>
+  <programme start="20260712000000 +0000" stop="20260712003000 +0000" channel="ptn">
+    <title>The James Epperly Show</title>
+    <desc>"The James Epperly Show" is a Christian television program that aims to inspire and uplift viewers through faith-based content. Hosted by Pastor James Epperly, the show features insightful sermons, engaging interviews with prominent Christian figures, and heartfelt testimonials from individuals who have experienced life-changing transformations through faith. Each episode is designed to offer spiritual guidance, biblical wisdom, and practical advice for living a Christ-centered life. With its friendly and welcoming vibe, 'The James Epperly Show' aims to support viewers' spiritual development and enhance their connection with God, making it a treasured part of their weekly viewing schedule.</desc>
+  </programme>
+  <programme start="20260712003000 +0000" stop="20260712010000 +0000" channel="ptn">
+    <title>Life In Christ With Pastor Joe Spence</title>
+  </programme>
+  <programme start="20260712010000 +0000" stop="20260712013000 +0000" channel="ptn">
+    <title>Christian Music Countdown</title>
+  </programme>
+  <programme start="20260712013000 +0000" stop="20260712020000 +0000" channel="ptn">
+    <title>Manna Fest with Perry Stone</title>
+    <desc>Manna-fest is the weekly television program of Perry Stone that deals with in-depth prophetic and practical studies of the Word of God. As biblical prophecy continues to unfold, you will find Manna-fest to be a resource to help you better understand where we are now in light of Bible prophecy and what the Bible says about the future. Be sure to tune in each week!</desc>
+  </programme>
+  <programme start="20260712020000 +0000" stop="20260712040000 +0000" channel="ptn">
+    <title>Valor Christian College Chapel</title>
+  </programme>
+  <programme start="20260712040000 +0000" stop="20260712060000 +0000" channel="ptn">
+    <title>Be Made Whole Worldwide Prayer Cloth Service with Rod Parsley</title>
+    <desc>Experience the powerful anointing of our Be Made Whole Worldwide Prayer Cloth Service featuring Harvest Music Live and our outstanding choir. The miracle-working power of God changed multiplied hundreds of thousands, and now you can reserve your anointed prayer cloth from this year’s altar. The tangible transferrable anointing can heal your body, produce deliverance, family restoration, financial breakthrough, whatever you need!</desc>
+  </programme>
+  <programme start="20260712060000 +0000" stop="20260712063000 +0000" channel="ptn">
+    <title>The Place For Miracles</title>
+    <desc>The Place forMiracles is a half-hour broadcast hosted by Richard and Lindsay Roberts. Theprogram focuses on the power of prayer and biblical teaching by Richard andLindsay, plus occasional videos featuring classic sermons from Oral Roberts,praise and worship music, “Living Proof” miracle testimonies, including livecalls and video presentations, and frequent, special guest appearances.</desc>
+  </programme>
+  <programme start="20260712063000 +0000" stop="20260712070000 +0000" channel="ptn">
+    <title>Kingdom Connection with Jentezen Franklin</title>
   </programme>
 </tv>

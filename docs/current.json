@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T06:30:00+00:00"
+      "start": "2026-06-28T06:30:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "Jesus the Healer With Nancy Dufresne",
-      "start": "2026-06-27T06:30:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "title": "In Touch With Dr. Charles Stanley",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T07:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T06:30:00+00:00"
+      "start": "2026-06-28T06:00:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "The Art Of Pairing",
-      "start": "2026-06-27T06:30:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "title": "Peace Insight",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T07:30:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T08:00:00+00:00"
+      "start": "2026-06-28T06:00:00+00:00",
+      "end": "2026-06-28T08:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-06-27T08:00:00+00:00",
-      "end": "2026-06-27T10:00:00+00:00"
+      "start": "2026-06-28T08:00:00+00:00",
+      "end": "2026-06-28T10:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,52 +47,52 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "start": "2026-06-28T06:00:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "Exploring e-Bikes",
-      "start": "2026-06-27T07:00:00+00:00",
-      "end": "2026-06-27T08:00:00+00:00"
+      "title": "Christmas in July Sale",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T08:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "start": "2026-06-28T06:00:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "DG2 by Diane Gilman Fashions - Birthday Premiere",
-      "start": "2026-06-27T07:00:00+00:00",
-      "end": "2026-06-27T08:00:00+00:00"
+      "title": "Debbie & Adam's Friday Night House Party!",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T08:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:10:00+00:00",
-      "end": "2026-06-27T06:54:00+00:00"
+      "start": "2026-06-28T06:10:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "A Culture Built with Wood",
-      "start": "2026-06-27T06:54:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "title": "NHK Newsline",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T07:10:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T06:30:00+00:00"
+      "start": "2026-06-28T06:30:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "Family Feud",
-      "start": "2026-06-27T06:30:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "title": "Password",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T07:30:00+00:00"
     }
   },
   "byutv": {
@@ -104,52 +104,52 @@
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T06:30:00+00:00"
+      "start": "2026-06-28T06:00:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "Christian Social Order",
-      "start": "2026-06-27T06:30:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "title": "EWTN Live",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T08:00:00+00:00"
     }
   },
   "rightnowtv": {
     "name": "Right Now TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "start": "2026-06-28T04:00:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "MidAtlantic Wrestling",
-      "start": "2026-06-27T07:00:00+00:00",
-      "end": "2026-06-27T08:00:00+00:00"
+      "title": "Rocky Mountain Pro Charged Wrestling",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T08:00:00+00:00"
     }
   },
   "classicarts": {
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T10:00:00+00:00"
+      "start": "2026-06-28T06:00:00+00:00",
+      "end": "2026-06-28T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-06-27T10:00:00+00:00",
-      "end": "2026-06-27T14:00:00+00:00"
+      "start": "2026-06-28T10:00:00+00:00",
+      "end": "2026-06-28T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "start": "2026-06-28T06:30:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "John MacArthur: Grace to You",
-      "start": "2026-06-27T07:00:00+00:00",
-      "end": "2026-06-27T07:30:00+00:00"
+      "title": "Brother Dave Lombardi",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T07:30:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T06:30:00+00:00"
+      "start": "2026-06-28T06:00:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "Newton Media -- Get Involved",
-      "start": "2026-06-27T06:30:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "title": "Tomorrow's World",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T07:30:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T08:00:00+00:00"
+      "start": "2026-06-28T06:00:00+00:00",
+      "end": "2026-06-28T08:00:00+00:00"
     },
     "next": {
-      "title": "The Time of Your Life",
-      "start": "2026-06-27T08:00:00+00:00",
-      "end": "2026-06-27T10:00:00+00:00"
+      "title": "Guest in the House",
+      "start": "2026-06-28T08:00:00+00:00",
+      "end": "2026-06-28T10:30:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T06:00:00+00:00",
-      "end": "2026-06-27T06:30:00+00:00"
+      "start": "2026-06-28T06:30:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "Christ Kingdom Welfare Ministries",
-      "start": "2026-06-27T06:30:00+00:00",
-      "end": "2026-06-27T07:00:00+00:00"
+      "title": "Atlas For Men Outdoor Collection",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T07:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,13 +210,13 @@
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-06-27T05:00:00+00:00",
-      "end": "2026-06-27T06:30:00+00:00"
+      "start": "2026-06-28T06:30:00+00:00",
+      "end": "2026-06-28T07:00:00+00:00"
     },
     "next": {
-      "title": "Prisoners of War",
-      "start": "2026-06-27T06:30:00+00:00",
-      "end": "2026-06-27T08:00:00+00:00"
+      "title": "Bubbies Know Best",
+      "start": "2026-06-28T07:00:00+00:00",
+      "end": "2026-06-28T07:30:00+00:00"
     }
   }
 }
