@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T07:30:00+00:00"
+      "start": "2026-07-02T05:00:00+00:00",
+      "end": "2026-07-02T06:30:00+00:00"
     },
     "next": {
-      "title": "Reflections",
-      "start": "2026-07-01T07:30:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "title": "Jesus the Healer With Nancy Dufresne",
+      "start": "2026-07-02T06:30:00+00:00",
+      "end": "2026-07-02T07:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T07:05:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T06:30:00+00:00"
     },
     "next": {
-      "title": "K-Arts Artists",
-      "start": "2026-07-01T07:05:00+00:00",
-      "end": "2026-07-01T07:30:00+00:00"
+      "title": "K-Culture Minutes: K-Stage",
+      "start": "2026-07-02T06:30:00+00:00",
+      "end": "2026-07-02T06:50:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T06:00:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T08:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-07-01T08:00:00+00:00",
-      "end": "2026-07-01T10:00:00+00:00"
+      "start": "2026-07-02T08:00:00+00:00",
+      "end": "2026-07-02T10:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,52 +47,52 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "start": "2026-07-02T05:00:00+00:00",
+      "end": "2026-07-02T07:00:00+00:00"
     },
     "next": {
-      "title": "Barefoot Dreams -- California Style Clearance",
-      "start": "2026-07-01T08:00:00+00:00",
-      "end": "2026-07-01T09:00:00+00:00"
+      "title": "American West Jewelry",
+      "start": "2026-07-02T07:00:00+00:00",
+      "end": "2026-07-02T08:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T07:00:00+00:00"
     },
     "next": {
-      "title": "Overnight TBD",
-      "start": "2026-07-01T08:00:00+00:00",
-      "end": "2026-07-01T09:00:00+00:00"
+      "title": "Storage Solutions Celebration - All on Sale",
+      "start": "2026-07-02T07:00:00+00:00",
+      "end": "2026-07-02T08:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T07:30:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T06:30:00+00:00"
     },
     "next": {
-      "title": "Frontrunners",
-      "start": "2026-07-01T07:30:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "title": "Core Kyoto",
+      "start": "2026-07-02T06:30:00+00:00",
+      "end": "2026-07-02T07:00:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T07:30:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T06:30:00+00:00"
     },
     "next": {
-      "title": "Password",
-      "start": "2026-07-01T07:30:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "title": "Family Feud",
+      "start": "2026-07-02T06:30:00+00:00",
+      "end": "2026-07-02T07:00:00+00:00"
     }
   },
   "byutv": {
@@ -104,52 +104,52 @@
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T06:00:00+00:00",
-      "end": "2026-07-01T08:30:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T06:30:00+00:00"
     },
     "next": {
-      "title": "EWTN News Nightly",
-      "start": "2026-07-01T08:30:00+00:00",
-      "end": "2026-07-01T09:00:00+00:00"
+      "title": "Serra: Ever Forward, Never Back",
+      "start": "2026-07-02T06:30:00+00:00",
+      "end": "2026-07-02T07:00:00+00:00"
     }
   },
   "rightnowtv": {
     "name": "Right Now TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T07:00:00+00:00"
     },
     "next": {
-      "title": "Country Fix",
-      "start": "2026-07-01T08:00:00+00:00",
-      "end": "2026-07-01T08:30:00+00:00"
+      "title": "World Poker Tour",
+      "start": "2026-07-02T07:00:00+00:00",
+      "end": "2026-07-02T08:00:00+00:00"
     }
   },
   "classicarts": {
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T06:00:00+00:00",
-      "end": "2026-07-01T10:00:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-07-01T10:00:00+00:00",
-      "end": "2026-07-01T14:00:00+00:00"
+      "start": "2026-07-02T10:00:00+00:00",
+      "end": "2026-07-02T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T06:00:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T08:00:00+00:00"
     },
     "next": {
       "title": "RadiantTV",
-      "start": "2026-07-01T08:00:00+00:00",
-      "end": "2026-07-01T10:00:00+00:00"
+      "start": "2026-07-02T08:00:00+00:00",
+      "end": "2026-07-02T10:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T06:30:00+00:00"
     },
     "next": {
-      "title": "Joyce Meyer Enjoying Everyday Life",
-      "start": "2026-07-01T08:00:00+00:00",
-      "end": "2026-07-01T08:30:00+00:00"
+      "title": "Newton Media -- Get Involved",
+      "start": "2026-07-02T06:30:00+00:00",
+      "end": "2026-07-02T07:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,27 +179,19 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T05:40:00+00:00",
-      "end": "2026-07-01T07:30:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T07:30:00+00:00"
     },
     "next": {
-      "title": "The Inspector General",
-      "start": "2026-07-01T07:30:00+00:00",
-      "end": "2026-07-01T09:30:00+00:00"
+      "title": "This Is the Army",
+      "start": "2026-07-02T07:30:00+00:00",
+      "end": "2026-07-02T09:40:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
-    "current": {
-      "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T07:30:00+00:00"
-    },
-    "next": {
-      "title": "Facing the Canon: John John Lennox (Part Two)",
-      "start": "2026-07-01T07:30:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
-    }
+    "current": null,
+    "next": null
   },
   "bctv": {
     "name": "Being Catholic TV",
@@ -210,13 +202,13 @@
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-01T07:00:00+00:00",
-      "end": "2026-07-01T07:30:00+00:00"
+      "start": "2026-07-02T06:00:00+00:00",
+      "end": "2026-07-02T06:30:00+00:00"
     },
     "next": {
-      "title": "Annie Oakley",
-      "start": "2026-07-01T07:30:00+00:00",
-      "end": "2026-07-01T08:00:00+00:00"
+      "title": "America Undiscovered",
+      "start": "2026-07-02T06:30:00+00:00",
+      "end": "2026-07-02T07:10:00+00:00"
     }
   }
 }
