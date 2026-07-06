@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T06:30:00+00:00"
+      "start": "2026-07-06T06:30:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "Glorious Moments with Prophet Jerome Fernando",
-      "start": "2026-07-05T06:30:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "title": "Reflections",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T07:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "start": "2026-07-06T06:50:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "Peace Insight",
-      "start": "2026-07-05T07:00:00+00:00",
-      "end": "2026-07-05T07:30:00+00:00"
+      "title": "AI Headline News",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T07:05:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T08:00:00+00:00"
+      "start": "2026-07-06T06:00:00+00:00",
+      "end": "2026-07-06T08:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-07-05T08:00:00+00:00",
-      "end": "2026-07-05T10:00:00+00:00"
+      "start": "2026-07-06T08:00:00+00:00",
+      "end": "2026-07-06T10:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,52 +47,52 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "start": "2026-07-06T06:00:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "HP Computer Workshop",
-      "start": "2026-07-05T07:00:00+00:00",
-      "end": "2026-07-05T08:00:00+00:00"
+      "title": "Revitalign Full Contact Comfort Footwear",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T08:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "start": "2026-07-06T06:00:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "Birkenstock Footwear Celebration - All On Free Shipping",
-      "start": "2026-07-05T07:00:00+00:00",
-      "end": "2026-07-05T08:00:00+00:00"
+      "title": "Home Cleaning Celebration featuring Ruvio Premiere",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T08:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:10:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "start": "2026-07-06T06:55:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "NHK Newsline",
-      "start": "2026-07-05T07:00:00+00:00",
-      "end": "2026-07-05T07:10:00+00:00"
+      "title": "Newsline Asia 24",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T07:30:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T06:30:00+00:00"
+      "start": "2026-07-06T06:30:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "Family Feud",
-      "start": "2026-07-05T06:30:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "title": "Password",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T07:30:00+00:00"
     }
   },
   "byutv": {
@@ -104,52 +104,52 @@
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "start": "2026-07-06T06:45:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "EWTN Live",
-      "start": "2026-07-05T07:00:00+00:00",
-      "end": "2026-07-05T08:00:00+00:00"
+      "title": "EWTN Religious Catalogue",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T07:30:00+00:00"
     }
   },
   "rightnowtv": {
     "name": "Right Now TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T04:00:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "start": "2026-07-06T06:00:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "Rocky Mountain Pro Charged Wrestling",
-      "start": "2026-07-05T07:00:00+00:00",
-      "end": "2026-07-05T08:00:00+00:00"
+      "title": "World Poker Tour",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T08:00:00+00:00"
     }
   },
   "classicarts": {
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T10:00:00+00:00"
+      "start": "2026-07-06T06:00:00+00:00",
+      "end": "2026-07-06T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-07-05T10:00:00+00:00",
-      "end": "2026-07-05T14:00:00+00:00"
+      "start": "2026-07-06T10:00:00+00:00",
+      "end": "2026-07-06T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T06:30:00+00:00"
+      "start": "2026-07-06T06:00:00+00:00",
+      "end": "2026-07-06T08:00:00+00:00"
     },
     "next": {
-      "title": "Roots & Reflections With Barry Segal",
-      "start": "2026-07-05T06:30:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "title": "Radiant TV",
+      "start": "2026-07-06T08:00:00+00:00",
+      "end": "2026-07-06T10:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "start": "2026-07-06T06:30:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "Tomorrow's World",
-      "start": "2026-07-05T07:00:00+00:00",
-      "end": "2026-07-05T07:30:00+00:00"
+      "title": "Inspiration Ministries Camp Meeting",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T08:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T08:00:00+00:00"
+      "start": "2026-07-06T06:15:00+00:00",
+      "end": "2026-07-06T08:00:00+00:00"
     },
     "next": {
-      "title": "Pride and Prejudice",
-      "start": "2026-07-05T08:00:00+00:00",
-      "end": "2026-07-05T10:10:00+00:00"
+      "title": "Julie",
+      "start": "2026-07-06T08:00:00+00:00",
+      "end": "2026-07-06T10:00:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T06:30:00+00:00"
+      "start": "2026-07-06T06:30:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "Evangelical Global Outreach",
-      "start": "2026-07-05T06:30:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "title": "Faith Flow Podcast",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T07:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,13 +210,13 @@
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-05T06:00:00+00:00",
-      "end": "2026-07-05T06:30:00+00:00"
+      "start": "2026-07-06T06:30:00+00:00",
+      "end": "2026-07-06T07:00:00+00:00"
     },
     "next": {
-      "title": "Bubbies Know Best",
-      "start": "2026-07-05T06:30:00+00:00",
-      "end": "2026-07-05T07:00:00+00:00"
+      "title": "Land of Israel: God's Story",
+      "start": "2026-07-06T07:00:00+00:00",
+      "end": "2026-07-06T07:30:00+00:00"
     }
   }
 }
