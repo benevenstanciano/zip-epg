@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:30:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "The Love of God With Dr. Brodhagen",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T06:30:00+00:00"
+      "title": "Paula Today",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T06:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:30:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "PerformArts Reload",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T07:00:00+00:00"
+      "title": "Trip In Korea",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T06:30:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T04:00:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T04:00:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T08:00:00+00:00"
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T08:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,52 +47,52 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:00:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:00:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "Christmas in July Sale",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T07:00:00+00:00"
+      "title": "Just Reduced - Fashion & Accessories",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T07:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:00:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:00:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "Debbie & Adam's Friday Night House Party!",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T07:00:00+00:00"
+      "title": "Summer Electronics On The Go",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T07:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:45:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:55:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "NHK Newsline",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T06:10:00+00:00"
+      "title": "Newsline Asia 24",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T06:30:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:30:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
       "title": "Paid Programming",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T06:30:00+00:00"
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T06:30:00+00:00"
     }
   },
   "byutv": {
@@ -104,52 +104,52 @@
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:00:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T07:00:00+00:00"
     },
     "next": {
-      "title": "Saint Benedict of Nursia",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T07:00:00+00:00"
+      "title": "EWTN Religious Catalogue",
+      "start": "2026-07-13T07:00:00+00:00",
+      "end": "2026-07-13T07:30:00+00:00"
     }
   },
   "rightnowtv": {
     "name": "Right Now TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T04:00:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "Gotham Wrestling",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T07:00:00+00:00"
+      "title": "Daily Flash",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T07:00:00+00:00"
     }
   },
   "classicarts": {
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T02:00:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T02:00:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T10:00:00+00:00"
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T10:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:30:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "Billy Graham Classics",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T06:30:00+00:00"
+      "title": "Radiant TV",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T08:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:30:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "In Touch With Dr. Charles Stanley",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T07:00:00+00:00"
+      "title": "Joseph Prince Ministries",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T06:30:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T04:00:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:55:00+00:00",
+      "end": "2026-07-13T07:35:00+00:00"
     },
     "next": {
-      "title": "Dr. Paul Bearer's Creature Feature",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T08:00:00+00:00"
+      "title": "Something Big",
+      "start": "2026-07-13T07:35:00+00:00",
+      "end": "2026-07-13T09:35:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:30:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "Foundation on a Solid Rock Ministry",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T06:30:00+00:00"
+      "title": "The Prophetic Connection",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T06:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,13 +210,13 @@
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-07-12T05:00:00+00:00",
-      "end": "2026-07-12T06:00:00+00:00"
+      "start": "2026-07-13T05:30:00+00:00",
+      "end": "2026-07-13T06:00:00+00:00"
     },
     "next": {
-      "title": "Bubbies Know Best",
-      "start": "2026-07-12T06:00:00+00:00",
-      "end": "2026-07-12T06:30:00+00:00"
+      "title": "ILTV News",
+      "start": "2026-07-13T06:00:00+00:00",
+      "end": "2026-07-13T06:30:00+00:00"
     }
   }
 }
