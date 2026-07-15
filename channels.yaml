@@ -190,6 +190,16 @@ channels:
       - source: uk
         channel_id: "BeingCatholicTV.uk"
 
+  - id: jbs
+    name: JBS
+    enabled: true
+    placeholder:
+      title: "JBS"
+      description: "Jewish Broadcasting Service"
+    epg_sources:
+      - source: us
+        channel_id: "JBS.us"      
+
   - id: jltv
     name: JLTV
     enabled: true
