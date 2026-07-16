@@ -3,29 +3,6 @@
   <channel id="ptn">
     <display-name>Pioneer Network</display-name>
   </channel>
-  <programme start="20260716040000 +0000" stop="20260716060000 +0000" channel="ptn">
-    <title>Raise The Standard Conference with Rod Parsley</title>
-  </programme>
-  <programme start="20260716060000 +0000" stop="20260716063000 +0000" channel="ptn">
-    <title>The Place For Miracles</title>
-    <desc>The Place forMiracles is a half-hour broadcast hosted by Richard and Lindsay Roberts. Theprogram focuses on the power of prayer and biblical teaching by Richard andLindsay, plus occasional videos featuring classic sermons from Oral Roberts,praise and worship music, “Living Proof” miracle testimonies, including livecalls and video presentations, and frequent, special guest appearances.</desc>
-  </programme>
-  <programme start="20260716063000 +0000" stop="20260716070000 +0000" channel="ptn">
-    <title>Kingdom Connection with Jentezen Franklin</title>
-  </programme>
-  <programme start="20260716070000 +0000" stop="20260716073000 +0000" channel="ptn">
-    <title>Desire Of All Nations</title>
-  </programme>
-  <programme start="20260716073000 +0000" stop="20260716080000 +0000" channel="ptn">
-    <title>Samuel Rodriguez</title>
-  </programme>
-  <programme start="20260716080000 +0000" stop="20260716083000 +0000" channel="ptn">
-    <title>The Jim Bakker Show</title>
-  </programme>
-  <programme start="20260716083000 +0000" stop="20260716090000 +0000" channel="ptn">
-    <title>Believer’s Voice of Victory</title>
-    <desc>KCMis committed to keeping the Word of God before your eyes—teaching you how tolive victoriously—so that you are rooted and grounded enough to overcome yourown adversity, reach out to others and share those same principles. We endeavorto bring believers from the milk to the meat of the Word, and into fullmaturity in their walk with God. Oneword from God has transformed the lives of thousands who dared to hear andbelieve. And one word from God will do the same for you.</desc>
-  </programme>
   <programme start="20260716090000 +0000" stop="20260716093000 +0000" channel="ptn">
     <title>Paula Today with Paula Whie-Cain</title>
     <desc>Paula White-Cain along with her husband, Jonathan Cain discuss real life situations and offer practical, Biblical solutions. Down-to-earth, refreshing, sometimes unfiltered and always sharing the life-changing love of Jesus thru Paula’s in-depth teaching or Jon’s anointed music.</desc>
@@ -2053,5 +2030,29 @@
   </programme>
   <programme start="20260730040000 +0000" stop="20260730060000 +0000" channel="ptn">
     <title>Raise The Standard Conference with Rod Parsley</title>
+  </programme>
+  <programme start="20260730060000 +0000" stop="20260730063000 +0000" channel="ptn">
+    <title>The Place For Miracles</title>
+    <desc>The Place forMiracles is a half-hour broadcast hosted by Richard and Lindsay Roberts. Theprogram focuses on the power of prayer and biblical teaching by Richard andLindsay, plus occasional videos featuring classic sermons from Oral Roberts,praise and worship music, “Living Proof” miracle testimonies, including livecalls and video presentations, and frequent, special guest appearances.</desc>
+  </programme>
+  <programme start="20260730063000 +0000" stop="20260730070000 +0000" channel="ptn">
+    <title>Kingdom Connection with Jentezen Franklin</title>
+  </programme>
+  <programme start="20260730070000 +0000" stop="20260730073000 +0000" channel="ptn">
+    <title>Desire Of All Nations</title>
+  </programme>
+  <programme start="20260730073000 +0000" stop="20260730080000 +0000" channel="ptn">
+    <title>Samuel Rodriguez</title>
+  </programme>
+  <programme start="20260730080000 +0000" stop="20260730083000 +0000" channel="ptn">
+    <title>The Jim Bakker Show</title>
+  </programme>
+  <programme start="20260730083000 +0000" stop="20260730090000 +0000" channel="ptn">
+    <title>Believer’s Voice of Victory</title>
+    <desc>KCMis committed to keeping the Word of God before your eyes—teaching you how tolive victoriously—so that you are rooted and grounded enough to overcome yourown adversity, reach out to others and share those same principles. We endeavorto bring believers from the milk to the meat of the Word, and into fullmaturity in their walk with God. Oneword from God has transformed the lives of thousands who dared to hear andbelieve. And one word from God will do the same for you.</desc>
+  </programme>
+  <programme start="20260730090000 +0000" stop="20260730093000 +0000" channel="ptn">
+    <title>Paula Today with Paula Whie-Cain</title>
+    <desc>Paula White-Cain along with her husband, Jonathan Cain discuss real life situations and offer practical, Biblical solutions. Down-to-earth, refreshing, sometimes unfiltered and always sharing the life-changing love of Jesus thru Paula’s in-depth teaching or Jon’s anointed music.</desc>
   </programme>
 </tv>
