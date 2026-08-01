@@ -7133,6 +7133,26 @@ A Deputy U.S. Marshal arrives to escort a man to California to testify against a
     <icon src="https://iptv-epg.org/images/q9rI_F4aIGGiHH-sIcJWO8eGVkv-dD8-J3O4wwXuP6D0WYTKLG_xkiSuF8Me4BIQ8tk6n-oE7JBlAd33zYJJFZQ4gnSO3sUA0ARw-DJqVgk"/>
     <title lang="en">Star Trek: The Motion Picture</title>
   </programme>
+  <programme channel="nost" start="20260802192500 +0000" stop="20260802210000 +0000"><category lang="en">Western</category>
+    <category lang="en">Movie</category>
+    <credits>
+      <director>Irving Cummings</director>
+      <producer>Kenneth Macgowan</producer>
+      <actor>Gene Tierney</actor>
+      <actor>Randolph Scott</actor>
+      <actor>Dana Andrews</actor>
+      <actor>Shepperd Strudwick</actor>
+      <actor>Elizabeth Patterson</actor>
+      <actor>Chill Wills</actor>
+      <actor>Louise Beavers</actor>
+      <actor>Olin Howland</actor>
+      <actor>Paul Burns</actor>
+    </credits>
+    <date>1941</date>
+    <desc lang="en">The Southerner (Gene Tierney) and her husband (Randolph Scott) are still fighting the Civil War, chased by a Union major (Dana Andrews) smitten with Belle.</desc>
+    <icon src="https://iptv-epg.org/images/GVVTMpqn9puAfIcuDEilnzehAYt4l0tD_ZU5gXpy8LX2ZZSfgAm4gTAa-9pIkyPZ_Vq1VqkwQVcwINW1rUI9Sfrhu0OqwmfgSnOsDXoMGwk"/>
+    <title lang="en">Belle Starr</title>
+  </programme>
   <programme channel="faithworld" start="20260801013000 +0000" stop="20260801020000 +0000"><desc lang="en">Royal Ladies International.</desc>
     <title lang="en">Life &amp; Issues</title>
   </programme>
