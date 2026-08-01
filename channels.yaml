@@ -88,7 +88,7 @@ channels:
       description: "Family-friendly TV"
     epg_sources:
       - source: us
-        channel_id: "BYUTV.us"        
+        channel_id: "BYUtv.us"        
 
   - id: ewtn
     name: EWTN
