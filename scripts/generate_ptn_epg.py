@@ -3,6 +3,7 @@
 Standalone PTN EPG generator - robust for GitHub Actions
 """
 
+import re
 import requests
 import sys
 from datetime import datetime, timedelta
@@ -24,6 +25,31 @@ CHANNEL_ID = "ptn"
 CHANNEL_NAME = "Pioneer Network"
 MAX_DAYS = 14
 
+
+def sanitize_ics(text: str) -> str:
+    """Remove VEVENTs where DTSTART >= DTEND so the ics library doesn't choke."""
+    events = re.split(r'(?=BEGIN:VEVENT)', text)
+    header = events[0]
+    good_events = []
+
+    for event in events[1:]:
+        start_m = re.search(r'DTSTART(?:;[^:]*)?:(\d{8}T\d{6}Z?)', event)
+        end_m = re.search(r'DTEND(?:;[^:]*)?:(\d{8}T\d{6}Z?)', event)
+
+        if not start_m or not end_m:
+            continue  # skip malformed
+
+        start = start_m.group(1)
+        end = end_m.group(1)
+
+        # Compare as strings (works for YYYYMMDDTHHMMSS format)
+        if start < end:
+            good_events.append(event)
+        # else: skip the bad event silently
+
+    return header + ''.join(good_events)
+
+
 def main():
     OUTPUT_DIR.mkdir(exist_ok=True)
     print(f"Working directory: {Path.cwd()}")
@@ -40,10 +66,11 @@ def main():
         print(f"❌ Fetch failed: {e}")
         sys.exit(1)
 
-    # Parse
+    # Sanitize + Parse
     try:
-        cal = Calendar(r.text)
-        print(f"✅ Parsed calendar with {len(cal.events)} events")
+        cleaned = sanitize_ics(r.text)
+        cal = Calendar(cleaned)
+        print(f"✅ Parsed calendar with {len(cal.events)} events (bad events skipped)")
     except Exception as e:
         print(f"❌ ICS parsing failed: {e}")
         sys.exit(1)
@@ -51,6 +78,7 @@ def main():
     # Convert
     tv = convert_to_xmltv(cal)
     save_xml(tv)
+
 
 def convert_to_xmltv(cal):
     print("Converting to XMLTV...")
@@ -89,11 +117,12 @@ def convert_to_xmltv(cal):
                 desc.text = clean_desc[:1200]
 
             count += 1
-        except Exception as e:
+        except Exception:
             continue
 
     print(f"✅ Generated {count} programme entries")
     return tv
+
 
 def save_xml(tv):
     xml_path = OUTPUT_DIR / "epg-ptn.xml"
@@ -104,6 +133,7 @@ def save_xml(tv):
     except Exception as e:
         print(f"❌ Save failed: {e}")
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()
