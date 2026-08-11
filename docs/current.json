@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T04:30:00+00:00"
     },
     "next": {
-      "title": "Dr. Sam",
-      "start": "2026-08-10T04:30:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "title": "Joni Table Talk",
+      "start": "2026-08-11T04:30:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
       "title": "K-Culture Dive",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T05:30:00+00:00"
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T05:30:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-08-10T06:00:00+00:00",
-      "end": "2026-08-10T08:00:00+00:00"
+      "start": "2026-08-11T06:00:00+00:00",
+      "end": "2026-08-11T08:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,117 +47,117 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "Shoe Shopping With Courtney",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "title": "L'Artiste by Spring Step: Footwear",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "Easy Spirit Footwear Clearance",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "title": "Anna Griffin Elegant Paper Crafting",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:10:00+00:00",
-      "end": "2026-08-10T04:25:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T04:10:00+00:00"
     },
     "next": {
-      "title": "Japan From Above: Up Close",
-      "start": "2026-08-10T04:25:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "title": "Biz Stream",
+      "start": "2026-08-11T04:10:00+00:00",
+      "end": "2026-08-11T04:23:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T04:30:00+00:00"
     },
     "next": {
-      "title": "Press Your Luck",
-      "start": "2026-08-10T04:30:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-08-11T04:30:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:57:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T04:44:00+00:00"
     },
     "next": {
-      "title": "Miss Potter",
-      "start": "2026-08-10T05:57:00+00:00",
-      "end": "2026-08-10T07:34:00+00:00"
+      "title": "Heartland",
+      "start": "2026-08-11T04:44:00+00:00",
+      "end": "2026-08-11T05:29:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:20:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "Litany of the Sacred Heart",
-      "start": "2026-08-10T05:20:00+00:00",
-      "end": "2026-08-10T05:30:00+00:00"
+      "title": "The Journey Home",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   },
   "rightnowtv": {
     "name": "Right Now TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
       "title": "No Data",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   },
   "classicarts": {
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T02:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "start": "2026-08-11T02:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-08-10T06:00:00+00:00",
-      "end": "2026-08-10T10:00:00+00:00"
+      "start": "2026-08-11T06:00:00+00:00",
+      "end": "2026-08-11T10:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "John MacArthur: Grace to You",
-      "start": "2026-08-10T04:30:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "title": "Jewish Voice with Jonathan Bernis",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T05:30:00+00:00"
     }
   },
   "smtv": {
@@ -169,13 +169,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T04:30:00+00:00"
     },
     "next": {
-      "title": "Herbs That Conqueror w/Dr. Gunn",
-      "start": "2026-08-10T04:30:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "title": "Greater Emmanuel With Bishop Sheard",
+      "start": "2026-08-11T04:30:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -187,26 +187,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T06:40:00+00:00"
     },
     "next": {
-      "title": "Jungle Book",
-      "start": "2026-08-10T06:00:00+00:00",
-      "end": "2026-08-10T08:00:00+00:00"
+      "title": "Unconquered",
+      "start": "2026-08-11T06:40:00+00:00",
+      "end": "2026-08-11T09:20:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T03:30:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T04:30:00+00:00"
     },
     "next": {
-      "title": "The Prophetic Connection",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T05:30:00+00:00"
+      "title": "Manna Fest with Perry Stone",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T05:30:00+00:00"
     }
   },
   "bctv": {
@@ -218,39 +218,39 @@
     "name": "JBS",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "Cops Reloaded",
-      "start": "2026-08-10T04:30:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "title": "Police Pursuits by Law&Crime",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   },
   "create": {
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T04:30:00+00:00"
     },
     "next": {
-      "title": "America's Test Kitchen From Cook's Illustrated",
-      "start": "2026-08-10T04:30:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "title": "America's Test Kitchen",
+      "start": "2026-08-11T04:30:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "Finding Your Roots With Henry Louis Gates, Jr.",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "title": "The Mustangs: America's Wild Horses",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:30:00+00:00"
     }
   },
   "skyweather": {
@@ -262,65 +262,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T04:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "Whose Line Is It Anyway?",
-      "start": "2026-08-10T04:30:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "title": "Saturday Night Live",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T04:30:00+00:00"
     },
     "next": {
-      "title": "Cold Case Files",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "title": "Gene Simmons Family Jewels",
+      "start": "2026-08-11T04:30:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "The Outer Limits",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "title": "Xena: Warrior Princess",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:00:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
       "title": "Homicide: Life on the Street",
-      "start": "2026-08-10T05:00:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-10T04:00:00+00:00",
-      "end": "2026-08-10T05:30:00+00:00"
+      "start": "2026-08-11T04:00:00+00:00",
+      "end": "2026-08-11T05:00:00+00:00"
     },
     "next": {
-      "title": "Reviewish",
-      "start": "2026-08-10T05:30:00+00:00",
-      "end": "2026-08-10T06:00:00+00:00"
+      "title": "The J Report With Brad Pomerance",
+      "start": "2026-08-11T05:00:00+00:00",
+      "end": "2026-08-11T06:00:00+00:00"
     }
   }
 }
