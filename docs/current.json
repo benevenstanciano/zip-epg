@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:30:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
     },
     "next": {
-      "title": "Ministry Now",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "title": "Kenneth Copeland",
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
     },
     "next": {
-      "title": "K-Culture Dive",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T05:30:00+00:00"
+      "title": "Home Explorers",
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "start": "2026-08-15T02:00:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-08-14T06:00:00+00:00",
-      "end": "2026-08-14T08:00:00+00:00"
+      "start": "2026-08-15T04:00:00+00:00",
+      "end": "2026-08-15T06:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     },
     "next": {
-      "title": "Fashion Clearance by Stacy London",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T07:00:00+00:00"
+      "title": "Dyson Cleaning",
+      "start": "2026-08-15T04:00:00+00:00",
+      "end": "2026-08-15T05:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     },
     "next": {
-      "title": "DG2 by Diane Gilman Fashions",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "title": "Patricia Nash Handbags & Accessories - All on Free Shipping",
+      "start": "2026-08-15T04:00:00+00:00",
+      "end": "2026-08-15T05:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:30:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:10:00+00:00",
+      "end": "2026-08-15T03:40:00+00:00"
     },
     "next": {
-      "title": "NHK Newsline",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T05:10:00+00:00"
+      "title": "Storyland",
+      "start": "2026-08-15T03:40:00+00:00",
+      "end": "2026-08-15T03:50:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:30:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
     },
     "next": {
-      "title": "Match Game Hollywood Squares Hour",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "title": "Body Language",
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T04:45:00+00:00"
+      "start": "2026-08-15T03:02:00+00:00",
+      "end": "2026-08-15T04:01:00+00:00"
     },
     "next": {
       "title": "Heartland",
-      "start": "2026-08-14T04:45:00+00:00",
-      "end": "2026-08-14T05:30:00+00:00"
+      "start": "2026-08-15T04:01:00+00:00",
+      "end": "2026-08-15T04:46:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
     },
     "next": {
-      "title": "World Over Live",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "title": "Rites of Passage- Leaving Boyhood Behind",
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T02:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "start": "2026-08-15T02:00:00+00:00",
+      "end": "2026-08-15T06:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-08-14T06:00:00+00:00",
-      "end": "2026-08-14T10:00:00+00:00"
+      "start": "2026-08-15T06:00:00+00:00",
+      "end": "2026-08-15T10:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
     },
     "next": {
-      "title": "Jewish Voice with Jonathan Bernis",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T05:30:00+00:00"
+      "title": "David Jeremiah",
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:30:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
     },
     "next": {
-      "title": "Time 4 Video Gospel With Dr. Bobby Jones",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T05:30:00+00:00"
+      "title": "Herbs That Conqueror w/Dr. Gunn",
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,19 +179,27 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T06:10:00+00:00"
+      "start": "2026-08-15T02:00:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     },
     "next": {
-      "title": "Star Trek II: The Wrath of Khan",
-      "start": "2026-08-14T06:10:00+00:00",
-      "end": "2026-08-14T08:15:00+00:00"
+      "title": "Rebel Without a Cause",
+      "start": "2026-08-15T04:00:00+00:00",
+      "end": "2026-08-15T06:05:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
-    "current": null,
-    "next": null
+    "current": {
+      "title": "Unknown",
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
+    },
+    "next": {
+      "title": "New Wine Church",
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
+    }
   },
   "bctv": {
     "name": "Being Catholic TV",
@@ -202,39 +210,39 @@
     "name": "JBS",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:30:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
     },
     "next": {
       "title": "Cops Reloaded",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T05:30:00+00:00"
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     }
   },
   "create": {
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:30:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T03:30:00+00:00"
     },
     "next": {
-      "title": "Steven Raichlen's Project Smoke",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T05:30:00+00:00"
+      "title": "In Julia's Kitchen With Master Chefs",
+      "start": "2026-08-15T03:30:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:30:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     },
     "next": {
-      "title": "POV Shorts",
-      "start": "2026-08-14T05:30:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "title": "Dogs in the Wild, A Nature Miniseries",
+      "start": "2026-08-15T04:00:00+00:00",
+      "end": "2026-08-15T05:00:00+00:00"
     }
   },
   "skyweather": {
@@ -246,65 +254,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     },
     "next": {
       "title": "Saturday Night Live",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "start": "2026-08-15T04:00:00+00:00",
+      "end": "2026-08-15T05:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:30:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T05:00:00+00:00"
     },
     "next": {
       "title": "Cold Case Files",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "start": "2026-08-15T05:00:00+00:00",
+      "end": "2026-08-15T06:00:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T01:00:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     },
     "next": {
-      "title": "Xena: Warrior Princess",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "title": "Olympus Has Fallen",
+      "start": "2026-08-15T04:00:00+00:00",
+      "end": "2026-08-15T06:30:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:00:00+00:00",
-      "end": "2026-08-14T05:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T04:00:00+00:00"
     },
     "next": {
       "title": "Homicide: Life on the Street",
-      "start": "2026-08-14T05:00:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "start": "2026-08-15T04:00:00+00:00",
+      "end": "2026-08-15T05:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-14T04:30:00+00:00",
-      "end": "2026-08-14T06:00:00+00:00"
+      "start": "2026-08-15T03:00:00+00:00",
+      "end": "2026-08-15T04:15:00+00:00"
     },
     "next": {
-      "title": "ILTV News",
-      "start": "2026-08-14T06:00:00+00:00",
-      "end": "2026-08-14T06:30:00+00:00"
+      "title": "Family Mediterranean Fever",
+      "start": "2026-08-15T04:15:00+00:00",
+      "end": "2026-08-15T05:00:00+00:00"
     }
   }
 }
