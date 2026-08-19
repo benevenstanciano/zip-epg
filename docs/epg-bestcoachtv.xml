@@ -3,598 +3,6 @@
   <channel id="bestcoachtv">
     <display-name>Best Coach TV</display-name>
   </channel>
-  <programme start="20260818033454 +0000" stop="20260818035455 +0000" channel="bestcoachtv">
-    <title>Dream Big Coaching Session</title>
-    <desc>Dream Big Coaching Session. This is a short Life Coaching Session to help you achieve your goals and live a better life.</desc>
-  </programme>
-  <programme start="20260818035455 +0000" stop="20260818035526 +0000" channel="bestcoachtv">
-    <title>Welcome to Best Coach TV</title>
-    <desc>Welcome to Best Coach TV. Stay Tuned.</desc>
-  </programme>
-  <programme start="20260818035526 +0000" stop="20260818035547 +0000" channel="bestcoachtv">
-    <title>Watch Brian Mayne on BCTV</title>
-    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
-  </programme>
-  <programme start="20260818035547 +0000" stop="20260818042048 +0000" channel="bestcoachtv">
-    <title>Morning Reflection</title>
-    <desc>Welcome to this Morning Reflection of your life and your inner self. Take a moment to calm and gain clarity. Start your day with a clear mind and a heart full off possibilities.</desc>
-  </programme>
-  <programme start="20260818042048 +0000" stop="20260818044849 +0000" channel="bestcoachtv">
-    <title>Health Fitness Coaching Session</title>
-    <desc>Transform your health today, with the support of this Health &amp; Fitness Coaching Session. The program will give you ideas and inspiration to transform your life. This is your moment to spark your healthy transformation.</desc>
-  </programme>
-  <programme start="20260818044849 +0000" stop="20260818050850 +0000" channel="bestcoachtv">
-    <title>Motivational Session</title>
-    <desc>Journey to renewed motivation. Pause your busy life for a moment and join this session to reflect, to reignite your motivation.</desc>
-  </programme>
-  <programme start="20260818050850 +0000" stop="20260818051021 +0000" channel="bestcoachtv">
-    <title>Quick Coaching Tips</title>
-    <desc>Short and quick program giving you few tips for today.</desc>
-  </programme>
-  <programme start="20260818051021 +0000" stop="20260818053522 +0000" channel="bestcoachtv">
-    <title>Manifest Your Dreams Guided Meditation</title>
-    <desc>Gentle journey inwards. Connect with your dreams, manifest your desires.</desc>
-  </programme>
-  <programme start="20260818053522 +0000" stop="20260818054523 +0000" channel="bestcoachtv">
-    <title>Introduction to Life Coaching</title>
-    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
-  </programme>
-  <programme start="20260818054523 +0000" stop="20260818060024 +0000" channel="bestcoachtv">
-    <title>Tea Time Coaching Session</title>
-    <desc>Take a moment, get your tea and join this life coaching session. Set goals and reach your dreams.</desc>
-  </programme>
-  <programme start="20260818060024 +0000" stop="20260818060030 +0000" channel="bestcoachtv">
-    <title>Your Coach Hi Five</title>
-    <desc>Your Coach Hi Five</desc>
-  </programme>
-  <programme start="20260818060030 +0000" stop="20260818062531 +0000" channel="bestcoachtv">
-    <title>Accept Changes Guided-meditation</title>
-    <desc>Changes happen. Not every change is welcomed, but this guided meditation will help you accept your changes happening in your life right now.</desc>
-  </programme>
-  <programme start="20260818062531 +0000" stop="20260818062832 +0000" channel="bestcoachtv">
-    <title>Welcome to Best Coach TV</title>
-    <desc>Welcome to Best Coach TV, your Life Coaching TV channel bringing you life coaching session, guided life coaching meditations and inspirational programs.</desc>
-  </programme>
-  <programme start="20260818062832 +0000" stop="20260818063833 +0000" channel="bestcoachtv">
-    <title>Time for your Thoughts</title>
-    <desc>Taking moments to reflect is crucial for mental health. It offers a sanctuary from life's pressures, aiding in stress reduction and enhancing self-awareness.</desc>
-  </programme>
-  <programme start="20260818063833 +0000" stop="20260818065334 +0000" channel="bestcoachtv">
-    <title>1 Strengthening Relationships Part 1</title>
-    <desc>This session offers Self-Reflection. We will also address communications skills, both verbal and non-verbal as these are essential for any healthy relationship.</desc>
-  </programme>
-  <programme start="20260818065334 +0000" stop="20260818065505 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818065505 +0000" stop="20260818071057 +0000" channel="bestcoachtv">
-    <title>2 Strengthening Relationships Part 2</title>
-    <desc>Budling Trust in your Relationship. Establishing trust and respect is essential for healthy relationships encouraging open communication and collaboration fostering mutual understanding and support.</desc>
-  </programme>
-  <programme start="20260818071057 +0000" stop="20260818071228 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818071228 +0000" stop="20260818072729 +0000" channel="bestcoachtv">
-    <title>3 Strengthening Relationships Part 3</title>
-    <desc>In Part 3 Life Coaching Session on Strengthening Relationships we address the importance of Nurturing the Relationship and how best to do so.</desc>
-  </programme>
-  <programme start="20260818072729 +0000" stop="20260818072900 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818072900 +0000" stop="20260818074401 +0000" channel="bestcoachtv">
-    <title>4 Strengthening Relationships Part 4</title>
-    <desc>In this episode of Strengthening Relationships Life Coaching Session we talk about conflict resolution. We will offer some ideas and suggestions on how you can help to resolve a conflict in the relationship.</desc>
-  </programme>
-  <programme start="20260818074401 +0000" stop="20260818074902 +0000" channel="bestcoachtv">
-    <title>Recharge in 5 minutes</title>
-    <desc>Taking a short break can be a powerful tool to recharge. Discover the transformative benefits of just five minutes of intentional rest.</desc>
-  </programme>
-  <programme start="20260818074902 +0000" stop="20260818075103 +0000" channel="bestcoachtv">
-    <title>Crush Your Goals Simple</title>
-    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
-  </programme>
-  <programme start="20260818075103 +0000" stop="20260818075134 +0000" channel="bestcoachtv">
-    <title>Goal Mapping is Next on Best Coach TV</title>
-    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
-  </programme>
-  <programme start="20260818075134 +0000" stop="20260818081635 +0000" channel="bestcoachtv">
-    <title>Morning Reflection</title>
-    <desc>Welcome to this Morning Reflection of your life and your inner self. Take a moment to calm and gain clarity. Start your day with a clear mind and a heart full off possibilities.</desc>
-  </programme>
-  <programme start="20260818081635 +0000" stop="20260818083636 +0000" channel="bestcoachtv">
-    <title>Motivational Session</title>
-    <desc>Journey to renewed motivation. Pause your busy life for a moment and join this session to reflect, to reignite your motivation.</desc>
-  </programme>
-  <programme start="20260818083732 +0000" stop="20260818085733 +0000" channel="bestcoachtv">
-    <title>Your Inspiration</title>
-    <desc>This program will ignite your aspirations, you will explore powerful force within your existence - inspiration. Lets go deep into inspiration nature and uncover its many layers.</desc>
-  </programme>
-  <programme start="20260818085733 +0000" stop="20260818091734 +0000" channel="bestcoachtv">
-    <title>Dream Big Coaching Session</title>
-    <desc>Dream Big Coaching Session. This is a short Life Coaching Session to help you achieve your goals and live a better life.</desc>
-  </programme>
-  <programme start="20260818091734 +0000" stop="20260818093235 +0000" channel="bestcoachtv">
-    <title>Goal Setting Coaching Session</title>
-    <desc>Life Coaching Session helping you to set your goals. Unlock success with this goal setting session.</desc>
-  </programme>
-  <programme start="20260818093235 +0000" stop="20260818093306 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260818093306 +0000" stop="20260818094307 +0000" channel="bestcoachtv">
-    <title>Introduction to Life Coaching</title>
-    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
-  </programme>
-  <programme start="20260818094307 +0000" stop="20260818100808 +0000" channel="bestcoachtv">
-    <title>Manifest Your Dreams Guided Meditation</title>
-    <desc>Gentle journey inwards. Connect with your dreams, manifest your desires.</desc>
-  </programme>
-  <programme start="20260818100808 +0000" stop="20260818100839 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260818100839 +0000" stop="20260818101140 +0000" channel="bestcoachtv">
-    <title>Welcome to Best Coach TV</title>
-    <desc>Welcome to Best Coach TV, your Life Coaching TV channel bringing you life coaching session, guided life coaching meditations and inspirational programs.</desc>
-  </programme>
-  <programme start="20260818101140 +0000" stop="20260818102341 +0000" channel="bestcoachtv">
-    <title>Dress for Success</title>
-    <desc>Dress for Success. Achieve daily goals effortlessly. In this session we will discus how important it is to dress for occasion.</desc>
-  </programme>
-  <programme start="20260818102341 +0000" stop="20260818104342 +0000" channel="bestcoachtv">
-    <title>Identifying your core Values</title>
-    <desc>This session will help you on your self discovery journey. Unlock profound truths about yourself. We will help you identify your core values, we will help you to get to the heart of who you are.</desc>
-  </programme>
-  <programme start="20260818104342 +0000" stop="20260818110343 +0000" channel="bestcoachtv">
-    <title>Motivational Session</title>
-    <desc>Journey to renewed motivation. Pause your busy life for a moment and join this session to reflect, to reignite your motivation.</desc>
-  </programme>
-  <programme start="20260818110343 +0000" stop="20260818110559 +0000" channel="bestcoachtv">
-    <title>Life Coaching Sessions Introduction</title>
-    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
-  </programme>
-  <programme start="20260818110559 +0000" stop="20260818113000 +0000" channel="bestcoachtv">
-    <title>Unlock Hidden Opportunities</title>
-    <desc>Life Coaching Session on Opportunities. Have you ever wondered how many opportunities pass you by unnoticed every day? Life is filled with potential paths, yet many of us remain oblivious to them.</desc>
-  </programme>
-  <programme start="20260818113000 +0000" stop="20260818113216 +0000" channel="bestcoachtv">
-    <title>Life Coaching Sessions Introduction</title>
-    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
-  </programme>
-  <programme start="20260818113216 +0000" stop="20260818114717 +0000" channel="bestcoachtv">
-    <title>10 Empowering Life Coaching Questions</title>
-    <desc>Empowering questions will help you think and express your thoughts, emotions, fears, and ideas. The aim of this short session is to help you connect with you inner self.</desc>
-  </programme>
-  <programme start="20260818114717 +0000" stop="20260818121118 +0000" channel="bestcoachtv">
-    <title>Visualization Coaching Session</title>
-    <desc>Visualization is a mental practice where you vividly imagine achieving your goals. This powerful technique engages your mind, helping you create a detailed picture of success.</desc>
-  </programme>
-  <programme start="20260818121118 +0000" stop="20260818121149 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260818121149 +0000" stop="20260818121220 +0000" channel="bestcoachtv">
-    <title>Welcome to Best Coach TV</title>
-    <desc>Welcome to Best Coach TV. Stay Tuned.</desc>
-  </programme>
-  <programme start="20260818121220 +0000" stop="20260818122721 +0000" channel="bestcoachtv">
-    <title>Daily Inspiration Make IT Happen</title>
-    <desc>Welcome to Best Coach TV daily inspiration program. In this program we will encourage you to make things happen, to take actions, to work hard to reach your dreams. Consistency and small daily efforts will get you to your desired destination.</desc>
-  </programme>
-  <programme start="20260818122721 +0000" stop="20260818122752 +0000" channel="bestcoachtv">
-    <title>Goal Mapping is Next on Best Coach TV</title>
-    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
-  </programme>
-  <programme start="20260818122752 +0000" stop="20260818122923 +0000" channel="bestcoachtv">
-    <title>Quick Coaching Tips</title>
-    <desc>Short and quick program giving you few tips for today.</desc>
-  </programme>
-  <programme start="20260818122923 +0000" stop="20260818125724 +0000" channel="bestcoachtv">
-    <title>Health Fitness Coaching Session</title>
-    <desc>Transform your health today, with the support of this Health &amp; Fitness Coaching Session. The program will give you ideas and inspiration to transform your life. This is your moment to spark your healthy transformation.</desc>
-  </programme>
-  <programme start="20260818125724 +0000" stop="20260818130225 +0000" channel="bestcoachtv">
-    <title>Recharge in 5 minutes</title>
-    <desc>Taking a short break can be a powerful tool to recharge. Discover the transformative benefits of just five minutes of intentional rest.</desc>
-  </programme>
-  <programme start="20260818130225 +0000" stop="20260818131226 +0000" channel="bestcoachtv">
-    <title>Time for your Thoughts</title>
-    <desc>Taking moments to reflect is crucial for mental health. It offers a sanctuary from life's pressures, aiding in stress reduction and enhancing self-awareness.</desc>
-  </programme>
-  <programme start="20260818131226 +0000" stop="20260818131442 +0000" channel="bestcoachtv">
-    <title>Life Coaching Sessions Introduction</title>
-    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
-  </programme>
-  <programme start="20260818131442 +0000" stop="20260818132643 +0000" channel="bestcoachtv">
-    <title>Dress for Success</title>
-    <desc>Dress for Success. Achieve daily goals effortlessly. In this session we will discus how important it is to dress for occasion.</desc>
-  </programme>
-  <programme start="20260818132643 +0000" stop="20260818132649 +0000" channel="bestcoachtv">
-    <title>Your Coach Hi Five</title>
-    <desc>Your Coach Hi Five</desc>
-  </programme>
-  <programme start="20260818132649 +0000" stop="20260818133650 +0000" channel="bestcoachtv">
-    <title>Introduction to Life Coaching</title>
-    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
-  </programme>
-  <programme start="20260818133650 +0000" stop="20260818133721 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260818133721 +0000" stop="20260818135222 +0000" channel="bestcoachtv">
-    <title>Morning Guided Meditation</title>
-    <desc>Welcome to Morning Guided Meditation. Set your day for exciting new beginnings.</desc>
-  </programme>
-  <programme start="20260818135222 +0000" stop="20260818135243 +0000" channel="bestcoachtv">
-    <title>Watch Brian Mayne on BCTV</title>
-    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
-  </programme>
-  <programme start="20260818135243 +0000" stop="20260818140744 +0000" channel="bestcoachtv">
-    <title>Daily Inspiration Dream BIG</title>
-  </programme>
-  <programme start="20260818140744 +0000" stop="20260818142745 +0000" channel="bestcoachtv">
-    <title>Dream Big Coaching Session</title>
-    <desc>Dream Big Coaching Session. This is a short Life Coaching Session to help you achieve your goals and live a better life.</desc>
-  </programme>
-  <programme start="20260818142745 +0000" stop="20260818145745 +0000" channel="bestcoachtv">
-    <title>Gratitude Guided Meditation</title>
-    <desc>Gratitude is an amazing way to help you grow, develop and succeed in your life. Join in and participate in this guided mediation on Gratitude. This is your contemplation time, time to reflect on your life. What are you grateful for in your life?</desc>
-  </programme>
-  <programme start="20260818145745 +0000" stop="20260818145816 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260818145816 +0000" stop="20260818152317 +0000" channel="bestcoachtv">
-    <title>Accept Changes Guided-meditation</title>
-    <desc>Changes happen. Not every change is welcomed, but this guided meditation will help you accept your changes happening in your life right now.</desc>
-  </programme>
-  <programme start="20260818152317 +0000" stop="20260818152323 +0000" channel="bestcoachtv">
-    <title>Your Coach Hi Five</title>
-    <desc>Your Coach Hi Five</desc>
-  </programme>
-  <programme start="20260818152323 +0000" stop="20260818155324 +0000" channel="bestcoachtv">
-    <title>Less is More Coaching Session</title>
-    <desc>Less is More Coaching Session helping you to de-clutter your life, making space for new, so that you can focus on what is most important to you.</desc>
-  </programme>
-  <programme start="20260818155324 +0000" stop="20260818155540 +0000" channel="bestcoachtv">
-    <title>Life Coaching Sessions Introduction</title>
-    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
-  </programme>
-  <programme start="20260818155540 +0000" stop="20260818155841 +0000" channel="bestcoachtv">
-    <title>Welcome to Best Coach TV</title>
-    <desc>Welcome to Best Coach TV, your Life Coaching TV channel bringing you life coaching session, guided life coaching meditations and inspirational programs.</desc>
-  </programme>
-  <programme start="20260818155841 +0000" stop="20260818160042 +0000" channel="bestcoachtv">
-    <title>Crush Your Goals Simple</title>
-    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
-  </programme>
-  <programme start="20260818160042 +0000" stop="20260818160243 +0000" channel="bestcoachtv">
-    <title>Crush Your Goals Simple</title>
-    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
-  </programme>
-  <programme start="20260818160243 +0000" stop="20260818160253 +0000" channel="bestcoachtv">
-    <title>Stay tuned</title>
-    <desc>You are watching Best Coach TV</desc>
-  </programme>
-  <programme start="20260818160253 +0000" stop="20260818162654 +0000" channel="bestcoachtv">
-    <title>Visualization Coaching Session</title>
-    <desc>Visualization is a mental practice where you vividly imagine achieving your goals. This powerful technique engages your mind, helping you create a detailed picture of success.</desc>
-  </programme>
-  <programme start="20260818162654 +0000" stop="20260818162825 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818162825 +0000" stop="20260818163041 +0000" channel="bestcoachtv">
-    <title>Life Coaching Sessions Introduction</title>
-    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
-  </programme>
-  <programme start="20260818163041 +0000" stop="20260818163142 +0000" channel="bestcoachtv">
-    <title>Watch Best Coach TV</title>
-    <desc>Small changes will make a huge difference. Watch this 24/7 life coaching channel, it will change your life for better.</desc>
-  </programme>
-  <programme start="20260818163142 +0000" stop="20260818164833 +0000" channel="bestcoachtv">
-    <title>Building Your Confidence Coaching Session</title>
-    <desc>Confidence is key to changing your life for the better. It empowers you to take initiative, embrace new experiences, and make decisions that align with your true desires.</desc>
-  </programme>
-  <programme start="20260818164833 +0000" stop="20260818164843 +0000" channel="bestcoachtv">
-    <title>Stay tuned</title>
-    <desc>You are watching Best Coach TV</desc>
-  </programme>
-  <programme start="20260818164843 +0000" stop="20260818165014 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818165014 +0000" stop="20260818165024 +0000" channel="bestcoachtv">
-    <title>Stay tuned</title>
-    <desc>You are watching Best Coach TV</desc>
-  </programme>
-  <programme start="20260818165024 +0000" stop="20260818165155 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818165155 +0000" stop="20260818170656 +0000" channel="bestcoachtv">
-    <title>1 Strengthening Relationships Part 1</title>
-    <desc>This session offers Self-Reflection. We will also address communications skills, both verbal and non-verbal as these are essential for any healthy relationship.</desc>
-  </programme>
-  <programme start="20260818170656 +0000" stop="20260818170827 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818170827 +0000" stop="20260818172419 +0000" channel="bestcoachtv">
-    <title>2 Strengthening Relationships Part 2</title>
-    <desc>Budling Trust in your Relationship. Establishing trust and respect is essential for healthy relationships encouraging open communication and collaboration fostering mutual understanding and support.</desc>
-  </programme>
-  <programme start="20260818172419 +0000" stop="20260818172550 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818172550 +0000" stop="20260818174051 +0000" channel="bestcoachtv">
-    <title>3 Strengthening Relationships Part 3</title>
-    <desc>In Part 3 Life Coaching Session on Strengthening Relationships we address the importance of Nurturing the Relationship and how best to do so.</desc>
-  </programme>
-  <programme start="20260818174051 +0000" stop="20260818174222 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818174222 +0000" stop="20260818175723 +0000" channel="bestcoachtv">
-    <title>4 Strengthening Relationships Part 4</title>
-    <desc>In this episode of Strengthening Relationships Life Coaching Session we talk about conflict resolution. We will offer some ideas and suggestions on how you can help to resolve a conflict in the relationship.</desc>
-  </programme>
-  <programme start="20260818175723 +0000" stop="20260818175939 +0000" channel="bestcoachtv">
-    <title>Life Coaching Sessions Introduction</title>
-    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
-  </programme>
-  <programme start="20260818175939 +0000" stop="20260818182340 +0000" channel="bestcoachtv">
-    <title>Unlock Hidden Opportunities</title>
-    <desc>Life Coaching Session on Opportunities. Have you ever wondered how many opportunities pass you by unnoticed every day? Life is filled with potential paths, yet many of us remain oblivious to them.</desc>
-  </programme>
-  <programme start="20260818182340 +0000" stop="20260818182350 +0000" channel="bestcoachtv">
-    <title>Stay tuned</title>
-    <desc>You are watching Best Coach TV</desc>
-  </programme>
-  <programme start="20260818182350 +0000" stop="20260818182551 +0000" channel="bestcoachtv">
-    <title>Crush Your Goals Simple</title>
-    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
-  </programme>
-  <programme start="20260818182551 +0000" stop="20260818182557 +0000" channel="bestcoachtv">
-    <title>Your Coach Hi Five</title>
-    <desc>Your Coach Hi Five</desc>
-  </programme>
-  <programme start="20260818182557 +0000" stop="20260818182658 +0000" channel="bestcoachtv">
-    <title>What to expect from our Life Coaching Programs</title>
-    <desc>In short, what can you expect from our Life Coaching Programs.</desc>
-  </programme>
-  <programme start="20260818182658 +0000" stop="20260818183659 +0000" channel="bestcoachtv">
-    <title>Introduction to Life Coaching</title>
-    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
-  </programme>
-  <programme start="20260818183659 +0000" stop="20260818190700 +0000" channel="bestcoachtv">
-    <title>Less is More Coaching Session</title>
-    <desc>Less is More Coaching Session helping you to de-clutter your life, making space for new, so that you can focus on what is most important to you.</desc>
-  </programme>
-  <programme start="20260818190700 +0000" stop="20260818192201 +0000" channel="bestcoachtv">
-    <title>Daily Inspiration Make IT Happen</title>
-    <desc>Welcome to Best Coach TV daily inspiration program. In this program we will encourage you to make things happen, to take actions, to work hard to reach your dreams. Consistency and small daily efforts will get you to your desired destination.</desc>
-  </programme>
-  <programme start="20260818192201 +0000" stop="20260818192232 +0000" channel="bestcoachtv">
-    <title>Welcome to Best Coach TV</title>
-    <desc>Welcome to Best Coach TV. Stay Tuned.</desc>
-  </programme>
-  <programme start="20260818192232 +0000" stop="20260818192733 +0000" channel="bestcoachtv">
-    <title>Recharge in 5 minutes</title>
-    <desc>Taking a short break can be a powerful tool to recharge. Discover the transformative benefits of just five minutes of intentional rest.</desc>
-  </programme>
-  <programme start="20260818192733 +0000" stop="20260818194234 +0000" channel="bestcoachtv">
-    <title>Daily Inspiration Dream BIG</title>
-  </programme>
-  <programme start="20260818194234 +0000" stop="20260818194735 +0000" channel="bestcoachtv">
-    <title>Beach Meditation</title>
-    <desc>Meditation is a powerful tool for cultivating happiness. Take 5 min on the beach.</desc>
-  </programme>
-  <programme start="20260818194735 +0000" stop="20260818194951 +0000" channel="bestcoachtv">
-    <title>Life Coaching Sessions Introduction</title>
-    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
-  </programme>
-  <programme start="20260818194951 +0000" stop="20260818195952 +0000" channel="bestcoachtv">
-    <title>Time for your Thoughts</title>
-    <desc>Taking moments to reflect is crucial for mental health. It offers a sanctuary from life's pressures, aiding in stress reduction and enhancing self-awareness.</desc>
-  </programme>
-  <programme start="20260818195952 +0000" stop="20260818200123 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260818200123 +0000" stop="20260818202124 +0000" channel="bestcoachtv">
-    <title>Evening Guided Meditation</title>
-    <desc>Evening Guided Meditation. We are here to help you relax and let go of today's worries. Embrace rest. Participate in this amazing relaxation time here at Best Coach TV.</desc>
-  </programme>
-  <programme start="20260818202124 +0000" stop="20260818202134 +0000" channel="bestcoachtv">
-    <title>Stay tuned</title>
-    <desc>You are watching Best Coach TV</desc>
-  </programme>
-  <programme start="20260818202134 +0000" stop="20260818202350 +0000" channel="bestcoachtv">
-    <title>Life Coaching Sessions Introduction</title>
-    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
-  </programme>
-  <programme start="20260818202350 +0000" stop="20260818202851 +0000" channel="bestcoachtv">
-    <title>Beach Meditation</title>
-    <desc>Meditation is a powerful tool for cultivating happiness. Take 5 min on the beach.</desc>
-  </programme>
-  <programme start="20260818202851 +0000" stop="20260818202952 +0000" channel="bestcoachtv">
-    <title>What to expect from our Life Coaching Programs</title>
-    <desc>In short, what can you expect from our Life Coaching Programs.</desc>
-  </programme>
-  <programme start="20260818202952 +0000" stop="20260818203023 +0000" channel="bestcoachtv">
-    <title>Goal Mapping is Next on Best Coach TV</title>
-    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
-  </programme>
-  <programme start="20260818203023 +0000" stop="20260818203044 +0000" channel="bestcoachtv">
-    <title>Watch Brian Mayne on BCTV</title>
-    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
-  </programme>
-  <programme start="20260818203044 +0000" stop="20260818204545 +0000" channel="bestcoachtv">
-    <title>Overcome Obstacles Daily Inspiration</title>
-    <desc>Overcoming Obstacles requires attention. Nothing is impossible. This program will offer encouraging quotes to inspire and motivate you.</desc>
-  </programme>
-  <programme start="20260818204545 +0000" stop="20260818211046 +0000" channel="bestcoachtv">
-    <title>Plan Your Day</title>
-    <desc>This program will help you to plan your day, so it is productive &amp; happy. Take your diary and enjoy this life coaching session to improve the way your live your days.</desc>
-  </programme>
-  <programme start="20260818211046 +0000" stop="20260818212547 +0000" channel="bestcoachtv">
-    <title>Confident decision making Guided Meditation</title>
-    <desc>Inner Wisdom Journey. We embark on a journey to empower you to help you make decisions, not from the place of fear, but from the place of confidence and clarity.</desc>
-  </programme>
-  <programme start="20260818212547 +0000" stop="20260818215048 +0000" channel="bestcoachtv">
-    <title>Manifest Your Dreams Guided Meditation</title>
-    <desc>Gentle journey inwards. Connect with your dreams, manifest your desires.</desc>
-  </programme>
-  <programme start="20260818215048 +0000" stop="20260818221049 +0000" channel="bestcoachtv">
-    <title>Motivational Session</title>
-    <desc>Journey to renewed motivation. Pause your busy life for a moment and join this session to reflect, to reignite your motivation.</desc>
-  </programme>
-  <programme start="20260818221049 +0000" stop="20260818223050 +0000" channel="bestcoachtv">
-    <title>Identifying your core Values</title>
-    <desc>This session will help you on your self discovery journey. Unlock profound truths about yourself. We will help you identify your core values, we will help you to get to the heart of who you are.</desc>
-  </programme>
-  <programme start="20260818223050 +0000" stop="20260818225051 +0000" channel="bestcoachtv">
-    <title>Time Management</title>
-  </programme>
-  <programme start="20260818225051 +0000" stop="20260818225222 +0000" channel="bestcoachtv">
-    <title>Bestc Coach TV Overview</title>
-    <desc>Welcome to Best Coach TV we deliver TV content designed for your success journey. Life Coaching Sessions and Entertainment &amp; Motivational Content.</desc>
-  </programme>
-  <programme start="20260818225222 +0000" stop="20260818231223 +0000" channel="bestcoachtv">
-    <title>Evening Guided Meditation</title>
-    <desc>Evening Guided Meditation. We are here to help you relax and let go of today's worries. Embrace rest. Participate in this amazing relaxation time here at Best Coach TV.</desc>
-  </programme>
-  <programme start="20260818231223 +0000" stop="20260818233224 +0000" channel="bestcoachtv">
-    <title>New Resolutions</title>
-    <desc>Welcome to New Resolutions Life Coaching Session. Let go of bad habits and replace them with new. Start seeing your life changing for better.</desc>
-  </programme>
-  <programme start="20260818233224 +0000" stop="20260818233355 +0000" channel="bestcoachtv">
-    <title>Quick Coaching Tips</title>
-    <desc>Short and quick program giving you few tips for today.</desc>
-  </programme>
-  <programme start="20260818233355 +0000" stop="20260818233556 +0000" channel="bestcoachtv">
-    <title>Crush Your Goals Simple</title>
-    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
-  </programme>
-  <programme start="20260818233556 +0000" stop="20260818235247 +0000" channel="bestcoachtv">
-    <title>Building Your Confidence Coaching Session</title>
-    <desc>Confidence is key to changing your life for the better. It empowers you to take initiative, embrace new experiences, and make decisions that align with your true desires.</desc>
-  </programme>
-  <programme start="20260818235247 +0000" stop="20260818235748 +0000" channel="bestcoachtv">
-    <title>Recharge in 5 minutes</title>
-    <desc>Taking a short break can be a powerful tool to recharge. Discover the transformative benefits of just five minutes of intentional rest.</desc>
-  </programme>
-  <programme start="20260818235748 +0000" stop="20260818235819 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260818235819 +0000" stop="20260818235850 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260819000000 +0000" stop="20260819002001 +0000" channel="bestcoachtv">
-    <title>New Resolutions</title>
-    <desc>Welcome to New Resolutions Life Coaching Session. Let go of bad habits and replace them with new. Start seeing your life changing for better.</desc>
-  </programme>
-  <programme start="20260819002001 +0000" stop="20260819003502 +0000" channel="bestcoachtv">
-    <title>Daily Inspiration Dream BIG</title>
-  </programme>
-  <programme start="20260819003502 +0000" stop="20260819003533 +0000" channel="bestcoachtv">
-    <title>Welcome to Best Coach TV</title>
-    <desc>Welcome to Best Coach TV. Stay Tuned.</desc>
-  </programme>
-  <programme start="20260819003533 +0000" stop="20260819005534 +0000" channel="bestcoachtv">
-    <title>Affirmations for Daily Challenges</title>
-    <desc>Affirmations for Daily Challenges. Challenges are part of our daily life. In this program we bring you affirmations that will help you with your life challenges. Stay Positive.</desc>
-  </programme>
-  <programme start="20260819005534 +0000" stop="20260819005605 +0000" channel="bestcoachtv">
-    <title>Goal Mapping is Next on Best Coach TV</title>
-    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
-  </programme>
-  <programme start="20260819005605 +0000" stop="20260819005626 +0000" channel="bestcoachtv">
-    <title>Watch Brian Mayne on BCTV</title>
-    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
-  </programme>
-  <programme start="20260819005626 +0000" stop="20260819005757 +0000" channel="bestcoachtv">
-    <title>Quick Coaching Tips</title>
-    <desc>Short and quick program giving you few tips for today.</desc>
-  </programme>
-  <programme start="20260819005757 +0000" stop="20260819011258 +0000" channel="bestcoachtv">
-    <title>Morning Guided Meditation</title>
-    <desc>Welcome to Morning Guided Meditation. Set your day for exciting new beginnings.</desc>
-  </programme>
-  <programme start="20260819011258 +0000" stop="20260819014259 +0000" channel="bestcoachtv">
-    <title>Less is More Coaching Session</title>
-    <desc>Less is More Coaching Session helping you to de-clutter your life, making space for new, so that you can focus on what is most important to you.</desc>
-  </programme>
-  <programme start="20260819014259 +0000" stop="20260819014330 +0000" channel="bestcoachtv">
-    <title>Goal Mapping is Next on Best Coach TV</title>
-    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
-  </programme>
-  <programme start="20260819014330 +0000" stop="20260819015331 +0000" channel="bestcoachtv">
-    <title>Introduction to Life Coaching</title>
-    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
-  </programme>
-  <programme start="20260819015331 +0000" stop="20260819015402 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260819015402 +0000" stop="20260819015603 +0000" channel="bestcoachtv">
-    <title>Crush Your Goals Simple</title>
-    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
-  </programme>
-  <programme start="20260819015603 +0000" stop="20260819015904 +0000" channel="bestcoachtv">
-    <title>Welcome to Best Coach TV</title>
-    <desc>Welcome to Best Coach TV, your Life Coaching TV channel bringing you life coaching session, guided life coaching meditations and inspirational programs.</desc>
-  </programme>
-  <programme start="20260819015904 +0000" stop="20260819020035 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260819020035 +0000" stop="20260819020536 +0000" channel="bestcoachtv">
-    <title>Beach Meditation</title>
-    <desc>Meditation is a powerful tool for cultivating happiness. Take 5 min on the beach.</desc>
-  </programme>
-  <programme start="20260819020536 +0000" stop="20260819022227 +0000" channel="bestcoachtv">
-    <title>Building Your Confidence Coaching Session</title>
-    <desc>Confidence is key to changing your life for the better. It empowers you to take initiative, embrace new experiences, and make decisions that align with your true desires.</desc>
-  </programme>
-  <programme start="20260819022236 +0000" stop="20260819023737 +0000" channel="bestcoachtv">
-    <title>Tea Time Coaching Session</title>
-    <desc>Take a moment, get your tea and join this life coaching session. Set goals and reach your dreams.</desc>
-  </programme>
-  <programme start="20260819023738 +0000" stop="20260819030139 +0000" channel="bestcoachtv">
-    <title>Visualization Coaching Session</title>
-    <desc>Visualization is a mental practice where you vividly imagine achieving your goals. This powerful technique engages your mind, helping you create a detailed picture of success.</desc>
-  </programme>
-  <programme start="20260819030139 +0000" stop="20260819031640 +0000" channel="bestcoachtv">
-    <title>10 Empowering Life Coaching Questions</title>
-    <desc>Empowering questions will help you think and express your thoughts, emotions, fears, and ideas. The aim of this short session is to help you connect with you inner self.</desc>
-  </programme>
-  <programme start="20260819031640 +0000" stop="20260819031811 +0000" channel="bestcoachtv">
-    <title>Life Coaching Books</title>
-    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
-  </programme>
-  <programme start="20260819031811 +0000" stop="20260819031821 +0000" channel="bestcoachtv">
-    <title>Stay tuned</title>
-    <desc>You are watching Best Coach TV</desc>
-  </programme>
-  <programme start="20260819031821 +0000" stop="20260819031852 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260819031852 +0000" stop="20260819033353 +0000" channel="bestcoachtv">
-    <title>Goal Setting Coaching Session</title>
-    <desc>Life Coaching Session helping you to set your goals. Unlock success with this goal setting session.</desc>
-  </programme>
-  <programme start="20260819033353 +0000" stop="20260819033454 +0000" channel="bestcoachtv">
-    <title>What to expect from our Life Coaching Programs</title>
-    <desc>In short, what can you expect from our Life Coaching Programs.</desc>
-  </programme>
   <programme start="20260819033454 +0000" stop="20260819035455 +0000" channel="bestcoachtv">
     <title>Dream Big Coaching Session</title>
     <desc>Dream Big Coaching Session. This is a short Life Coaching Session to help you achieve your goals and live a better life.</desc>
@@ -4010,6 +3418,598 @@
     <desc>This is Best Coach TV</desc>
   </programme>
   <programme start="20260825235819 +0000" stop="20260825235850 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826000000 +0000" stop="20260826002001 +0000" channel="bestcoachtv">
+    <title>New Resolutions</title>
+    <desc>Welcome to New Resolutions Life Coaching Session. Let go of bad habits and replace them with new. Start seeing your life changing for better.</desc>
+  </programme>
+  <programme start="20260826002001 +0000" stop="20260826003502 +0000" channel="bestcoachtv">
+    <title>Daily Inspiration Dream BIG</title>
+  </programme>
+  <programme start="20260826003502 +0000" stop="20260826003533 +0000" channel="bestcoachtv">
+    <title>Welcome to Best Coach TV</title>
+    <desc>Welcome to Best Coach TV. Stay Tuned.</desc>
+  </programme>
+  <programme start="20260826003533 +0000" stop="20260826005534 +0000" channel="bestcoachtv">
+    <title>Affirmations for Daily Challenges</title>
+    <desc>Affirmations for Daily Challenges. Challenges are part of our daily life. In this program we bring you affirmations that will help you with your life challenges. Stay Positive.</desc>
+  </programme>
+  <programme start="20260826005534 +0000" stop="20260826005605 +0000" channel="bestcoachtv">
+    <title>Goal Mapping is Next on Best Coach TV</title>
+    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
+  </programme>
+  <programme start="20260826005605 +0000" stop="20260826005626 +0000" channel="bestcoachtv">
+    <title>Watch Brian Mayne on BCTV</title>
+    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
+  </programme>
+  <programme start="20260826005626 +0000" stop="20260826005757 +0000" channel="bestcoachtv">
+    <title>Quick Coaching Tips</title>
+    <desc>Short and quick program giving you few tips for today.</desc>
+  </programme>
+  <programme start="20260826005757 +0000" stop="20260826011258 +0000" channel="bestcoachtv">
+    <title>Morning Guided Meditation</title>
+    <desc>Welcome to Morning Guided Meditation. Set your day for exciting new beginnings.</desc>
+  </programme>
+  <programme start="20260826011258 +0000" stop="20260826014259 +0000" channel="bestcoachtv">
+    <title>Less is More Coaching Session</title>
+    <desc>Less is More Coaching Session helping you to de-clutter your life, making space for new, so that you can focus on what is most important to you.</desc>
+  </programme>
+  <programme start="20260826014259 +0000" stop="20260826014330 +0000" channel="bestcoachtv">
+    <title>Goal Mapping is Next on Best Coach TV</title>
+    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
+  </programme>
+  <programme start="20260826014330 +0000" stop="20260826015331 +0000" channel="bestcoachtv">
+    <title>Introduction to Life Coaching</title>
+    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
+  </programme>
+  <programme start="20260826015331 +0000" stop="20260826015402 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826015402 +0000" stop="20260826015603 +0000" channel="bestcoachtv">
+    <title>Crush Your Goals Simple</title>
+    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
+  </programme>
+  <programme start="20260826015603 +0000" stop="20260826015904 +0000" channel="bestcoachtv">
+    <title>Welcome to Best Coach TV</title>
+    <desc>Welcome to Best Coach TV, your Life Coaching TV channel bringing you life coaching session, guided life coaching meditations and inspirational programs.</desc>
+  </programme>
+  <programme start="20260826015904 +0000" stop="20260826020035 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826020035 +0000" stop="20260826020536 +0000" channel="bestcoachtv">
+    <title>Beach Meditation</title>
+    <desc>Meditation is a powerful tool for cultivating happiness. Take 5 min on the beach.</desc>
+  </programme>
+  <programme start="20260826020536 +0000" stop="20260826022227 +0000" channel="bestcoachtv">
+    <title>Building Your Confidence Coaching Session</title>
+    <desc>Confidence is key to changing your life for the better. It empowers you to take initiative, embrace new experiences, and make decisions that align with your true desires.</desc>
+  </programme>
+  <programme start="20260826022236 +0000" stop="20260826023737 +0000" channel="bestcoachtv">
+    <title>Tea Time Coaching Session</title>
+    <desc>Take a moment, get your tea and join this life coaching session. Set goals and reach your dreams.</desc>
+  </programme>
+  <programme start="20260826023738 +0000" stop="20260826030139 +0000" channel="bestcoachtv">
+    <title>Visualization Coaching Session</title>
+    <desc>Visualization is a mental practice where you vividly imagine achieving your goals. This powerful technique engages your mind, helping you create a detailed picture of success.</desc>
+  </programme>
+  <programme start="20260826030139 +0000" stop="20260826031640 +0000" channel="bestcoachtv">
+    <title>10 Empowering Life Coaching Questions</title>
+    <desc>Empowering questions will help you think and express your thoughts, emotions, fears, and ideas. The aim of this short session is to help you connect with you inner self.</desc>
+  </programme>
+  <programme start="20260826031640 +0000" stop="20260826031811 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826031811 +0000" stop="20260826031821 +0000" channel="bestcoachtv">
+    <title>Stay tuned</title>
+    <desc>You are watching Best Coach TV</desc>
+  </programme>
+  <programme start="20260826031821 +0000" stop="20260826031852 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826031852 +0000" stop="20260826033353 +0000" channel="bestcoachtv">
+    <title>Goal Setting Coaching Session</title>
+    <desc>Life Coaching Session helping you to set your goals. Unlock success with this goal setting session.</desc>
+  </programme>
+  <programme start="20260826033353 +0000" stop="20260826033454 +0000" channel="bestcoachtv">
+    <title>What to expect from our Life Coaching Programs</title>
+    <desc>In short, what can you expect from our Life Coaching Programs.</desc>
+  </programme>
+  <programme start="20260826033454 +0000" stop="20260826035455 +0000" channel="bestcoachtv">
+    <title>Dream Big Coaching Session</title>
+    <desc>Dream Big Coaching Session. This is a short Life Coaching Session to help you achieve your goals and live a better life.</desc>
+  </programme>
+  <programme start="20260826035455 +0000" stop="20260826035526 +0000" channel="bestcoachtv">
+    <title>Welcome to Best Coach TV</title>
+    <desc>Welcome to Best Coach TV. Stay Tuned.</desc>
+  </programme>
+  <programme start="20260826035526 +0000" stop="20260826035547 +0000" channel="bestcoachtv">
+    <title>Watch Brian Mayne on BCTV</title>
+    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
+  </programme>
+  <programme start="20260826035547 +0000" stop="20260826042048 +0000" channel="bestcoachtv">
+    <title>Morning Reflection</title>
+    <desc>Welcome to this Morning Reflection of your life and your inner self. Take a moment to calm and gain clarity. Start your day with a clear mind and a heart full off possibilities.</desc>
+  </programme>
+  <programme start="20260826042048 +0000" stop="20260826044849 +0000" channel="bestcoachtv">
+    <title>Health Fitness Coaching Session</title>
+    <desc>Transform your health today, with the support of this Health &amp; Fitness Coaching Session. The program will give you ideas and inspiration to transform your life. This is your moment to spark your healthy transformation.</desc>
+  </programme>
+  <programme start="20260826044849 +0000" stop="20260826050850 +0000" channel="bestcoachtv">
+    <title>Motivational Session</title>
+    <desc>Journey to renewed motivation. Pause your busy life for a moment and join this session to reflect, to reignite your motivation.</desc>
+  </programme>
+  <programme start="20260826050850 +0000" stop="20260826051021 +0000" channel="bestcoachtv">
+    <title>Quick Coaching Tips</title>
+    <desc>Short and quick program giving you few tips for today.</desc>
+  </programme>
+  <programme start="20260826051021 +0000" stop="20260826053522 +0000" channel="bestcoachtv">
+    <title>Manifest Your Dreams Guided Meditation</title>
+    <desc>Gentle journey inwards. Connect with your dreams, manifest your desires.</desc>
+  </programme>
+  <programme start="20260826053522 +0000" stop="20260826054523 +0000" channel="bestcoachtv">
+    <title>Introduction to Life Coaching</title>
+    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
+  </programme>
+  <programme start="20260826054523 +0000" stop="20260826060024 +0000" channel="bestcoachtv">
+    <title>Tea Time Coaching Session</title>
+    <desc>Take a moment, get your tea and join this life coaching session. Set goals and reach your dreams.</desc>
+  </programme>
+  <programme start="20260826060024 +0000" stop="20260826060030 +0000" channel="bestcoachtv">
+    <title>Your Coach Hi Five</title>
+    <desc>Your Coach Hi Five</desc>
+  </programme>
+  <programme start="20260826060030 +0000" stop="20260826062531 +0000" channel="bestcoachtv">
+    <title>Accept Changes Guided-meditation</title>
+    <desc>Changes happen. Not every change is welcomed, but this guided meditation will help you accept your changes happening in your life right now.</desc>
+  </programme>
+  <programme start="20260826062531 +0000" stop="20260826062832 +0000" channel="bestcoachtv">
+    <title>Welcome to Best Coach TV</title>
+    <desc>Welcome to Best Coach TV, your Life Coaching TV channel bringing you life coaching session, guided life coaching meditations and inspirational programs.</desc>
+  </programme>
+  <programme start="20260826062832 +0000" stop="20260826063833 +0000" channel="bestcoachtv">
+    <title>Time for your Thoughts</title>
+    <desc>Taking moments to reflect is crucial for mental health. It offers a sanctuary from life's pressures, aiding in stress reduction and enhancing self-awareness.</desc>
+  </programme>
+  <programme start="20260826063833 +0000" stop="20260826065334 +0000" channel="bestcoachtv">
+    <title>1 Strengthening Relationships Part 1</title>
+    <desc>This session offers Self-Reflection. We will also address communications skills, both verbal and non-verbal as these are essential for any healthy relationship.</desc>
+  </programme>
+  <programme start="20260826065334 +0000" stop="20260826065505 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826065505 +0000" stop="20260826071057 +0000" channel="bestcoachtv">
+    <title>2 Strengthening Relationships Part 2</title>
+    <desc>Budling Trust in your Relationship. Establishing trust and respect is essential for healthy relationships encouraging open communication and collaboration fostering mutual understanding and support.</desc>
+  </programme>
+  <programme start="20260826071057 +0000" stop="20260826071228 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826071228 +0000" stop="20260826072729 +0000" channel="bestcoachtv">
+    <title>3 Strengthening Relationships Part 3</title>
+    <desc>In Part 3 Life Coaching Session on Strengthening Relationships we address the importance of Nurturing the Relationship and how best to do so.</desc>
+  </programme>
+  <programme start="20260826072729 +0000" stop="20260826072900 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826072900 +0000" stop="20260826074401 +0000" channel="bestcoachtv">
+    <title>4 Strengthening Relationships Part 4</title>
+    <desc>In this episode of Strengthening Relationships Life Coaching Session we talk about conflict resolution. We will offer some ideas and suggestions on how you can help to resolve a conflict in the relationship.</desc>
+  </programme>
+  <programme start="20260826074401 +0000" stop="20260826074902 +0000" channel="bestcoachtv">
+    <title>Recharge in 5 minutes</title>
+    <desc>Taking a short break can be a powerful tool to recharge. Discover the transformative benefits of just five minutes of intentional rest.</desc>
+  </programme>
+  <programme start="20260826074902 +0000" stop="20260826075103 +0000" channel="bestcoachtv">
+    <title>Crush Your Goals Simple</title>
+    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
+  </programme>
+  <programme start="20260826075103 +0000" stop="20260826075134 +0000" channel="bestcoachtv">
+    <title>Goal Mapping is Next on Best Coach TV</title>
+    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
+  </programme>
+  <programme start="20260826075134 +0000" stop="20260826081635 +0000" channel="bestcoachtv">
+    <title>Morning Reflection</title>
+    <desc>Welcome to this Morning Reflection of your life and your inner self. Take a moment to calm and gain clarity. Start your day with a clear mind and a heart full off possibilities.</desc>
+  </programme>
+  <programme start="20260826081635 +0000" stop="20260826083636 +0000" channel="bestcoachtv">
+    <title>Motivational Session</title>
+    <desc>Journey to renewed motivation. Pause your busy life for a moment and join this session to reflect, to reignite your motivation.</desc>
+  </programme>
+  <programme start="20260826083732 +0000" stop="20260826085733 +0000" channel="bestcoachtv">
+    <title>Your Inspiration</title>
+    <desc>This program will ignite your aspirations, you will explore powerful force within your existence - inspiration. Lets go deep into inspiration nature and uncover its many layers.</desc>
+  </programme>
+  <programme start="20260826085733 +0000" stop="20260826091734 +0000" channel="bestcoachtv">
+    <title>Dream Big Coaching Session</title>
+    <desc>Dream Big Coaching Session. This is a short Life Coaching Session to help you achieve your goals and live a better life.</desc>
+  </programme>
+  <programme start="20260826091734 +0000" stop="20260826093235 +0000" channel="bestcoachtv">
+    <title>Goal Setting Coaching Session</title>
+    <desc>Life Coaching Session helping you to set your goals. Unlock success with this goal setting session.</desc>
+  </programme>
+  <programme start="20260826093235 +0000" stop="20260826093306 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826093306 +0000" stop="20260826094307 +0000" channel="bestcoachtv">
+    <title>Introduction to Life Coaching</title>
+    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
+  </programme>
+  <programme start="20260826094307 +0000" stop="20260826100808 +0000" channel="bestcoachtv">
+    <title>Manifest Your Dreams Guided Meditation</title>
+    <desc>Gentle journey inwards. Connect with your dreams, manifest your desires.</desc>
+  </programme>
+  <programme start="20260826100808 +0000" stop="20260826100839 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826100839 +0000" stop="20260826101140 +0000" channel="bestcoachtv">
+    <title>Welcome to Best Coach TV</title>
+    <desc>Welcome to Best Coach TV, your Life Coaching TV channel bringing you life coaching session, guided life coaching meditations and inspirational programs.</desc>
+  </programme>
+  <programme start="20260826101140 +0000" stop="20260826102341 +0000" channel="bestcoachtv">
+    <title>Dress for Success</title>
+    <desc>Dress for Success. Achieve daily goals effortlessly. In this session we will discus how important it is to dress for occasion.</desc>
+  </programme>
+  <programme start="20260826102341 +0000" stop="20260826104342 +0000" channel="bestcoachtv">
+    <title>Identifying your core Values</title>
+    <desc>This session will help you on your self discovery journey. Unlock profound truths about yourself. We will help you identify your core values, we will help you to get to the heart of who you are.</desc>
+  </programme>
+  <programme start="20260826104342 +0000" stop="20260826110343 +0000" channel="bestcoachtv">
+    <title>Motivational Session</title>
+    <desc>Journey to renewed motivation. Pause your busy life for a moment and join this session to reflect, to reignite your motivation.</desc>
+  </programme>
+  <programme start="20260826110343 +0000" stop="20260826110559 +0000" channel="bestcoachtv">
+    <title>Life Coaching Sessions Introduction</title>
+    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
+  </programme>
+  <programme start="20260826110559 +0000" stop="20260826113000 +0000" channel="bestcoachtv">
+    <title>Unlock Hidden Opportunities</title>
+    <desc>Life Coaching Session on Opportunities. Have you ever wondered how many opportunities pass you by unnoticed every day? Life is filled with potential paths, yet many of us remain oblivious to them.</desc>
+  </programme>
+  <programme start="20260826113000 +0000" stop="20260826113216 +0000" channel="bestcoachtv">
+    <title>Life Coaching Sessions Introduction</title>
+    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
+  </programme>
+  <programme start="20260826113216 +0000" stop="20260826114717 +0000" channel="bestcoachtv">
+    <title>10 Empowering Life Coaching Questions</title>
+    <desc>Empowering questions will help you think and express your thoughts, emotions, fears, and ideas. The aim of this short session is to help you connect with you inner self.</desc>
+  </programme>
+  <programme start="20260826114717 +0000" stop="20260826121118 +0000" channel="bestcoachtv">
+    <title>Visualization Coaching Session</title>
+    <desc>Visualization is a mental practice where you vividly imagine achieving your goals. This powerful technique engages your mind, helping you create a detailed picture of success.</desc>
+  </programme>
+  <programme start="20260826121118 +0000" stop="20260826121149 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826121149 +0000" stop="20260826121220 +0000" channel="bestcoachtv">
+    <title>Welcome to Best Coach TV</title>
+    <desc>Welcome to Best Coach TV. Stay Tuned.</desc>
+  </programme>
+  <programme start="20260826121220 +0000" stop="20260826122721 +0000" channel="bestcoachtv">
+    <title>Daily Inspiration Make IT Happen</title>
+    <desc>Welcome to Best Coach TV daily inspiration program. In this program we will encourage you to make things happen, to take actions, to work hard to reach your dreams. Consistency and small daily efforts will get you to your desired destination.</desc>
+  </programme>
+  <programme start="20260826122721 +0000" stop="20260826122752 +0000" channel="bestcoachtv">
+    <title>Goal Mapping is Next on Best Coach TV</title>
+    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
+  </programme>
+  <programme start="20260826122752 +0000" stop="20260826122923 +0000" channel="bestcoachtv">
+    <title>Quick Coaching Tips</title>
+    <desc>Short and quick program giving you few tips for today.</desc>
+  </programme>
+  <programme start="20260826122923 +0000" stop="20260826125724 +0000" channel="bestcoachtv">
+    <title>Health Fitness Coaching Session</title>
+    <desc>Transform your health today, with the support of this Health &amp; Fitness Coaching Session. The program will give you ideas and inspiration to transform your life. This is your moment to spark your healthy transformation.</desc>
+  </programme>
+  <programme start="20260826125724 +0000" stop="20260826130225 +0000" channel="bestcoachtv">
+    <title>Recharge in 5 minutes</title>
+    <desc>Taking a short break can be a powerful tool to recharge. Discover the transformative benefits of just five minutes of intentional rest.</desc>
+  </programme>
+  <programme start="20260826130225 +0000" stop="20260826131226 +0000" channel="bestcoachtv">
+    <title>Time for your Thoughts</title>
+    <desc>Taking moments to reflect is crucial for mental health. It offers a sanctuary from life's pressures, aiding in stress reduction and enhancing self-awareness.</desc>
+  </programme>
+  <programme start="20260826131226 +0000" stop="20260826131442 +0000" channel="bestcoachtv">
+    <title>Life Coaching Sessions Introduction</title>
+    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
+  </programme>
+  <programme start="20260826131442 +0000" stop="20260826132643 +0000" channel="bestcoachtv">
+    <title>Dress for Success</title>
+    <desc>Dress for Success. Achieve daily goals effortlessly. In this session we will discus how important it is to dress for occasion.</desc>
+  </programme>
+  <programme start="20260826132643 +0000" stop="20260826132649 +0000" channel="bestcoachtv">
+    <title>Your Coach Hi Five</title>
+    <desc>Your Coach Hi Five</desc>
+  </programme>
+  <programme start="20260826132649 +0000" stop="20260826133650 +0000" channel="bestcoachtv">
+    <title>Introduction to Life Coaching</title>
+    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
+  </programme>
+  <programme start="20260826133650 +0000" stop="20260826133721 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826133721 +0000" stop="20260826135222 +0000" channel="bestcoachtv">
+    <title>Morning Guided Meditation</title>
+    <desc>Welcome to Morning Guided Meditation. Set your day for exciting new beginnings.</desc>
+  </programme>
+  <programme start="20260826135222 +0000" stop="20260826135243 +0000" channel="bestcoachtv">
+    <title>Watch Brian Mayne on BCTV</title>
+    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
+  </programme>
+  <programme start="20260826135243 +0000" stop="20260826140744 +0000" channel="bestcoachtv">
+    <title>Daily Inspiration Dream BIG</title>
+  </programme>
+  <programme start="20260826140744 +0000" stop="20260826142745 +0000" channel="bestcoachtv">
+    <title>Dream Big Coaching Session</title>
+    <desc>Dream Big Coaching Session. This is a short Life Coaching Session to help you achieve your goals and live a better life.</desc>
+  </programme>
+  <programme start="20260826142745 +0000" stop="20260826145745 +0000" channel="bestcoachtv">
+    <title>Gratitude Guided Meditation</title>
+    <desc>Gratitude is an amazing way to help you grow, develop and succeed in your life. Join in and participate in this guided mediation on Gratitude. This is your contemplation time, time to reflect on your life. What are you grateful for in your life?</desc>
+  </programme>
+  <programme start="20260826145745 +0000" stop="20260826145816 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826145816 +0000" stop="20260826152317 +0000" channel="bestcoachtv">
+    <title>Accept Changes Guided-meditation</title>
+    <desc>Changes happen. Not every change is welcomed, but this guided meditation will help you accept your changes happening in your life right now.</desc>
+  </programme>
+  <programme start="20260826152317 +0000" stop="20260826152323 +0000" channel="bestcoachtv">
+    <title>Your Coach Hi Five</title>
+    <desc>Your Coach Hi Five</desc>
+  </programme>
+  <programme start="20260826152323 +0000" stop="20260826155324 +0000" channel="bestcoachtv">
+    <title>Less is More Coaching Session</title>
+    <desc>Less is More Coaching Session helping you to de-clutter your life, making space for new, so that you can focus on what is most important to you.</desc>
+  </programme>
+  <programme start="20260826155324 +0000" stop="20260826155540 +0000" channel="bestcoachtv">
+    <title>Life Coaching Sessions Introduction</title>
+    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
+  </programme>
+  <programme start="20260826155540 +0000" stop="20260826155841 +0000" channel="bestcoachtv">
+    <title>Welcome to Best Coach TV</title>
+    <desc>Welcome to Best Coach TV, your Life Coaching TV channel bringing you life coaching session, guided life coaching meditations and inspirational programs.</desc>
+  </programme>
+  <programme start="20260826155841 +0000" stop="20260826160042 +0000" channel="bestcoachtv">
+    <title>Crush Your Goals Simple</title>
+    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
+  </programme>
+  <programme start="20260826160042 +0000" stop="20260826160243 +0000" channel="bestcoachtv">
+    <title>Crush Your Goals Simple</title>
+    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
+  </programme>
+  <programme start="20260826160243 +0000" stop="20260826160253 +0000" channel="bestcoachtv">
+    <title>Stay tuned</title>
+    <desc>You are watching Best Coach TV</desc>
+  </programme>
+  <programme start="20260826160253 +0000" stop="20260826162654 +0000" channel="bestcoachtv">
+    <title>Visualization Coaching Session</title>
+    <desc>Visualization is a mental practice where you vividly imagine achieving your goals. This powerful technique engages your mind, helping you create a detailed picture of success.</desc>
+  </programme>
+  <programme start="20260826162654 +0000" stop="20260826162825 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826162825 +0000" stop="20260826163041 +0000" channel="bestcoachtv">
+    <title>Life Coaching Sessions Introduction</title>
+    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
+  </programme>
+  <programme start="20260826163041 +0000" stop="20260826163142 +0000" channel="bestcoachtv">
+    <title>Watch Best Coach TV</title>
+    <desc>Small changes will make a huge difference. Watch this 24/7 life coaching channel, it will change your life for better.</desc>
+  </programme>
+  <programme start="20260826163142 +0000" stop="20260826164833 +0000" channel="bestcoachtv">
+    <title>Building Your Confidence Coaching Session</title>
+    <desc>Confidence is key to changing your life for the better. It empowers you to take initiative, embrace new experiences, and make decisions that align with your true desires.</desc>
+  </programme>
+  <programme start="20260826164833 +0000" stop="20260826164843 +0000" channel="bestcoachtv">
+    <title>Stay tuned</title>
+    <desc>You are watching Best Coach TV</desc>
+  </programme>
+  <programme start="20260826164843 +0000" stop="20260826165014 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826165014 +0000" stop="20260826165024 +0000" channel="bestcoachtv">
+    <title>Stay tuned</title>
+    <desc>You are watching Best Coach TV</desc>
+  </programme>
+  <programme start="20260826165024 +0000" stop="20260826165155 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826165155 +0000" stop="20260826170656 +0000" channel="bestcoachtv">
+    <title>1 Strengthening Relationships Part 1</title>
+    <desc>This session offers Self-Reflection. We will also address communications skills, both verbal and non-verbal as these are essential for any healthy relationship.</desc>
+  </programme>
+  <programme start="20260826170656 +0000" stop="20260826170827 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826170827 +0000" stop="20260826172419 +0000" channel="bestcoachtv">
+    <title>2 Strengthening Relationships Part 2</title>
+    <desc>Budling Trust in your Relationship. Establishing trust and respect is essential for healthy relationships encouraging open communication and collaboration fostering mutual understanding and support.</desc>
+  </programme>
+  <programme start="20260826172419 +0000" stop="20260826172550 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826172550 +0000" stop="20260826174051 +0000" channel="bestcoachtv">
+    <title>3 Strengthening Relationships Part 3</title>
+    <desc>In Part 3 Life Coaching Session on Strengthening Relationships we address the importance of Nurturing the Relationship and how best to do so.</desc>
+  </programme>
+  <programme start="20260826174051 +0000" stop="20260826174222 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826174222 +0000" stop="20260826175723 +0000" channel="bestcoachtv">
+    <title>4 Strengthening Relationships Part 4</title>
+    <desc>In this episode of Strengthening Relationships Life Coaching Session we talk about conflict resolution. We will offer some ideas and suggestions on how you can help to resolve a conflict in the relationship.</desc>
+  </programme>
+  <programme start="20260826175723 +0000" stop="20260826175939 +0000" channel="bestcoachtv">
+    <title>Life Coaching Sessions Introduction</title>
+    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
+  </programme>
+  <programme start="20260826175939 +0000" stop="20260826182340 +0000" channel="bestcoachtv">
+    <title>Unlock Hidden Opportunities</title>
+    <desc>Life Coaching Session on Opportunities. Have you ever wondered how many opportunities pass you by unnoticed every day? Life is filled with potential paths, yet many of us remain oblivious to them.</desc>
+  </programme>
+  <programme start="20260826182340 +0000" stop="20260826182350 +0000" channel="bestcoachtv">
+    <title>Stay tuned</title>
+    <desc>You are watching Best Coach TV</desc>
+  </programme>
+  <programme start="20260826182350 +0000" stop="20260826182551 +0000" channel="bestcoachtv">
+    <title>Crush Your Goals Simple</title>
+    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
+  </programme>
+  <programme start="20260826182551 +0000" stop="20260826182557 +0000" channel="bestcoachtv">
+    <title>Your Coach Hi Five</title>
+    <desc>Your Coach Hi Five</desc>
+  </programme>
+  <programme start="20260826182557 +0000" stop="20260826182658 +0000" channel="bestcoachtv">
+    <title>What to expect from our Life Coaching Programs</title>
+    <desc>In short, what can you expect from our Life Coaching Programs.</desc>
+  </programme>
+  <programme start="20260826182658 +0000" stop="20260826183659 +0000" channel="bestcoachtv">
+    <title>Introduction to Life Coaching</title>
+    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
+  </programme>
+  <programme start="20260826183659 +0000" stop="20260826190700 +0000" channel="bestcoachtv">
+    <title>Less is More Coaching Session</title>
+    <desc>Less is More Coaching Session helping you to de-clutter your life, making space for new, so that you can focus on what is most important to you.</desc>
+  </programme>
+  <programme start="20260826190700 +0000" stop="20260826192201 +0000" channel="bestcoachtv">
+    <title>Daily Inspiration Make IT Happen</title>
+    <desc>Welcome to Best Coach TV daily inspiration program. In this program we will encourage you to make things happen, to take actions, to work hard to reach your dreams. Consistency and small daily efforts will get you to your desired destination.</desc>
+  </programme>
+  <programme start="20260826192201 +0000" stop="20260826192232 +0000" channel="bestcoachtv">
+    <title>Welcome to Best Coach TV</title>
+    <desc>Welcome to Best Coach TV. Stay Tuned.</desc>
+  </programme>
+  <programme start="20260826192232 +0000" stop="20260826192733 +0000" channel="bestcoachtv">
+    <title>Recharge in 5 minutes</title>
+    <desc>Taking a short break can be a powerful tool to recharge. Discover the transformative benefits of just five minutes of intentional rest.</desc>
+  </programme>
+  <programme start="20260826192733 +0000" stop="20260826194234 +0000" channel="bestcoachtv">
+    <title>Daily Inspiration Dream BIG</title>
+  </programme>
+  <programme start="20260826194234 +0000" stop="20260826194735 +0000" channel="bestcoachtv">
+    <title>Beach Meditation</title>
+    <desc>Meditation is a powerful tool for cultivating happiness. Take 5 min on the beach.</desc>
+  </programme>
+  <programme start="20260826194735 +0000" stop="20260826194951 +0000" channel="bestcoachtv">
+    <title>Life Coaching Sessions Introduction</title>
+    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
+  </programme>
+  <programme start="20260826194951 +0000" stop="20260826195952 +0000" channel="bestcoachtv">
+    <title>Time for your Thoughts</title>
+    <desc>Taking moments to reflect is crucial for mental health. It offers a sanctuary from life's pressures, aiding in stress reduction and enhancing self-awareness.</desc>
+  </programme>
+  <programme start="20260826195952 +0000" stop="20260826200123 +0000" channel="bestcoachtv">
+    <title>Life Coaching Books</title>
+    <desc>By donating £20 you will receive 3 Life Coaching books; Life Coaching Workbook, Life Coaching Meditations and a Journal.</desc>
+  </programme>
+  <programme start="20260826200123 +0000" stop="20260826202124 +0000" channel="bestcoachtv">
+    <title>Evening Guided Meditation</title>
+    <desc>Evening Guided Meditation. We are here to help you relax and let go of today's worries. Embrace rest. Participate in this amazing relaxation time here at Best Coach TV.</desc>
+  </programme>
+  <programme start="20260826202124 +0000" stop="20260826202134 +0000" channel="bestcoachtv">
+    <title>Stay tuned</title>
+    <desc>You are watching Best Coach TV</desc>
+  </programme>
+  <programme start="20260826202134 +0000" stop="20260826202350 +0000" channel="bestcoachtv">
+    <title>Life Coaching Sessions Introduction</title>
+    <desc>Welcome to Best Coach TV, life coaching TV channel. We are here to support and guide you.</desc>
+  </programme>
+  <programme start="20260826202350 +0000" stop="20260826202851 +0000" channel="bestcoachtv">
+    <title>Beach Meditation</title>
+    <desc>Meditation is a powerful tool for cultivating happiness. Take 5 min on the beach.</desc>
+  </programme>
+  <programme start="20260826202851 +0000" stop="20260826202952 +0000" channel="bestcoachtv">
+    <title>What to expect from our Life Coaching Programs</title>
+    <desc>In short, what can you expect from our Life Coaching Programs.</desc>
+  </programme>
+  <programme start="20260826202952 +0000" stop="20260826203023 +0000" channel="bestcoachtv">
+    <title>Goal Mapping is Next on Best Coach TV</title>
+    <desc>Next on Best Coach TV, Brian Mayne Goal Mapping Workshop. Get ready to embark on amazing life changing journey.</desc>
+  </programme>
+  <programme start="20260826203023 +0000" stop="20260826203044 +0000" channel="bestcoachtv">
+    <title>Watch Brian Mayne on BCTV</title>
+    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
+  </programme>
+  <programme start="20260826203044 +0000" stop="20260826204545 +0000" channel="bestcoachtv">
+    <title>Overcome Obstacles Daily Inspiration</title>
+    <desc>Overcoming Obstacles requires attention. Nothing is impossible. This program will offer encouraging quotes to inspire and motivate you.</desc>
+  </programme>
+  <programme start="20260826204545 +0000" stop="20260826211046 +0000" channel="bestcoachtv">
+    <title>Plan Your Day</title>
+    <desc>This program will help you to plan your day, so it is productive &amp; happy. Take your diary and enjoy this life coaching session to improve the way your live your days.</desc>
+  </programme>
+  <programme start="20260826211046 +0000" stop="20260826212547 +0000" channel="bestcoachtv">
+    <title>Confident decision making Guided Meditation</title>
+    <desc>Inner Wisdom Journey. We embark on a journey to empower you to help you make decisions, not from the place of fear, but from the place of confidence and clarity.</desc>
+  </programme>
+  <programme start="20260826212547 +0000" stop="20260826215048 +0000" channel="bestcoachtv">
+    <title>Manifest Your Dreams Guided Meditation</title>
+    <desc>Gentle journey inwards. Connect with your dreams, manifest your desires.</desc>
+  </programme>
+  <programme start="20260826215048 +0000" stop="20260826221049 +0000" channel="bestcoachtv">
+    <title>Motivational Session</title>
+    <desc>Journey to renewed motivation. Pause your busy life for a moment and join this session to reflect, to reignite your motivation.</desc>
+  </programme>
+  <programme start="20260826221049 +0000" stop="20260826223050 +0000" channel="bestcoachtv">
+    <title>Identifying your core Values</title>
+    <desc>This session will help you on your self discovery journey. Unlock profound truths about yourself. We will help you identify your core values, we will help you to get to the heart of who you are.</desc>
+  </programme>
+  <programme start="20260826223050 +0000" stop="20260826225051 +0000" channel="bestcoachtv">
+    <title>Time Management</title>
+  </programme>
+  <programme start="20260826225051 +0000" stop="20260826225222 +0000" channel="bestcoachtv">
+    <title>Bestc Coach TV Overview</title>
+    <desc>Welcome to Best Coach TV we deliver TV content designed for your success journey. Life Coaching Sessions and Entertainment &amp; Motivational Content.</desc>
+  </programme>
+  <programme start="20260826225222 +0000" stop="20260826231223 +0000" channel="bestcoachtv">
+    <title>Evening Guided Meditation</title>
+    <desc>Evening Guided Meditation. We are here to help you relax and let go of today's worries. Embrace rest. Participate in this amazing relaxation time here at Best Coach TV.</desc>
+  </programme>
+  <programme start="20260826231223 +0000" stop="20260826233224 +0000" channel="bestcoachtv">
+    <title>New Resolutions</title>
+    <desc>Welcome to New Resolutions Life Coaching Session. Let go of bad habits and replace them with new. Start seeing your life changing for better.</desc>
+  </programme>
+  <programme start="20260826233224 +0000" stop="20260826233355 +0000" channel="bestcoachtv">
+    <title>Quick Coaching Tips</title>
+    <desc>Short and quick program giving you few tips for today.</desc>
+  </programme>
+  <programme start="20260826233355 +0000" stop="20260826233556 +0000" channel="bestcoachtv">
+    <title>Crush Your Goals Simple</title>
+    <desc>Short Life Coaching Session helping you to reach your goals, in this step by step guided session.</desc>
+  </programme>
+  <programme start="20260826233556 +0000" stop="20260826235247 +0000" channel="bestcoachtv">
+    <title>Building Your Confidence Coaching Session</title>
+    <desc>Confidence is key to changing your life for the better. It empowers you to take initiative, embrace new experiences, and make decisions that align with your true desires.</desc>
+  </programme>
+  <programme start="20260826235247 +0000" stop="20260826235748 +0000" channel="bestcoachtv">
+    <title>Recharge in 5 minutes</title>
+    <desc>Taking a short break can be a powerful tool to recharge. Discover the transformative benefits of just five minutes of intentional rest.</desc>
+  </programme>
+  <programme start="20260826235748 +0000" stop="20260826235819 +0000" channel="bestcoachtv">
+    <title>This is Best Coach TV</title>
+    <desc>This is Best Coach TV</desc>
+  </programme>
+  <programme start="20260826235819 +0000" stop="20260826235850 +0000" channel="bestcoachtv">
     <title>This is Best Coach TV</title>
     <desc>This is Best Coach TV</desc>
   </programme>
