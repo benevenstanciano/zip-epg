@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:30:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Healing Time With Dr. Doug Weiss",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T04:30:00+00:00"
+      "title": "Reflections",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T04:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:30:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Drawing Diary",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T04:20:00+00:00"
+      "title": "Regional Tastes",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T04:30:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T02:00:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T02:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T06:00:00+00:00"
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T06:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:00:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T02:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Peter Thomas Roth Clinical Skin Care",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "At Home with Kim Gravel - Fall Decor",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T05:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:00:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Today's Super-Special Weekend - Chef Wolfgang Puck",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "Today's Super-Special Weekend - featuring Shark",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T05:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:10:00+00:00",
-      "end": "2026-08-22T03:40:00+00:00"
+      "start": "2026-08-23T03:10:00+00:00",
+      "end": "2026-08-23T03:40:00+00:00"
     },
     "next": {
-      "title": "The New Adventures of Rockie and Her Friends",
-      "start": "2026-08-22T03:40:00+00:00",
-      "end": "2026-08-22T03:50:00+00:00"
+      "title": "I Love 'Mee'",
+      "start": "2026-08-23T03:40:00+00:00",
+      "end": "2026-08-23T03:50:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:30:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T04:30:00+00:00"
+      "title": "Press Your Luck",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T04:30:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:00:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T02:00:00+00:00",
+      "end": "2026-08-23T04:15:00+00:00"
     },
     "next": {
-      "title": "Heartland",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T04:44:00+00:00"
+      "title": "The Rookie",
+      "start": "2026-08-23T04:15:00+00:00",
+      "end": "2026-08-23T06:15:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T03:45:00+00:00"
     },
     "next": {
-      "title": "Daily Mass: Olam Daily Mass",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "Art of Faith with Fr. Patrick Van Der Vorst",
+      "start": "2026-08-23T03:45:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T02:00:00+00:00",
-      "end": "2026-08-22T06:00:00+00:00"
+      "start": "2026-08-23T02:00:00+00:00",
+      "end": "2026-08-23T06:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-08-22T06:00:00+00:00",
-      "end": "2026-08-22T10:00:00+00:00"
+      "start": "2026-08-23T06:00:00+00:00",
+      "end": "2026-08-23T10:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "The 700 Club",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "Radical Truth",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T04:30:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:30:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Inspiration Ministries Camp Meeting",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "Dr. Lynn Hiles",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T04:30:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T01:50:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "From Here to Eternity",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T06:10:00+00:00"
+      "title": "Bye Bye Birdie",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T06:00:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:30:00+00:00",
+      "end": "2026-08-23T04:30:00+00:00"
     },
     "next": {
-      "title": "Joy Ministries",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T04:30:00+00:00"
+      "title": "Pastor Melusi",
+      "start": "2026-08-23T05:00:00+00:00",
+      "end": "2026-08-23T05:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,39 +210,39 @@
     "name": "JBS",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Police Pursuits by Law&Crime",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "BodyCam by Law&Crime",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T05:00:00+00:00"
     }
   },
   "create": {
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:30:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "View Finders",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T04:30:00+00:00"
+      "title": "The Farmer and the Foodie",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T04:30:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:00:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Big Cats 24/7",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "Shared Planet",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T05:00:00+00:00"
     }
   },
   "skyweather": {
@@ -254,65 +254,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:00:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
       "title": "Saturday Night Live",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T05:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:00:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Biography: WWE Legends",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "Cold Case Files",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T05:00:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:30:00+00:00",
-      "end": "2026-08-22T04:30:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "The X-Files",
-      "start": "2026-08-22T04:30:00+00:00",
-      "end": "2026-08-22T05:30:00+00:00"
+      "title": "NWA Powerrr",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T05:00:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:00:00+00:00",
-      "end": "2026-08-22T04:00:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T04:00:00+00:00"
     },
     "next": {
-      "title": "Homicide: Life on the Street",
-      "start": "2026-08-22T04:00:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "Criminal Minds",
+      "start": "2026-08-23T04:00:00+00:00",
+      "end": "2026-08-23T05:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-22T03:00:00+00:00",
-      "end": "2026-08-22T04:15:00+00:00"
+      "start": "2026-08-23T03:00:00+00:00",
+      "end": "2026-08-23T05:20:00+00:00"
     },
     "next": {
-      "title": "Sashka",
-      "start": "2026-08-22T04:15:00+00:00",
-      "end": "2026-08-22T05:00:00+00:00"
+      "title": "Aerial & Walking Tours of Jewish Poland",
+      "start": "2026-08-23T05:20:00+00:00",
+      "end": "2026-08-23T06:00:00+00:00"
     }
   }
 }
