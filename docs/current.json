@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "Healing Time With Dr. Doug Weiss",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Jesus the Healer With Nancy Dufresne",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:05:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "I'm Live",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Beauty On And Off",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T02:00:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T12:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T06:00:00+00:00"
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T16:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T02:00:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T16:00:00+00:00"
     },
     "next": {
-      "title": "Cleaning Solutions",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "title": "Home Reflections Decor with Carrie Locklyn",
+      "start": "2026-08-27T16:00:00+00:00",
+      "end": "2026-08-27T17:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:00:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
-      "title": "Perlier Beauty -- All on Free Shipping",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "title": "Vivica A. Fox Fashions Celebration",
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T15:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "NHK Newsline",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Japanology Plus",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Family Feud",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:50:00+00:00"
     },
     "next": {
-      "title": "Heartland",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:43:00+00:00"
+      "title": "Holly Hobbie",
+      "start": "2026-08-27T13:50:00+00:00",
+      "end": "2026-08-27T14:16:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
-      "title": "Daily Mass: Olam Daily Mass",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "title": "Holy Hour With Archconfraternity of Christian Mothers",
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T15:00:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T02:00:00+00:00",
-      "end": "2026-08-26T06:00:00+00:00"
+      "start": "2026-08-27T10:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-08-26T06:00:00+00:00",
-      "end": "2026-08-26T10:00:00+00:00"
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T18:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "The 700 Club",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "title": "Grace Grace with Nina and Michelle",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "Through the Bible With Les Feldick",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Food for Your Soul With Apostle Ron Hill",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T02:05:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T11:45:00+00:00",
+      "end": "2026-08-27T14:10:00+00:00"
     },
     "next": {
-      "title": "Angel and the Badman",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:50:00+00:00"
+      "title": "Murder in Coweta County",
+      "start": "2026-08-27T14:10:00+00:00",
+      "end": "2026-08-27T16:00:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
-      "title": "In Search-Phil Sanders",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Facing the Canon: John John Lennox (Part Two)",
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T14:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,39 +210,39 @@
     "name": "JBS",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "Cops Reloaded",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Jail",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   },
   "create": {
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "Louisiana Coastal Cooking",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Christopher Kimball's Milk Street Television",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T12:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "NOVA",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "title": "POV",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T15:00:00+00:00"
     }
   },
   "skyweather": {
@@ -254,65 +254,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:00:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
-      "title": "Saturday Night Live",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "title": "America's Funniest Home Videos",
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T15:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:30:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
-      "title": "Wahlburgers",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T04:30:00+00:00"
+      "title": "Hoarders",
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T15:00:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:00:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
-      "title": "The X-Files",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "title": "Stargate SG-1",
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T15:00:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:00:00+00:00",
-      "end": "2026-08-26T04:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     },
     "next": {
-      "title": "Law & Order: Criminal Intent",
-      "start": "2026-08-26T04:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "title": "The District",
+      "start": "2026-08-27T14:00:00+00:00",
+      "end": "2026-08-27T15:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-08-26T03:00:00+00:00",
-      "end": "2026-08-26T05:00:00+00:00"
+      "start": "2026-08-27T13:00:00+00:00",
+      "end": "2026-08-27T13:30:00+00:00"
     },
     "next": {
-      "title": "Kommuna Lux, Odesa Urban Folk Band",
-      "start": "2026-08-26T05:00:00+00:00",
-      "end": "2026-08-26T05:30:00+00:00"
+      "title": "Alive and Well",
+      "start": "2026-08-27T13:30:00+00:00",
+      "end": "2026-08-27T14:00:00+00:00"
     }
   }
 }
