@@ -28,11 +28,16 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Build
-        run: |
-          python scripts/build.py
-          python scripts/generate_ptn_epg.py
-          python scripts/generate_bestcoachtv_epg.py
+      - name: Build main EPG
+        run: python scripts/build.py
+
+      - name: Generate PTN EPG
+        continue-on-error: true
+        run: python scripts/generate_ptn_epg.py
+
+      - name: Generate Best Coach TV EPG
+        continue-on-error: true
+        run: python scripts/generate_bestcoachtv_epg.py
           
       - name: Publish Files
         run: |
