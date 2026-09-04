@@ -64,7 +64,8 @@ def main():
         print(f"✅ Fetched {len(r.text)} characters")
     except Exception as e:
         print(f"❌ Fetch failed: {e}")
-        sys.exit(1)
+        print("→ Skipping PTN EPG (source unavailable). Continuing job.")
+        sys.exit(0)
 
     # Sanitize + Parse
     try:
@@ -72,8 +73,9 @@ def main():
         cal = Calendar(cleaned)
         print(f"✅ Parsed calendar with {len(cal.events)} events (bad events skipped)")
     except Exception as e:
-        print(f"❌ ICS parsing failed: {e}")
-        sys.exit(1)
+        print(f"❌ Save failed: {e}")
+        print("→ Skipping PTN EPG save. Continuing job.")
+        sys.exit(0)
 
     # Convert
     tv = convert_to_xmltv(cal)
