@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
       "title": "Reflections",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:05:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
-      "title": "The Daily Report",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "Diplomat's Archive: Hidden Stories",
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T06:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T06:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T10:00:00+00:00"
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T10:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
-      "title": "Denim & Co.",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T10:00:00+00:00"
+      "title": "Belle by Kim Gravel -- Fashion",
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T09:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
-      "title": "Saturday Shopping with Suzanne - Labor Day Sale",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T09:00:00+00:00"
+      "title": "Come on In! With Callie",
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T09:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
-      "title": "NHK Newsline",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "Document 72 Hours",
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
-      "title": "Concentration",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "Password",
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T06:10:00+00:00",
-      "end": "2026-09-07T08:07:00+00:00"
+      "start": "2026-09-08T06:10:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
-      "title": "Artful",
-      "start": "2026-09-07T08:07:00+00:00",
-      "end": "2026-09-07T08:34:00+00:00"
+      "title": "Holly Hobbie",
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T08:29:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
-      "title": "The Doctors of the Church",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "The Fourth Cup: Unveiling the Mystery of the Last Supper and the Cross",
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T08:30:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T06:00:00+00:00",
-      "end": "2026-09-07T10:00:00+00:00"
+      "start": "2026-09-08T06:00:00+00:00",
+      "end": "2026-09-08T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-09-07T10:00:00+00:00",
-      "end": "2026-09-07T14:00:00+00:00"
+      "start": "2026-09-08T10:00:00+00:00",
+      "end": "2026-09-08T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T06:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T06:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
       "title": "Radiant TV",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T10:00:00+00:00"
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T10:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
-      "title": "Mercy Ships",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T08:30:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T05:45:00+00:00",
-      "end": "2026-09-07T07:40:00+00:00"
+      "start": "2026-09-08T06:17:00+00:00",
+      "end": "2026-09-08T07:55:00+00:00"
     },
     "next": {
-      "title": "The Grapes of Wrath",
-      "start": "2026-09-07T07:40:00+00:00",
-      "end": "2026-09-07T10:00:00+00:00"
+      "title": "Adam's Rib",
+      "start": "2026-09-08T07:55:00+00:00",
+      "end": "2026-09-08T09:48:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
-      "title": "Deliverance Outreach Ministries",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T09:00:00+00:00"
+      "title": "Facing the Canon: John John Lennox (Part Two)",
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     }
   },
   "bctv": {
@@ -210,39 +210,39 @@
     "name": "JBS",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
-      "title": "Cops Reloaded",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "BodyCam by Law&Crime",
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T09:00:00+00:00"
     }
   },
   "create": {
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
-      "title": "No Passport Required",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T09:00:00+00:00"
+      "title": "People of the North",
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
-      "title": "Made in the West",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T09:00:00+00:00"
+      "title": "Amanpour and Company",
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T09:00:00+00:00"
     }
   },
   "skyweather": {
@@ -254,65 +254,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
-      "title": "Under Eye Bags? SOLUTION!",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
       "title": "American Justice",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T09:00:00+00:00"
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T09:00:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:00:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     },
     "next": {
-      "title": "The Aging Brain",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "Tired of Aging? Super Pill's Secret to Lasting Youth & Vitality!",
+      "start": "2026-09-08T08:00:00+00:00",
+      "end": "2026-09-08T08:30:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:00:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-09-07T08:00:00+00:00",
-      "end": "2026-09-07T08:30:00+00:00"
+      "title": "Tired of Aging? Super Pill's Secret to Lasting Youth & Vitality!",
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-07T07:30:00+00:00",
-      "end": "2026-09-07T08:50:00+00:00"
+      "start": "2026-09-08T07:00:00+00:00",
+      "end": "2026-09-08T07:30:00+00:00"
     },
     "next": {
-      "title": "Memory Embrace: The Brest Jewish Cementery",
-      "start": "2026-09-07T08:50:00+00:00",
-      "end": "2026-09-07T09:30:00+00:00"
+      "title": "Judaism Unpacked",
+      "start": "2026-09-08T07:30:00+00:00",
+      "end": "2026-09-08T08:30:00+00:00"
     }
   }
 }
