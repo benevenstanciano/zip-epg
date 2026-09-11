@@ -3,14 +3,6 @@
   <channel id="daystar">
     <display-name>Daystar</display-name>
   </channel>
-  <programme channel="daystar" start="20260911010000 +0000" stop="20260911020000 +0000"><category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Religious</category>
-    <date>2020</date>
-    <desc lang="en">News and commentary about current events and issues facing America and the world in a spirit of faith.</desc>
-    <icon src="https://iptv-epg.org/images/O0dYR3_PZa0apBCuiQKO24omZNQEoZSOgEX4TpHPyARhikTSgMDu7zDcHIjpdOwFAc-crI0ru1rLae6MdofznV1pvc_gLLn2EXn1d72uirI"/>
-    <title lang="en">FlashPoint</title>
-  </programme>
   <programme channel="daystar" start="20260911020000 +0000" stop="20260911023000 +0000"><category lang="en">Religious</category>
     <date>1995</date>
     <desc lang="en">Pastor Mac Hammond delivers a religious discourse inspired by the teachings of the Bible to Christian devotees and sheds light on the Word of God.</desc>
@@ -1148,14 +1140,15 @@ The author of The Secret Life of Christians reminds us that the most important l
     <icon src="https://iptv-epg.org/images/OQNT63FKV2Sn6aDMpiIfM-nW1EPWFUa-mABJaRQbX0op69zZB3_urFvGPNZMlTH9aiyDBgdolML_Cjn34QApC4nK-f9ov9bYQQXmjYZv2X8"/>
     <title lang="en">Jesus the Healer With Nancy Dufresne</title>
   </programme>
+  <programme channel="daystar" start="20260914140000 +0000" stop="20260914143000 +0000"><category lang="en">Religious</category>
+    <date>1985</date>
+    <desc lang="en">You've got the victory; Kenneth Copeland explains how Jesus gave you His authority over death; be reminded of the power and victory you have through Christ's loving sacrifice!</desc>
+    <icon src="https://iptv-epg.org/images/Wd9rU3SY6uakSq85MXD699UtWXX1RoED6PpdTbE6kUVzhDGws-obBVNjYcm7oxmI77fi8M9BoKBsrL0z9jefXV83RvZC37jmBfkFGxc6sWk"/>
+    <title lang="en">Kenneth Copeland</title>
+  </programme>
   <channel id="arirang">
     <display-name>Arirang</display-name>
   </channel>
-  <programme channel="arirang" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Arts And Culture</category>
-    <desc lang="en">The news talk show covers recent trends and current affairs from people of the Millennium and the Zoomers generation.</desc>
-    <icon src="https://iptv-epg.org/images/O3qACDDD4uHLwAx6-l5pwUSnJtKP1TfZRafmdaViCoDkt7a1YgHNJydvVy7Gl_c1Cuf7s7GPu40JqcOg4XP2Uah2_6viyRXfiPUgq74469S77qMdmIj2crcMEzRfTIX_KKRjfVDak947xAVVrD2bHnfmqlZRFHNxKgSl3wIcBzQA-kEeIaXvoGzNqQ"/>
-    <title lang="en">News Generation</title>
-  </programme>
   <programme channel="arirang" start="20260911020000 +0000" stop="20260911030000 +0000"><category lang="en">Lifestyle</category>
     <category lang="en">Travel</category>
     <icon src="https://iptv-epg.org/images/Hu9XCNtNAZKvkBwi2yF35PpJr3bL7kig0USCxZuKdOlnCJ4K3_ORSIR7hwDvrSU6lgrLxBRyTbuDZj0jWvpj9BuBrUYYIg0NgC_4aylgjrD33bW8baXTZIExEuuzzkOYjWLf_VLrc71DcQw5BVRhTalJvLeXrbYGBMTIRjv0RRc-U8rDdIq57Gtjag"/>
@@ -1922,14 +1915,12 @@ Business documentary series introducing a variety of domestic small and medium-s
     <icon src="https://iptv-epg.org/images/0TFQ990blrcS5hS9C-bxvjqMXOVr5qrsKui9071mrdXA9B7-GPp-CtTz7pIIbPEQgKOdYdHuul5G_CwMLAexnhcvuhPJMZIs3-X_e8QwTppvuiK8sXuW5C0EAP0xOxkqrz7Ij_6JaN7A6gHG1Wr99Z_IBXudPCzEc5dhcOoXUE4ztLfiapLdImqWFQ"/>
     <title lang="en">SmartBiz Accelerators</title>
   </programme>
+  <programme channel="arirang" start="20260914140000 +0000" stop="20260914143000 +0000"><icon src="https://iptv-epg.org/images/VlfMB0SV3-LUVdm9ZcgUmOabMI_-KEhURDB2TrQUmeA1nM75_xXzMn4HwGyweSkWaEZrahm47YfT-sv0GqeelATAVQ_UBDqC1ZaA6T6S3rFIwMQSYtj5kezUPjYNooKfgpClU8RPfLop9dWRjBFvqXBFNmUhpuuIpM6b4b0dc3zyGexU1H6oluPgBw"/>
+    <title lang="en">Press Perspective</title>
+  </programme>
   <channel id="weathernation">
     <display-name>WeatherNation</display-name>
   </channel>
-  <programme channel="weathernation" start="20260911000000 +0000" stop="20260911020000 +0000"><category lang="en">News</category>
-    <desc lang="en">Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner!</desc>
-    <icon src="https://iptv-epg.org/images/_viDRSFx212fWioAOI1YkaGxmOJ2FbsYPPL3nPggQOhK0ZzHUe1HF7cnQOz4fJTxqfSlKgJFUiAljD7s7FbXGbcsEuRNk878vYbh-a7BM98"/>
-    <title lang="en">Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
-  </programme>
   <programme channel="weathernation" start="20260911020000 +0000" stop="20260911040000 +0000"><category lang="en">News</category>
     <desc lang="en">Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner!</desc>
     <icon src="https://iptv-epg.org/images/_viDRSFx212fWioAOI1YkaGxmOJ2FbsYPPL3nPggQOhK0ZzHUe1HF7cnQOz4fJTxqfSlKgJFUiAljD7s7FbXGbcsEuRNk878vYbh-a7BM98"/>
@@ -2140,307 +2131,305 @@ Business documentary series introducing a variety of domestic small and medium-s
     <icon src="https://iptv-epg.org/images/_viDRSFx212fWioAOI1YkaGxmOJ2FbsYPPL3nPggQOhK0ZzHUe1HF7cnQOz4fJTxqfSlKgJFUiAljD7s7FbXGbcsEuRNk878vYbh-a7BM98"/>
     <title lang="en">Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
   </programme>
+  <programme channel="weathernation" start="20260914140000 +0000" stop="20260914160000 +0000"><category lang="en">News</category>
+    <desc lang="en">Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner!</desc>
+    <icon src="https://iptv-epg.org/images/_viDRSFx212fWioAOI1YkaGxmOJ2FbsYPPL3nPggQOhK0ZzHUe1HF7cnQOz4fJTxqfSlKgJFUiAljD7s7FbXGbcsEuRNk878vYbh-a7BM98"/>
+    <title lang="en">Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
+  </programme>
   <channel id="realamericasvoice">
     <display-name>Real America's Voice</display-name>
   </channel>
-  <programme channel="realamericasvoice" start="20260911135507 +0000" stop="20260911145507 +0000">
+  <programme channel="realamericasvoice" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911145507 +0000" stop="20260911155507 +0000">
+  <programme channel="realamericasvoice" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911155507 +0000" stop="20260911165507 +0000">
+  <programme channel="realamericasvoice" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911165507 +0000" stop="20260911175507 +0000">
+  <programme channel="realamericasvoice" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911175507 +0000" stop="20260911185507 +0000">
+  <programme channel="realamericasvoice" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911185507 +0000" stop="20260911195507 +0000">
+  <programme channel="realamericasvoice" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911195507 +0000" stop="20260911205507 +0000">
+  <programme channel="realamericasvoice" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911205507 +0000" stop="20260911215507 +0000">
+  <programme channel="realamericasvoice" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911215507 +0000" stop="20260911225507 +0000">
+  <programme channel="realamericasvoice" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911225507 +0000" stop="20260911235507 +0000">
+  <programme channel="realamericasvoice" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911235507 +0000" stop="20260912005507 +0000">
+  <programme channel="realamericasvoice" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912005507 +0000" stop="20260912015507 +0000">
+  <programme channel="realamericasvoice" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912015507 +0000" stop="20260912025507 +0000">
+  <programme channel="realamericasvoice" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912025507 +0000" stop="20260912035507 +0000">
+  <programme channel="realamericasvoice" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912035507 +0000" stop="20260912045507 +0000">
+  <programme channel="realamericasvoice" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912045507 +0000" stop="20260912055507 +0000">
+  <programme channel="realamericasvoice" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912055507 +0000" stop="20260912065507 +0000">
+  <programme channel="realamericasvoice" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912065507 +0000" stop="20260912075507 +0000">
+  <programme channel="realamericasvoice" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912075507 +0000" stop="20260912085507 +0000">
+  <programme channel="realamericasvoice" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912085507 +0000" stop="20260912095507 +0000">
+  <programme channel="realamericasvoice" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912095507 +0000" stop="20260912105507 +0000">
+  <programme channel="realamericasvoice" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912105507 +0000" stop="20260912115507 +0000">
+  <programme channel="realamericasvoice" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912115507 +0000" stop="20260912125507 +0000">
+  <programme channel="realamericasvoice" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912125507 +0000" stop="20260912135507 +0000">
+  <programme channel="realamericasvoice" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912135507 +0000" stop="20260912145507 +0000">
+  <programme channel="realamericasvoice" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912145507 +0000" stop="20260912155507 +0000">
+  <programme channel="realamericasvoice" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912155507 +0000" stop="20260912165507 +0000">
+  <programme channel="realamericasvoice" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912165507 +0000" stop="20260912175507 +0000">
+  <programme channel="realamericasvoice" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912175507 +0000" stop="20260912185507 +0000">
+  <programme channel="realamericasvoice" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912185507 +0000" stop="20260912195507 +0000">
+  <programme channel="realamericasvoice" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912195507 +0000" stop="20260912205507 +0000">
+  <programme channel="realamericasvoice" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912205507 +0000" stop="20260912215507 +0000">
+  <programme channel="realamericasvoice" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912215507 +0000" stop="20260912225507 +0000">
+  <programme channel="realamericasvoice" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912225507 +0000" stop="20260912235507 +0000">
+  <programme channel="realamericasvoice" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912235507 +0000" stop="20260913005507 +0000">
+  <programme channel="realamericasvoice" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913005507 +0000" stop="20260913015507 +0000">
+  <programme channel="realamericasvoice" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913015507 +0000" stop="20260913025507 +0000">
+  <programme channel="realamericasvoice" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913025507 +0000" stop="20260913035507 +0000">
+  <programme channel="realamericasvoice" start="20260913030623 +0000" stop="20260913040623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913035507 +0000" stop="20260913045507 +0000">
+  <programme channel="realamericasvoice" start="20260913040623 +0000" stop="20260913050623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913045507 +0000" stop="20260913055507 +0000">
+  <programme channel="realamericasvoice" start="20260913050623 +0000" stop="20260913060623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913055507 +0000" stop="20260913065507 +0000">
+  <programme channel="realamericasvoice" start="20260913060623 +0000" stop="20260913070623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913065507 +0000" stop="20260913075507 +0000">
+  <programme channel="realamericasvoice" start="20260913070623 +0000" stop="20260913080623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913075507 +0000" stop="20260913085507 +0000">
+  <programme channel="realamericasvoice" start="20260913080623 +0000" stop="20260913090623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913085507 +0000" stop="20260913095507 +0000">
+  <programme channel="realamericasvoice" start="20260913090623 +0000" stop="20260913100623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913095507 +0000" stop="20260913105507 +0000">
+  <programme channel="realamericasvoice" start="20260913100623 +0000" stop="20260913110623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913105507 +0000" stop="20260913115507 +0000">
+  <programme channel="realamericasvoice" start="20260913110623 +0000" stop="20260913120623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913115507 +0000" stop="20260913125507 +0000">
+  <programme channel="realamericasvoice" start="20260913120623 +0000" stop="20260913130623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913125507 +0000" stop="20260913135507 +0000">
+  <programme channel="realamericasvoice" start="20260913130623 +0000" stop="20260913140623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913135507 +0000" stop="20260913145507 +0000">
+  <programme channel="realamericasvoice" start="20260913140623 +0000" stop="20260913150623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913145507 +0000" stop="20260913155507 +0000">
+  <programme channel="realamericasvoice" start="20260913150623 +0000" stop="20260913160623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913155507 +0000" stop="20260913165507 +0000">
+  <programme channel="realamericasvoice" start="20260913160623 +0000" stop="20260913170623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913165507 +0000" stop="20260913175507 +0000">
+  <programme channel="realamericasvoice" start="20260913170623 +0000" stop="20260913180623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913175507 +0000" stop="20260913185507 +0000">
+  <programme channel="realamericasvoice" start="20260913180623 +0000" stop="20260913190623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913185507 +0000" stop="20260913195507 +0000">
+  <programme channel="realamericasvoice" start="20260913190623 +0000" stop="20260913200623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913195507 +0000" stop="20260913205507 +0000">
+  <programme channel="realamericasvoice" start="20260913200623 +0000" stop="20260913210623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913205507 +0000" stop="20260913215507 +0000">
+  <programme channel="realamericasvoice" start="20260913210623 +0000" stop="20260913220623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913215507 +0000" stop="20260913225507 +0000">
+  <programme channel="realamericasvoice" start="20260913220623 +0000" stop="20260913230623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913225507 +0000" stop="20260913235507 +0000">
+  <programme channel="realamericasvoice" start="20260913230623 +0000" stop="20260914000623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913235507 +0000" stop="20260914005507 +0000">
+  <programme channel="realamericasvoice" start="20260914000623 +0000" stop="20260914010623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914005507 +0000" stop="20260914015507 +0000">
+  <programme channel="realamericasvoice" start="20260914010623 +0000" stop="20260914020623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914015507 +0000" stop="20260914025507 +0000">
+  <programme channel="realamericasvoice" start="20260914020623 +0000" stop="20260914030623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914025507 +0000" stop="20260914035507 +0000">
+  <programme channel="realamericasvoice" start="20260914030623 +0000" stop="20260914040623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914035507 +0000" stop="20260914045507 +0000">
+  <programme channel="realamericasvoice" start="20260914040623 +0000" stop="20260914050623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914045507 +0000" stop="20260914055507 +0000">
+  <programme channel="realamericasvoice" start="20260914050623 +0000" stop="20260914060623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914055507 +0000" stop="20260914065507 +0000">
+  <programme channel="realamericasvoice" start="20260914060623 +0000" stop="20260914070623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914065507 +0000" stop="20260914075507 +0000">
+  <programme channel="realamericasvoice" start="20260914070623 +0000" stop="20260914080623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914075507 +0000" stop="20260914085507 +0000">
+  <programme channel="realamericasvoice" start="20260914080623 +0000" stop="20260914090623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914085507 +0000" stop="20260914095507 +0000">
+  <programme channel="realamericasvoice" start="20260914090623 +0000" stop="20260914100623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914095507 +0000" stop="20260914105507 +0000">
+  <programme channel="realamericasvoice" start="20260914100623 +0000" stop="20260914110623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914105507 +0000" stop="20260914115507 +0000">
+  <programme channel="realamericasvoice" start="20260914110623 +0000" stop="20260914120623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914115507 +0000" stop="20260914125507 +0000">
+  <programme channel="realamericasvoice" start="20260914120623 +0000" stop="20260914130623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260914125507 +0000" stop="20260914135507 +0000">
+  <programme channel="realamericasvoice" start="20260914130623 +0000" stop="20260914140623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
   <channel id="qvc">
     <display-name>QVC</display-name>
   </channel>
-  <programme channel="qvc" start="20260911010000 +0000" stop="20260911020000 +0000"><category lang="en">Shopping</category>
-    <date>2025</date>
-    <desc lang="en">Q50 Ambassador Mally Roncal is bringing you and the rest of her Q-mmunity along; she brings the pages of "Q Magazine" to life.</desc>
-    <icon src="https://iptv-epg.org/images/aTrCs0Qh6RbmY4pjpmMwPIwyvuPPl_CXd5KWW9skd4btoHI82lrUCghpahA6hhlzH_CKS_uue-pCt3iS74aYBJQs9wyjeDibP2uOxdHB-tw"/>
-    <title lang="en">Inside Q With Mally Roncal</title>
-    <live/>
-  </programme>
   <programme channel="qvc" start="20260911020000 +0000" stop="20260911040000 +0000"><category lang="en">Fashion</category>
     <category lang="en">Shopping</category>
     <date>1999</date>
@@ -2874,19 +2863,17 @@ Business documentary series introducing a variety of domestic small and medium-s
     <title lang="en">Givenchy Beauty</title>
     <live/>
   </programme>
+  <programme channel="qvc" start="20260914140000 +0000" stop="20260914160000 +0000"><category lang="en">Fashion</category>
+    <category lang="en">Shopping</category>
+    <date>1999</date>
+    <desc lang="en">Designer fashions that are easy to wear and care for.</desc>
+    <icon src="https://iptv-epg.org/images/sE8PyP3VUJO4ZDMos_yCB9-_YrIFY51q_6zvUBopL7ytWNcIfKk7qoTugI-AeW986EMa1isSRRyZMRwix49dQ-3QCyPUClSr38PPXvImdrw"/>
+    <title lang="en">Susan Graver Style</title>
+    <live/>
+  </programme>
   <channel id="hsn">
     <display-name>HSN</display-name>
   </channel>
-  <programme channel="hsn" start="20260911010000 +0000" stop="20260911020000 +0000"><category lang="en">Shopping</category>
-    <credits>
-      <actor>Debbie Denmon</actor>
-    </credits>
-    <date>2022</date>
-    <desc lang="en">Host Debbie D presents hand-picked fashion, footwear, accessories and beauty.</desc>
-    <icon src="https://iptv-epg.org/images/3-7W5mWKIHLUadep370300lGTuSy4TqbMTIdvPtR8eO7HCX3UL1K3ZsHE915UDUlRIJzspy0Kth-IhLUqyAaRdp0SGKjRIgR4eGE3EmP1nM"/>
-    <title lang="en">The List With Debbie D</title>
-    <live/>
-  </programme>
   <programme channel="hsn" start="20260911020000 +0000" stop="20260911030000 +0000"><category lang="en">Shopping</category>
     <credits>
       <actor>Debbie Denmon</actor>
@@ -3431,19 +3418,15 @@ Business documentary series introducing a variety of domestic small and medium-s
     <title lang="en">HSN Today With Friends</title>
     <live/>
   </programme>
+  <programme channel="hsn" start="20260914140000 +0000" stop="20260914150000 +0000"><date>2026</date>
+    <desc lang="en">Create your sweetest space with HSN's Rebekah Wood - your go-to gal for all things warm, homey and practical.</desc>
+    <icon src="https://iptv-epg.org/images/gz4d7Y42PsSW_1FuVnWenzj8wP2ea-am_5uSz9inrac76ThUxQJHWAffy2e7ob0SFomjweXEUIRIGEds_QjlPqdWb42YJ8_7_brUktGF3PI"/>
+    <title lang="en">Home Sweet Home with Rebekah - Mr. Halloween</title>
+    <live/>
+  </programme>
   <channel id="nhkworld">
     <display-name>NHK World-Japan</display-name>
   </channel>
-  <programme channel="nhkworld" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Community</category>
-    <category lang="en">News</category>
-    <category lang="en">Public affairs</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Live Recruiters for Factories: Shenzhen, China
-The filmmakers take a look at how factories in Shenzhen adapt their hiring practices to meet production demands by using streamers to attract employees.</desc>
-    <icon src="https://iptv-epg.org/images/g-xY2X6osrII5C9zuwtGDTTq--PxdFFCUfSLDSdJxvi2qw7-uL_pPhFnLXV-ZDeVjRK7M6dRNH8bN3mible1tQ0BdTzWbkGr_0ghWjj_zK8"/>
-    <title lang="en">Asia Insight</title>
-    <new/>
-  </programme>
   <programme channel="nhkworld" start="20260911020000 +0000" stop="20260911023000 +0000"><category lang="en">News</category>
     <date>2002</date>
     <desc lang="en">Japan's disaster relief; Asia news; business and global current events.</desc>
@@ -5580,14 +5563,16 @@ Visiting places across Japan to learn about their fascinating culture and experi
     <previously-shown/>
     <title lang="en">Seasoning the Seasons</title>
   </programme>
+  <programme channel="nhkworld" start="20260914140000 +0000" stop="20260914143000 +0000"><category lang="en">News</category>
+    <date>2002</date>
+    <desc lang="en">Japan's disaster relief; Asia news; business and global current events.</desc>
+    <icon src="https://iptv-epg.org/images/jCsH4pjGAY-byIGiHf2zx03e2_fPEeg5cpxOc5hFNDc7baelPqjZffLYvwHLonIhm9_tQ7R1uTDpEyStL7UQVV2Sj5mBZ4pvjR3kS0_u3K0"/>
+    <title lang="en">NHK Newsline</title>
+    <new/>
+  </programme>
   <channel id="buzzr">
     <display-name>Buzzr</display-name>
   </channel>
-  <programme channel="buzzr" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Game show</category>
-    <desc lang="en">Two teams consisting of a celebrity guest and a contestant guess words from clues.</desc>
-    <icon src="https://iptv-epg.org/images/pF9vLD7YWLH2BHh9cM44S8NoXcNU6y4ElRN5mF72AOtSMRerSHnzKxf3hAuBo1gja7lpGLty3hzpnLjHkyVSLYF9QcccpaWaz28VSKjvnFY"/>
-    <title lang="en">Password Plus</title>
-  </programme>
   <programme channel="buzzr" start="20260911020000 +0000" stop="20260911023000 +0000"><category lang="en">Game show</category>
     <desc lang="en">Contestants vie for money and prizes with playing cards by guessing whether the next in a set will be higher or lower.</desc>
     <icon src="https://iptv-epg.org/images/gG3oM4B3sKdc_t9OrTVSgc72TbIgHtC5Fx30ajRkYgcoxyEqedxMIwGy13UyDsK97y1ccdA5ohdlnZ8u7hZsaBFP6Ruqlo7hl4fkf9s4irk"/>
@@ -6468,23 +6453,14 @@ Visiting places across Japan to learn about their fascinating culture and experi
     <icon src="https://iptv-epg.org/images/Kzq3wLdcR_SF6jtTu-QqyCHro52IjmFzw72vC3ciddiJzcTSs4hvfr94OoHF3xR9nkajFee6hGHhHVWB7Cmp25dyfW7WcEyKKqDCAvJZns8"/>
     <title lang="en">Family Feud</title>
   </programme>
+  <programme channel="buzzr" start="20260914140000 +0000" stop="20260914143000 +0000"><category lang="en">Game show</category>
+    <desc lang="en">Teams compete to match answers of nationwide surveys.</desc>
+    <icon src="https://iptv-epg.org/images/Kzq3wLdcR_SF6jtTu-QqyCHro52IjmFzw72vC3ciddiJzcTSs4hvfr94OoHF3xR9nkajFee6hGHhHVWB7Cmp25dyfW7WcEyKKqDCAvJZns8"/>
+    <title lang="en">Family Feud</title>
+  </programme>
   <channel id="byutv">
     <display-name>BYUtv</display-name>
   </channel>
-  <programme channel="byutv" start="20260911010000 +0000" stop="20260911020000 +0000"><category lang="en">Animals</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Series</category>
-    <credits>
-      <director>Monica O'Brien</director>
-      <director>Michael Boughen</director>
-    </credits>
-    <desc lang="en">S01 E03
-At six months, the pups have strong bonds with their handlers; they face big tests as they learn how to herd livestock and respond to calls.</desc>
-    <episode-num>S01 E03</episode-num>
-    <icon src="https://iptv-epg.org/images/K6U0dhtFZKKL5y3aWRg19s2YkEKw4QWrIE4ltthJhcnPqSqs1l1KzPhv2p1vCBXFUxJy8NcOMHYSuWqUfrOR88vISdkt62oHhcC1bI3lEig"/>
-    <previously-shown/>
-    <title lang="en">Muster Dogs</title>
-  </programme>
   <programme channel="byutv" start="20260911020000 +0000" stop="20260911034000 +0000"><category lang="en">Adventure</category>
     <category lang="en">Movie</category>
     <credits>
@@ -8145,14 +8121,6 @@ While giving a tour of Collinsville, Holly catches the director of the town musi
   <channel id="ewtn">
     <display-name>EWTN</display-name>
   </channel>
-  <programme channel="ewtn" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Religious</category>
-    <category lang="en">Special</category>
-    <date>2021</date>
-    <desc lang="en">Pilgrims from around the world gather and pray the Rosary from the Lourdes Grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
-    <icon src="https://iptv-epg.org/images/jhBr4uYri4TgXmuOAmpm-OC-1hLMTbNrNwqxQsn5PutR7HU0SKZ3EMs44bUQ5UF6_abtXp8fEQLeADyeWrrDmye5XhgELIa6WBN5RHDNg14"/>
-    <title lang="en">Holy Rosary From Lourdes</title>
-    <new/>
-  </programme>
   <programme channel="ewtn" start="20260911020000 +0000" stop="20260911023000 +0000"><category lang="en">Religious</category>
     <category lang="en">Series</category>
     <desc lang="en">A Living Divine Mercy Special Presentation (September 11, 2001 25th Anniversary)
@@ -9278,305 +9246,309 @@ Some of the most inspirational interviews and discussions the Rev. Benedict Groe
     <previously-shown/>
     <title lang="en">Sunday Best With Fr. Groeschel</title>
   </programme>
+  <programme channel="ewtn" start="20260914140000 +0000" stop="20260914143000 +0000"><category lang="en">Community</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Passion Crucifix
+Browse and purchase religious items and holy reminders to support EWTN's mission, including: St. Catherine of Siena Statue; St. Peregrine Rosary; Miraculous Medal Bangle Bracelet, and more.</desc>
+    <icon src="https://iptv-epg.org/images/uTHc4Ho2_PIbRzSPQ_c8FEcoZzOwTWx1GLII4oeGGTuQ8OXCyzbSAZ5zNXulcZzra9l4f-r5QhjgASOH1iDkVrLSH1Cvtxnz3dn0d5u-Vds"/>
+    <previously-shown/>
+    <title lang="en">EWTN Religious Catalogue</title>
+  </programme>
   <channel id="rightnowtv">
     <display-name>Right Now TV</display-name>
   </channel>
-  <programme channel="rightnowtv" start="20260911135507 +0000" stop="20260911145507 +0000">
+  <programme channel="rightnowtv" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911145507 +0000" stop="20260911155507 +0000">
+  <programme channel="rightnowtv" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911155507 +0000" stop="20260911165507 +0000">
+  <programme channel="rightnowtv" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911165507 +0000" stop="20260911175507 +0000">
+  <programme channel="rightnowtv" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911175507 +0000" stop="20260911185507 +0000">
+  <programme channel="rightnowtv" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911185507 +0000" stop="20260911195507 +0000">
+  <programme channel="rightnowtv" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911195507 +0000" stop="20260911205507 +0000">
+  <programme channel="rightnowtv" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911205507 +0000" stop="20260911215507 +0000">
+  <programme channel="rightnowtv" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911215507 +0000" stop="20260911225507 +0000">
+  <programme channel="rightnowtv" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911225507 +0000" stop="20260911235507 +0000">
+  <programme channel="rightnowtv" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911235507 +0000" stop="20260912005507 +0000">
+  <programme channel="rightnowtv" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912005507 +0000" stop="20260912015507 +0000">
+  <programme channel="rightnowtv" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912015507 +0000" stop="20260912025507 +0000">
+  <programme channel="rightnowtv" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912025507 +0000" stop="20260912035507 +0000">
+  <programme channel="rightnowtv" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912035507 +0000" stop="20260912045507 +0000">
+  <programme channel="rightnowtv" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912045507 +0000" stop="20260912055507 +0000">
+  <programme channel="rightnowtv" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912055507 +0000" stop="20260912065507 +0000">
+  <programme channel="rightnowtv" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912065507 +0000" stop="20260912075507 +0000">
+  <programme channel="rightnowtv" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912075507 +0000" stop="20260912085507 +0000">
+  <programme channel="rightnowtv" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912085507 +0000" stop="20260912095507 +0000">
+  <programme channel="rightnowtv" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912095507 +0000" stop="20260912105507 +0000">
+  <programme channel="rightnowtv" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912105507 +0000" stop="20260912115507 +0000">
+  <programme channel="rightnowtv" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912115507 +0000" stop="20260912125507 +0000">
+  <programme channel="rightnowtv" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912125507 +0000" stop="20260912135507 +0000">
+  <programme channel="rightnowtv" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912135507 +0000" stop="20260912145507 +0000">
+  <programme channel="rightnowtv" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912145507 +0000" stop="20260912155507 +0000">
+  <programme channel="rightnowtv" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912155507 +0000" stop="20260912165507 +0000">
+  <programme channel="rightnowtv" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912165507 +0000" stop="20260912175507 +0000">
+  <programme channel="rightnowtv" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912175507 +0000" stop="20260912185507 +0000">
+  <programme channel="rightnowtv" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912185507 +0000" stop="20260912195507 +0000">
+  <programme channel="rightnowtv" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912195507 +0000" stop="20260912205507 +0000">
+  <programme channel="rightnowtv" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912205507 +0000" stop="20260912215507 +0000">
+  <programme channel="rightnowtv" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912215507 +0000" stop="20260912225507 +0000">
+  <programme channel="rightnowtv" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912225507 +0000" stop="20260912235507 +0000">
+  <programme channel="rightnowtv" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912235507 +0000" stop="20260913005507 +0000">
+  <programme channel="rightnowtv" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913005507 +0000" stop="20260913015507 +0000">
+  <programme channel="rightnowtv" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913015507 +0000" stop="20260913025507 +0000">
+  <programme channel="rightnowtv" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913025507 +0000" stop="20260913035507 +0000">
+  <programme channel="rightnowtv" start="20260913030623 +0000" stop="20260913040623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913035507 +0000" stop="20260913045507 +0000">
+  <programme channel="rightnowtv" start="20260913040623 +0000" stop="20260913050623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913045507 +0000" stop="20260913055507 +0000">
+  <programme channel="rightnowtv" start="20260913050623 +0000" stop="20260913060623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913055507 +0000" stop="20260913065507 +0000">
+  <programme channel="rightnowtv" start="20260913060623 +0000" stop="20260913070623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913065507 +0000" stop="20260913075507 +0000">
+  <programme channel="rightnowtv" start="20260913070623 +0000" stop="20260913080623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913075507 +0000" stop="20260913085507 +0000">
+  <programme channel="rightnowtv" start="20260913080623 +0000" stop="20260913090623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913085507 +0000" stop="20260913095507 +0000">
+  <programme channel="rightnowtv" start="20260913090623 +0000" stop="20260913100623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913095507 +0000" stop="20260913105507 +0000">
+  <programme channel="rightnowtv" start="20260913100623 +0000" stop="20260913110623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913105507 +0000" stop="20260913115507 +0000">
+  <programme channel="rightnowtv" start="20260913110623 +0000" stop="20260913120623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913115507 +0000" stop="20260913125507 +0000">
+  <programme channel="rightnowtv" start="20260913120623 +0000" stop="20260913130623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913125507 +0000" stop="20260913135507 +0000">
+  <programme channel="rightnowtv" start="20260913130623 +0000" stop="20260913140623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913135507 +0000" stop="20260913145507 +0000">
+  <programme channel="rightnowtv" start="20260913140623 +0000" stop="20260913150623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913145507 +0000" stop="20260913155507 +0000">
+  <programme channel="rightnowtv" start="20260913150623 +0000" stop="20260913160623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913155507 +0000" stop="20260913165507 +0000">
+  <programme channel="rightnowtv" start="20260913160623 +0000" stop="20260913170623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913165507 +0000" stop="20260913175507 +0000">
+  <programme channel="rightnowtv" start="20260913170623 +0000" stop="20260913180623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913175507 +0000" stop="20260913185507 +0000">
+  <programme channel="rightnowtv" start="20260913180623 +0000" stop="20260913190623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913185507 +0000" stop="20260913195507 +0000">
+  <programme channel="rightnowtv" start="20260913190623 +0000" stop="20260913200623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913195507 +0000" stop="20260913205507 +0000">
+  <programme channel="rightnowtv" start="20260913200623 +0000" stop="20260913210623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913205507 +0000" stop="20260913215507 +0000">
+  <programme channel="rightnowtv" start="20260913210623 +0000" stop="20260913220623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913215507 +0000" stop="20260913225507 +0000">
+  <programme channel="rightnowtv" start="20260913220623 +0000" stop="20260913230623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913225507 +0000" stop="20260913235507 +0000">
+  <programme channel="rightnowtv" start="20260913230623 +0000" stop="20260914000623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913235507 +0000" stop="20260914005507 +0000">
+  <programme channel="rightnowtv" start="20260914000623 +0000" stop="20260914010623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914005507 +0000" stop="20260914015507 +0000">
+  <programme channel="rightnowtv" start="20260914010623 +0000" stop="20260914020623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914015507 +0000" stop="20260914025507 +0000">
+  <programme channel="rightnowtv" start="20260914020623 +0000" stop="20260914030623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914025507 +0000" stop="20260914035507 +0000">
+  <programme channel="rightnowtv" start="20260914030623 +0000" stop="20260914040623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914035507 +0000" stop="20260914045507 +0000">
+  <programme channel="rightnowtv" start="20260914040623 +0000" stop="20260914050623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914045507 +0000" stop="20260914055507 +0000">
+  <programme channel="rightnowtv" start="20260914050623 +0000" stop="20260914060623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914055507 +0000" stop="20260914065507 +0000">
+  <programme channel="rightnowtv" start="20260914060623 +0000" stop="20260914070623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914065507 +0000" stop="20260914075507 +0000">
+  <programme channel="rightnowtv" start="20260914070623 +0000" stop="20260914080623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914075507 +0000" stop="20260914085507 +0000">
+  <programme channel="rightnowtv" start="20260914080623 +0000" stop="20260914090623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914085507 +0000" stop="20260914095507 +0000">
+  <programme channel="rightnowtv" start="20260914090623 +0000" stop="20260914100623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914095507 +0000" stop="20260914105507 +0000">
+  <programme channel="rightnowtv" start="20260914100623 +0000" stop="20260914110623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914105507 +0000" stop="20260914115507 +0000">
+  <programme channel="rightnowtv" start="20260914110623 +0000" stop="20260914120623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914115507 +0000" stop="20260914125507 +0000">
+  <programme channel="rightnowtv" start="20260914120623 +0000" stop="20260914130623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260914125507 +0000" stop="20260914135507 +0000">
+  <programme channel="rightnowtv" start="20260914130623 +0000" stop="20260914140623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
   <channel id="classicarts">
     <display-name>Classic Arts Showcase</display-name>
   </channel>
-  <programme channel="classicarts" start="20260910220000 +0000" stop="20260911020000 +0000"><category lang="en">Art</category>
-    <desc lang="en">A variety of short films on the arts.</desc>
-    <icon src="https://iptv-epg.org/images/ThGixPNLmEgbav0m2HOGyQIOWnOalMktFpVkma5Pj8QXpC06MPNmx-GveTm7ad14PoGXqOfG4mlvbBWkuggXYM4NSGBNhl17osQpw4oyGLA"/>
-    <title lang="en">Classic Arts Showcase</title>
-  </programme>
   <programme channel="classicarts" start="20260911020000 +0000" stop="20260911060000 +0000"><category lang="en">Art</category>
     <desc lang="en">A variety of short films on the arts.</desc>
     <icon src="https://iptv-epg.org/images/ThGixPNLmEgbav0m2HOGyQIOWnOalMktFpVkma5Pj8QXpC06MPNmx-GveTm7ad14PoGXqOfG4mlvbBWkuggXYM4NSGBNhl17osQpw4oyGLA"/>
@@ -9682,17 +9654,14 @@ Some of the most inspirational interviews and discussions the Rev. Benedict Groe
     <icon src="https://iptv-epg.org/images/ThGixPNLmEgbav0m2HOGyQIOWnOalMktFpVkma5Pj8QXpC06MPNmx-GveTm7ad14PoGXqOfG4mlvbBWkuggXYM4NSGBNhl17osQpw4oyGLA"/>
     <title lang="en">Classic Arts Showcase</title>
   </programme>
+  <programme channel="classicarts" start="20260914140000 +0000" stop="20260914180000 +0000"><category lang="en">Art</category>
+    <desc lang="en">A variety of short films on the arts.</desc>
+    <icon src="https://iptv-epg.org/images/ThGixPNLmEgbav0m2HOGyQIOWnOalMktFpVkma5Pj8QXpC06MPNmx-GveTm7ad14PoGXqOfG4mlvbBWkuggXYM4NSGBNhl17osQpw4oyGLA"/>
+    <title lang="en">Classic Arts Showcase</title>
+  </programme>
   <channel id="nrbtv">
     <display-name>NRB TV</display-name>
   </channel>
-  <programme channel="nrbtv" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Religious</category>
-    <category lang="en">Series</category>
-    <desc lang="en">On-Location in Israel
-Westminster Theological Seminary</desc>
-    <icon src="https://iptv-epg.org/images/LBXN7JzDeDY_1A3jgemahgpwxUXpR32k0nQ0OoJFvsohYiNJANL7o83x8xSq9gqrGzI535GEz5tCdW_rIILCEE6WiqgRoqBz5BguUPQr2os"/>
-    <previously-shown/>
-    <title lang="en">Westminster Theological Seminary</title>
-  </programme>
   <programme channel="nrbtv" start="20260911020000 +0000" stop="20260911030000 +0000"><category lang="en">Religious</category>
     <date>2022</date>
     <desc lang="en">The Christian ministry provides theological instruction through the annual National Founders Conference.</desc>
@@ -10700,306 +10669,309 @@ Steve Arterburn discusses the importance of forgiveness in the recovery process 
     <previously-shown/>
     <title lang="en">Life Recovery Today With Stephen Arterburn</title>
   </programme>
+  <programme channel="nrbtv" start="20260914140000 +0000" stop="20260914143000 +0000"><category lang="en">Exercise</category>
+    <category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Pilates Mat Workout
+An exercise series led by a fitness expert. Designed for all levels of fitness with prayerfully chosen exercises to increase strength, flexibility and endurance. Shaping the body and heart for God's purposes.</desc>
+    <icon src="https://iptv-epg.org/images/2n0eyZnAlL6s1NohKJd61OD0JA7yOHAv6_X8JIKlU6d57VZSOMZcoqgWPk_gCTaR8ece3611jxGed0cdirp8VmAKT9FGOlthPKlnzixIj0k"/>
+    <previously-shown/>
+    <title lang="en">Shaped by Faith</title>
+  </programme>
   <channel id="smtv">
     <display-name>SMTV</display-name>
   </channel>
-  <programme channel="smtv" start="20260911135507 +0000" stop="20260911145507 +0000">
+  <programme channel="smtv" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911145507 +0000" stop="20260911155507 +0000">
+  <programme channel="smtv" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911155507 +0000" stop="20260911165507 +0000">
+  <programme channel="smtv" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911165507 +0000" stop="20260911175507 +0000">
+  <programme channel="smtv" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911175507 +0000" stop="20260911185507 +0000">
+  <programme channel="smtv" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911185507 +0000" stop="20260911195507 +0000">
+  <programme channel="smtv" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911195507 +0000" stop="20260911205507 +0000">
+  <programme channel="smtv" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911205507 +0000" stop="20260911215507 +0000">
+  <programme channel="smtv" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911215507 +0000" stop="20260911225507 +0000">
+  <programme channel="smtv" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911225507 +0000" stop="20260911235507 +0000">
+  <programme channel="smtv" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911235507 +0000" stop="20260912005507 +0000">
+  <programme channel="smtv" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912005507 +0000" stop="20260912015507 +0000">
+  <programme channel="smtv" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912015507 +0000" stop="20260912025507 +0000">
+  <programme channel="smtv" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912025507 +0000" stop="20260912035507 +0000">
+  <programme channel="smtv" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912035507 +0000" stop="20260912045507 +0000">
+  <programme channel="smtv" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912045507 +0000" stop="20260912055507 +0000">
+  <programme channel="smtv" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912055507 +0000" stop="20260912065507 +0000">
+  <programme channel="smtv" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912065507 +0000" stop="20260912075507 +0000">
+  <programme channel="smtv" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912075507 +0000" stop="20260912085507 +0000">
+  <programme channel="smtv" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912085507 +0000" stop="20260912095507 +0000">
+  <programme channel="smtv" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912095507 +0000" stop="20260912105507 +0000">
+  <programme channel="smtv" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912105507 +0000" stop="20260912115507 +0000">
+  <programme channel="smtv" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912115507 +0000" stop="20260912125507 +0000">
+  <programme channel="smtv" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912125507 +0000" stop="20260912135507 +0000">
+  <programme channel="smtv" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912135507 +0000" stop="20260912145507 +0000">
+  <programme channel="smtv" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912145507 +0000" stop="20260912155507 +0000">
+  <programme channel="smtv" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912155507 +0000" stop="20260912165507 +0000">
+  <programme channel="smtv" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912165507 +0000" stop="20260912175507 +0000">
+  <programme channel="smtv" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912175507 +0000" stop="20260912185507 +0000">
+  <programme channel="smtv" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912185507 +0000" stop="20260912195507 +0000">
+  <programme channel="smtv" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912195507 +0000" stop="20260912205507 +0000">
+  <programme channel="smtv" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912205507 +0000" stop="20260912215507 +0000">
+  <programme channel="smtv" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912215507 +0000" stop="20260912225507 +0000">
+  <programme channel="smtv" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912225507 +0000" stop="20260912235507 +0000">
+  <programme channel="smtv" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912235507 +0000" stop="20260913005507 +0000">
+  <programme channel="smtv" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913005507 +0000" stop="20260913015507 +0000">
+  <programme channel="smtv" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913015507 +0000" stop="20260913025507 +0000">
+  <programme channel="smtv" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913025507 +0000" stop="20260913035507 +0000">
+  <programme channel="smtv" start="20260913030623 +0000" stop="20260913040623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913035507 +0000" stop="20260913045507 +0000">
+  <programme channel="smtv" start="20260913040623 +0000" stop="20260913050623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913045507 +0000" stop="20260913055507 +0000">
+  <programme channel="smtv" start="20260913050623 +0000" stop="20260913060623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913055507 +0000" stop="20260913065507 +0000">
+  <programme channel="smtv" start="20260913060623 +0000" stop="20260913070623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913065507 +0000" stop="20260913075507 +0000">
+  <programme channel="smtv" start="20260913070623 +0000" stop="20260913080623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913075507 +0000" stop="20260913085507 +0000">
+  <programme channel="smtv" start="20260913080623 +0000" stop="20260913090623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913085507 +0000" stop="20260913095507 +0000">
+  <programme channel="smtv" start="20260913090623 +0000" stop="20260913100623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913095507 +0000" stop="20260913105507 +0000">
+  <programme channel="smtv" start="20260913100623 +0000" stop="20260913110623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913105507 +0000" stop="20260913115507 +0000">
+  <programme channel="smtv" start="20260913110623 +0000" stop="20260913120623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913115507 +0000" stop="20260913125507 +0000">
+  <programme channel="smtv" start="20260913120623 +0000" stop="20260913130623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913125507 +0000" stop="20260913135507 +0000">
+  <programme channel="smtv" start="20260913130623 +0000" stop="20260913140623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913135507 +0000" stop="20260913145507 +0000">
+  <programme channel="smtv" start="20260913140623 +0000" stop="20260913150623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913145507 +0000" stop="20260913155507 +0000">
+  <programme channel="smtv" start="20260913150623 +0000" stop="20260913160623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913155507 +0000" stop="20260913165507 +0000">
+  <programme channel="smtv" start="20260913160623 +0000" stop="20260913170623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913165507 +0000" stop="20260913175507 +0000">
+  <programme channel="smtv" start="20260913170623 +0000" stop="20260913180623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913175507 +0000" stop="20260913185507 +0000">
+  <programme channel="smtv" start="20260913180623 +0000" stop="20260913190623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913185507 +0000" stop="20260913195507 +0000">
+  <programme channel="smtv" start="20260913190623 +0000" stop="20260913200623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913195507 +0000" stop="20260913205507 +0000">
+  <programme channel="smtv" start="20260913200623 +0000" stop="20260913210623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913205507 +0000" stop="20260913215507 +0000">
+  <programme channel="smtv" start="20260913210623 +0000" stop="20260913220623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913215507 +0000" stop="20260913225507 +0000">
+  <programme channel="smtv" start="20260913220623 +0000" stop="20260913230623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913225507 +0000" stop="20260913235507 +0000">
+  <programme channel="smtv" start="20260913230623 +0000" stop="20260914000623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913235507 +0000" stop="20260914005507 +0000">
+  <programme channel="smtv" start="20260914000623 +0000" stop="20260914010623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914005507 +0000" stop="20260914015507 +0000">
+  <programme channel="smtv" start="20260914010623 +0000" stop="20260914020623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914015507 +0000" stop="20260914025507 +0000">
+  <programme channel="smtv" start="20260914020623 +0000" stop="20260914030623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914025507 +0000" stop="20260914035507 +0000">
+  <programme channel="smtv" start="20260914030623 +0000" stop="20260914040623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914035507 +0000" stop="20260914045507 +0000">
+  <programme channel="smtv" start="20260914040623 +0000" stop="20260914050623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914045507 +0000" stop="20260914055507 +0000">
+  <programme channel="smtv" start="20260914050623 +0000" stop="20260914060623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914055507 +0000" stop="20260914065507 +0000">
+  <programme channel="smtv" start="20260914060623 +0000" stop="20260914070623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914065507 +0000" stop="20260914075507 +0000">
+  <programme channel="smtv" start="20260914070623 +0000" stop="20260914080623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914075507 +0000" stop="20260914085507 +0000">
+  <programme channel="smtv" start="20260914080623 +0000" stop="20260914090623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914085507 +0000" stop="20260914095507 +0000">
+  <programme channel="smtv" start="20260914090623 +0000" stop="20260914100623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914095507 +0000" stop="20260914105507 +0000">
+  <programme channel="smtv" start="20260914100623 +0000" stop="20260914110623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914105507 +0000" stop="20260914115507 +0000">
+  <programme channel="smtv" start="20260914110623 +0000" stop="20260914120623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914115507 +0000" stop="20260914125507 +0000">
+  <programme channel="smtv" start="20260914120623 +0000" stop="20260914130623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260914125507 +0000" stop="20260914135507 +0000">
+  <programme channel="smtv" start="20260914130623 +0000" stop="20260914140623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
   <channel id="impact">
     <display-name>Impact</display-name>
   </channel>
-  <programme channel="impact" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Religious</category>
-    <date>2014</date>
-    <desc lang="en">Apostle Wayne and Dr. Beverly Y. Jackson demonstrates signs, miracles and wonders through Miracles Do Happen ministry broadcast.</desc>
-    <icon src="https://iptv-epg.org/images/F5reDHoxz945XTn4EnehotmWUldqslwJFHatfCLTWEHmUlI9UJs6XtKf2kvn_tpH08W-YulHAp-tiUWl9bsoZHs8vjMvY56fEWK4ljZlcZM"/>
-    <title lang="en">Miracles Do Happen With Apostle Wayne T. Jackson</title>
-  </programme>
   <programme channel="impact" start="20260911020000 +0000" stop="20260911023000 +0000"><date>2026</date>
     <desc lang="en">Messages from special guests along with biblical teaching and encouragement from Isabell Bowling, featuring the ministry legacy of Marilyn Hickey through classic programs and archived teachings.</desc>
     <icon src="https://iptv-epg.org/images/miB14uoZ-ooBQZd5wvUAEdKZ1WxfiD8v4GlNGshbiceb6bEBm9wCK4HkzfkLW4fjtdSAUN64-NR79qocBYQXw8vbHfAfljJV98zT5QsDeUk"/>
@@ -11847,294 +11819,300 @@ Steve Arterburn discusses the importance of forgiveness in the recovery process 
     <icon src="https://iptv-epg.org/images/aCo080L96bKNIQdstON2_ihZMdUvlyxjkBhn_FlkG1oVmuigcMmGekJvvmIwuUAtbankZHbyTmqqkJ5ck8286z29_is6BDNaMm3tRhFyo_Q"/>
     <title lang="en">Food for Your Soul With Apostle Ron Hill</title>
   </programme>
+  <programme channel="impact" start="20260914140000 +0000" stop="20260914150000 +0000"><category lang="en">Religious</category>
+    <date>2014</date>
+    <desc lang="en">Apostle Wayne and Dr. Beverly Y. Jackson demonstrates signs, miracles and wonders through Miracles Do Happen ministry broadcast.</desc>
+    <icon src="https://iptv-epg.org/images/F5reDHoxz945XTn4EnehotmWUldqslwJFHatfCLTWEHmUlI9UJs6XtKf2kvn_tpH08W-YulHAp-tiUWl9bsoZHs8vjMvY56fEWK4ljZlcZM"/>
+    <title lang="en">Miracles Do Happen With Apostle Wayne T. Jackson</title>
+  </programme>
   <channel id="tvriworld">
     <display-name>TVRI World</display-name>
   </channel>
-  <programme channel="tvriworld" start="20260911135507 +0000" stop="20260911145507 +0000">
+  <programme channel="tvriworld" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911145507 +0000" stop="20260911155507 +0000">
+  <programme channel="tvriworld" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911155507 +0000" stop="20260911165507 +0000">
+  <programme channel="tvriworld" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911165507 +0000" stop="20260911175507 +0000">
+  <programme channel="tvriworld" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911175507 +0000" stop="20260911185507 +0000">
+  <programme channel="tvriworld" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911185507 +0000" stop="20260911195507 +0000">
+  <programme channel="tvriworld" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911195507 +0000" stop="20260911205507 +0000">
+  <programme channel="tvriworld" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911205507 +0000" stop="20260911215507 +0000">
+  <programme channel="tvriworld" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911215507 +0000" stop="20260911225507 +0000">
+  <programme channel="tvriworld" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911225507 +0000" stop="20260911235507 +0000">
+  <programme channel="tvriworld" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911235507 +0000" stop="20260912005507 +0000">
+  <programme channel="tvriworld" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912005507 +0000" stop="20260912015507 +0000">
+  <programme channel="tvriworld" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912015507 +0000" stop="20260912025507 +0000">
+  <programme channel="tvriworld" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912025507 +0000" stop="20260912035507 +0000">
+  <programme channel="tvriworld" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912035507 +0000" stop="20260912045507 +0000">
+  <programme channel="tvriworld" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912045507 +0000" stop="20260912055507 +0000">
+  <programme channel="tvriworld" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912055507 +0000" stop="20260912065507 +0000">
+  <programme channel="tvriworld" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912065507 +0000" stop="20260912075507 +0000">
+  <programme channel="tvriworld" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912075507 +0000" stop="20260912085507 +0000">
+  <programme channel="tvriworld" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912085507 +0000" stop="20260912095507 +0000">
+  <programme channel="tvriworld" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912095507 +0000" stop="20260912105507 +0000">
+  <programme channel="tvriworld" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912105507 +0000" stop="20260912115507 +0000">
+  <programme channel="tvriworld" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912115507 +0000" stop="20260912125507 +0000">
+  <programme channel="tvriworld" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912125507 +0000" stop="20260912135507 +0000">
+  <programme channel="tvriworld" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912135507 +0000" stop="20260912145507 +0000">
+  <programme channel="tvriworld" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912145507 +0000" stop="20260912155507 +0000">
+  <programme channel="tvriworld" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912155507 +0000" stop="20260912165507 +0000">
+  <programme channel="tvriworld" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912165507 +0000" stop="20260912175507 +0000">
+  <programme channel="tvriworld" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912175507 +0000" stop="20260912185507 +0000">
+  <programme channel="tvriworld" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912185507 +0000" stop="20260912195507 +0000">
+  <programme channel="tvriworld" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912195507 +0000" stop="20260912205507 +0000">
+  <programme channel="tvriworld" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912205507 +0000" stop="20260912215507 +0000">
+  <programme channel="tvriworld" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912215507 +0000" stop="20260912225507 +0000">
+  <programme channel="tvriworld" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912225507 +0000" stop="20260912235507 +0000">
+  <programme channel="tvriworld" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912235507 +0000" stop="20260913005507 +0000">
+  <programme channel="tvriworld" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913005507 +0000" stop="20260913015507 +0000">
+  <programme channel="tvriworld" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913015507 +0000" stop="20260913025507 +0000">
+  <programme channel="tvriworld" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913025507 +0000" stop="20260913035507 +0000">
+  <programme channel="tvriworld" start="20260913030623 +0000" stop="20260913040623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913035507 +0000" stop="20260913045507 +0000">
+  <programme channel="tvriworld" start="20260913040623 +0000" stop="20260913050623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913045507 +0000" stop="20260913055507 +0000">
+  <programme channel="tvriworld" start="20260913050623 +0000" stop="20260913060623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913055507 +0000" stop="20260913065507 +0000">
+  <programme channel="tvriworld" start="20260913060623 +0000" stop="20260913070623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913065507 +0000" stop="20260913075507 +0000">
+  <programme channel="tvriworld" start="20260913070623 +0000" stop="20260913080623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913075507 +0000" stop="20260913085507 +0000">
+  <programme channel="tvriworld" start="20260913080623 +0000" stop="20260913090623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913085507 +0000" stop="20260913095507 +0000">
+  <programme channel="tvriworld" start="20260913090623 +0000" stop="20260913100623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913095507 +0000" stop="20260913105507 +0000">
+  <programme channel="tvriworld" start="20260913100623 +0000" stop="20260913110623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913105507 +0000" stop="20260913115507 +0000">
+  <programme channel="tvriworld" start="20260913110623 +0000" stop="20260913120623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913115507 +0000" stop="20260913125507 +0000">
+  <programme channel="tvriworld" start="20260913120623 +0000" stop="20260913130623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913125507 +0000" stop="20260913135507 +0000">
+  <programme channel="tvriworld" start="20260913130623 +0000" stop="20260913140623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913135507 +0000" stop="20260913145507 +0000">
+  <programme channel="tvriworld" start="20260913140623 +0000" stop="20260913150623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913145507 +0000" stop="20260913155507 +0000">
+  <programme channel="tvriworld" start="20260913150623 +0000" stop="20260913160623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913155507 +0000" stop="20260913165507 +0000">
+  <programme channel="tvriworld" start="20260913160623 +0000" stop="20260913170623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913165507 +0000" stop="20260913175507 +0000">
+  <programme channel="tvriworld" start="20260913170623 +0000" stop="20260913180623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913175507 +0000" stop="20260913185507 +0000">
+  <programme channel="tvriworld" start="20260913180623 +0000" stop="20260913190623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913185507 +0000" stop="20260913195507 +0000">
+  <programme channel="tvriworld" start="20260913190623 +0000" stop="20260913200623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913195507 +0000" stop="20260913205507 +0000">
+  <programme channel="tvriworld" start="20260913200623 +0000" stop="20260913210623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913205507 +0000" stop="20260913215507 +0000">
+  <programme channel="tvriworld" start="20260913210623 +0000" stop="20260913220623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913215507 +0000" stop="20260913225507 +0000">
+  <programme channel="tvriworld" start="20260913220623 +0000" stop="20260913230623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913225507 +0000" stop="20260913235507 +0000">
+  <programme channel="tvriworld" start="20260913230623 +0000" stop="20260914000623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913235507 +0000" stop="20260914005507 +0000">
+  <programme channel="tvriworld" start="20260914000623 +0000" stop="20260914010623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914005507 +0000" stop="20260914015507 +0000">
+  <programme channel="tvriworld" start="20260914010623 +0000" stop="20260914020623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914015507 +0000" stop="20260914025507 +0000">
+  <programme channel="tvriworld" start="20260914020623 +0000" stop="20260914030623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914025507 +0000" stop="20260914035507 +0000">
+  <programme channel="tvriworld" start="20260914030623 +0000" stop="20260914040623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914035507 +0000" stop="20260914045507 +0000">
+  <programme channel="tvriworld" start="20260914040623 +0000" stop="20260914050623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914045507 +0000" stop="20260914055507 +0000">
+  <programme channel="tvriworld" start="20260914050623 +0000" stop="20260914060623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914055507 +0000" stop="20260914065507 +0000">
+  <programme channel="tvriworld" start="20260914060623 +0000" stop="20260914070623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914065507 +0000" stop="20260914075507 +0000">
+  <programme channel="tvriworld" start="20260914070623 +0000" stop="20260914080623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914075507 +0000" stop="20260914085507 +0000">
+  <programme channel="tvriworld" start="20260914080623 +0000" stop="20260914090623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914085507 +0000" stop="20260914095507 +0000">
+  <programme channel="tvriworld" start="20260914090623 +0000" stop="20260914100623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914095507 +0000" stop="20260914105507 +0000">
+  <programme channel="tvriworld" start="20260914100623 +0000" stop="20260914110623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914105507 +0000" stop="20260914115507 +0000">
+  <programme channel="tvriworld" start="20260914110623 +0000" stop="20260914120623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914115507 +0000" stop="20260914125507 +0000">
+  <programme channel="tvriworld" start="20260914120623 +0000" stop="20260914130623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260914125507 +0000" stop="20260914135507 +0000">
+  <programme channel="tvriworld" start="20260914130623 +0000" stop="20260914140623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
@@ -13115,9 +13093,6 @@ A sheriff's daughter runs off with her boyfriend (John Ericson), unaware he is a
   <channel id="faithworld">
     <display-name>Faith World TV</display-name>
   </channel>
-  <programme channel="faithworld" start="20260911013000 +0000" stop="20260911020000 +0000"><desc lang="en">Join Dr Jovita Ojadi for a programme of teaching in demonstration of the Spirit and the power of God.</desc>
-    <title lang="en">Spread The Word Global Ministries</title>
-  </programme>
   <programme channel="faithworld" start="20260911020000 +0000" stop="20260911023000 +0000"><desc lang="en">Tune in with Faith World Music.</desc>
     <title lang="en">Faith World Music</title>
   </programme>
@@ -13551,601 +13526,594 @@ Don't just live, inherit life! Discover your amazing inheritance in Jesus and li
   <programme channel="faithworld" start="20260914130000 +0000" stop="20260914140000 +0000"><desc lang="en">Teaching and worship with Deliverance Outreach Ministries.</desc>
     <title lang="en">Deliverance Outreach Ministries</title>
   </programme>
+  <programme channel="faithworld" start="20260914140000 +0000" stop="20260914143000 +0000"><desc lang="en">Joining J.John for part two of his insightful interview is Professor John Lennox. (part 2 of 2).</desc>
+    <title lang="en">Facing the Canon: John John Lennox (Part Two)</title>
+  </programme>
   <channel id="bctv">
     <display-name>Being Catholic TV</display-name>
   </channel>
-  <programme channel="bctv" start="20260911135507 +0000" stop="20260911145507 +0000">
+  <programme channel="bctv" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911145507 +0000" stop="20260911155507 +0000">
+  <programme channel="bctv" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911155507 +0000" stop="20260911165507 +0000">
+  <programme channel="bctv" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911165507 +0000" stop="20260911175507 +0000">
+  <programme channel="bctv" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911175507 +0000" stop="20260911185507 +0000">
+  <programme channel="bctv" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911185507 +0000" stop="20260911195507 +0000">
+  <programme channel="bctv" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911195507 +0000" stop="20260911205507 +0000">
+  <programme channel="bctv" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911205507 +0000" stop="20260911215507 +0000">
+  <programme channel="bctv" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911215507 +0000" stop="20260911225507 +0000">
+  <programme channel="bctv" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911225507 +0000" stop="20260911235507 +0000">
+  <programme channel="bctv" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911235507 +0000" stop="20260912005507 +0000">
+  <programme channel="bctv" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912005507 +0000" stop="20260912015507 +0000">
+  <programme channel="bctv" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912015507 +0000" stop="20260912025507 +0000">
+  <programme channel="bctv" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912025507 +0000" stop="20260912035507 +0000">
+  <programme channel="bctv" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912035507 +0000" stop="20260912045507 +0000">
+  <programme channel="bctv" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912045507 +0000" stop="20260912055507 +0000">
+  <programme channel="bctv" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912055507 +0000" stop="20260912065507 +0000">
+  <programme channel="bctv" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912065507 +0000" stop="20260912075507 +0000">
+  <programme channel="bctv" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912075507 +0000" stop="20260912085507 +0000">
+  <programme channel="bctv" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912085507 +0000" stop="20260912095507 +0000">
+  <programme channel="bctv" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912095507 +0000" stop="20260912105507 +0000">
+  <programme channel="bctv" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912105507 +0000" stop="20260912115507 +0000">
+  <programme channel="bctv" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912115507 +0000" stop="20260912125507 +0000">
+  <programme channel="bctv" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912125507 +0000" stop="20260912135507 +0000">
+  <programme channel="bctv" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912135507 +0000" stop="20260912145507 +0000">
+  <programme channel="bctv" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912145507 +0000" stop="20260912155507 +0000">
+  <programme channel="bctv" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912155507 +0000" stop="20260912165507 +0000">
+  <programme channel="bctv" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912165507 +0000" stop="20260912175507 +0000">
+  <programme channel="bctv" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912175507 +0000" stop="20260912185507 +0000">
+  <programme channel="bctv" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912185507 +0000" stop="20260912195507 +0000">
+  <programme channel="bctv" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912195507 +0000" stop="20260912205507 +0000">
+  <programme channel="bctv" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912205507 +0000" stop="20260912215507 +0000">
+  <programme channel="bctv" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912215507 +0000" stop="20260912225507 +0000">
+  <programme channel="bctv" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912225507 +0000" stop="20260912235507 +0000">
+  <programme channel="bctv" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912235507 +0000" stop="20260913005507 +0000">
+  <programme channel="bctv" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913005507 +0000" stop="20260913015507 +0000">
+  <programme channel="bctv" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913015507 +0000" stop="20260913025507 +0000">
+  <programme channel="bctv" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913025507 +0000" stop="20260913035507 +0000">
+  <programme channel="bctv" start="20260913030623 +0000" stop="20260913040623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913035507 +0000" stop="20260913045507 +0000">
+  <programme channel="bctv" start="20260913040623 +0000" stop="20260913050623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913045507 +0000" stop="20260913055507 +0000">
+  <programme channel="bctv" start="20260913050623 +0000" stop="20260913060623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913055507 +0000" stop="20260913065507 +0000">
+  <programme channel="bctv" start="20260913060623 +0000" stop="20260913070623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913065507 +0000" stop="20260913075507 +0000">
+  <programme channel="bctv" start="20260913070623 +0000" stop="20260913080623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913075507 +0000" stop="20260913085507 +0000">
+  <programme channel="bctv" start="20260913080623 +0000" stop="20260913090623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913085507 +0000" stop="20260913095507 +0000">
+  <programme channel="bctv" start="20260913090623 +0000" stop="20260913100623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913095507 +0000" stop="20260913105507 +0000">
+  <programme channel="bctv" start="20260913100623 +0000" stop="20260913110623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913105507 +0000" stop="20260913115507 +0000">
+  <programme channel="bctv" start="20260913110623 +0000" stop="20260913120623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913115507 +0000" stop="20260913125507 +0000">
+  <programme channel="bctv" start="20260913120623 +0000" stop="20260913130623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913125507 +0000" stop="20260913135507 +0000">
+  <programme channel="bctv" start="20260913130623 +0000" stop="20260913140623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913135507 +0000" stop="20260913145507 +0000">
+  <programme channel="bctv" start="20260913140623 +0000" stop="20260913150623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913145507 +0000" stop="20260913155507 +0000">
+  <programme channel="bctv" start="20260913150623 +0000" stop="20260913160623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913155507 +0000" stop="20260913165507 +0000">
+  <programme channel="bctv" start="20260913160623 +0000" stop="20260913170623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913165507 +0000" stop="20260913175507 +0000">
+  <programme channel="bctv" start="20260913170623 +0000" stop="20260913180623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913175507 +0000" stop="20260913185507 +0000">
+  <programme channel="bctv" start="20260913180623 +0000" stop="20260913190623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913185507 +0000" stop="20260913195507 +0000">
+  <programme channel="bctv" start="20260913190623 +0000" stop="20260913200623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913195507 +0000" stop="20260913205507 +0000">
+  <programme channel="bctv" start="20260913200623 +0000" stop="20260913210623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913205507 +0000" stop="20260913215507 +0000">
+  <programme channel="bctv" start="20260913210623 +0000" stop="20260913220623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913215507 +0000" stop="20260913225507 +0000">
+  <programme channel="bctv" start="20260913220623 +0000" stop="20260913230623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913225507 +0000" stop="20260913235507 +0000">
+  <programme channel="bctv" start="20260913230623 +0000" stop="20260914000623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913235507 +0000" stop="20260914005507 +0000">
+  <programme channel="bctv" start="20260914000623 +0000" stop="20260914010623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914005507 +0000" stop="20260914015507 +0000">
+  <programme channel="bctv" start="20260914010623 +0000" stop="20260914020623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914015507 +0000" stop="20260914025507 +0000">
+  <programme channel="bctv" start="20260914020623 +0000" stop="20260914030623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914025507 +0000" stop="20260914035507 +0000">
+  <programme channel="bctv" start="20260914030623 +0000" stop="20260914040623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914035507 +0000" stop="20260914045507 +0000">
+  <programme channel="bctv" start="20260914040623 +0000" stop="20260914050623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914045507 +0000" stop="20260914055507 +0000">
+  <programme channel="bctv" start="20260914050623 +0000" stop="20260914060623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914055507 +0000" stop="20260914065507 +0000">
+  <programme channel="bctv" start="20260914060623 +0000" stop="20260914070623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914065507 +0000" stop="20260914075507 +0000">
+  <programme channel="bctv" start="20260914070623 +0000" stop="20260914080623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914075507 +0000" stop="20260914085507 +0000">
+  <programme channel="bctv" start="20260914080623 +0000" stop="20260914090623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914085507 +0000" stop="20260914095507 +0000">
+  <programme channel="bctv" start="20260914090623 +0000" stop="20260914100623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914095507 +0000" stop="20260914105507 +0000">
+  <programme channel="bctv" start="20260914100623 +0000" stop="20260914110623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914105507 +0000" stop="20260914115507 +0000">
+  <programme channel="bctv" start="20260914110623 +0000" stop="20260914120623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914115507 +0000" stop="20260914125507 +0000">
+  <programme channel="bctv" start="20260914120623 +0000" stop="20260914130623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260914125507 +0000" stop="20260914135507 +0000">
+  <programme channel="bctv" start="20260914130623 +0000" stop="20260914140623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme channel="jbs" start="20260911135507 +0000" stop="20260911145507 +0000">
+  <programme channel="jbs" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911145507 +0000" stop="20260911155507 +0000">
+  <programme channel="jbs" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911155507 +0000" stop="20260911165507 +0000">
+  <programme channel="jbs" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911165507 +0000" stop="20260911175507 +0000">
+  <programme channel="jbs" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911175507 +0000" stop="20260911185507 +0000">
+  <programme channel="jbs" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911185507 +0000" stop="20260911195507 +0000">
+  <programme channel="jbs" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911195507 +0000" stop="20260911205507 +0000">
+  <programme channel="jbs" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911205507 +0000" stop="20260911215507 +0000">
+  <programme channel="jbs" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911215507 +0000" stop="20260911225507 +0000">
+  <programme channel="jbs" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911225507 +0000" stop="20260911235507 +0000">
+  <programme channel="jbs" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911235507 +0000" stop="20260912005507 +0000">
+  <programme channel="jbs" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912005507 +0000" stop="20260912015507 +0000">
+  <programme channel="jbs" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912015507 +0000" stop="20260912025507 +0000">
+  <programme channel="jbs" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912025507 +0000" stop="20260912035507 +0000">
+  <programme channel="jbs" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912035507 +0000" stop="20260912045507 +0000">
+  <programme channel="jbs" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912045507 +0000" stop="20260912055507 +0000">
+  <programme channel="jbs" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912055507 +0000" stop="20260912065507 +0000">
+  <programme channel="jbs" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912065507 +0000" stop="20260912075507 +0000">
+  <programme channel="jbs" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912075507 +0000" stop="20260912085507 +0000">
+  <programme channel="jbs" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912085507 +0000" stop="20260912095507 +0000">
+  <programme channel="jbs" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912095507 +0000" stop="20260912105507 +0000">
+  <programme channel="jbs" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912105507 +0000" stop="20260912115507 +0000">
+  <programme channel="jbs" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912115507 +0000" stop="20260912125507 +0000">
+  <programme channel="jbs" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912125507 +0000" stop="20260912135507 +0000">
+  <programme channel="jbs" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912135507 +0000" stop="20260912145507 +0000">
+  <programme channel="jbs" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912145507 +0000" stop="20260912155507 +0000">
+  <programme channel="jbs" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912155507 +0000" stop="20260912165507 +0000">
+  <programme channel="jbs" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912165507 +0000" stop="20260912175507 +0000">
+  <programme channel="jbs" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912175507 +0000" stop="20260912185507 +0000">
+  <programme channel="jbs" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912185507 +0000" stop="20260912195507 +0000">
+  <programme channel="jbs" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912195507 +0000" stop="20260912205507 +0000">
+  <programme channel="jbs" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912205507 +0000" stop="20260912215507 +0000">
+  <programme channel="jbs" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912215507 +0000" stop="20260912225507 +0000">
+  <programme channel="jbs" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912225507 +0000" stop="20260912235507 +0000">
+  <programme channel="jbs" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912235507 +0000" stop="20260913005507 +0000">
+  <programme channel="jbs" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913005507 +0000" stop="20260913015507 +0000">
+  <programme channel="jbs" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913015507 +0000" stop="20260913025507 +0000">
+  <programme channel="jbs" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913025507 +0000" stop="20260913035507 +0000">
+  <programme channel="jbs" start="20260913030623 +0000" stop="20260913040623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913035507 +0000" stop="20260913045507 +0000">
+  <programme channel="jbs" start="20260913040623 +0000" stop="20260913050623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913045507 +0000" stop="20260913055507 +0000">
+  <programme channel="jbs" start="20260913050623 +0000" stop="20260913060623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913055507 +0000" stop="20260913065507 +0000">
+  <programme channel="jbs" start="20260913060623 +0000" stop="20260913070623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913065507 +0000" stop="20260913075507 +0000">
+  <programme channel="jbs" start="20260913070623 +0000" stop="20260913080623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913075507 +0000" stop="20260913085507 +0000">
+  <programme channel="jbs" start="20260913080623 +0000" stop="20260913090623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913085507 +0000" stop="20260913095507 +0000">
+  <programme channel="jbs" start="20260913090623 +0000" stop="20260913100623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913095507 +0000" stop="20260913105507 +0000">
+  <programme channel="jbs" start="20260913100623 +0000" stop="20260913110623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913105507 +0000" stop="20260913115507 +0000">
+  <programme channel="jbs" start="20260913110623 +0000" stop="20260913120623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913115507 +0000" stop="20260913125507 +0000">
+  <programme channel="jbs" start="20260913120623 +0000" stop="20260913130623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913125507 +0000" stop="20260913135507 +0000">
+  <programme channel="jbs" start="20260913130623 +0000" stop="20260913140623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913135507 +0000" stop="20260913145507 +0000">
+  <programme channel="jbs" start="20260913140623 +0000" stop="20260913150623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913145507 +0000" stop="20260913155507 +0000">
+  <programme channel="jbs" start="20260913150623 +0000" stop="20260913160623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913155507 +0000" stop="20260913165507 +0000">
+  <programme channel="jbs" start="20260913160623 +0000" stop="20260913170623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913165507 +0000" stop="20260913175507 +0000">
+  <programme channel="jbs" start="20260913170623 +0000" stop="20260913180623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913175507 +0000" stop="20260913185507 +0000">
+  <programme channel="jbs" start="20260913180623 +0000" stop="20260913190623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913185507 +0000" stop="20260913195507 +0000">
+  <programme channel="jbs" start="20260913190623 +0000" stop="20260913200623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913195507 +0000" stop="20260913205507 +0000">
+  <programme channel="jbs" start="20260913200623 +0000" stop="20260913210623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913205507 +0000" stop="20260913215507 +0000">
+  <programme channel="jbs" start="20260913210623 +0000" stop="20260913220623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913215507 +0000" stop="20260913225507 +0000">
+  <programme channel="jbs" start="20260913220623 +0000" stop="20260913230623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913225507 +0000" stop="20260913235507 +0000">
+  <programme channel="jbs" start="20260913230623 +0000" stop="20260914000623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260913235507 +0000" stop="20260914005507 +0000">
+  <programme channel="jbs" start="20260914000623 +0000" stop="20260914010623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914005507 +0000" stop="20260914015507 +0000">
+  <programme channel="jbs" start="20260914010623 +0000" stop="20260914020623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914015507 +0000" stop="20260914025507 +0000">
+  <programme channel="jbs" start="20260914020623 +0000" stop="20260914030623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914025507 +0000" stop="20260914035507 +0000">
+  <programme channel="jbs" start="20260914030623 +0000" stop="20260914040623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914035507 +0000" stop="20260914045507 +0000">
+  <programme channel="jbs" start="20260914040623 +0000" stop="20260914050623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914045507 +0000" stop="20260914055507 +0000">
+  <programme channel="jbs" start="20260914050623 +0000" stop="20260914060623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914055507 +0000" stop="20260914065507 +0000">
+  <programme channel="jbs" start="20260914060623 +0000" stop="20260914070623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914065507 +0000" stop="20260914075507 +0000">
+  <programme channel="jbs" start="20260914070623 +0000" stop="20260914080623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914075507 +0000" stop="20260914085507 +0000">
+  <programme channel="jbs" start="20260914080623 +0000" stop="20260914090623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914085507 +0000" stop="20260914095507 +0000">
+  <programme channel="jbs" start="20260914090623 +0000" stop="20260914100623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914095507 +0000" stop="20260914105507 +0000">
+  <programme channel="jbs" start="20260914100623 +0000" stop="20260914110623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914105507 +0000" stop="20260914115507 +0000">
+  <programme channel="jbs" start="20260914110623 +0000" stop="20260914120623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914115507 +0000" stop="20260914125507 +0000">
+  <programme channel="jbs" start="20260914120623 +0000" stop="20260914130623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260914125507 +0000" stop="20260914135507 +0000">
+  <programme channel="jbs" start="20260914130623 +0000" stop="20260914140623 +0000">
     <title>JBS</title>
     <desc>Jewish Broadcasting Service</desc>
   </programme>
   <channel id="create">
     <display-name>Create</display-name>
   </channel>
-  <programme channel="create" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Cooking</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E02 — Say Yes to Chocolate
-Fig and ginger truffles; double-chocolate waffles à la mode; mocha java smoothie; hot chocolate with vanilla extract, ginger, mint extract, chili, cinnamon and chocolate shavings.</desc>
-    <episode-num>S01 E02</episode-num>
-    <icon src="https://iptv-epg.org/images/Mx80pBH_kls6xvJRrxiPNGa5Bmt5p00LDVKWT5sES_MEQlYZ0LimNeMBtPFkrC8K2vDIc1xc3w18JzoKTyNaYLnN8ykdj5Bw_r5VhSTfChg"/>
-    <previously-shown/>
-    <title lang="en">Ellie's Real Good Food</title>
-  </programme>
   <programme channel="create" start="20260911020000 +0000" stop="20260911023000 +0000"><category lang="en">Travel</category>
     <category lang="en">Series</category>
     <credits>
@@ -15798,16 +15766,18 @@ Including protein in ways that are flavorful and fun; loin chops with spring far
     <previously-shown/>
     <title lang="en">Homemade Live!</title>
   </programme>
+  <programme channel="create" start="20260914140000 +0000" stop="20260914143000 +0000"><category lang="en">Travel</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S03 E07 — Curious Guanajuato City
+Why a stone giant holding a flame overlooks the town; how silver helped shape Guanajuato City; why the streets and alleys are winding; what happened to the Guanajuato River; what the church has to do with the king of Spain.</desc>
+    <episode-num>S03 E07</episode-num>
+    <icon src="https://iptv-epg.org/images/Me64VSiESS2EI920qrLxXQhFOElbw2Kf9izt1ZrU_WdC1UtxYI-kUsgsbygZVeDNNNeeM3yXj1mqF_Gi8hXO7INXpSqH26_GWIJQIJLMpbo"/>
+    <previously-shown/>
+    <title lang="en">Curious Traveler</title>
+  </programme>
   <channel id="world">
     <display-name>World Channel</display-name>
   </channel>
-  <programme channel="world" start="20260911010000 +0000" stop="20260911020000 +0000"><category lang="en">Biography</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Special</category>
-    <desc lang="en">The life and work of high-rise engineer Leslie E. Robertson, lead engineer of New York's World Trade Center, his passion for human rights and his union with engineer and partner SawTeen See.</desc>
-    <icon src="https://iptv-epg.org/images/slCnci8OPxeubAHneXUe9bBNB4VP_2y1u4Zo05WcDvUyCVJiSQjcAyzQ8yWSHNjYssw2zdRbTgrcLVlZypNCk_zoxKgyFp0sIAspprF9CRA"/>
-    <title lang="en">Leaning Out</title>
-  </programme>
   <programme channel="world" start="20260911020000 +0000" stop="20260911030000 +0000"><category lang="en">News</category>
     <category lang="en">Series</category>
     <desc lang="en">S53 E52
@@ -16770,311 +16740,310 @@ Exploring the family secrets of Danielle Deadwyler and musician Rhiannon Giddens
     <previously-shown/>
     <title lang="en">Finding Your Roots With Henry Louis Gates, Jr.</title>
   </programme>
+  <programme channel="world" start="20260914140000 +0000" stop="20260914150000 +0000"><category lang="en">Anthology</category>
+    <category lang="en">Documentary</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S28 E01 — Bonnie &amp; Clyde
+Bonnie Parker and Clyde Barrow embark on a two-year crime spree during the Great Depression and become known as the most famous criminal couple in U.S. history.</desc>
+    <episode-num>S28 E01</episode-num>
+    <icon src="https://iptv-epg.org/images/H_RDlTvT8NSBgXIQu-W75rC8dm688CdZNQ6X6946UDTYpRFdca9C2c--f7_FFwXd8oRywjU94Cua1jVyx0LmJZQBvVmwwjmcH_J85iLdQBE"/>
+    <previously-shown/>
+    <title lang="en">American Experience</title>
+  </programme>
   <channel id="skyweather">
     <display-name>Sky Weather</display-name>
   </channel>
-  <programme channel="skyweather" start="20260911135507 +0000" stop="20260911145507 +0000">
+  <programme channel="skyweather" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911145507 +0000" stop="20260911155507 +0000">
+  <programme channel="skyweather" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911155507 +0000" stop="20260911165507 +0000">
+  <programme channel="skyweather" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911165507 +0000" stop="20260911175507 +0000">
+  <programme channel="skyweather" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911175507 +0000" stop="20260911185507 +0000">
+  <programme channel="skyweather" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911185507 +0000" stop="20260911195507 +0000">
+  <programme channel="skyweather" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911195507 +0000" stop="20260911205507 +0000">
+  <programme channel="skyweather" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911205507 +0000" stop="20260911215507 +0000">
+  <programme channel="skyweather" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911215507 +0000" stop="20260911225507 +0000">
+  <programme channel="skyweather" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911225507 +0000" stop="20260911235507 +0000">
+  <programme channel="skyweather" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911235507 +0000" stop="20260912005507 +0000">
+  <programme channel="skyweather" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912005507 +0000" stop="20260912015507 +0000">
+  <programme channel="skyweather" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912015507 +0000" stop="20260912025507 +0000">
+  <programme channel="skyweather" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912025507 +0000" stop="20260912035507 +0000">
+  <programme channel="skyweather" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912035507 +0000" stop="20260912045507 +0000">
+  <programme channel="skyweather" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912045507 +0000" stop="20260912055507 +0000">
+  <programme channel="skyweather" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912055507 +0000" stop="20260912065507 +0000">
+  <programme channel="skyweather" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912065507 +0000" stop="20260912075507 +0000">
+  <programme channel="skyweather" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912075507 +0000" stop="20260912085507 +0000">
+  <programme channel="skyweather" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912085507 +0000" stop="20260912095507 +0000">
+  <programme channel="skyweather" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912095507 +0000" stop="20260912105507 +0000">
+  <programme channel="skyweather" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912105507 +0000" stop="20260912115507 +0000">
+  <programme channel="skyweather" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912115507 +0000" stop="20260912125507 +0000">
+  <programme channel="skyweather" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912125507 +0000" stop="20260912135507 +0000">
+  <programme channel="skyweather" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912135507 +0000" stop="20260912145507 +0000">
+  <programme channel="skyweather" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912145507 +0000" stop="20260912155507 +0000">
+  <programme channel="skyweather" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912155507 +0000" stop="20260912165507 +0000">
+  <programme channel="skyweather" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912165507 +0000" stop="20260912175507 +0000">
+  <programme channel="skyweather" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912175507 +0000" stop="20260912185507 +0000">
+  <programme channel="skyweather" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912185507 +0000" stop="20260912195507 +0000">
+  <programme channel="skyweather" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912195507 +0000" stop="20260912205507 +0000">
+  <programme channel="skyweather" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912205507 +0000" stop="20260912215507 +0000">
+  <programme channel="skyweather" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912215507 +0000" stop="20260912225507 +0000">
+  <programme channel="skyweather" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912225507 +0000" stop="20260912235507 +0000">
+  <programme channel="skyweather" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912235507 +0000" stop="20260913005507 +0000">
+  <programme channel="skyweather" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913005507 +0000" stop="20260913015507 +0000">
+  <programme channel="skyweather" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913015507 +0000" stop="20260913025507 +0000">
+  <programme channel="skyweather" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913025507 +0000" stop="20260913035507 +0000">
+  <programme channel="skyweather" start="20260913030623 +0000" stop="20260913040623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913035507 +0000" stop="20260913045507 +0000">
+  <programme channel="skyweather" start="20260913040623 +0000" stop="20260913050623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913045507 +0000" stop="20260913055507 +0000">
+  <programme channel="skyweather" start="20260913050623 +0000" stop="20260913060623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913055507 +0000" stop="20260913065507 +0000">
+  <programme channel="skyweather" start="20260913060623 +0000" stop="20260913070623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913065507 +0000" stop="20260913075507 +0000">
+  <programme channel="skyweather" start="20260913070623 +0000" stop="20260913080623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913075507 +0000" stop="20260913085507 +0000">
+  <programme channel="skyweather" start="20260913080623 +0000" stop="20260913090623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913085507 +0000" stop="20260913095507 +0000">
+  <programme channel="skyweather" start="20260913090623 +0000" stop="20260913100623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913095507 +0000" stop="20260913105507 +0000">
+  <programme channel="skyweather" start="20260913100623 +0000" stop="20260913110623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913105507 +0000" stop="20260913115507 +0000">
+  <programme channel="skyweather" start="20260913110623 +0000" stop="20260913120623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913115507 +0000" stop="20260913125507 +0000">
+  <programme channel="skyweather" start="20260913120623 +0000" stop="20260913130623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913125507 +0000" stop="20260913135507 +0000">
+  <programme channel="skyweather" start="20260913130623 +0000" stop="20260913140623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913135507 +0000" stop="20260913145507 +0000">
+  <programme channel="skyweather" start="20260913140623 +0000" stop="20260913150623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913145507 +0000" stop="20260913155507 +0000">
+  <programme channel="skyweather" start="20260913150623 +0000" stop="20260913160623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913155507 +0000" stop="20260913165507 +0000">
+  <programme channel="skyweather" start="20260913160623 +0000" stop="20260913170623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913165507 +0000" stop="20260913175507 +0000">
+  <programme channel="skyweather" start="20260913170623 +0000" stop="20260913180623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913175507 +0000" stop="20260913185507 +0000">
+  <programme channel="skyweather" start="20260913180623 +0000" stop="20260913190623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913185507 +0000" stop="20260913195507 +0000">
+  <programme channel="skyweather" start="20260913190623 +0000" stop="20260913200623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913195507 +0000" stop="20260913205507 +0000">
+  <programme channel="skyweather" start="20260913200623 +0000" stop="20260913210623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913205507 +0000" stop="20260913215507 +0000">
+  <programme channel="skyweather" start="20260913210623 +0000" stop="20260913220623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913215507 +0000" stop="20260913225507 +0000">
+  <programme channel="skyweather" start="20260913220623 +0000" stop="20260913230623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913225507 +0000" stop="20260913235507 +0000">
+  <programme channel="skyweather" start="20260913230623 +0000" stop="20260914000623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913235507 +0000" stop="20260914005507 +0000">
+  <programme channel="skyweather" start="20260914000623 +0000" stop="20260914010623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914005507 +0000" stop="20260914015507 +0000">
+  <programme channel="skyweather" start="20260914010623 +0000" stop="20260914020623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914015507 +0000" stop="20260914025507 +0000">
+  <programme channel="skyweather" start="20260914020623 +0000" stop="20260914030623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914025507 +0000" stop="20260914035507 +0000">
+  <programme channel="skyweather" start="20260914030623 +0000" stop="20260914040623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914035507 +0000" stop="20260914045507 +0000">
+  <programme channel="skyweather" start="20260914040623 +0000" stop="20260914050623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914045507 +0000" stop="20260914055507 +0000">
+  <programme channel="skyweather" start="20260914050623 +0000" stop="20260914060623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914055507 +0000" stop="20260914065507 +0000">
+  <programme channel="skyweather" start="20260914060623 +0000" stop="20260914070623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914065507 +0000" stop="20260914075507 +0000">
+  <programme channel="skyweather" start="20260914070623 +0000" stop="20260914080623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914075507 +0000" stop="20260914085507 +0000">
+  <programme channel="skyweather" start="20260914080623 +0000" stop="20260914090623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914085507 +0000" stop="20260914095507 +0000">
+  <programme channel="skyweather" start="20260914090623 +0000" stop="20260914100623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914095507 +0000" stop="20260914105507 +0000">
+  <programme channel="skyweather" start="20260914100623 +0000" stop="20260914110623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914105507 +0000" stop="20260914115507 +0000">
+  <programme channel="skyweather" start="20260914110623 +0000" stop="20260914120623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914115507 +0000" stop="20260914125507 +0000">
+  <programme channel="skyweather" start="20260914120623 +0000" stop="20260914130623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260914125507 +0000" stop="20260914135507 +0000">
+  <programme channel="skyweather" start="20260914130623 +0000" stop="20260914140623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
   <channel id="roar">
     <display-name>ROAR</display-name>
   </channel>
-  <programme channel="roar" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Comedy</category>
-    <category lang="en">Game show</category>
-    <category lang="en">Series</category>
-    <date>2014</date>
-    <desc lang="en">S02 E19 — Jeff Davis
-Guest comic Jeff Davis.</desc>
-    <episode-num>S02 E19</episode-num>
-    <icon src="https://iptv-epg.org/images/0oBpxiMq0aQfUQhqGFFRpbxOGREgeHjbVcUR1aOLTyON4aWxgdnywAOWA-lrCqnYq8e1vv_Y9NPLTJrBFNEkPgfZ7xwGVeXvrnFwQ3xXw50"/>
-    <previously-shown/>
-    <title lang="en">Whose Line Is It Anyway?</title>
-  </programme>
   <programme channel="roar" start="20260911020000 +0000" stop="20260911030000 +0000"><category lang="en">Comedy</category>
     <category lang="en">Series</category>
     <credits>
@@ -18454,22 +18423,19 @@ A bride forgets her new groom's name; groomsmen surprise the bride and groom by 
     <previously-shown/>
     <title lang="en">America's Funniest Home Videos</title>
   </programme>
+  <programme channel="roar" start="20260914140000 +0000" stop="20260914150000 +0000"><category lang="en">Comedy</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S14 E22 — $100,000 Contest, AFV's Fairy Tales, and Bone Biting Boneheads
+The $100,000 grand prize winner is selected; a little boy's bike stunt hits him where it really hurts; silly home movies chronicle the adventures of "Super Nerd"; two Little Leaguers ponder the real reason for their protective cups.</desc>
+    <episode-num>S14 E22</episode-num>
+    <icon src="https://iptv-epg.org/images/0Qhtw21LCuyULy-NzI4okrxWVi0diITksKnBSLljmp-16h0TLlNF4bjCTSl0p7-TJJYl3ld5_Y_a8eRlPkISWmMYuagxg1FB4uOLfyIn2N4"/>
+    <previously-shown/>
+    <title lang="en">America's Funniest Home Videos</title>
+  </programme>
   <channel id="thenest">
     <display-name>The Nest</display-name>
   </channel>
-  <programme channel="thenest" start="20260911013000 +0000" stop="20260911020000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <credits>
-      <producer>Brent Montgomery</producer>
-      <producer>David George</producer>
-    </credits>
-    <desc lang="en">S03 E10 — Shaken and Stirred
-The guys test-drive a rare James Bond-type Aston Martin; Johnnie tries to secure the rights to a land grant signed by President James Madison; local musician Wade Benson Landry swings by the shop to sell one of his famous rhinestone stage suits.</desc>
-    <episode-num>S03 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/Yc6QQt43VDH03KDPSK7mAzBOy03Hf5utqKb72XdXtQbKDjCLJPZkYe5cAv3gwvAz9BiTwgK7BrjlU7YR4w_lmVI6CzCXhSpOwgnjge-uEB4"/>
-    <previously-shown/>
-    <title lang="en">Cajun Pawn Stars</title>
-  </programme>
   <programme channel="thenest" start="20260911020000 +0000" stop="20260911023000 +0000"><category lang="en">Reality</category>
     <category lang="en">Series</category>
     <credits>
@@ -19527,6 +19493,16 @@ A young Californian is suspected of hiring a hit man to kill his family.</desc>
     <desc lang="en">S02 E14 — Michelle; Kim
 A woman's clutter and over 50 pet birds have forced her husband out of the house; a pharmaceutical sales rep's job is threatened by her disorganization and clutter.</desc>
     <episode-num>S02 E14</episode-num>
+    <icon src="https://iptv-epg.org/images/vjf7qZb3x89RyPecJtk7w6fmYlZazQDB0iqNdQv7f468Fqcx46CK5SrKxU2VGN282zM3agfaRIp3H3cNq_GQI3VcDekO8JWCh0Mg-i_6Qy8"/>
+    <previously-shown/>
+    <title lang="en">Hoarders</title>
+  </programme>
+  <programme channel="thenest" start="20260914140000 +0000" stop="20260914150000 +0000"><category lang="en">Documentary</category>
+    <category lang="en">Health</category>
+    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Betty, Jill, Jake, Bill &amp; Paul Update
+Checking up on past hoarders from the show's first season.</desc>
     <icon src="https://iptv-epg.org/images/vjf7qZb3x89RyPecJtk7w6fmYlZazQDB0iqNdQv7f468Fqcx46CK5SrKxU2VGN282zM3agfaRIp3H3cNq_GQI3VcDekO8JWCh0Mg-i_6Qy8"/>
     <previously-shown/>
     <title lang="en">Hoarders</title>
@@ -20802,27 +20778,6 @@ When a cantankerous old man returns from the dead, his family and community try 
   <channel id="charge">
     <display-name>Charge!</display-name>
   </channel>
-  <programme channel="charge" start="20260911010000 +0000" stop="20260911020000 +0000"><category lang="en">Crime drama</category>
-    <category lang="en">Docudrama</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Vincent D'Onofrio</actor>
-      <actor>Kathryn Erbe</actor>
-      <actor>Jay Sanders</actor>
-      <actor>Jeff Goldblum</actor>
-      <actor>Saffron Burrows</actor>
-      <actor>Mary Elizabeth Mastrantonio</actor>
-      <actor>Eric Bogosian</actor>
-      <actor>Julianne Nicholson</actor>
-      <actor>Chris Noth</actor>
-    </credits>
-    <desc lang="en">S09 E10 — Disciple
-A body discovered at a construction site follows the pattern of an executed serial killer.</desc>
-    <episode-num>S09 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/brTukrRvroxNsPOSE6P9QO8ZBOM6G8umL6r8-vQuA1tQY_r6c3Xgu_qBoMXfx-qENPZRmT4WeN7QSHlgqofeEULPjEQ1ALvZTViiGy77kRM"/>
-    <previously-shown/>
-    <title lang="en">Law &amp; Order: Criminal Intent</title>
-  </programme>
   <programme channel="charge" start="20260911020000 +0000" stop="20260911030000 +0000"><category lang="en">Crime drama</category>
     <category lang="en">Docudrama</category>
     <category lang="en">Series</category>
@@ -22374,6 +22329,24 @@ The seedy owner of a fencing operation cooperates with Temple and McGregor, givi
     <previously-shown/>
     <title lang="en">The District</title>
   </programme>
+  <programme channel="charge" start="20260914140000 +0000" stop="20260914150000 +0000"><category lang="en">Crime drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <producer>Oz Scott</producer>
+      <producer>Bruce Zimmerman</producer>
+      <actor>Craig Nelson</actor>
+      <actor>Roger Brown</actor>
+      <actor>Sean Thomas</actor>
+      <actor>Elizabeth Marvel</actor>
+      <actor>Jonathan LaPaglia</actor>
+    </credits>
+    <desc lang="en">S01 E22 — Fools Russian
+Mannion's career is at stake when he turns for help in a current investigation to a Russian mob contact from his past.</desc>
+    <episode-num>S01 E22</episode-num>
+    <icon src="https://iptv-epg.org/images/OjvS5WHLXRuZh6Se2LnSiq1PzRie5Dub9Deuv2rK3ky3x8EK10-m46mQopgeDDTxWW9ilTdQTizDnGOAdQE217xEVieSWf8p_g1dx3N9Ayk"/>
+    <previously-shown/>
+    <title lang="en">The District</title>
+  </programme>
   <channel id="jltv">
     <display-name>JLTV</display-name>
   </channel>
@@ -23280,5 +23253,10 @@ Skip Clark welcomes comedians Charlotte Parker, Colten Winburn and Marcia Eligwe
     <desc lang="en">An exercise routine that combines multiple training styles.</desc>
     <icon src="https://iptv-epg.org/images/6Q4Ou8BivViJrNRX_cwATIhyZNs0rBJv0ohmi9Q9bJfbKtdgFL2UjH3rSSNsci35M0VTmc5iKvOPYjgFHdoyFqcQmhM5Fi8NFc-SyMr41IU"/>
     <title lang="en">Total Body Sculpt With Gilad</title>
+  </programme>
+  <programme channel="jltv" start="20260914140000 +0000" stop="20260914143000 +0000"><category lang="en">Exercise</category>
+    <desc lang="en">Exercise for seniors that can be done seated or standing.</desc>
+    <icon src="https://iptv-epg.org/images/PuVC13bmZNGvdoyHuP-LHzCvEK1C7s3CNyrW8P0hhRX8jBp_i-f8s7Rwhip7rIqwYgF5dBCh1Ih1QljMkalMMuEIbyFWPepVnA2tbEI6C-Q"/>
+    <title lang="en">A New Way 2 Move</title>
   </programme>
 </tv>
