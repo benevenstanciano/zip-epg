@@ -38,6 +38,10 @@ jobs:
       - name: Generate Best Coach TV EPG
         continue-on-error: true
         run: python scripts/generate_bestcoachtv_epg.py
+
+      - name: Generate JBS EPG
+        continue-on-error: true
+        run: python scripts/generate_jbs_epg.py   
           
       - name: Publish Files
         run: |
