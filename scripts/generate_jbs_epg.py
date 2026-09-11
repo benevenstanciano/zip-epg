@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-JBS EPG generator from https://jbsdvr.tulix.tv/schedule/schedule.php
+Standalone JBS EPG generator from https://jbsdvr.tulix.tv/schedule/schedule.php
 Outputs: output/epg-jbs.xml
-Fails soft so a missing/broken schedule does not fail the whole job.
 """
 
 import re
@@ -13,12 +12,11 @@ from zoneinfo import ZoneInfo
 
 try:
     import requests
-    from lxml import etree
-    from lxml.html import fromstring
+    from lxml import etree, html
 except ImportError as e:
-    print(f"❌ Missing dependency: {e}")
+    print(f"Missing dependency: {e}")
     print("Add 'lxml' and 'requests' to requirements.txt")
-    sys.exit(1)
+    sys.exit(0)
 
 SCHEDULE_URL = "https://jbsdvr.tulix.tv/schedule/schedule.php"
 OUTPUT_DIR = Path("output")
@@ -29,7 +27,6 @@ MAX_DAYS = 14
 
 
 def parse_end_from_span(span_text, start_dt):
-    """Parse '12:00 AM - 1:00 AM' relative to the start datetime."""
     if not span_text:
         return None
     text = re.sub(r"\s+", " ", span_text).strip()
@@ -50,33 +47,39 @@ def parse_end_from_span(span_text, start_dt):
         return None
 
 
-def fetch_html():
-    print("🌐 Fetching JBS schedule...")
+def main():
+    OUTPUT_DIR.mkdir(exist_ok=True)
+    print(f"Working dir: {Path.cwd()}")
+    print(f"Output dir: {OUTPUT_DIR.absolute()}")
+
+    print("Fetching JBS schedule...")
     headers = {"User-Agent": "ZipWave-EPG/1.0"}
-    r = requests.get(SCHEDULE_URL, timeout=60, headers=headers)
-    r.raise_for_status()
-    print(f"✅ Downloaded {len(r.text):,} characters")
-    return r.content
+    try:
+        r = requests.get(SCHEDULE_URL, timeout=60, headers=headers)
+        r.raise_for_status()
+        print(f"Downloaded {len(r.text):,} characters")
+    except Exception as e:
+        print(f"Fetch failed: {e}")
+        return
 
-
-def parse_listings(html):
-    root = fromstring(html)
-    rows = root.cssselect("div.epgs-row[data-tms]")
-    print(f"✅ Found {len(rows)} listings")
+    try:
+        root = html.fromstring(r.content)
+        rows = root.xpath("//div[contains(@class,'epgs-row') and @data-tms]")
+        print(f"Found {len(rows)} listings")
+    except Exception as e:
+        print(f"HTML parsing failed: {e}")
+        return
 
     items = []
     seen = set()
 
     for row in rows:
         ts_raw = row.get("data-tms")
-        if not ts_raw:
+        if not ts_raw or ts_raw in seen:
             continue
         try:
             start = datetime.fromtimestamp(int(ts_raw), TZ)
         except (TypeError, ValueError, OSError):
-            continue
-
-        if ts_raw in seen:
             continue
         seen.add(ts_raw)
 
@@ -94,14 +97,10 @@ def parse_listings(html):
 
             if title_el is not None and title_el.text:
                 title = title_el.text.strip()
-
             if ep_el is not None:
-                episode = "".join(ep_el.itertext()).replace("\n", " ").strip()
-                episode = re.sub(r"\s+", " ", episode)
-
+                episode = re.sub(r"\s+", " ", "".join(ep_el.itertext())).strip()
             if desc_el is not None and desc_el.text:
                 desc = " ".join(desc_el.text.split()).strip()
-
             if meta_el is not None:
                 meta = " ".join(meta_el.itertext())
                 rating_m = re.search(r"TV-[A-Z0-9]+", meta)
@@ -122,8 +121,6 @@ def parse_listings(html):
         })
 
     items.sort(key=lambda x: x["start"])
-
-    # Fill missing stop times from the next start
     for i, item in enumerate(items):
         if item["end"] is None:
             if i + 1 < len(items):
@@ -131,10 +128,17 @@ def parse_listings(html):
             else:
                 item["end"] = item["start"] + timedelta(minutes=30)
 
-    return items
+    if not items:
+        print("No JBS listings found")
+        return
+
+    tv = build_xmltv(items)
+    save_xml(tv)
 
 
 def build_xmltv(items):
+    print("Reformatting to ZipWave style...")
+
     tv = etree.Element("tv")
     tv.set("generator-info-name", "ZipWave JBS EPG Generator")
     tv.set("generator-info-url", "https://github.com/benevenstanciano/zip-epg")
@@ -150,7 +154,7 @@ def build_xmltv(items):
         start_utc = item["start"].astimezone(timezone.utc)
         end_utc = item["end"].astimezone(timezone.utc)
 
-        if end_utc < now - timedelta(hours=12) or start_utc > cutoff:
+        if end_utc < now or start_utc > cutoff:
             continue
 
         prog = etree.SubElement(tv, "programme", {
@@ -173,32 +177,15 @@ def build_xmltv(items):
 
         count += 1
 
-    print(f"✅ Generated {count} programme entries for JBS")
+    print(f"Generated {count} programme entries for JBS")
     return tv
 
 
 def save_xml(tv):
-    OUTPUT_DIR.mkdir(exist_ok=True)
     xml_path = OUTPUT_DIR / "epg-jbs.xml"
     tree = etree.ElementTree(tv)
     tree.write(str(xml_path), encoding="utf-8", pretty_print=True, xml_declaration=True)
-    print(f"✅ Saved {xml_path} ({xml_path.stat().st_size:,} bytes)")
-
-
-def main():
-    print(f"📁 Working dir: {Path.cwd()}")
-    try:
-        html = fetch_html()
-        items = parse_listings(html)
-        if not items:
-            print("⚠ No JBS listings found — skipping")
-            sys.exit(0)
-        tv = build_xmltv(items)
-        save_xml(tv)
-    except Exception as e:
-        print(f"❌ JBS EPG failed: {e}")
-        print("→ Skipping JBS EPG. Continuing job.")
-        sys.exit(0)
+    print(f"Saved {xml_path} ({xml_path.stat().st_size:,} bytes)")
 
 
 if __name__ == "__main__":
