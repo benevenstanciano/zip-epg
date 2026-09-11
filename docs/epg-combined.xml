@@ -83,20 +83,6 @@
   <channel id="jltv">
     <display-name>JLTV</display-name>
   </channel>
-  <programme channel="daystar" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Music</category>
-    <category lang="en">Religious</category>
-    <date>2011</date>
-    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
-    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
-    <title lang="en">Reflections</title>
-  </programme>
-  <programme channel="daystar" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">Music</category>
-    <category lang="en">Religious</category>
-    <date>2011</date>
-    <desc lang="en">Familiar hymns and original music accompany Scripture to help one let go and surrender during a time of daily prayer and meditation.</desc>
-    <icon src="https://iptv-epg.org/images/zUBm4H3CxpK_hr9D008K5AxsxIIZPnI1Cptpscu1UAckPHnG15x-L0DcVVZgAaYhSub4T__FUuOfP73ivkzf83WPzEP_tkor5lJ8MnzOYks"/>
-    <title lang="en">Reflections</title>
-  </programme>
   <programme channel="daystar" start="20260911083000 +0000" stop="20260911093000 +0000"><category lang="en">Music</category>
     <category lang="en">Religious</category>
     <date>2011</date>
@@ -685,13 +671,18 @@ When Blind Bartimaeus invoked his covenant with God, Jesus stopped in His tracks
     <icon src="https://iptv-epg.org/images/pJAMPll2H4xlkvmfxWjhDV6BiroIzi4dwGAvwrVm_Op0G7PyTE9ikS7IjaxXlTNWJkvSkvxLhYtNWVn5VSomH5ZkQTAzcmcos57hh-YVPuA"/>
     <title lang="en">Kenneth W. Hagin</title>
   </programme>
-  <programme channel="arirang" start="20260911073000 +0000" stop="20260911080000 +0000"><desc lang="en">This programme is often hosted by Ahn Hyun-mo, and reports on national initiatives and interesting trends in Korean culture.</desc>
-    <title lang="en">Vibe In Action: K-Initiative</title>
+  <programme channel="daystar" start="20260913013000 +0000" stop="20260913020000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Special</category>
+    <date>2025</date>
+    <desc lang="en">Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
+    <icon src="https://iptv-epg.org/images/_K7S7mALYxHgXVTWWaWg8qwTOHWi6FCh4oMozIR9uP3qiZSaudwtMIVAuBHU7CfwUiiMQ38q386E36xlzi-oSeXMGJ8PZqUjbIPGbGq2cCE"/>
+    <title lang="en">PSB Prophetic Sound Broadcast With Shawn Baker</title>
   </programme>
-  <programme channel="arirang" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">News</category>
-    <desc lang="en">A live programme bringing you the latest news and COVID-19 updates from both home and abroad.</desc>
-    <icon src="https://iptv-epg.org/images/quYCyhTJjNP2Bpmd_2f19Nzz7gMWuy6yUir6pdP7mKqTFidHNmQ_mPc-HrUoFN6abgzRiT-UR_aztjbQ9Kw7kVdbAuKJyTyZHKtoIUNxkR0oDqO2vEiUXGFcxVNRFrGRc_2Y3xWxGFa99EmVbev0TnYZPZbpGPLR37qzhL5Bw-93kr2zHgrCdGseiw"/>
-    <title lang="en">The Daily Report</title>
+  <programme channel="daystar" start="20260913020000 +0000" stop="20260913023000 +0000"><category lang="en">Religious</category>
+    <date>1979</date>
+    <desc lang="en">Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
+    <icon src="https://iptv-epg.org/images/qUeUsNrifh6Jzt0tUqRAqZvTqE_fOdi2xQVoiCNXd7oIAWwGjbf4hqGJljxd-NgDt5TBmtvhLL4mW_mL9DZBgXF6T3hMO9cGquKaifAuhWg"/>
+    <title lang="en">In Touch With Dr. Charles Stanley</title>
   </programme>
   <programme channel="arirang" start="20260911083000 +0000" stop="20260911090000 +0000"><icon src="https://iptv-epg.org/images/VlfMB0SV3-LUVdm9ZcgUmOabMI_-KEhURDB2TrQUmeA1nM75_xXzMn4HwGyweSkWaEZrahm47YfT-sv0GqeelATAVQ_UBDqC1ZaA6T6S3rFIwMQSYtj5kezUPjYNooKfgpClU8RPfLop9dWRjBFvqXBFNmUhpuuIpM6b4b0dc3zyGexU1H6oluPgBw"/>
     <title lang="en">Press Perspective</title>
@@ -1082,10 +1073,17 @@ An archive video produced to record the local foods in the region of Chungcheong
     <icon src="https://iptv-epg.org/images/jBpuUie1wJ2Howo5Mm6fSf8BvezhgDR6svI-P7vve10Iaj0RkhUnKJwFjw3BM9sv8guWfSkOa1gOV75MzEC7IP9EiMB0XFcz2okJgy5dBjChITT1_6d_ETuZRwz0H06A2Ixu-Rg6qU5zWq1_atEp5Ov4gQuKRTUn6lgAojjjlL0hKnNIWuLTwPhQLw"/>
     <title lang="en">K-Culture Minutes: K-People</title>
   </programme>
-  <programme channel="weathernation" start="20260911080000 +0000" stop="20260911100000 +0000"><category lang="en">News</category>
-    <desc lang="en">Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner!</desc>
-    <icon src="https://iptv-epg.org/images/_viDRSFx212fWioAOI1YkaGxmOJ2FbsYPPL3nPggQOhK0ZzHUe1HF7cnQOz4fJTxqfSlKgJFUiAljD7s7FbXGbcsEuRNk878vYbh-a7BM98"/>
-    <title lang="en">Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
+  <programme channel="arirang" start="20260913013000 +0000" stop="20260913014500 +0000"><desc lang="en">Dive into Korean culture with Arirang TV.</desc>
+    <icon src="https://iptv-epg.org/images/4bMMzeHpn8CcIqDS4n9qkn8DCEkQoNG34m0gr4FfyFfPC0XOzB70_6LMJ6W8EiBIuFedFyxdRfqSFWEVJwouIcmhDMdIEp84tjwKDrMkRJlZOiveHNALAve6kDIVHbojl1mxpINUq77lZCSHzC0u-vylptt7YFzANafi3G0tuw4A8ql4RmvfXWD4DA"/>
+    <title lang="en">K-Culture Minutes: K-Story</title>
+  </programme>
+  <programme channel="arirang" start="20260913014500 +0000" stop="20260913020000 +0000"><desc lang="en">Dive into Korean culture with Arirang TV.</desc>
+    <icon src="https://iptv-epg.org/images/tOGB8WX6P2wgpLbDzXbfucyYzy4Wd00HvBqaQwUGVFcH92nd5sNte787T5TEJ6AGnnbTLHDmWSevZk4RgMT08lEpOgTsO_H3FDv1TY6qGkpJxWb__EHys24NUuT-iRagepEslqwDpwWCPADKP1Y6n8HMUaFvR7ffjgSV1fnYJf3uUQUpT_qf2cFtrw"/>
+    <title lang="en">K-Culture Minutes: K-Stage</title>
+  </programme>
+  <programme channel="arirang" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Music</category>
+    <desc lang="en">A music programme on Arirang TV.</desc>
+    <title lang="en">Simply K-Pop 2026</title>
   </programme>
   <programme channel="weathernation" start="20260911100000 +0000" stop="20260911120000 +0000"><category lang="en">News</category>
     <desc lang="en">Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner!</desc>
@@ -1187,160 +1185,158 @@ An archive video produced to record the local foods in the region of Chungcheong
     <icon src="https://iptv-epg.org/images/_viDRSFx212fWioAOI1YkaGxmOJ2FbsYPPL3nPggQOhK0ZzHUe1HF7cnQOz4fJTxqfSlKgJFUiAljD7s7FbXGbcsEuRNk878vYbh-a7BM98"/>
     <title lang="en">Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
   </programme>
-  <programme channel="realamericasvoice" start="20260911132143 +0000" stop="20260911142143 +0000">
+  <programme channel="weathernation" start="20260913020000 +0000" stop="20260913040000 +0000"><category lang="en">News</category>
+    <desc lang="en">Live top weather news, severe weather coverage, regional forecasts, and a look at your local weather every hour on the 7's. Get more local weather, sooner!</desc>
+    <icon src="https://iptv-epg.org/images/_viDRSFx212fWioAOI1YkaGxmOJ2FbsYPPL3nPggQOhK0ZzHUe1HF7cnQOz4fJTxqfSlKgJFUiAljD7s7FbXGbcsEuRNk878vYbh-a7BM98"/>
+    <title lang="en">Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather</title>
+  </programme>
+  <programme channel="realamericasvoice" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911142143 +0000" stop="20260911152143 +0000">
+  <programme channel="realamericasvoice" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911152143 +0000" stop="20260911162143 +0000">
+  <programme channel="realamericasvoice" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911162143 +0000" stop="20260911172143 +0000">
+  <programme channel="realamericasvoice" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911172143 +0000" stop="20260911182143 +0000">
+  <programme channel="realamericasvoice" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911182143 +0000" stop="20260911192143 +0000">
+  <programme channel="realamericasvoice" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911192143 +0000" stop="20260911202143 +0000">
+  <programme channel="realamericasvoice" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911202143 +0000" stop="20260911212143 +0000">
+  <programme channel="realamericasvoice" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911212143 +0000" stop="20260911222143 +0000">
+  <programme channel="realamericasvoice" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911222143 +0000" stop="20260911232143 +0000">
+  <programme channel="realamericasvoice" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260911232143 +0000" stop="20260912002143 +0000">
+  <programme channel="realamericasvoice" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912002143 +0000" stop="20260912012143 +0000">
+  <programme channel="realamericasvoice" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912012143 +0000" stop="20260912022143 +0000">
+  <programme channel="realamericasvoice" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912022143 +0000" stop="20260912032143 +0000">
+  <programme channel="realamericasvoice" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912032143 +0000" stop="20260912042143 +0000">
+  <programme channel="realamericasvoice" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912042143 +0000" stop="20260912052143 +0000">
+  <programme channel="realamericasvoice" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912052143 +0000" stop="20260912062143 +0000">
+  <programme channel="realamericasvoice" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912062143 +0000" stop="20260912072143 +0000">
+  <programme channel="realamericasvoice" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912072143 +0000" stop="20260912082143 +0000">
+  <programme channel="realamericasvoice" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912082143 +0000" stop="20260912092143 +0000">
+  <programme channel="realamericasvoice" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912092143 +0000" stop="20260912102143 +0000">
+  <programme channel="realamericasvoice" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912102143 +0000" stop="20260912112143 +0000">
+  <programme channel="realamericasvoice" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912112143 +0000" stop="20260912122143 +0000">
+  <programme channel="realamericasvoice" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912122143 +0000" stop="20260912132143 +0000">
+  <programme channel="realamericasvoice" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912132143 +0000" stop="20260912142143 +0000">
+  <programme channel="realamericasvoice" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912142143 +0000" stop="20260912152143 +0000">
+  <programme channel="realamericasvoice" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912152143 +0000" stop="20260912162143 +0000">
+  <programme channel="realamericasvoice" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912162143 +0000" stop="20260912172143 +0000">
+  <programme channel="realamericasvoice" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912172143 +0000" stop="20260912182143 +0000">
+  <programme channel="realamericasvoice" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912182143 +0000" stop="20260912192143 +0000">
+  <programme channel="realamericasvoice" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912192143 +0000" stop="20260912202143 +0000">
+  <programme channel="realamericasvoice" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912202143 +0000" stop="20260912212143 +0000">
+  <programme channel="realamericasvoice" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912212143 +0000" stop="20260912222143 +0000">
+  <programme channel="realamericasvoice" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912222143 +0000" stop="20260912232143 +0000">
+  <programme channel="realamericasvoice" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260912232143 +0000" stop="20260913002143 +0000">
+  <programme channel="realamericasvoice" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913002143 +0000" stop="20260913012143 +0000">
+  <programme channel="realamericasvoice" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
   </programme>
-  <programme channel="realamericasvoice" start="20260913012143 +0000" stop="20260913022143 +0000">
+  <programme channel="realamericasvoice" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>Real America's Voice</title>
     <desc>24/7 News and Opinion</desc>
-  </programme>
-  <programme channel="qvc" start="20260911080000 +0000" stop="20260911090000 +0000"><category lang="en">Fashion</category>
-    <category lang="en">Shopping</category>
-    <date>2016</date>
-    <desc lang="en">Casual-cool fashion with inspirational messages.</desc>
-    <icon src="https://iptv-epg.org/images/xqxGaCF73yo8ldJ9sYnFKtKjnpDu3kdLUVvkJ-2gh8ramSAoVqBP9mXS-ZAWx8GnWovmQr7CurZFwKRK3Jj2Yxay3kaCSzgc_eATb3J2s7A"/>
-    <title lang="en">Peace Love World - Fashion</title>
   </programme>
   <programme channel="qvc" start="20260911090000 +0000" stop="20260911100000 +0000"><category lang="en">Shopping</category>
     <date>2014</date>
@@ -1545,11 +1541,13 @@ An archive video produced to record the local foods in the region of Chungcheong
     <title lang="en">Belle by Kim Gravel -- Fashion</title>
     <live/>
   </programme>
-  <programme channel="hsn" start="20260911080000 +0000" stop="20260911090000 +0000"><category lang="en">Shopping</category>
-    <date>2017</date>
-    <desc lang="en">Skin care, make-up, hair care and beauty tools.</desc>
-    <icon src="https://iptv-epg.org/images/alNXlCaT3DIU0HoG0KWi9VreeNE1p8AQlpIalJ9d_hQHjVcp_8zMWCc7CDlh9NKMP5q1Vs8SjH4m3mW17tMoVFkwSB9doGPNdSpIXESLgzU"/>
-    <title lang="en">Best of Beauty</title>
+  <programme channel="qvc" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Fashion</category>
+    <category lang="en">Shopping</category>
+    <date>2016</date>
+    <desc lang="en">Super-soft wraps, cardigans, blankets and more.</desc>
+    <icon src="https://iptv-epg.org/images/WOEE0pAEJTqc2CUWlnZvqYIb69kHZ6YlUUFD_sGLIXrl37YHP3idBl0wZBq4ZcXNxE5qMQWcTU5oQfx6C8P5_zPhO7bKlvK6RyF9CWLNNZI"/>
+    <title lang="en">Barefoot Dreams -- California Style</title>
+    <live/>
   </programme>
   <programme channel="hsn" start="20260911090000 +0000" stop="20260911100000 +0000"><category lang="en">Shopping</category>
     <date>2012</date>
@@ -1818,21 +1816,12 @@ An archive video produced to record the local foods in the region of Chungcheong
     <title lang="en">Chef Curtis Stone</title>
     <live/>
   </programme>
-  <programme channel="nhkworld" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Hunting</category>
-    <category lang="en">Series</category>
-    <category>Sports</category>
-    <desc lang="en">Eco-design
-RJ Cianciarulo embarks on his most demanding hunt yet with Ron &amp; Maria at North River Outfitting alongside Guytano and Aron Snyder. These incredible people show what a true Mountain Hunt is all about, with RJ on his way to get a Mountain Goat.</desc>
-    <icon src="https://iptv-epg.org/images/wg-k4vXF-07osF8LVs67epqRLMWJjyRfkC6fk826yn3ygK2G1mH-Q_SnWsiaLolIC1f8kXFdqUTnR6SvYMypaaT0B-faub51wBHZ0oetCrg"/>
-    <previously-shown/>
-    <title lang="en">The Choice</title>
-  </programme>
-  <programme channel="nhkworld" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">News</category>
-    <date>2002</date>
-    <desc lang="en">Japan's disaster relief; Asia news; business and global current events.</desc>
-    <icon src="https://iptv-epg.org/images/jCsH4pjGAY-byIGiHf2zx03e2_fPEeg5cpxOc5hFNDc7baelPqjZffLYvwHLonIhm9_tQ7R1uTDpEyStL7UQVV2Sj5mBZ4pvjR3kS0_u3K0"/>
-    <title lang="en">NHK Newsline</title>
-    <new/>
+  <programme channel="hsn" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Shopping</category>
+    <date>2016</date>
+    <desc lang="en">Chef Curtis Stone's collection of kitchenware that simplifies prep and makes cooking fun.</desc>
+    <icon src="https://iptv-epg.org/images/rRUZVfQHD9mcrpiptKBLrR7E8PjQCAY1m9Q0dGGuQlPcwrVs_H_sDzIT9qIph0jp-IRB8g3VuQFxrJ5zQZGwE5aPahWtzIFcHWGpo2srAQw"/>
+    <title lang="en">Chef Curtis Stone</title>
+    <live/>
   </programme>
   <programme channel="nhkworld" start="20260911083000 +0000" stop="20260911090000 +0000"><category lang="en">Sumo wrestling</category>
     <category lang="en">Series</category>
@@ -2736,15 +2725,22 @@ Half a century since the birth of video games, we explore how legendary titles h
     <title lang="en">Game Genome</title>
     <new/>
   </programme>
-  <programme channel="buzzr" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Game show</category>
-    <desc lang="en">Teams try to identify words in the least number of clues.</desc>
-    <icon src="https://iptv-epg.org/images/a1NmHUjgyYk2GO4aeqy6n0KL4Ga3NSkHUjLjwUEtnR1fWYdCTwPvEfHCIrzzu_loI1NAnjzHjK_7euuXH8sutNebJg09bOT9ksm-gVLNimA"/>
-    <title lang="en">Password</title>
+  <programme channel="nhkworld" start="20260913015500 +0000" stop="20260913020000 +0000"><category lang="en">Community</category>
+    <category lang="en">Technology</category>
+    <category lang="en">Variety</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Haneda to New Ishigaki Airport
+Presents scenic aerial views of coral reef islands from a passenger jet heading from Tokyo Haneda to New Ishigaki Airport.</desc>
+    <icon src="https://iptv-epg.org/images/Ei_aRN0MW0Fx5X3i30CEEncXHXPz4xYe9UiCShEhMMl2zkqSDkE5JLP8KwrBhtsXKtlFN0JWUd6sNabhZhQJ7woU0AEnPmOEJGcJVIhRqHM"/>
+    <title lang="en">On the Wings</title>
+    <new/>
   </programme>
-  <programme channel="buzzr" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">Game show</category>
-    <desc lang="en">Two contestants match squares in order to uncover and solve a picture puzzle, for the chance to win a car and other prizes.</desc>
-    <icon src="https://iptv-epg.org/images/DbecTbEJUv0RRzs9r-IifMTsOpD7xSwfrHOdpcgNYKQ-ch9t6IPeT20z6CU_SlsW4pLk_872lSCszBzaVNg5ThCyqbodIo3ex5LjGsFSht8"/>
-    <title lang="en">Concentration</title>
+  <programme channel="nhkworld" start="20260913020000 +0000" stop="20260913021000 +0000"><category lang="en">News</category>
+    <date>2002</date>
+    <desc lang="en">Japan's disaster relief; Asia news; business and global current events.</desc>
+    <icon src="https://iptv-epg.org/images/jCsH4pjGAY-byIGiHf2zx03e2_fPEeg5cpxOc5hFNDc7baelPqjZffLYvwHLonIhm9_tQ7R1uTDpEyStL7UQVV2Sj5mBZ4pvjR3kS0_u3K0"/>
+    <title lang="en">NHK Newsline</title>
+    <new/>
   </programme>
   <programme channel="buzzr" start="20260911083000 +0000" stop="20260911090000 +0000"><category lang="en">Game show</category>
     <desc lang="en">Two contestants match squares in order to uncover and solve a picture puzzle, for the chance to win a car and other prizes.</desc>
@@ -3153,28 +3149,15 @@ Half a century since the birth of video games, we explore how legendary titles h
     <icon src="https://iptv-epg.org/images/pF9vLD7YWLH2BHh9cM44S8NoXcNU6y4ElRN5mF72AOtSMRerSHnzKxf3hAuBo1gja7lpGLty3hzpnLjHkyVSLYF9QcccpaWaz28VSKjvnFY"/>
     <title lang="en">Password Plus</title>
   </programme>
-  <programme channel="byutv" start="20260911080000 +0000" stop="20260911082900 +0000"><category lang="en">Children</category>
-    <category lang="en">Comedy drama</category>
-    <category lang="en">Family</category>
-    <category lang="en">Series</category>
-    <credits>
-      <actor>Ruby Jay</actor>
-      <actor>Saara Chaudry</actor>
-      <actor>Kamaia Fairburn</actor>
-      <actor>Hunter Dillon</actor>
-      <actor>Charles Vandervaart</actor>
-      <actor>Kate Moyer</actor>
-      <actor>Erin Karpluk</actor>
-      <actor>Evan Buliung</actor>
-      <actor>Sara Botsford</actor>
-      <actor>Marcus Cornwall</actor>
-    </credits>
-    <desc lang="en">S01 E06 — The Rabble Rouser
-After discovering that the pickle factory's faulty filtration system is contaminating the nearby creek, Holly defies her mother to expose the truth.</desc>
-    <episode-num>S01 E06</episode-num>
-    <icon src="https://iptv-epg.org/images/RFWy4LU-gl3EfMD5uusm2itjUYaqnymYsyalhQTb5YvDhYJ7pobr9xL7Npa8N2Whq5NsZVvLnJ1VVTais6Oo_h-TxqPCPpZWZsGkXQKRwcU"/>
-    <previously-shown/>
-    <title lang="en">Holly Hobbie</title>
+  <programme channel="buzzr" start="20260913013000 +0000" stop="20260913020000 +0000"><category lang="en">Game show</category>
+    <desc lang="en">Two teams consisting of a celebrity guest and a contestant guess words from clues.</desc>
+    <icon src="https://iptv-epg.org/images/pF9vLD7YWLH2BHh9cM44S8NoXcNU6y4ElRN5mF72AOtSMRerSHnzKxf3hAuBo1gja7lpGLty3hzpnLjHkyVSLYF9QcccpaWaz28VSKjvnFY"/>
+    <title lang="en">Password Plus</title>
+  </programme>
+  <programme channel="buzzr" start="20260913020000 +0000" stop="20260913023000 +0000"><category lang="en">Game show</category>
+    <desc lang="en">Contestants vie for money and prizes with playing cards.</desc>
+    <icon src="https://iptv-epg.org/images/KEyZ2ys1wmHPDavUawDjul9Mw6JekdcH3eLKDDU03OGHItdk7Ic5QlbE8ShlHa08df_8rhByxHadsz-nlV_X3Xv_176F5W9lej78NZ-lWYI"/>
+    <title lang="en">Card Sharks</title>
   </programme>
   <programme channel="byutv" start="20260911082900 +0000" stop="20260911090000 +0000"><category lang="en">Children</category>
     <category lang="en">Comedy</category>
@@ -4141,24 +4124,6 @@ Amy and Ty get some unexpected news about Luke just as Amy has to face an upsett
     <icon src="https://iptv-epg.org/images/OdlztsJ6vOvqAc2B-MnP1iNUpiJezP4aOS4QoVIdvMID7QiqlQ81tdomX_Dui-e1q1uDH4CeMbHf75jyMgzFR_ppe02oEPr0eLBeNJs46fc"/>
     <title lang="en">The Other Side of Heaven</title>
   </programme>
-  <programme channel="ewtn" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Community</category>
-    <category lang="en">Religious</category>
-    <category lang="en">Series</category>
-    <desc lang="en">Susan De Bartoli, Pt. 1
-Author Susan De Bartoli talks about her book "Welcoming the Holy Spirit with Padre Pio," which discusses growing closer to God through the gifts of the Holy Spirit.</desc>
-    <icon src="https://iptv-epg.org/images/P4XLnB9EzAVU-sZhbN4CVxEpOr_SwM9-Zo9y-kLzME89jOcmBbwPPW6ipovWVSUNYgtOtIb993PyQu9Ce-KUfX1DaIU8uwQdixQ2zauM2cI"/>
-    <previously-shown/>
-    <title lang="en">At Home With Jim and Joy</title>
-  </programme>
-  <programme channel="ewtn" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">Religious</category>
-    <category lang="en">Series</category>
-    <date>2006</date>
-    <desc lang="en">The Dignity of the Human Person: Made in the Image and Likeness of God
-Father Wade Menezes shows how the culture of death attacks the dignity of the human person.</desc>
-    <icon src="https://iptv-epg.org/images/j8uyX5U29Wnpw208f-heBVLE-UZTR8XCh3KbYMpF6MPGOdSKlgESKlTO060P3UriO07eY8GrWayGtxOn1dn2o5vwlXQUQq4bQaQlwKswuDc"/>
-    <previously-shown/>
-    <title lang="en">The Gospel of Life vs. the Culture of Death</title>
-  </programme>
   <programme channel="ewtn" start="20260911083000 +0000" stop="20260911090000 +0000"><category lang="en">Religious</category>
     <category lang="en">Series</category>
     <date>2008</date>
@@ -4730,151 +4695,167 @@ Uncover the powerful Marian apparition site in Šiluva that helped preserve the 
     <icon src="https://iptv-epg.org/images/PoYIzdbzBrpBTo1gZKuwKf22LUdT3_3hwJDWJQKZtjIw3m4Zbc2K-rz-jIAdo1Wx-L-WpardGfLnhg-dtKWyiZu7CTmOTv1umCcY8LuT5i0"/>
     <title lang="en">Saint Peter Claver: Slave of the Slaves</title>
   </programme>
-  <programme channel="rightnowtv" start="20260911132143 +0000" stop="20260911142143 +0000">
+  <programme channel="ewtn" start="20260913013000 +0000" stop="20260913020000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Special</category>
+    <date>2021</date>
+    <desc lang="en">Pilgrims from around the world gather and pray the Rosary from the Lourdes Grotto in France, site of the famous apparitions by the Blessed Virgin Mary in 1858.</desc>
+    <icon src="https://iptv-epg.org/images/jhBr4uYri4TgXmuOAmpm-OC-1hLMTbNrNwqxQsn5PutR7HU0SKZ3EMs44bUQ5UF6_abtXp8fEQLeADyeWrrDmye5XhgELIa6WBN5RHDNg14"/>
+    <title lang="en">Holy Rosary From Lourdes</title>
+    <new/>
+  </programme>
+  <programme channel="ewtn" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Religious</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Faithful And Funny
+Clinical psychologist Dr. Ray Guarendi offers advice on parenting and marriage.</desc>
+    <icon src="https://iptv-epg.org/images/R_-5wx5a7f_LX8C0jrMLfjiDgKdLdh7JA0oQXo4GYtzBDERU5tCg0azsZumVEqOhKxlVImNNQmPqXyJkTAUy0pXPpyBF2Cj7RmeXn_F_O3g"/>
+    <previously-shown/>
+    <title lang="en">Living Right With Dr. Ray</title>
+  </programme>
+  <programme channel="rightnowtv" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911142143 +0000" stop="20260911152143 +0000">
+  <programme channel="rightnowtv" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911152143 +0000" stop="20260911162143 +0000">
+  <programme channel="rightnowtv" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911162143 +0000" stop="20260911172143 +0000">
+  <programme channel="rightnowtv" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911172143 +0000" stop="20260911182143 +0000">
+  <programme channel="rightnowtv" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911182143 +0000" stop="20260911192143 +0000">
+  <programme channel="rightnowtv" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911192143 +0000" stop="20260911202143 +0000">
+  <programme channel="rightnowtv" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911202143 +0000" stop="20260911212143 +0000">
+  <programme channel="rightnowtv" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911212143 +0000" stop="20260911222143 +0000">
+  <programme channel="rightnowtv" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911222143 +0000" stop="20260911232143 +0000">
+  <programme channel="rightnowtv" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260911232143 +0000" stop="20260912002143 +0000">
+  <programme channel="rightnowtv" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912002143 +0000" stop="20260912012143 +0000">
+  <programme channel="rightnowtv" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912012143 +0000" stop="20260912022143 +0000">
+  <programme channel="rightnowtv" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912022143 +0000" stop="20260912032143 +0000">
+  <programme channel="rightnowtv" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912032143 +0000" stop="20260912042143 +0000">
+  <programme channel="rightnowtv" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912042143 +0000" stop="20260912052143 +0000">
+  <programme channel="rightnowtv" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912052143 +0000" stop="20260912062143 +0000">
+  <programme channel="rightnowtv" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912062143 +0000" stop="20260912072143 +0000">
+  <programme channel="rightnowtv" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912072143 +0000" stop="20260912082143 +0000">
+  <programme channel="rightnowtv" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912082143 +0000" stop="20260912092143 +0000">
+  <programme channel="rightnowtv" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912092143 +0000" stop="20260912102143 +0000">
+  <programme channel="rightnowtv" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912102143 +0000" stop="20260912112143 +0000">
+  <programme channel="rightnowtv" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912112143 +0000" stop="20260912122143 +0000">
+  <programme channel="rightnowtv" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912122143 +0000" stop="20260912132143 +0000">
+  <programme channel="rightnowtv" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912132143 +0000" stop="20260912142143 +0000">
+  <programme channel="rightnowtv" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912142143 +0000" stop="20260912152143 +0000">
+  <programme channel="rightnowtv" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912152143 +0000" stop="20260912162143 +0000">
+  <programme channel="rightnowtv" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912162143 +0000" stop="20260912172143 +0000">
+  <programme channel="rightnowtv" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912172143 +0000" stop="20260912182143 +0000">
+  <programme channel="rightnowtv" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912182143 +0000" stop="20260912192143 +0000">
+  <programme channel="rightnowtv" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912192143 +0000" stop="20260912202143 +0000">
+  <programme channel="rightnowtv" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912202143 +0000" stop="20260912212143 +0000">
+  <programme channel="rightnowtv" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912212143 +0000" stop="20260912222143 +0000">
+  <programme channel="rightnowtv" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912222143 +0000" stop="20260912232143 +0000">
+  <programme channel="rightnowtv" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260912232143 +0000" stop="20260913002143 +0000">
+  <programme channel="rightnowtv" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913002143 +0000" stop="20260913012143 +0000">
+  <programme channel="rightnowtv" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
-  <programme channel="rightnowtv" start="20260913012143 +0000" stop="20260913022143 +0000">
+  <programme channel="rightnowtv" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>Right Now TV</title>
     <desc>What guys want!</desc>
   </programme>
@@ -4928,9 +4909,10 @@ Uncover the powerful Marian apparition site in Šiluva that helped preserve the 
     <icon src="https://iptv-epg.org/images/ThGixPNLmEgbav0m2HOGyQIOWnOalMktFpVkma5Pj8QXpC06MPNmx-GveTm7ad14PoGXqOfG4mlvbBWkuggXYM4NSGBNhl17osQpw4oyGLA"/>
     <title lang="en">Classic Arts Showcase</title>
   </programme>
-  <programme channel="nrbtv" start="20260911080000 +0000" stop="20260911100000 +0000"><desc lang="en">Hosted by RadiantTV Founder, Jamey Schmitz, each episode features majestic scenery of God's creation captured within the 59 U.S. National Parks, uplifting instrumental music of the Great Hymns of the Christian faith.</desc>
-    <icon src="https://iptv-epg.org/images/orHP0gKnMcyK9pxypVQvglw9amnwHsTMY3NAo0rDPCbaoz31iSrHqbMnOnWep94RvUDZklciuDyr7FpR4xGG65z-ztpRQYs8NuTMH3m9DY0"/>
-    <title lang="en">Radiant TV</title>
+  <programme channel="classicarts" start="20260913020000 +0000" stop="20260913060000 +0000"><category lang="en">Art</category>
+    <desc lang="en">A variety of short films on the arts.</desc>
+    <icon src="https://iptv-epg.org/images/ThGixPNLmEgbav0m2HOGyQIOWnOalMktFpVkma5Pj8QXpC06MPNmx-GveTm7ad14PoGXqOfG4mlvbBWkuggXYM4NSGBNhl17osQpw4oyGLA"/>
+    <title lang="en">Classic Arts Showcase</title>
   </programme>
   <programme channel="nrbtv" start="20260911100000 +0000" stop="20260911103000 +0000"><category lang="en">Religious</category>
     <date>2009</date>
@@ -5450,161 +5432,165 @@ Explores how God disciplines those who believe in him as taken from the Bible.</
     <icon src="https://iptv-epg.org/images/NEosNTVe8h_PLbsInt-q4JOi5-QAlDb-rrIkpDuRfynK_Vs6Kkuz4-s5axwn7vpWj1TZ1XgHUc8Kri5g5WPqIQ8ODIXpYWva6ndyod8WIVE"/>
     <title lang="en">Christ Meets Culture</title>
   </programme>
-  <programme channel="smtv" start="20260911132143 +0000" stop="20260911142143 +0000">
+  <programme channel="nrbtv" start="20260913013000 +0000" stop="20260913020000 +0000"><category lang="en">Religious</category>
+    <date>2024</date>
+    <desc lang="en">Pastor Jack's straightforward, truthful and insightful teaching style will help people come into a greater understanding of God's Word.</desc>
+    <icon src="https://iptv-epg.org/images/7Z_3eUp4s-g0349RpfXssEDd59QY96h1LVnaTyLz-499h45bujiG_pCzujSHjgud4IUYss71-lR7eIsqTM3leVCyEgn7r1RNFjK3oz8fi9c"/>
+    <title lang="en">Real Life With Jack Hibbs</title>
+  </programme>
+  <programme channel="nrbtv" start="20260913020000 +0000" stop="20260913023000 +0000"><category lang="en">News</category>
+    <date>2013</date>
+    <desc lang="en">CBN News Middle East Bureau Chief Chris Mitchell reports on the latest events and how they impact Israel and the stability of the Middle East.</desc>
+    <icon src="https://iptv-epg.org/images/AjFUU3pp0Gv-6WoDHG4JoIqRMdiNg6nrRYwEVgT-11AO-ijsIUc4mMV3pnyar4HDcOV5WSZvmcZedPjWJWRi07g3hQva4nsYSZN4s_aL5No"/>
+    <title lang="en">Jerusalem Dateline</title>
+  </programme>
+  <programme channel="smtv" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911142143 +0000" stop="20260911152143 +0000">
+  <programme channel="smtv" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911152143 +0000" stop="20260911162143 +0000">
+  <programme channel="smtv" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911162143 +0000" stop="20260911172143 +0000">
+  <programme channel="smtv" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911172143 +0000" stop="20260911182143 +0000">
+  <programme channel="smtv" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911182143 +0000" stop="20260911192143 +0000">
+  <programme channel="smtv" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911192143 +0000" stop="20260911202143 +0000">
+  <programme channel="smtv" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911202143 +0000" stop="20260911212143 +0000">
+  <programme channel="smtv" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911212143 +0000" stop="20260911222143 +0000">
+  <programme channel="smtv" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911222143 +0000" stop="20260911232143 +0000">
+  <programme channel="smtv" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260911232143 +0000" stop="20260912002143 +0000">
+  <programme channel="smtv" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912002143 +0000" stop="20260912012143 +0000">
+  <programme channel="smtv" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912012143 +0000" stop="20260912022143 +0000">
+  <programme channel="smtv" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912022143 +0000" stop="20260912032143 +0000">
+  <programme channel="smtv" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912032143 +0000" stop="20260912042143 +0000">
+  <programme channel="smtv" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912042143 +0000" stop="20260912052143 +0000">
+  <programme channel="smtv" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912052143 +0000" stop="20260912062143 +0000">
+  <programme channel="smtv" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912062143 +0000" stop="20260912072143 +0000">
+  <programme channel="smtv" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912072143 +0000" stop="20260912082143 +0000">
+  <programme channel="smtv" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912082143 +0000" stop="20260912092143 +0000">
+  <programme channel="smtv" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912092143 +0000" stop="20260912102143 +0000">
+  <programme channel="smtv" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912102143 +0000" stop="20260912112143 +0000">
+  <programme channel="smtv" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912112143 +0000" stop="20260912122143 +0000">
+  <programme channel="smtv" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912122143 +0000" stop="20260912132143 +0000">
+  <programme channel="smtv" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912132143 +0000" stop="20260912142143 +0000">
+  <programme channel="smtv" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912142143 +0000" stop="20260912152143 +0000">
+  <programme channel="smtv" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912152143 +0000" stop="20260912162143 +0000">
+  <programme channel="smtv" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912162143 +0000" stop="20260912172143 +0000">
+  <programme channel="smtv" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912172143 +0000" stop="20260912182143 +0000">
+  <programme channel="smtv" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912182143 +0000" stop="20260912192143 +0000">
+  <programme channel="smtv" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912192143 +0000" stop="20260912202143 +0000">
+  <programme channel="smtv" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912202143 +0000" stop="20260912212143 +0000">
+  <programme channel="smtv" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912212143 +0000" stop="20260912222143 +0000">
+  <programme channel="smtv" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912222143 +0000" stop="20260912232143 +0000">
+  <programme channel="smtv" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260912232143 +0000" stop="20260913002143 +0000">
+  <programme channel="smtv" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913002143 +0000" stop="20260913012143 +0000">
+  <programme channel="smtv" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
   </programme>
-  <programme channel="smtv" start="20260913012143 +0000" stop="20260913022143 +0000">
+  <programme channel="smtv" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>SMTV</title>
     <desc>Constructive Programming for a Peaceful World</desc>
-  </programme>
-  <programme channel="impact" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">Consumer</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Special</category>
-    <date>2018</date>
-    <desc lang="en">Mercy Ship's crew of world-class medical volunteers sail across the globe providing lifesaving surgeries to those with nowhere else to turn.</desc>
-    <icon src="https://iptv-epg.org/images/09vs8I0YYYjIq9oM2_gbnE_3NwMBcd6xwm39jdpapO5bahiN67kBAEvPyowS9pEEFLKOilAC9V15xNf0MGnP7DCK6YCHDZRsIYesCbV6-sk"/>
-    <title lang="en">Mercy Ships</title>
   </programme>
   <programme channel="impact" start="20260911083000 +0000" stop="20260911090000 +0000"><date>2026</date>
     <desc lang="en">Messages from special guests along with biblical teaching and encouragement from Isabell Bowling, featuring the ministry legacy of Marilyn Hickey through classic programs and archived teachings.</desc>
@@ -5998,172 +5984,161 @@ Explores how God disciplines those who believe in him as taken from the Bible.</
     <icon src="https://iptv-epg.org/images/F5reDHoxz945XTn4EnehotmWUldqslwJFHatfCLTWEHmUlI9UJs6XtKf2kvn_tpH08W-YulHAp-tiUWl9bsoZHs8vjMvY56fEWK4ljZlcZM"/>
     <title lang="en">Miracles Do Happen With Apostle Wayne T. Jackson</title>
   </programme>
-  <programme channel="tvriworld" start="20260911132143 +0000" stop="20260911142143 +0000">
+  <programme channel="impact" start="20260913020000 +0000" stop="20260913023000 +0000"><category lang="en">Consumer</category>
+    <category lang="en">Medical</category>
+    <category lang="en">Special</category>
+    <date>2018</date>
+    <desc lang="en">Mercy Ship's crew of world-class medical volunteers sail across the globe providing lifesaving surgeries to those with nowhere else to turn.</desc>
+    <icon src="https://iptv-epg.org/images/09vs8I0YYYjIq9oM2_gbnE_3NwMBcd6xwm39jdpapO5bahiN67kBAEvPyowS9pEEFLKOilAC9V15xNf0MGnP7DCK6YCHDZRsIYesCbV6-sk"/>
+    <title lang="en">Mercy Ships</title>
+  </programme>
+  <programme channel="tvriworld" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911142143 +0000" stop="20260911152143 +0000">
+  <programme channel="tvriworld" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911152143 +0000" stop="20260911162143 +0000">
+  <programme channel="tvriworld" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911162143 +0000" stop="20260911172143 +0000">
+  <programme channel="tvriworld" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911172143 +0000" stop="20260911182143 +0000">
+  <programme channel="tvriworld" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911182143 +0000" stop="20260911192143 +0000">
+  <programme channel="tvriworld" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911192143 +0000" stop="20260911202143 +0000">
+  <programme channel="tvriworld" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911202143 +0000" stop="20260911212143 +0000">
+  <programme channel="tvriworld" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911212143 +0000" stop="20260911222143 +0000">
+  <programme channel="tvriworld" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911222143 +0000" stop="20260911232143 +0000">
+  <programme channel="tvriworld" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260911232143 +0000" stop="20260912002143 +0000">
+  <programme channel="tvriworld" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912002143 +0000" stop="20260912012143 +0000">
+  <programme channel="tvriworld" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912012143 +0000" stop="20260912022143 +0000">
+  <programme channel="tvriworld" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912022143 +0000" stop="20260912032143 +0000">
+  <programme channel="tvriworld" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912032143 +0000" stop="20260912042143 +0000">
+  <programme channel="tvriworld" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912042143 +0000" stop="20260912052143 +0000">
+  <programme channel="tvriworld" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912052143 +0000" stop="20260912062143 +0000">
+  <programme channel="tvriworld" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912062143 +0000" stop="20260912072143 +0000">
+  <programme channel="tvriworld" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912072143 +0000" stop="20260912082143 +0000">
+  <programme channel="tvriworld" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912082143 +0000" stop="20260912092143 +0000">
+  <programme channel="tvriworld" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912092143 +0000" stop="20260912102143 +0000">
+  <programme channel="tvriworld" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912102143 +0000" stop="20260912112143 +0000">
+  <programme channel="tvriworld" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912112143 +0000" stop="20260912122143 +0000">
+  <programme channel="tvriworld" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912122143 +0000" stop="20260912132143 +0000">
+  <programme channel="tvriworld" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912132143 +0000" stop="20260912142143 +0000">
+  <programme channel="tvriworld" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912142143 +0000" stop="20260912152143 +0000">
+  <programme channel="tvriworld" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912152143 +0000" stop="20260912162143 +0000">
+  <programme channel="tvriworld" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912162143 +0000" stop="20260912172143 +0000">
+  <programme channel="tvriworld" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912172143 +0000" stop="20260912182143 +0000">
+  <programme channel="tvriworld" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912182143 +0000" stop="20260912192143 +0000">
+  <programme channel="tvriworld" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912192143 +0000" stop="20260912202143 +0000">
+  <programme channel="tvriworld" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912202143 +0000" stop="20260912212143 +0000">
+  <programme channel="tvriworld" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912212143 +0000" stop="20260912222143 +0000">
+  <programme channel="tvriworld" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912222143 +0000" stop="20260912232143 +0000">
+  <programme channel="tvriworld" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260912232143 +0000" stop="20260913002143 +0000">
+  <programme channel="tvriworld" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913002143 +0000" stop="20260913012143 +0000">
+  <programme channel="tvriworld" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
   </programme>
-  <programme channel="tvriworld" start="20260913012143 +0000" stop="20260913022143 +0000">
+  <programme channel="tvriworld" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>TVRI World</title>
     <desc>Indonesian news and culture, in English</desc>
-  </programme>
-  <programme channel="nost" start="20260911073900 +0000" stop="20260911101000 +0000"><category lang="en">Docudrama</category>
-    <category lang="en">War</category>
-    <category lang="en">Movie</category>
-    <credits>
-      <director>Jack Gold</director>
-      <actor>Alan Arkin</actor>
-      <actor>Rutger Hauer</actor>
-      <actor>Joanna Pacula</actor>
-      <actor>Hartmut Becker</actor>
-      <actor>Jack Shepherd</actor>
-      <actor>Ullrich Haupt</actor>
-      <actor>David Miller</actor>
-      <actor>Kurt Raab</actor>
-    </credits>
-    <date>1987</date>
-    <desc lang="en">A Polish Jew (Alan Arkin), a Russian officer (Rutger Hauer) and a seamstress (Joanna Pacula) lead a 1943 mass escape from a Nazi death camp.</desc>
-    <icon src="https://iptv-epg.org/images/1-s7O9URQNUqkzgVoubSpDLiZkKJDISR3oND6x-yyB1qha0AkgG6A4iD-Yr316uuYc1jb0r7nsBqsxA-m_GvCxnUZEpaatOJgtckqpuszEE"/>
-    <title lang="en">Escape From Sobibor</title>
   </programme>
   <programme channel="nost" start="20260911101000 +0000" stop="20260911114000 +0000"><category lang="en">Comedy</category>
     <category lang="en">Movie</category>
@@ -6658,12 +6633,6 @@ A sheriff's daughter runs off with her boyfriend (John Ericson), unaware he is a
     <icon src="https://iptv-epg.org/images/KBDYhaXQX0cDffSQkEnSLKUjW_Mx2WISA0yvtDhxwqygNnbNANYeuqhwiR1JnbIJ-pDu7o9IrbbUVaB215NtxKLizuCsnP2txC0wDtHq_nQ"/>
     <title lang="en">Dr. Paul Bearer's Creature Feature</title>
   </programme>
-  <programme channel="faithworld" start="20260911073000 +0000" stop="20260911080000 +0000"><desc lang="en">Joining J.John for part two of his insightful interview is Professor John Lennox. (part 2 of 2).</desc>
-    <title lang="en">Facing the Canon: John John Lennox (Part Two)</title>
-  </programme>
-  <programme channel="faithworld" start="20260911080000 +0000" stop="20260911090000 +0000"><desc lang="en">Phaneroo Ministries International.</desc>
-    <title lang="en">Phaneroo Ministries International</title>
-  </programme>
   <programme channel="faithworld" start="20260911090000 +0000" stop="20260911093000 +0000"><desc lang="en">It is my desire that through Jesus Christ, you will know Real Life. Jack Hibbs.</desc>
     <title lang="en">Jack Hibbs Real Life</title>
   </programme>
@@ -6869,629 +6838,307 @@ Don't just live, inherit life! Discover your amazing inheritance in Jesus and li
   <programme channel="faithworld" start="20260913010000 +0000" stop="20260913013000 +0000"><desc lang="en">Join Prophet Isaiah Macwealth from Gospel Pillars International Churches for inspired teachings, divine revelations, and life-transforming truths to empower your faith and walk with God.</desc>
     <title lang="en">Gospel Pillars International Church</title>
   </programme>
-  <programme channel="bctv" start="20260911132143 +0000" stop="20260911142143 +0000">
+  <programme channel="faithworld" start="20260913013000 +0000" stop="20260913020000 +0000"><desc lang="en">Bible teaching and worship, hosted by Bishop Kingsley Joshua Akoto/Bamfo.</desc>
+    <title lang="en">Powerland Chapel Int'l</title>
+  </programme>
+  <programme channel="faithworld" start="20260913020000 +0000" stop="20260913023000 +0000"><desc lang="en">Tune in with Faith World Music.</desc>
+    <title lang="en">Faith World Music</title>
+  </programme>
+  <programme channel="bctv" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911142143 +0000" stop="20260911152143 +0000">
+  <programme channel="bctv" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911152143 +0000" stop="20260911162143 +0000">
+  <programme channel="bctv" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911162143 +0000" stop="20260911172143 +0000">
+  <programme channel="bctv" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911172143 +0000" stop="20260911182143 +0000">
+  <programme channel="bctv" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911182143 +0000" stop="20260911192143 +0000">
+  <programme channel="bctv" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911192143 +0000" stop="20260911202143 +0000">
+  <programme channel="bctv" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911202143 +0000" stop="20260911212143 +0000">
+  <programme channel="bctv" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911212143 +0000" stop="20260911222143 +0000">
+  <programme channel="bctv" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911222143 +0000" stop="20260911232143 +0000">
+  <programme channel="bctv" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260911232143 +0000" stop="20260912002143 +0000">
+  <programme channel="bctv" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912002143 +0000" stop="20260912012143 +0000">
+  <programme channel="bctv" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912012143 +0000" stop="20260912022143 +0000">
+  <programme channel="bctv" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912022143 +0000" stop="20260912032143 +0000">
+  <programme channel="bctv" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912032143 +0000" stop="20260912042143 +0000">
+  <programme channel="bctv" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912042143 +0000" stop="20260912052143 +0000">
+  <programme channel="bctv" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912052143 +0000" stop="20260912062143 +0000">
+  <programme channel="bctv" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912062143 +0000" stop="20260912072143 +0000">
+  <programme channel="bctv" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912072143 +0000" stop="20260912082143 +0000">
+  <programme channel="bctv" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912082143 +0000" stop="20260912092143 +0000">
+  <programme channel="bctv" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912092143 +0000" stop="20260912102143 +0000">
+  <programme channel="bctv" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912102143 +0000" stop="20260912112143 +0000">
+  <programme channel="bctv" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912112143 +0000" stop="20260912122143 +0000">
+  <programme channel="bctv" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912122143 +0000" stop="20260912132143 +0000">
+  <programme channel="bctv" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912132143 +0000" stop="20260912142143 +0000">
+  <programme channel="bctv" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912142143 +0000" stop="20260912152143 +0000">
+  <programme channel="bctv" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912152143 +0000" stop="20260912162143 +0000">
+  <programme channel="bctv" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912162143 +0000" stop="20260912172143 +0000">
+  <programme channel="bctv" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912172143 +0000" stop="20260912182143 +0000">
+  <programme channel="bctv" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912182143 +0000" stop="20260912192143 +0000">
+  <programme channel="bctv" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912192143 +0000" stop="20260912202143 +0000">
+  <programme channel="bctv" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912202143 +0000" stop="20260912212143 +0000">
+  <programme channel="bctv" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912212143 +0000" stop="20260912222143 +0000">
+  <programme channel="bctv" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912222143 +0000" stop="20260912232143 +0000">
+  <programme channel="bctv" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260912232143 +0000" stop="20260913002143 +0000">
+  <programme channel="bctv" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913002143 +0000" stop="20260913012143 +0000">
+  <programme channel="bctv" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="bctv" start="20260913012143 +0000" stop="20260913022143 +0000">
+  <programme channel="bctv" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>Being Catholic TV</title>
     <desc>Scottish Catholic TV</desc>
   </programme>
-  <programme channel="jbs" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E03 — The Cigarette of Contention
-Officers serve a warrant for unpaid child support; a woman is arrested for domestic violence; drugs and a firearm are discovered during a traffic stop.</desc>
-    <episode-num>S01 E03</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260911140623 +0000" stop="20260911150623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911080000 +0000" stop="20260911090000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S05 E03 — Hat Fight
-A Karen realized her actions had consequences when the police showed up.</desc>
-    <episode-num>S05 E03</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260911150623 +0000" stop="20260911160623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911090000 +0000" stop="20260911100000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E11 — Deadly Ultimatum
-A 17-year-old gives her 33-year-old boyfriend an ultimatum: kill your mom, or lose me.</desc>
-    <episode-num>S01 E11</episode-num>
-    <icon src="https://iptv-epg.org/images/1nIZzPsTQrIqoPjoEusHPRNB8kXfKDwW9ntl0LqxIAXQ5KezHUVUtQx2gU9RoeLSPPM_ZxMX0ns9GNNiG7DtqY-ZnDx2ub2dvOK7GMr1S0E"/>
-    <previously-shown/>
-    <title lang="en">Interrogations by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260911160623 +0000" stop="20260911170623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911100000 +0000" stop="20260911110000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E12 — Fight to the Death
-A woman and her teen sister-in-law lure a love rival over for a fight that turns deadly.</desc>
-    <episode-num>S01 E12</episode-num>
-    <icon src="https://iptv-epg.org/images/1nIZzPsTQrIqoPjoEusHPRNB8kXfKDwW9ntl0LqxIAXQ5KezHUVUtQx2gU9RoeLSPPM_ZxMX0ns9GNNiG7DtqY-ZnDx2ub2dvOK7GMr1S0E"/>
-    <previously-shown/>
-    <title lang="en">Interrogations by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260911170623 +0000" stop="20260911180623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911110000 +0000" stop="20260911120000 +0000"><category lang="en">Series</category>
-    <desc lang="en">S01 E06 — In Her Own Home
-A woman is shot dead by an intruder, but her husband falls under suspicion.</desc>
-    <episode-num>S01 E06</episode-num>
-    <icon src="https://iptv-epg.org/images/mt3Wqo681brpe76do5joo80mEZAprdxvk-u0rX3SBbXMz_u9TnPCHTA-Vr4lht_ug9mkk0VvK6jvp0Lxri7Z7S5Iz90gIJs5pHpGjR45_p0"/>
-    <previously-shown/>
-    <title lang="en">Law&amp;Crime Investigates</title>
+  <programme channel="jbs" start="20260911180623 +0000" stop="20260911190623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911120000 +0000" stop="20260911130000 +0000"><category lang="en">Series</category>
-    <desc lang="en">S01 E07 — Poisoned Inheritance
-A man set to inherit millions dies unexpectedly, raising suspicions about his common-law wife's behavior.</desc>
-    <episode-num>S01 E07</episode-num>
-    <icon src="https://iptv-epg.org/images/mt3Wqo681brpe76do5joo80mEZAprdxvk-u0rX3SBbXMz_u9TnPCHTA-Vr4lht_ug9mkk0VvK6jvp0Lxri7Z7S5Iz90gIJs5pHpGjR45_p0"/>
-    <previously-shown/>
-    <title lang="en">Law&amp;Crime Investigates</title>
+  <programme channel="jbs" start="20260911190623 +0000" stop="20260911200623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911130000 +0000" stop="20260911133000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E22 — Attitude Adjustment
-After cutting her head, a woman bites and kicks deputies; to investigate potential hidden meanings, a man's tattoos are examined; a confused man is found with illegal mushrooms at a bus stop.</desc>
-    <episode-num>S01 E22</episode-num>
-    <icon src="https://iptv-epg.org/images/0PePTQzU0gzksArSgH547lXAGw7uPbjPsAROK7NR25TQkAZcN6QXU6cLwy11ep24UK6SGcye7aoHSUfBRlbH4iPd0-pV861iu2WP9gmhGhw"/>
-    <previously-shown/>
-    <title lang="en">Jail</title>
+  <programme channel="jbs" start="20260911200623 +0000" stop="20260911210623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911133000 +0000" stop="20260911140000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E23 — Spit Mask Drunk
-Deputies deal with chaos after volatile inmates begin fighting; accusations of deceit plague a booking as a woman is arrested for drunk driving; prisoners are restrained after causing a commotion.</desc>
-    <episode-num>S01 E23</episode-num>
-    <icon src="https://iptv-epg.org/images/0PePTQzU0gzksArSgH547lXAGw7uPbjPsAROK7NR25TQkAZcN6QXU6cLwy11ep24UK6SGcye7aoHSUfBRlbH4iPd0-pV861iu2WP9gmhGhw"/>
-    <previously-shown/>
-    <title lang="en">Jail</title>
+  <programme channel="jbs" start="20260911210623 +0000" stop="20260911220623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911140000 +0000" stop="20260911143000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E24 — Cell Fight Suicide
-A cell brawl escalates quickly; after being arrested on her wedding night, a woman has deep regrets and serious reflections; officers free a man from his own noose and place him on a vigilant watch.</desc>
-    <episode-num>S01 E24</episode-num>
-    <icon src="https://iptv-epg.org/images/0PePTQzU0gzksArSgH547lXAGw7uPbjPsAROK7NR25TQkAZcN6QXU6cLwy11ep24UK6SGcye7aoHSUfBRlbH4iPd0-pV861iu2WP9gmhGhw"/>
-    <previously-shown/>
-    <title lang="en">Jail</title>
+  <programme channel="jbs" start="20260911220623 +0000" stop="20260911230623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911143000 +0000" stop="20260911150000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Law</category>
-    <category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E25 — Angry Probation
-Inmates are subdued after exhibiting unruly behavior; anger drives emotions as a man accuses officers of racial profiling; an officer uses verbal judo to gain the upper hand with combative inmates.</desc>
-    <episode-num>S01 E25</episode-num>
-    <icon src="https://iptv-epg.org/images/0PePTQzU0gzksArSgH547lXAGw7uPbjPsAROK7NR25TQkAZcN6QXU6cLwy11ep24UK6SGcye7aoHSUfBRlbH4iPd0-pV861iu2WP9gmhGhw"/>
-    <previously-shown/>
-    <title lang="en">Jail</title>
+  <programme channel="jbs" start="20260911230623 +0000" stop="20260912000623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911150000 +0000" stop="20260911153000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E04 — Speed Racer
-A suspect tries to evade police on foot; an officer issues a citation for an illegal U-turn; police find drug related materials in a vehicle.</desc>
-    <episode-num>S01 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260912000623 +0000" stop="20260912010623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911153000 +0000" stop="20260911160000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E05 — DVD Thievery
-Police find suspects threatening victims at gunpoint; a man pulled over has a suspended license; suspects crash their car after evading police.</desc>
-    <episode-num>S01 E05</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260912010623 +0000" stop="20260912020623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911160000 +0000" stop="20260911163000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <date>2013</date>
-    <desc lang="en">S01 E06 — Reptile on Trial
-Police chase a man who runs a red light; police try to capture a twelve-foot python; a registered sex offender is arrested.</desc>
-    <episode-num>S01 E06</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260912020623 +0000" stop="20260912030623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911163000 +0000" stop="20260911170000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <date>2013</date>
-    <desc lang="en">S01 E07 — Driver Gets Ditched
-A drunken driver crashes into a ditch; police investigate a hit-and-run; a driver throws a suspicious object out his window.</desc>
-    <episode-num>S01 E07</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260912030623 +0000" stop="20260912040623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911170000 +0000" stop="20260911180000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S04 E17 — Crawl Space
-A landlord and two workers notify police of a discovery in a multifamily home's crawl space.</desc>
-    <episode-num>S04 E17</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912040623 +0000" stop="20260912050623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911180000 +0000" stop="20260911190000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S03 E06 — Drunk Karen
-A drunk Karen unleashes a full-blown racist rant during a disturbing incident at the Holiday Inn.</desc>
-    <episode-num>S03 E06</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912050623 +0000" stop="20260912060623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911190000 +0000" stop="20260911200000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E04 — Target Trouble
-Deputies respond to a call in a store after staff catches a woman peeling and swapping price tags of several items.</desc>
-    <episode-num>S02 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912060623 +0000" stop="20260912070623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911200000 +0000" stop="20260911210000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E10 — Chaos at Walmart
-Police struggle with a Walmart cashier accused of stealing cash from the register.</desc>
-    <episode-num>S01 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912070623 +0000" stop="20260912080623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911210000 +0000" stop="20260911220000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S04 E01 — Literal Nightmare
-A Wisconsin woman's deadly dream became a real-life nightmare.</desc>
-    <episode-num>S04 E01</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912080623 +0000" stop="20260912090623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911220000 +0000" stop="20260911230000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S04 E17 — Crawl Space
-A landlord and two workers notify police of a discovery in a multifamily home's crawl space.</desc>
-    <episode-num>S04 E17</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912090623 +0000" stop="20260912100623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260911230000 +0000" stop="20260912000000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S03 E06 — Drunk Karen
-A drunk Karen unleashes a full-blown racist rant during a disturbing incident at the Holiday Inn.</desc>
-    <episode-num>S03 E06</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912100623 +0000" stop="20260912110623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912000000 +0000" stop="20260912010000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E04 — Target Trouble
-Deputies respond to a call in a store after staff catches a woman peeling and swapping price tags of several items.</desc>
-    <episode-num>S02 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912110623 +0000" stop="20260912120623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912010000 +0000" stop="20260912020000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E10 — Chaos at Walmart
-Police struggle with a Walmart cashier accused of stealing cash from the register.</desc>
-    <episode-num>S01 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912120623 +0000" stop="20260912130623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912020000 +0000" stop="20260912030000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E08 — The Truck Stops Here
-A drug sting ends in a violent rollover after a suspect makes a desperate escape.</desc>
-    <episode-num>S02 E08</episode-num>
-    <icon src="https://iptv-epg.org/images/g0h6mnac5kDNp5i9KL2PJqmjvDF274ElPhyFmmHx82xLk24O-97svlk1yDM9l-S6LAKghbSgcRd1iQc6696DyvofdSj8zT1rV8kahxQP2Xg"/>
-    <previously-shown/>
-    <title lang="en">Police Pursuits by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912130623 +0000" stop="20260912140623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912030000 +0000" stop="20260912040000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E07 — Almost Flattened
-A foot chase takes a terrifying turn on a busy Florida highway.</desc>
-    <episode-num>S02 E07</episode-num>
-    <icon src="https://iptv-epg.org/images/g0h6mnac5kDNp5i9KL2PJqmjvDF274ElPhyFmmHx82xLk24O-97svlk1yDM9l-S6LAKghbSgcRd1iQc6696DyvofdSj8zT1rV8kahxQP2Xg"/>
-    <previously-shown/>
-    <title lang="en">Police Pursuits by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912140623 +0000" stop="20260912150623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912040000 +0000" stop="20260912050000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S03 E16 — Lying Mom
-A woman lies to the police when they go to her home to investigate a call about her 10-year-old son.</desc>
-    <episode-num>S03 E16</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912150623 +0000" stop="20260912160623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912050000 +0000" stop="20260912060000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E02 — Monster
-Ohio man allegedly breaks into a woman's home and proves monsters are real.</desc>
-    <episode-num>S02 E02</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912160623 +0000" stop="20260912170623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912060000 +0000" stop="20260912063000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E04 — Speed Racer
-A suspect tries to evade police on foot; an officer issues a citation for an illegal U-turn; police find drug related materials in a vehicle.</desc>
-    <episode-num>S01 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260912170623 +0000" stop="20260912180623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912063000 +0000" stop="20260912070000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E05 — DVD Thievery
-Police find suspects threatening victims at gunpoint; a man pulled over has a suspended license; suspects crash their car after evading police.</desc>
-    <episode-num>S01 E05</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260912180623 +0000" stop="20260912190623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912070000 +0000" stop="20260912073000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <date>2013</date>
-    <desc lang="en">S01 E06 — Reptile on Trial
-Police chase a man who runs a red light; police try to capture a twelve-foot python; a registered sex offender is arrested.</desc>
-    <episode-num>S01 E06</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260912190623 +0000" stop="20260912200623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912073000 +0000" stop="20260912080000 +0000"><category lang="en">Reality</category>
-    <category lang="en">Series</category>
-    <date>2013</date>
-    <desc lang="en">S01 E07 — Driver Gets Ditched
-A drunken driver crashes into a ditch; police investigate a hit-and-run; a driver throws a suspicious object out his window.</desc>
-    <episode-num>S01 E07</episode-num>
-    <icon src="https://iptv-epg.org/images/TgD1g4CIpOitLEpGXklWfVPFlI3_41MWYmXyZZfvhTbMXPgzqEJbTKHalhtJ0OVtfUhm4ldbNutsEwAJBJQe57WjFuCe4Kq3l-frY41lwBM"/>
-    <previously-shown/>
-    <title lang="en">Cops Reloaded</title>
+  <programme channel="jbs" start="20260912200623 +0000" stop="20260912210623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912080000 +0000" stop="20260912090000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S04 E01 — Literal Nightmare
-A Wisconsin woman's deadly dream became a real-life nightmare.</desc>
-    <episode-num>S04 E01</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912210623 +0000" stop="20260912220623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912090000 +0000" stop="20260912100000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E13 — Love &amp; Murder
-An innocent woman is grilled by an aggressive detective. A man falls for his foster daughter and plots murder.</desc>
-    <episode-num>S01 E13</episode-num>
-    <icon src="https://iptv-epg.org/images/1nIZzPsTQrIqoPjoEusHPRNB8kXfKDwW9ntl0LqxIAXQ5KezHUVUtQx2gU9RoeLSPPM_ZxMX0ns9GNNiG7DtqY-ZnDx2ub2dvOK7GMr1S0E"/>
-    <previously-shown/>
-    <title lang="en">Interrogations by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912220623 +0000" stop="20260912230623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912100000 +0000" stop="20260912110000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S03 E06 — Drunk Karen
-A drunk Karen unleashes a full-blown racist rant during a disturbing incident at the Holiday Inn.</desc>
-    <episode-num>S03 E06</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260912230623 +0000" stop="20260913000623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912110000 +0000" stop="20260912120000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E04 — Target Trouble
-Deputies respond to a call in a store after staff catches a woman peeling and swapping price tags of several items.</desc>
-    <episode-num>S02 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260913000623 +0000" stop="20260913010623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912120000 +0000" stop="20260912130000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E10 — Chaos at Walmart
-Police struggle with a Walmart cashier accused of stealing cash from the register.</desc>
-    <episode-num>S01 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
+  <programme channel="jbs" start="20260913010623 +0000" stop="20260913020623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
-  <programme channel="jbs" start="20260912130000 +0000" stop="20260912140000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S04 E01 — Literal Nightmare
-A Wisconsin woman's deadly dream became a real-life nightmare.</desc>
-    <episode-num>S04 E01</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912140000 +0000" stop="20260912150000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S03 E13 — Horrifying Discovery
-The police makes a horrifying discovery in a makeshift fire pit.</desc>
-    <episode-num>S03 E13</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912150000 +0000" stop="20260912160000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E16 — Instant Regret
-An Ohio woman faces arrest after allegedly calling the police when Walmart staff asked her to exit the store.</desc>
-    <episode-num>S02 E16</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912160000 +0000" stop="20260912170000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E03 — Indecent Exposure
-A navy sailor stationed in Key West gets arrested after he allegedly dropped his drawers at several bars.</desc>
-    <episode-num>S01 E03</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912170000 +0000" stop="20260912180000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S05 E07 — Bank Heist Showdown
-A bank robber faced off against Wisconsin police.</desc>
-    <episode-num>S05 E07</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912180000 +0000" stop="20260912190000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S04 E08 — Employee Attacks Customer
-A Burger King employee is arrested after allegedly attacking a customer over a food complaint.</desc>
-    <episode-num>S04 E08</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912190000 +0000" stop="20260912200000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S03 E20 — Rat Bites
-The police discover a baby with over 50 rat bites in a filthy, neglected home.</desc>
-    <episode-num>S03 E20</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912200000 +0000" stop="20260912210000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E01 — Custody Kidnap
-Florida mom kidnaps daughter, leading police on a high-speed chase.</desc>
-    <episode-num>S02 E01</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912210000 +0000" stop="20260912220000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E15 — Tased &amp; Confused
-Ohio woman tased after allegedly ramming cop cars.</desc>
-    <episode-num>S01 E15</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912220000 +0000" stop="20260912230000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S03 E06 — Drunk Karen
-A drunk Karen unleashes a full-blown racist rant during a disturbing incident at the Holiday Inn.</desc>
-    <episode-num>S03 E06</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260912230000 +0000" stop="20260913000000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S02 E04 — Target Trouble
-Deputies respond to a call in a store after staff catches a woman peeling and swapping price tags of several items.</desc>
-    <episode-num>S02 E04</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260913000000 +0000" stop="20260913010000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E10 — Chaos at Walmart
-Police struggle with a Walmart cashier accused of stealing cash from the register.</desc>
-    <episode-num>S01 E10</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="jbs" start="20260913010000 +0000" stop="20260913020000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S04 E01 — Literal Nightmare
-A Wisconsin woman's deadly dream became a real-life nightmare.</desc>
-    <episode-num>S04 E01</episode-num>
-    <icon src="https://iptv-epg.org/images/__KU0_TUW3yXkzRFJ7jaH5fqHH4xLkbQJ9Y79c1-iViIAzgEkQlCHoVJKYnXsJGiP6EE7FV0HY8ApkfNZmlGXgCu3eqSjwKKlLVyBUE4IW4"/>
-    <previously-shown/>
-    <title lang="en">BodyCam by Law&amp;Crime</title>
-  </programme>
-  <programme channel="create" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Cooking</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S04 E23 — Cake and Scones
-Kale and two-cheese scones using cheddar, pecorino and dried currants; double chocolate cake with honey-rosemary syrup.</desc>
-    <episode-num>S04 E23</episode-num>
-    <icon src="https://iptv-epg.org/images/0qQWfvfVmLdg4UZDtA-3_c13JHBO63P625kaJs5Kgqq5_ZHMrvTdWsrzFOWAU6KUMyazDzZ9l7UcR4mS4UfPogmJ6Yoko5QJfQItdT7EUl8"/>
-    <previously-shown/>
-    <title lang="en">Christopher Kimball's Milk Street Television</title>
-  </programme>
-  <programme channel="create" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">Home improvement</category>
-    <category lang="en">House/garden</category>
-    <category lang="en">How-to</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S41 E17 — Cape Ann: Cape Ann Shingle Style
-Homeowners put the history back into their 1890s shingle-style home; they'll restore the home's original beauty and update it for modern living.</desc>
-    <episode-num>S41 E17</episode-num>
-    <icon src="https://iptv-epg.org/images/Fpgmq3L33TiOWRfzhjiAZPg3jsmMVeXAF8Qc1S1Ib0DGC8mxfB59nFsIiCqxMN4_lCNuWLD1spZ5Jdoe2q3n_ymsGo3_e73cJgsP349lx8Q"/>
-    <previously-shown/>
-    <title lang="en">This Old House</title>
+  <programme channel="jbs" start="20260913020623 +0000" stop="20260913030623 +0000">
+    <title>JBS</title>
+    <desc>Jewish Broadcasting Service</desc>
   </programme>
   <programme channel="create" start="20260911083000 +0000" stop="20260911090000 +0000"><category lang="en">Exercise</category>
     <category lang="en">Series</category>
@@ -8331,14 +7978,22 @@ A colorful autumn day down in the valley.</desc>
     <previously-shown/>
     <title lang="en">The Best of the Joy of Painting</title>
   </programme>
-  <programme channel="world" start="20260911080000 +0000" stop="20260911090000 +0000"><category lang="en">Public affairs</category>
+  <programme channel="create" start="20260913013000 +0000" stop="20260913020000 +0000"><category lang="en">Art</category>
+    <category lang="en">How-to</category>
     <category lang="en">Series</category>
-    <desc lang="en">S08 E247
-Christiane Amanpour leads discussions about world issues and interviews with global leaders.</desc>
-    <episode-num>S08 E247</episode-num>
-    <icon src="https://iptv-epg.org/images/O9tS4P3V1g2bfhezJQ8xFGRqdE78oMvi3naJysRNWee5xv-BA_zY6uSV1rzUGmbNVyrsBgb0rfmrk51F7DsWIktROFlbZRtW-ItjGnpqVfY"/>
-    <title lang="en">Amanpour and Company</title>
-    <new/>
+    <desc lang="en">S42 E44 — Graceful Waterfall
+An elegant waterfall deep in the forest.</desc>
+    <episode-num>S42 E44</episode-num>
+    <icon src="https://iptv-epg.org/images/NUGOngtn3npIi8dpbKxoi-xesShe68L0cJDYEUBsfq8Tk8k8gFeBYxqMGLHn6kRIL-ybLKpazAzs6cbmk1e3WYABHQICA_yprRKux7SqqEc"/>
+    <previously-shown/>
+    <title lang="en">The Best of the Joy of Painting</title>
+  </programme>
+  <programme channel="create" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Special</category>
+    <category lang="en">Travel</category>
+    <date>2025</date>
+    <desc lang="en">A unique perspective on the landscapes and rich history of Maryland from the air; narrator Cal Ripken Jr.</desc>
+    <icon src="https://iptv-epg.org/images/7o4cWyVl6J_bVXqG0s9eOaYsD4vBHesBbuL9ssPfReqiD1Ro1U923AF_8TsQfZPMm_hH_EQvGQCVbX-Mko48VXHvbMKcFkmxuorAiTbGuRo"/>
+    <title lang="en">Maryland by Air</title>
   </programme>
   <programme channel="world" start="20260911090000 +0000" stop="20260911093000 +0000"><category lang="en">Basketball</category>
     <category lang="en">Documentary</category>
@@ -8771,169 +8426,178 @@ Hemingway volunteers for the Red Cross during World War I; after moving to Paris
     <previously-shown/>
     <title lang="en">Hemingway</title>
   </programme>
-  <programme channel="skyweather" start="20260911132143 +0000" stop="20260911142143 +0000">
+  <programme channel="world" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Drama</category>
+    <category lang="en">Historical drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <director>Frédéric Krivine</director>
+      <director>Philippe Triboit</director>
+      <producer>Emmanuel Daucé</producer>
+      <actor>Robin Renucci</actor>
+      <actor>Thierry Godard</actor>
+      <actor>Nicolas Gob</actor>
+      <actor>Audrey Fleurot</actor>
+      <actor>Patrick Descamps</actor>
+      <actor>François Loriquet</actor>
+      <actor>Emmanuelle Bach</actor>
+      <actor>Marie Kremer</actor>
+      <actor>Richard Sammel</actor>
+      <actor>Constance Dollé</actor>
+    </credits>
+    <desc lang="en">S07 E10 — 28-10-01
+In 1945 Hortense is hospitalized in terrible conditions, while in 1975 a portrait compromises his exhibition in Villeneuve; in 1945 Gustave is wanted for murder; thirty years later, while having a drink together, they discuss the past and present.</desc>
+    <episode-num>S07 E10</episode-num>
+    <icon src="https://iptv-epg.org/images/p-j4m5u-zyD94eMh4ETPIEUWBW72WgLsnnyL8LTeNWsEdBRod3oJ_Adi14mgqsLhplg5-OpjmYUu3Xkx8C72RmnZK2V3C8j_kV0cdxsa130"/>
+    <previously-shown/>
+    <title lang="en">A French Village</title>
+  </programme>
+  <programme channel="skyweather" start="20260911140623 +0000" stop="20260911150623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911142143 +0000" stop="20260911152143 +0000">
+  <programme channel="skyweather" start="20260911150623 +0000" stop="20260911160623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911152143 +0000" stop="20260911162143 +0000">
+  <programme channel="skyweather" start="20260911160623 +0000" stop="20260911170623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911162143 +0000" stop="20260911172143 +0000">
+  <programme channel="skyweather" start="20260911170623 +0000" stop="20260911180623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911172143 +0000" stop="20260911182143 +0000">
+  <programme channel="skyweather" start="20260911180623 +0000" stop="20260911190623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911182143 +0000" stop="20260911192143 +0000">
+  <programme channel="skyweather" start="20260911190623 +0000" stop="20260911200623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911192143 +0000" stop="20260911202143 +0000">
+  <programme channel="skyweather" start="20260911200623 +0000" stop="20260911210623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911202143 +0000" stop="20260911212143 +0000">
+  <programme channel="skyweather" start="20260911210623 +0000" stop="20260911220623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911212143 +0000" stop="20260911222143 +0000">
+  <programme channel="skyweather" start="20260911220623 +0000" stop="20260911230623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911222143 +0000" stop="20260911232143 +0000">
+  <programme channel="skyweather" start="20260911230623 +0000" stop="20260912000623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260911232143 +0000" stop="20260912002143 +0000">
+  <programme channel="skyweather" start="20260912000623 +0000" stop="20260912010623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912002143 +0000" stop="20260912012143 +0000">
+  <programme channel="skyweather" start="20260912010623 +0000" stop="20260912020623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912012143 +0000" stop="20260912022143 +0000">
+  <programme channel="skyweather" start="20260912020623 +0000" stop="20260912030623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912022143 +0000" stop="20260912032143 +0000">
+  <programme channel="skyweather" start="20260912030623 +0000" stop="20260912040623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912032143 +0000" stop="20260912042143 +0000">
+  <programme channel="skyweather" start="20260912040623 +0000" stop="20260912050623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912042143 +0000" stop="20260912052143 +0000">
+  <programme channel="skyweather" start="20260912050623 +0000" stop="20260912060623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912052143 +0000" stop="20260912062143 +0000">
+  <programme channel="skyweather" start="20260912060623 +0000" stop="20260912070623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912062143 +0000" stop="20260912072143 +0000">
+  <programme channel="skyweather" start="20260912070623 +0000" stop="20260912080623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912072143 +0000" stop="20260912082143 +0000">
+  <programme channel="skyweather" start="20260912080623 +0000" stop="20260912090623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912082143 +0000" stop="20260912092143 +0000">
+  <programme channel="skyweather" start="20260912090623 +0000" stop="20260912100623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912092143 +0000" stop="20260912102143 +0000">
+  <programme channel="skyweather" start="20260912100623 +0000" stop="20260912110623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912102143 +0000" stop="20260912112143 +0000">
+  <programme channel="skyweather" start="20260912110623 +0000" stop="20260912120623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912112143 +0000" stop="20260912122143 +0000">
+  <programme channel="skyweather" start="20260912120623 +0000" stop="20260912130623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912122143 +0000" stop="20260912132143 +0000">
+  <programme channel="skyweather" start="20260912130623 +0000" stop="20260912140623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912132143 +0000" stop="20260912142143 +0000">
+  <programme channel="skyweather" start="20260912140623 +0000" stop="20260912150623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912142143 +0000" stop="20260912152143 +0000">
+  <programme channel="skyweather" start="20260912150623 +0000" stop="20260912160623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912152143 +0000" stop="20260912162143 +0000">
+  <programme channel="skyweather" start="20260912160623 +0000" stop="20260912170623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912162143 +0000" stop="20260912172143 +0000">
+  <programme channel="skyweather" start="20260912170623 +0000" stop="20260912180623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912172143 +0000" stop="20260912182143 +0000">
+  <programme channel="skyweather" start="20260912180623 +0000" stop="20260912190623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912182143 +0000" stop="20260912192143 +0000">
+  <programme channel="skyweather" start="20260912190623 +0000" stop="20260912200623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912192143 +0000" stop="20260912202143 +0000">
+  <programme channel="skyweather" start="20260912200623 +0000" stop="20260912210623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912202143 +0000" stop="20260912212143 +0000">
+  <programme channel="skyweather" start="20260912210623 +0000" stop="20260912220623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912212143 +0000" stop="20260912222143 +0000">
+  <programme channel="skyweather" start="20260912220623 +0000" stop="20260912230623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912222143 +0000" stop="20260912232143 +0000">
+  <programme channel="skyweather" start="20260912230623 +0000" stop="20260913000623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260912232143 +0000" stop="20260913002143 +0000">
+  <programme channel="skyweather" start="20260913000623 +0000" stop="20260913010623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913002143 +0000" stop="20260913012143 +0000">
+  <programme channel="skyweather" start="20260913010623 +0000" stop="20260913020623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
   </programme>
-  <programme channel="skyweather" start="20260913012143 +0000" stop="20260913022143 +0000">
+  <programme channel="skyweather" start="20260913020623 +0000" stop="20260913030623 +0000">
     <title>Sky Weather</title>
     <desc>Now: Global Weather</desc>
-  </programme>
-  <programme channel="roar" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Science</category>
-    <category lang="en">Technology</category>
-    <desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <icon src="https://iptv-epg.org/images/rD_MptSJZoNolugp_RDdUSUZ-IZ6RH6Aq0dxgdK9xv1LyiH-SQP_M8P3m3XKrAXTBWMAc4UtYRmna4wzMipbrX2ATngadb0v1AtkKLSuOeY"/>
-    <title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
-  </programme>
-  <programme channel="roar" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">Consumer</category>
-    <category lang="en">Shopping</category>
-    <category lang="en">Variety</category>
-    <desc lang="en">Paid programming.</desc>
-    <icon src="https://iptv-epg.org/images/l94SjPcRIYJoiCooeiuJ5OEF2D-vKypyantKVvBqCdCZP1bTHxkzIP6knENKzfJtois3t9ITpMtFVo6_sN2NtFkdNxN06lpAntGm27jcm64"/>
-    <title lang="en">Paid Programming</title>
   </programme>
   <programme channel="roar" start="20260911083000 +0000" stop="20260911090000 +0000"><category lang="en">Consumer</category>
     <category lang="en">Health</category>
@@ -9616,21 +9280,31 @@ Host Travis Kelce; Kelsea Ballerini performs.</desc>
     <previously-shown/>
     <title lang="en">Saturday Night Live</title>
   </programme>
-  <programme channel="thenest" start="20260911080000 +0000" stop="20260911090000 +0000"><category lang="en">Crime</category>
-    <category lang="en">Documentary</category>
-    <category lang="en">Law</category>
+  <programme channel="roar" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Comedy</category>
     <category lang="en">Series</category>
     <credits>
-      <director>Michael Husain</director>
-      <director>Samantha Sanders</director>
-      <actor>Sonny Vellozzi</actor>
+      <producer>Steve Higgins</producer>
+      <producer>Erik Kenward</producer>
+      <actor>Michael Che</actor>
+      <actor>Mikey Day</actor>
+      <actor>Chloe Fineman</actor>
+      <actor>Colin Jost</actor>
+      <actor>Kenan Thompson</actor>
+      <actor>Andrew Dismukes</actor>
+      <actor>James Johnson</actor>
+      <actor>Sarah Sherman</actor>
+      <actor>Marcello Hernández</actor>
+      <actor>Ashley Padilla</actor>
+      <actor>Jane Wickline</actor>
+      <actor>Jeremy Culhane</actor>
     </credits>
-    <desc lang="en">S09 E22 — Murder on a Reservation
-The case against American Indian activist Leonard Peltier, who many believe was wrongly convicted in the deaths of two FBI agents.</desc>
-    <episode-num>S09 E22</episode-num>
-    <icon src="https://iptv-epg.org/images/1WccUt1HjRi-VJ31ITTTc5GmS1orYRkh1DK8__1K5Ysj8mjN49S7X7X3QKIjihOKTaY0L-8Q-xQbVKVGbvk-tjSe37eJfOpPn4EQLKhHehI"/>
+    <date>2023</date>
+    <desc lang="en">S48 E17 — Molly Shannon; Jonas Brothers
+Host Molly Shannon; Jonas Brothers perform.</desc>
+    <episode-num>S48 E17</episode-num>
+    <icon src="https://iptv-epg.org/images/8cyWd_8sDlmPiv_mHP5Ev3BUVWQk4Cs89K3C3lwDj_OrSNhBYBTv9LJXwA0xceTdFMhoNYvK28L-qCAPWw1lppbFGf045zA6zBc_iZa1YpI"/>
     <previously-shown/>
-    <title lang="en">American Justice</title>
+    <title lang="en">Saturday Night Live</title>
   </programme>
   <programme channel="thenest" start="20260911090000 +0000" stop="20260911093000 +0000"><category lang="en">Consumer</category>
     <date>1000</date>
@@ -10119,14 +9793,14 @@ The main event at WrestleMania III between Hulk Hogan and Andre the Giant cement
     <previously-shown/>
     <title lang="en">WWE Rivals</title>
   </programme>
-  <programme channel="comet" start="20260911080000 +0000" stop="20260911090000 +0000"><category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Science</category>
-    <category lang="en">Technology</category>
-    <desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <icon src="https://iptv-epg.org/images/rD_MptSJZoNolugp_RDdUSUZ-IZ6RH6Aq0dxgdK9xv1LyiH-SQP_M8P3m3XKrAXTBWMAc4UtYRmna4wzMipbrX2ATngadb0v1AtkKLSuOeY"/>
-    <title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
+  <programme channel="thenest" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Pro wrestling</category>
+    <category lang="en">Series</category>
+    <desc lang="en">S02 E02 — Undertaker vs. Mankind
+After dominating most of the WWE roster in the mid 90s, Undertaker needed an opponent who could push him both physically and mentally; Mankind, aka Mick Foley, became that perfect adversary for The Deadman.</desc>
+    <episode-num>S02 E02</episode-num>
+    <icon src="https://iptv-epg.org/images/Ui5UGx8ipT_ncAzu-yl2R1OerlpDXoFVPK63ZsHFMZcdwhNgkHoUCM998U4zxP7kKThLHBmB9nfbu6EKrONTnUQTv0ZIgVYDejBrQeECSbg"/>
+    <previously-shown/>
+    <title lang="en">WWE Rivals</title>
   </programme>
   <programme channel="comet" start="20260911090000 +0000" stop="20260911110000 +0000"><category lang="en">Religious</category>
     <desc lang="en">Religious programming.</desc>
@@ -10648,20 +10322,22 @@ The librarians investigate a traveling carnival where they discover the sinister
     <previously-shown/>
     <title lang="en">The Librarians</title>
   </programme>
-  <programme channel="charge" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Consumer</category>
-    <date>1000</date>
-    <desc lang="en">Join your hosts Kevin Cash &amp; Cory Cady as we discuss the 250th Anniversary of America with the official "America 250" logo on a Silver American Eagle label; we are locking in orders for this iconic release, but coins are limited! Don't miss out!</desc>
-    <icon src="https://iptv-epg.org/images/Nrls-oPg9-CTx6Kvx_YjT8Sv5uJ229DqnnivSSnDduyuLBn1GQgWbyC-5SnYG6syRqpzM-GNrE8EH_ns6_hgCBJGuAxq2jsO5jd8cthd1Jk"/>
-    <title lang="en">2026 Silver Eagle is here &amp; it is a once-in-a-lifetime coin!</title>
-  </programme>
-  <programme channel="charge" start="20260911080000 +0000" stop="20260911090000 +0000"><category lang="en">Consumer</category>
-    <category lang="en">Health</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Science</category>
-    <category lang="en">Technology</category>
-    <desc lang="en">Regain independence and enjoy greater mobility with the compact design and long-lasting battery of portable oxygen.</desc>
-    <icon src="https://iptv-epg.org/images/rD_MptSJZoNolugp_RDdUSUZ-IZ6RH6Aq0dxgdK9xv1LyiH-SQP_M8P3m3XKrAXTBWMAc4UtYRmna4wzMipbrX2ATngadb0v1AtkKLSuOeY"/>
-    <title lang="en">Inogen Portable Oxygen - No More Tanks!</title>
+  <programme channel="comet" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Adventure</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
+    <credits>
+      <actor>Rebecca Romijn</actor>
+      <actor>John Larroquette</actor>
+      <actor>Christian Kane</actor>
+      <actor>Lindy Booth</actor>
+      <actor>John Kim</actor>
+    </credits>
+    <desc lang="en">S03 E06 — And the Trial of the Triangle
+In order to stop the spread of pure evil, the team must find the Eye of Ra and unravel the mystery of the Bermuda Triangle; Flynn must pass a series of tests.</desc>
+    <episode-num>S03 E06</episode-num>
+    <icon src="https://iptv-epg.org/images/XmDfTPSRTsa_3rXCqAOWuSKxU-f8tHC09GE0Rs0nadY0rZmCWLLhznuHWQcqaQp-GSuZqQoVMBD0YJp3lxGyniP1WpQacSqdoDar9hvWvag"/>
+    <previously-shown/>
+    <title lang="en">The Librarians</title>
   </programme>
   <programme channel="charge" start="20260911090000 +0000" stop="20260911093000 +0000"><category lang="en">Religious</category>
     <desc lang="en">Speaker Winford Claiborne, produced by GBN Ringgold, GA - Bible lesson.</desc>
@@ -11427,23 +11103,32 @@ The team hunts for a copycat serial killer who is recreating the techniques used
     <previously-shown/>
     <title lang="en">Criminal Minds</title>
   </programme>
-  <programme channel="jltv" start="20260911073000 +0000" stop="20260911080000 +0000"><category lang="en">Comedy</category>
+  <programme channel="charge" start="20260913020000 +0000" stop="20260913030000 +0000"><category lang="en">Crime drama</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <category lang="en">Thriller</category>
     <category lang="en">Series</category>
-    <desc lang="en">S01 E26 — Pollack, Johnson, Watson &amp; Farber
-Guest Host Kerry Pollack, owner of the Magical Cabaret on Hilton Island, welcomes three funny people to his stage: Danny Johnson, Matt Watson and Jerry Farber.</desc>
-    <episode-num>S01 E26</episode-num>
-    <icon src="https://iptv-epg.org/images/nWamIfdNNJMMzveRTRm_5ZsLP9IXl4YMhbRM_I3VrskV_bekkEGDLmy1A_VqN6W8odk7DgWi3WEm0stIC0Ar8QQ9n35zvE_dxVbcK2AyFak"/>
+    <credits>
+      <actor>Joe Mantegna</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Aisha Tyler</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Matthew Gubler</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Damon Gupton</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Mandy Patinkin</actor>
+    </credits>
+    <date>2009</date>
+    <desc lang="en">S04 E16 — Pleasure Is My Business
+The team searches for a female serial killer who targets high-powered executives.</desc>
+    <episode-num>S04 E16</episode-num>
+    <icon src="https://iptv-epg.org/images/oOEIptBX08QUc-7uC32eipb-7_QSTlclqvKJ6OXVBkhurbQW-iHNuDtSZubIU6CGdGMKwADWWTvvaTeGPTODmyeuUUzpQcCbdgWUolPtow4"/>
     <previously-shown/>
-    <title lang="en">LMAO</title>
-  </programme>
-  <programme channel="jltv" start="20260911080000 +0000" stop="20260911083000 +0000"><category lang="en">Comedy</category>
-    <category lang="en">Series</category>
-    <desc lang="en">S01 E27 — Pollack, Mitchell, Cookson &amp; Mills
-LMAO is on Hilton Head Island; guest host and owner Kerry Pollack welcomes Monty Mitchell, Stephen Cookson and Karen Mills to the stage.</desc>
-    <episode-num>S01 E27</episode-num>
-    <icon src="https://iptv-epg.org/images/nWamIfdNNJMMzveRTRm_5ZsLP9IXl4YMhbRM_I3VrskV_bekkEGDLmy1A_VqN6W8odk7DgWi3WEm0stIC0Ar8QQ9n35zvE_dxVbcK2AyFak"/>
-    <previously-shown/>
-    <title lang="en">LMAO</title>
+    <title lang="en">Criminal Minds</title>
   </programme>
   <programme channel="jltv" start="20260911083000 +0000" stop="20260911090000 +0000"><category lang="en">Comedy</category>
     <category lang="en">Series</category>
@@ -11859,15 +11544,17 @@ Frieda Vizel, raised as a member of the Satmar Hasidic community, provides a loo
     <previously-shown/>
     <title lang="en">Tours by Frieda</title>
   </programme>
+  <programme channel="jltv" start="20260913013000 +0000" stop="20260913023500 +0000"><category lang="en">Travel</category>
+    <category lang="en">Series</category>
+    <desc lang="en">Time for Taiwan
+Taiwan; uncovering all that the island has to offer.</desc>
+    <icon src="https://iptv-epg.org/images/pfzcKZnd_CzBOuj0VWfove6EJ4QxQMuLXCwNPsmAYWqV8fQDI7qX_AT2ALNqp7FdHoIWyOEEwZ_0VKy1-8cpTlY0FVSublTEUXDeoCKUVxo"/>
+    <previously-shown/>
+    <title lang="en">Air, Land and Sea</title>
+  </programme>
   <channel id="ptn">
     <display-name>Pioneer Network</display-name>
   </channel>
-  <programme start="20260911073000 +0000" stop="20260911080000 +0000" channel="ptn">
-    <title>Samuel Rodriguez</title>
-  </programme>
-  <programme start="20260911080000 +0000" stop="20260911083000 +0000" channel="ptn">
-    <title>The Jim Bakker Show</title>
-  </programme>
   <programme start="20260911083000 +0000" stop="20260911090000 +0000" channel="ptn">
     <title>Believer’s Voice of Victory</title>
     <desc>KCMis committed to keeping the Word of God before your eyes—teaching you how tolive victoriously—so that you are rooted and grounded enough to overcome yourown adversity, reach out to others and share those same principles. We endeavorto bring believers from the milk to the meat of the Word, and into fullmaturity in their walk with God. Oneword from God has transformed the lives of thousands who dared to hear andbelieve. And one word from God will do the same for you.</desc>
@@ -12108,33 +11795,16 @@ Frieda Vizel, raised as a member of the Satmar Hasidic community, provides a loo
   <programme start="20260913010000 +0000" stop="20260913013000 +0000" channel="ptn">
     <title>Christian Music Countdown</title>
   </programme>
+  <programme start="20260913013000 +0000" stop="20260913020000 +0000" channel="ptn">
+    <title>Manna Fest with Perry Stone</title>
+    <desc>Manna-fest is the weekly television program of Perry Stone that deals with in-depth prophetic and practical studies of the Word of God. As biblical prophecy continues to unfold, you will find Manna-fest to be a resource to help you better understand where we are now in light of Bible prophecy and what the Bible says about the future. Be sure to tune in each week!</desc>
+  </programme>
+  <programme start="20260913020000 +0000" stop="20260913040000 +0000" channel="ptn">
+    <title>Valor Christian College Chapel</title>
+  </programme>
   <channel id="bestcoachtv">
     <display-name>Best Coach TV</display-name>
   </channel>
-  <programme start="20260911131442 +0000" stop="20260911132643 +0000" channel="bestcoachtv">
-    <title>Dress for Success</title>
-    <desc>Dress for Success. Achieve daily goals effortlessly. In this session we will discus how important it is to dress for occasion.</desc>
-  </programme>
-  <programme start="20260911132643 +0000" stop="20260911132649 +0000" channel="bestcoachtv">
-    <title>Your Coach Hi Five</title>
-    <desc>Your Coach Hi Five</desc>
-  </programme>
-  <programme start="20260911132649 +0000" stop="20260911133650 +0000" channel="bestcoachtv">
-    <title>Introduction to Life Coaching</title>
-    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
-  </programme>
-  <programme start="20260911133650 +0000" stop="20260911133721 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260911133721 +0000" stop="20260911135222 +0000" channel="bestcoachtv">
-    <title>Morning Guided Meditation</title>
-    <desc>Welcome to Morning Guided Meditation. Set your day for exciting new beginnings.</desc>
-  </programme>
-  <programme start="20260911135222 +0000" stop="20260911135243 +0000" channel="bestcoachtv">
-    <title>Watch Brian Mayne on BCTV</title>
-    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
-  </programme>
   <programme start="20260911135243 +0000" stop="20260911140744 +0000" channel="bestcoachtv">
     <title>Daily Inspiration Dream BIG</title>
   </programme>
@@ -12817,5 +12487,252 @@ Frieda Vizel, raised as a member of the Satmar Hasidic community, provides a loo
   <programme start="20260913012005 +0000" stop="20260913013506 +0000" channel="bestcoachtv">
     <title>Overcome Obstacles Daily Inspiration</title>
     <desc>Overcoming Obstacles requires attention. Nothing is impossible. This program will offer encouraging quotes to inspire and motivate you.</desc>
+  </programme>
+  <programme start="20260913013506 +0000" stop="20260913020007 +0000" channel="bestcoachtv">
+    <title>Plan Your Day</title>
+    <desc>This program will help you to plan your day, so it is productive &amp; happy. Take your diary and enjoy this life coaching session to improve the way your live your days.</desc>
+  </programme>
+  <programme start="20260913020007 +0000" stop="20260913020138 +0000" channel="bestcoachtv">
+    <title>Bestc Coach TV Overview</title>
+    <desc>Welcome to Best Coach TV we deliver TV content designed for your success journey. Life Coaching Sessions and Entertainment &amp; Motivational Content.</desc>
+  </programme>
+  <programme start="20260913020138 +0000" stop="20260913022139 +0000" channel="bestcoachtv">
+    <title>Time Management</title>
+  </programme>
+  <programme start="20260911140000 +0000" stop="20260911150000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "The Jewish Wisdom We Need"</title>
+    <desc>Highlights from conversations with Rabbis David Wolpe, Angela Buchdahl, Sharon Brous, Manis Friedman and David Lichtenstein exploring Jewish wisdom on faith, identity, purpose and living a Jewish life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260911150000 +0000" stop="20260911153000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Gretchen Rubin"</title>
+    <desc>Gretchen Rubin, bestselling author and podcast host, discusses her new book Secrets of Adulthood and the beauty of frameworks.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260911153000 +0000" stop="20260911160000 +0000" channel="jbs">
+    <title>The Aleph Bet "Hebrew For Rosh Hashanah"</title>
+    <desc>Special Rosh Hashanah lesson of "From the Aleph-Bet" series 2</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260911160000 +0000" stop="20260911163000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260911163000 +0000" stop="20260911170000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris discusses four major events at this time of year, past and present, and urges viewers to use the High Holy Days to stand up and be counted.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260911170000 +0000" stop="20260911180000 +0000" channel="jbs">
+    <title>The ISGAP Hour "Education and Leadership"</title>
+    <desc>ISGAP founder Charles Asher Small, professor Dyanne Martin and student and peace activist Nervanah Ghabra explore confronting antisemitism through education, leadership and cross-cultural understanding.</desc>
+  </programme>
+  <programme start="20260911180000 +0000" stop="20260911190000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "The Jewish Wisdom We Need"</title>
+    <desc>Highlights from conversations with Rabbis David Wolpe, Angela Buchdahl, Sharon Brous, Manis Friedman and David Lichtenstein exploring Jewish wisdom on faith, identity, purpose and living a Jewish life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260911190000 +0000" stop="20260911200000 +0000" channel="jbs">
+    <title>L’Chayim "Rabbis Discuss High Holidays"</title>
+    <desc>Rabbis discuss how they feel about the High Holidays and the messages they feel are relevant for the Days of Awe. With rabbis Mitchell Wohlberg (Orthodox), Rachel Ain (Conservative) and Steve Gutow (Reconstructionist).</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260911200000 +0000" stop="20260911210000 +0000" channel="jbs">
+    <title>In The Spotlight "Noam Weissman"</title>
+    <desc>Noam Weissman, Jewish educator, podcaster and leader at OpenDor Media whose work explores Israel, Zionism and Jewish identity, joins Abigail Pogrebin.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260911210000 +0000" stop="20260911213000 +0000" channel="jbs">
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260911213000 +0000" stop="20260911220000 +0000" channel="jbs">
+    <title>Torah Parsha "Erev Rosh Hashanah"</title>
+    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z''l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260911220000 +0000" stop="20260911230000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Erev Rosh Hashanah Service"</title>
+    <desc>Rosh Hashanah means "beginning of the year" in Hebrew. It is a time for reflection and repentance. Rosh Hashanah begins the High Holy Days or Ten Days of Penitence, which end ten days later with Yom Kippur. From The Hampton Synagogue in West Hampton Beach, NY.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260911230000 +0000" stop="20260912000000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "The Vulnerability of God with Gila Fine"</title>
+    <desc>Author and Scholar Gila Fine explores the omnipotence and vulnerability of God through the Talmud's tale of Rabbi Yishmael and Shakespeare's King Lear.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260912000000 +0000" stop="20260912020000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Erev Rosh Hashanah Service"</title>
+    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Service of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912020000 +0000" stop="20260912030000 +0000" channel="jbs">
+    <title>Erev Rosh Hashanah "The Dash"</title>
+    <desc>Erev Rosh Hashanah Services with Mark S. Golub</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912030000 +0000" stop="20260912040000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Erev Rosh Hashanah Service"</title>
+    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox Service of The Hampton Synagogue in West Hampton Beach, NY.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912040000 +0000" stop="20260912060000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Erev Rosh Hashanah Service"</title>
+    <desc>Rosh Hashanah means "beginning of the year" in Hebrew. It is a time for reflection and repentance. Rosh Hashanah begins the High Holy Days or Ten Days of Penitence, which end ten days later with Yom Kippur.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912060000 +0000" stop="20260912070000 +0000" channel="jbs">
+    <title>Erev Rosh Hashanah "The Dash"</title>
+    <desc>Rabbi Mark S. Golub reveals this year's high holiday "symbol" -- the dash -- representing the still small voice inside each of us, that is so critical for us to think about during the holiday.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912070000 +0000" stop="20260912080000 +0000" channel="jbs">
+    <title>High Holidays Rabbis Roundtable "Preparing for High Holidays 5787"</title>
+    <desc>Rabbis Angela Buchdahl, Elliot Cosgrove and Chaim Steinmetz, representing the Reform, Conservative and Orthodox movements, come together to share insights and reflections as they prepare for the High Holidays.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260912080000 +0000" stop="20260912083000 +0000" channel="jbs">
+    <title>The Akedah "Rabbi Mark S. Golub z"l"</title>
+    <desc>Rabbi Mark S. Golub z"l discusses the Torah reading on Rosh Hashanah -- The Akedah, the Binding of Isaac (Genesis 22) -- in a Jewish understanding of the blessing of forgiveness.</desc>
+  </programme>
+  <programme start="20260912083000 +0000" stop="20260912100000 +0000" channel="jbs">
+    <title>The Empowered Jew "Tal Becker"</title>
+    <desc>Tal Becker, Senior Fellow, Shalom Hartman Institute, explores the choice between fear and agency, drawing on the Book of Genesis and modern Jewish thinkers to ask how taking responsibility for our choices can shape who we become.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260912100000 +0000" stop="20260912103000 +0000" channel="jbs">
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260912103000 +0000" stop="20260912110000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260912110000 +0000" stop="20260912113000 +0000" channel="jbs">
+    <title>Shalom Kids "Mr. Bookstein's Rosh Hashanah"</title>
+    <desc>It's the world's birthday! Celebrate with Shifra, Darah, and Fella on this special Rosh Hashanah episode of "Mr. Bookstein's Store" a JBS original production for children.</desc>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20260912113000 +0000" stop="20260912120000 +0000" channel="jbs">
+    <title>Shalom Kids "Rosh Hashanah"</title>
+    <desc>The tradition and philosophy behind the Jewish High Holidays in words and pictures from a child's perspective. Written by Cathy Goldberg Fishman, illustrated by Melanie Hall. Read by Ruth Golub.</desc>
+  </programme>
+  <programme start="20260912120000 +0000" stop="20260912140000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Rosh Hashanah Morning Service"</title>
+    <desc>Rosh Hashanah means "beginning of the year" in Hebrew. It is a time for reflection and repentance. Rosh Hashanah begins the High Holy Days or Ten Days of Penitence, which end ten days later with Yom Kippur. From The Hampton Synagogue in West Hampton Beach, NY.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912140000 +0000" stop="20260912163000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Rosh Hashanah Service"</title>
+    <desc>The Rosh Hashanah Torah reading of Abraham and Isaac's journey together to Mt. Moriah</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912163000 +0000" stop="20260912173000 +0000" channel="jbs">
+    <title>Rabbi Sacks z"l "Confusing Satan"</title>
+    <desc>Rabbi Lord Jonathan Sacks z''l delivers a pre-Rosh Hashanah and Yom Kippur shiur uncovering hidden layers of Rosh Hashanah and the shofar’s meaning - linking history, faith and resilience to illuminate Judaism’s deepest truths.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260912173000 +0000" stop="20260912190000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Rosh Hashanah Family Service"</title>
+    <desc>JBS televises the live Rosh Hashanah “Family Service” with Rabbi Angela Buchdahl and Cantor Daniel Mutlu from Central Synagogue in NYC.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260912190000 +0000" stop="20260912210000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Rosh Hashanah Morning Service"</title>
+    <desc>Rosh Hashanah means "beginning of the year" in Hebrew. It is a time for reflection and repentance. Rosh Hashanah begins the High Holy Days or Ten Days of Penitence, which end ten days later with Yom Kippur. From The Hampton Synagogue in West Hampton Beach, NY.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912210000 +0000" stop="20260912220000 +0000" channel="jbs">
+    <title>The Akedah "Rabbi Mark S. Golub z"l"</title>
+    <desc>Rabbi Mark S. Golub z"l discusses the Torah reading on Rosh Hashanah -- The Akedah, the Binding of Isaac (Genesis 22) -- in a Jewish understanding of the blessing of forgiveness.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20260912220000 +0000" stop="20260912230000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Rosh Hashanah Evening Service"</title>
+    <desc>Rosh Hashanah means "beginning of the year" in Hebrew. It is a time for reflection and repentance. Rosh Hashanah begins the High Holy Days or Ten Days of Penitence, which end ten days later with Yom Kippur. From The Hampton Synagogue in West Hampton Beach, NY.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260912230000 +0000" stop="20260913000000 +0000" channel="jbs">
+    <title>Soloveichik on Rosh Hashanah "Creation and Parenthood"</title>
+    <desc>Rabbi Meir Soloveichik reconsiders Rosh Hashanah as more than the “Jewish New Year,” exploring its relationship to British royalty and what Ashkenazi Jews can learn from their Sephardic brethren about the holiday’s meaning in this program of Tikvah.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260913000000 +0000" stop="20260913010000 +0000" channel="jbs">
+    <title>High Holidays Rabbis Roundtable "Preparing for High Holidays 5787"</title>
+    <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20260913010000 +0000" stop="20260913023000 +0000" channel="jbs">
+    <title>The Empowered Jew "Tal Becker"</title>
+    <desc>A program of the Shalom Hartman Institute's annual Community Leadership Program.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
   </programme>
   </tv>
