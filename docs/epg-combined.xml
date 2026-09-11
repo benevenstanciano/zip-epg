@@ -2742,6 +2742,16 @@ Presents scenic aerial views of coral reef islands from a passenger jet heading 
     <title lang="en">NHK Newsline</title>
     <new/>
   </programme>
+  <programme channel="nhkworld" start="20260913021000 +0000" stop="20260913024000 +0000"><category lang="en">Music</category>
+    <category lang="en">Newsmagazine</category>
+    <category lang="en">News</category>
+    <category lang="en">Series</category>
+    <desc lang="en">MAZZEL and Moriguchi Hiroko
+May J introduces MAZZEL, a rising eight-member dance-and-vocal group, and Moriguchi Hiroko, who debuted with an anime theme song.</desc>
+    <icon src="https://iptv-epg.org/images/WL6hjLFIJNPsRZ2GCkbd9HoH307EwTdYkd3AeuODsMzeyFyIhz1sxqeFMhbVECgb-IZNEawy2DqZi_R-w-PporlXyUz1XthI8mvtleF1KL8"/>
+    <title lang="en">J-MELO</title>
+    <new/>
+  </programme>
   <programme channel="buzzr" start="20260911083000 +0000" stop="20260911090000 +0000"><category lang="en">Game show</category>
     <desc lang="en">Two contestants match squares in order to uncover and solve a picture puzzle, for the chance to win a car and other prizes.</desc>
     <icon src="https://iptv-epg.org/images/DbecTbEJUv0RRzs9r-IifMTsOpD7xSwfrHOdpcgNYKQ-ch9t6IPeT20z6CU_SlsW4pLk_872lSCszBzaVNg5ThCyqbodIo3ex5LjGsFSht8"/>
