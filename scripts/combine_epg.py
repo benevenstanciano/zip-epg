@@ -13,7 +13,8 @@ from lxml import etree
 SOURCES = [
     "docs/epg.xml",           # Main EPG
     "docs/epg-ptn.xml",
-    "docs/epg-bestcoachtv.xml",   # Add others here later
+    "docs/epg-bestcoachtv.xml",
+    "docs/epg-jbs.xml",
 ]
 
 OUTPUT_FILE = Path("docs/epg-combined.xml")
