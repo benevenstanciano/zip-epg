@@ -195,10 +195,7 @@ channels:
     enabled: true
     placeholder:
       title: "JBS"
-      description: "Jewish Broadcasting Service"
-    epg_sources:
-      - source: us
-        channel_id: "JBS.us"      
+      description: "Jewish Broadcasting Service"   
 
   - id: create
     name: Create
