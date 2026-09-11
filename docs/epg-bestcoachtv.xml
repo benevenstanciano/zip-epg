@@ -3,30 +3,6 @@
   <channel id="bestcoachtv">
     <display-name>Best Coach TV</display-name>
   </channel>
-  <programme start="20260911131442 +0000" stop="20260911132643 +0000" channel="bestcoachtv">
-    <title>Dress for Success</title>
-    <desc>Dress for Success. Achieve daily goals effortlessly. In this session we will discus how important it is to dress for occasion.</desc>
-  </programme>
-  <programme start="20260911132643 +0000" stop="20260911132649 +0000" channel="bestcoachtv">
-    <title>Your Coach Hi Five</title>
-    <desc>Your Coach Hi Five</desc>
-  </programme>
-  <programme start="20260911132649 +0000" stop="20260911133650 +0000" channel="bestcoachtv">
-    <title>Introduction to Life Coaching</title>
-    <desc>Life Coaching Programs. What you can expect and how the programs can help you in your daily life. What is Life Coaching and what is Life Coaching not? Which areas of your life is Life Coaching able to support you?</desc>
-  </programme>
-  <programme start="20260911133650 +0000" stop="20260911133721 +0000" channel="bestcoachtv">
-    <title>This is Best Coach TV</title>
-    <desc>This is Best Coach TV</desc>
-  </programme>
-  <programme start="20260911133721 +0000" stop="20260911135222 +0000" channel="bestcoachtv">
-    <title>Morning Guided Meditation</title>
-    <desc>Welcome to Morning Guided Meditation. Set your day for exciting new beginnings.</desc>
-  </programme>
-  <programme start="20260911135222 +0000" stop="20260911135243 +0000" channel="bestcoachtv">
-    <title>Watch Brian Mayne on BCTV</title>
-    <desc>Brian Mayne, the creator of Goal Mapping, International Speaker and Life Coach joins Best Coach TV offering his workshops to help you create a better life.</desc>
-  </programme>
   <programme start="20260911135243 +0000" stop="20260911140744 +0000" channel="bestcoachtv">
     <title>Daily Inspiration Dream BIG</title>
   </programme>
