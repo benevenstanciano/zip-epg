@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:30:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
       "title": "Reflections",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T09:00:00+00:00"
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:30:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
-      "title": "Diplomat's Archive: Hidden Stories",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T08:30:00+00:00"
+      "title": "Press Perspective",
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T06:00:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T10:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T10:00:00+00:00"
+      "start": "2026-09-14T10:00:00+00:00",
+      "end": "2026-09-14T12:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:00:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     },
     "next": {
-      "title": "Skechers",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T09:00:00+00:00"
+      "title": "Denim & Co.",
+      "start": "2026-09-14T09:00:00+00:00",
+      "end": "2026-09-14T11:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:00:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     },
     "next": {
-      "title": "Andrew Lessman Your Vitamins",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T09:00:00+00:00"
+      "title": "Skinn Cosmetics - All on Free Shipping",
+      "start": "2026-09-14T09:00:00+00:00",
+      "end": "2026-09-14T10:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:10:00+00:00",
-      "end": "2026-09-13T07:55:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
-      "title": "On the Wings",
-      "start": "2026-09-13T07:55:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "title": "Grand Sumo Highlights",
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T08:57:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:30:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
       "title": "Concentration",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T08:30:00+00:00"
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:34:00+00:00",
-      "end": "2026-09-13T08:30:00+00:00"
+      "start": "2026-09-14T08:11:00+00:00",
+      "end": "2026-09-14T08:38:00+00:00"
     },
     "next": {
-      "title": "Street Vet",
-      "start": "2026-09-13T08:30:00+00:00",
-      "end": "2026-09-13T09:00:00+00:00"
+      "title": "Grace Notes",
+      "start": "2026-09-14T08:38:00+00:00",
+      "end": "2026-09-14T09:05:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:00:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
-      "title": "Sunday Best With Fr. Groeschel",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T08:30:00+00:00"
+      "title": "The Holy Rosary With Mother Angelica",
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T06:00:00+00:00",
-      "end": "2026-09-13T10:00:00+00:00"
+      "start": "2026-09-14T06:00:00+00:00",
+      "end": "2026-09-14T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-09-13T10:00:00+00:00",
-      "end": "2026-09-13T14:00:00+00:00"
+      "start": "2026-09-14T10:00:00+00:00",
+      "end": "2026-09-14T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:30:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T10:00:00+00:00"
     },
     "next": {
-      "title": "Israel: The Prophetic Connection",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T08:30:00+00:00"
+      "title": "Your Life",
+      "start": "2026-09-14T10:00:00+00:00",
+      "end": "2026-09-14T10:30:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:30:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
-      "title": "Inspiration Ministries Camp Meeting",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T10:00:00+00:00"
+      "title": "Miracle Word Today With Marilyn Hickey",
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T06:00:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:02:00+00:00",
+      "end": "2026-09-14T10:10:00+00:00"
     },
     "next": {
-      "title": "Thirty Seconds Over Tokyo",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T10:33:00+00:00"
+      "title": "Madame Curie",
+      "start": "2026-09-14T10:10:00+00:00",
+      "end": "2026-09-14T12:26:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:30:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     },
     "next": {
-      "title": "The Bible is Complete",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T08:30:00+00:00"
+      "title": "The Prophetic Connection",
+      "start": "2026-09-14T09:00:00+00:00",
+      "end": "2026-09-14T09:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,26 +210,26 @@
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:00:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     },
     "next": {
-      "title": "Maryland by Air",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T09:00:00+00:00"
+      "title": "Ellie's Real Good Food",
+      "start": "2026-09-14T09:00:00+00:00",
+      "end": "2026-09-14T09:30:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:30:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
-      "title": "POV",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T09:30:00+00:00"
+      "title": "Live From the LBJ Library With Mark Updegrove",
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     }
   },
   "skyweather": {
@@ -241,65 +241,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:00:00+00:00",
-      "end": "2026-09-13T09:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-09-13T09:00:00+00:00",
-      "end": "2026-09-13T09:30:00+00:00"
+      "title": "Natural Blood Pressure Management",
+      "start": "2026-09-14T09:00:00+00:00",
+      "end": "2026-09-14T09:30:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:00:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     },
     "next": {
-      "title": "American Justice",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T09:00:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-09-14T09:00:00+00:00",
+      "end": "2026-09-14T09:30:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:00:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T08:30:00+00:00"
+      "title": "1776 - 2026 250th Anniversary Quarter Celebration Program",
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:00:00+00:00",
-      "end": "2026-09-13T09:00:00+00:00"
+      "start": "2026-09-14T08:00:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-09-13T09:00:00+00:00",
-      "end": "2026-09-13T09:30:00+00:00"
+      "title": "Tired of Aging? Super Pill's Secret to Lasting Youth & Vitality!",
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-13T07:30:00+00:00",
-      "end": "2026-09-13T08:00:00+00:00"
+      "start": "2026-09-14T07:30:00+00:00",
+      "end": "2026-09-14T08:30:00+00:00"
     },
     "next": {
-      "title": "LMAO",
-      "start": "2026-09-13T08:00:00+00:00",
-      "end": "2026-09-13T08:30:00+00:00"
+      "title": "Milken Archive of Jewish Music",
+      "start": "2026-09-14T08:30:00+00:00",
+      "end": "2026-09-14T09:00:00+00:00"
     }
   }
 }
