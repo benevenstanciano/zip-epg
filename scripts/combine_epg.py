@@ -15,6 +15,7 @@ SOURCES = [
     "docs/epg-ptn.xml",
     "docs/epg-bestcoachtv.xml",
     "docs/epg-jbs.xml",
+    "docs/epg-silkway.xml",
 ]
 
 OUTPUT_FILE = Path("docs/epg-combined.xml")
