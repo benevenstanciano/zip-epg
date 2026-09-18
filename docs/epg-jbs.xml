@@ -3,69 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20260918070000 +0000" stop="20260918083000 +0000" channel="jbs">
-    <title>L'Chayim "Rabbis Discuss God &amp; Yom Kippur"</title>
-    <desc>Rabbis from different movements of Judaism share their views on the reality of God for the observance of Yom Kippur. With rabbis Mitchell Wohlberg (Orthodox), Rachel Ain (Conservative) and Steve Gutow (Reconstructionist).</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260918083000 +0000" stop="20260918090000 +0000" channel="jbs">
-    <title>L'Chayim "Rabbi Eugene B. Borowitz z"l"</title>
-    <desc>Rabbi Eugene B. Borowitz z"l discusses the Jewish tradition's understanding of God, and Jewish sensitivity to God.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260918090000 +0000" stop="20260918093000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260918093000 +0000" stop="20260918100000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Introspection"</title>
-    <desc>Micah Halpern reflects on introspection, a central theme of the Holidays, and warns of the dangers of self-deception on a national scale, offering Israel and world Jewish leadership advice on how to steer clear of catastrophe.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260918100000 +0000" stop="20260918103000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260918103000 +0000" stop="20260918110000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260918110000 +0000" stop="20260918120000 +0000" channel="jbs">
-    <title>High Holiday Reflections</title>
-    <desc>Reflections and remarks from rabbis offering insight, inspiration and perspective for the High Holidays.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260918120000 +0000" stop="20260918123000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260918123000 +0000" stop="20260918130000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20260918130000 +0000" stop="20260918140000 +0000" channel="jbs">
     <title>Jewish Insights with Justin Pines "Returning to Yourself: Rabbi Avi Weiss on Yom Kippur"</title>
     <desc>Rabbi Avi Weiss takes us on a journey through Yom Kippur, from Kol Nidre to the final shofar. The founder of Yeshivat Chovevei Torah and Maharat on teshuva as a return to yourself, love as a decision, and why the holiest day is also a day of joy.</desc>
