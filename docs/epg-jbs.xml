@@ -3,181 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20260919073000 +0000" stop="20260919083000 +0000" channel="jbs">
-    <title>Living as a Person of Faith</title>
-    <desc>Elana Stein Hain from Shalom Hartman Institute explores what Jewish faith demands in an era of isolation and uncertainty, drawing on ancient wisdom to consider the meaning of modern emunah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919083000 +0000" stop="20260919100000 +0000" channel="jbs">
-    <title>Relating to God "Prayer and Repentance"</title>
-    <desc>Rabbi Dr. Jacob J. Schacter, scholar of Jewish history and thought, explores how prayer is possible and its relationship to repentance in this program of Tikvah</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919100000 +0000" stop="20260919103000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919103000 +0000" stop="20260919110000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919110000 +0000" stop="20260919113000 +0000" channel="jbs">
-    <title>Shalom Kids "Sammy Spider in Israel"</title>
-    <desc>Illustrated tale of Sammy Spider's First Trip to Israel, written by Sylvia A. Rouss, with pictures by Katherine Janus Kahn. A children's book from Kar-Ben Publishing read by Ruth Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20260919113000 +0000" stop="20260919120000 +0000" channel="jbs">
-    <title>Shalom Kids "For Heaven's Sake"</title>
-    <desc>When his grandfather dies, young Isaiah wonders about heaven and begins asking the people around him. A multicultural Jewish Lights book written by Sandy Eisenberg Sasso, with illustrations by Kathryn Kunz Finney. Read by Ruth Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20260919120000 +0000" stop="20260919123000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919123000 +0000" stop="20260919133000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Returning to Yourself: Rabbi Avi Weiss on Yom Kippur"</title>
-    <desc>Rabbi Avi Weiss takes us on a journey through Yom Kippur, from Kol Nidre to the final shofar. The founder of Yeshivat Chovevei Torah and Maharat on teshuva as a return to yourself, love as a decision, and why the holiest day is also a day of joy.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919133000 +0000" stop="20260919150000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260919150000 +0000" stop="20260919163000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260919163000 +0000" stop="20260919170000 +0000" channel="jbs">
-    <title>Torah Parsha "Ha'Azinu"</title>
-    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260919170000 +0000" stop="20260919183000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260919183000 +0000" stop="20260919200000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260919200000 +0000" stop="20260919210000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Returning to Yourself: Rabbi Avi Weiss on Yom Kippur"</title>
-    <desc>Rabbi Avi Weiss takes us on a journey through Yom Kippur, from Kol Nidre to the final shofar. The founder of Yeshivat Chovevei Torah and Maharat on teshuva as a return to yourself, love as a decision, and why the holiest day is also a day of joy.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919210000 +0000" stop="20260919220000 +0000" channel="jbs">
-    <title>In The Spotlight "Dara Horn"</title>
-    <desc>Dara Horn, award-winning novelist, essayist and scholar of Jewish literature, joins Abigail Pogrebin on the occasion of the publication of The Final Solution to the Jewish Question, her follow-up to People Love Dead Jews.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919220000 +0000" stop="20260919230000 +0000" channel="jbs">
-    <title>L'Chayim "Rabbi Robert Wolkoff"</title>
-    <desc>Conservative Rabbi Robert Wolkoff of Congregation B’nai Tikvah of North Brunswick, NJ explains why he is sure of the existence of God, and discusses his understanding of how God impacts the world.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919230000 +0000" stop="20260919233000 +0000" channel="jbs">
-    <title>In The Spotlight "Dara Horn"</title>
-    <desc>Dara Horn, award-winning novelist, essayist and scholar of Jewish literature, joins Abigail Pogrebin on the occasion of the publication of The Final Solution to the Jewish Question, her follow-up to People Love Dead Jews.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260919233000 +0000" stop="20260920000000 +0000" channel="jbs">
-    <title>Re-CHARGING Reform Judaism "Dara Horn Keynote"</title>
-    <desc>Author and Tell Institute Founder Dara Horn delivers a keynote address on how the Jewish story is understood, transmitted, and sustained for future generations</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260920000000 +0000" stop="20260920003000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>Lifelong Jewish frontline activist and JBS strategic analyst David Harris shares his perspectives of the Hamas-triggered war with Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260920003000 +0000" stop="20260920020000 +0000" channel="jbs">
-    <title>Relating to God "Prayer and Repentance"</title>
-    <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260920020000 +0000" stop="20260920030000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Best of Icons"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260920030000 +0000" stop="20260920040000 +0000" channel="jbs">
-    <title>Living as a Person of Faith</title>
-    <desc>A program of the Shalom Hartman Institute's annual Community Leadership Program.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260920040000 +0000" stop="20260920050000 +0000" channel="jbs">
-    <title>Soloveichik on Yom Kippur "The Nature of Man"</title>
-    <desc>Rabbi Meir Soloveichik explores Yom Kippur and what its call to repentance teaches about human nature, rejecting the idea that we are inherently fallen and finding instead a message of faith, hope and divine purpose. A program of Tikvah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260920050000 +0000" stop="20260920063000 +0000" channel="jbs">
-    <title>Relating to God "Prayer and Repentance"</title>
-    <desc>Rabbi Dr. Jacob J. Schacter, scholar of Jewish history and thought, explores how prayer is possible and its relationship to repentance in this program of Tikvah</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260920063000 +0000" stop="20260920073000 +0000" channel="jbs">
-    <title>Living as a Person of Faith</title>
-    <desc>Elana Stein Hain from Shalom Hartman Institute explores what Jewish faith demands in an era of isolation and uncertainty, drawing on ancient wisdom to consider the meaning of modern emunah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20260920073000 +0000" stop="20260920083000 +0000" channel="jbs">
     <title>High Holidays Rabbis Roundtable "Preparing for High Holidays 5787"</title>
     <desc>Rabbis Angela Buchdahl, Elliot Cosgrove and Chaim Steinmetz, representing the Reform, Conservative and Orthodox movements, come together to share insights and reflections as they prepare for the High Holidays.</desc>
@@ -2777,6 +2602,153 @@
   <programme start="20261003073000 +0000" stop="20261003090000 +0000" channel="jbs">
     <title>The Human Being and Our Possible Selves</title>
     <desc>Yehuda Kurtzer, Shalom Hartman Institute President, explores three biblical models of humanity - creator, social being and fragile mortal - and how Jewish tradition can help us balance human potential and power with responsibility and vulnerability.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003090000 +0000" stop="20261003100000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003100000 +0000" stop="20261003103000 +0000" channel="jbs">
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003103000 +0000" stop="20261003110000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003110000 +0000" stop="20261003113000 +0000" channel="jbs">
+    <title>Shalom Kids "No Rules for Michael"</title>
+    <desc>A young boy named Michael learns how difficult life is when there are no rules in Sylvia Rouss' delightful story, "No Rules For Michael," published by Kar-Ben Publishing. Read by Ruth Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20261003113000 +0000" stop="20261003120000 +0000" channel="jbs">
+    <title>Shalom Kids "A Mezuzah On The Door"</title>
+    <desc>When his family places a mezuzah on its new home, Noah learns the meaning and comfort of friendship. A Kar-Ben book written by Amy Meltzer and illustrated by Janice Fried. Read by Ruth Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20261003120000 +0000" stop="20261003123000 +0000" channel="jbs">
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003123000 +0000" stop="20261003133000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Simchat Torah: What Is the Torah, Really?"</title>
+    <desc>Historian Rabbi Ken Spiro traces the Torah from Sinai to today — written and oral law, the Mishnah and Talmud, moments it was nearly lost, the Dead Sea Scrolls, and how Jewish law is derived today. Part of the Sukkot &amp; Simchat Torah series.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003133000 +0000" stop="20261003150000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261003150000 +0000" stop="20261003163000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261003163000 +0000" stop="20261003170000 +0000" channel="jbs">
+    <title>Torah Parsha "Shemini - Atzeret"</title>
+    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261003170000 +0000" stop="20261003183000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261003183000 +0000" stop="20261003200000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261003200000 +0000" stop="20261003210000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Simchat Torah: What Is the Torah, Really?"</title>
+    <desc>Historian Rabbi Ken Spiro traces the Torah from Sinai to today — written and oral law, the Mishnah and Talmud, moments it was nearly lost, the Dead Sea Scrolls, and how Jewish law is derived today. Part of the Sukkot &amp; Simchat Torah series.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="jbs">
+    <title>L'Chayim "Joseph Telushkin"</title>
+    <desc>Rabbi, lecturer and best-selling author Joseph Telushkin discusses the Jewish Tradition through the lens of his book Words That Hurt, Words That Heal.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003230000 +0000" stop="20261003233000 +0000" channel="jbs">
+    <title>In The Spotlight "The Woman Question in Jewish Studies"</title>
+    <desc>Susannah Heschel, scholar and author, joins Abigail Pogrebin to discuss her critical examination of the obstacles women face in the field and how gender has shaped its history and culture.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261003233000 +0000" stop="20261004003000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Sh'mini Atzeret (Yizkor) Service"</title>
+    <desc>Pre-recorded Orthodox Sh'mini Atzeret (Yizkor) Service led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004003000 +0000" stop="20261004013000 +0000" channel="jbs">
+    <title>Schachat &amp; Sons in Concert</title>
+    <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004013000 +0000" stop="20261004020000 +0000" channel="jbs">
+    <title>Jewish 101 "The TorahEpisode Ep. 5"</title>
+    <desc>A pluralistic introduction to the teachings, ideas and values of the Jewish Tradition which have shaped the thinking and behavior of the Jewish People throughout history, often through midrash -- rabbinic commentaries to the Torah.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004020000 +0000" stop="20261004030000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Johah Platt in Conversation"</title>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004030000 +0000" stop="20261004040000 +0000" channel="jbs">
+    <title>Robert Siegel "Living in the Age of Longevity"</title>
+    <desc>Legendary radio host of All Things Considered for over 30 years Robert Siegel hosts a forum, interviewing experts on vital issues and challenges in our world arising now from the global pandemic. A series from American Friends of Rabin Medical (AFRMC).</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
