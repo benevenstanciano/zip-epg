@@ -3,85 +3,2695 @@
   <channel id="silkway">
     <display-name>Silk Way</display-name>
   </channel>
-  <programme start="20260920073500 +0000" stop="20260920081500 +0000" channel="silkway">
-    <title>Welcome to Kazakhstan</title>
+  <programme start="20260921080000 +0000" stop="20260921083000 +0000" channel="silkway">
+    <title>News</title>
   </programme>
-  <programme start="20260920081500 +0000" stop="20260920083000 +0000" channel="silkway">
+  <programme start="20260921081000 +0000" stop="20260921084000 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260921081000 +0000" stop="20260921083500 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260921083500 +0000" stop="20260921090500 +0000" channel="silkway">
     <title>Taste Kazakhstan</title>
   </programme>
-  <programme start="20260920083000 +0000" stop="20260920085500 +0000" channel="silkway">
-    <title>Open talk</title>
+  <programme start="20260921083500 +0000" stop="20260921085000 +0000" channel="silkway">
+    <title>Национальная кухня</title>
   </programme>
-  <programme start="20260920085500 +0000" stop="20260920091000 +0000" channel="silkway">
+  <programme start="20260921085000 +0000" stop="20260921092000 +0000" channel="silkway">
+    <title>Road to Gold</title>
+  </programme>
+  <programme start="20260921085000 +0000" stop="20260921091500 +0000" channel="silkway">
+    <title>Путь к золоту</title>
+  </programme>
+  <programme start="20260921091500 +0000" stop="20260921094500 +0000" channel="silkway">
     <title>Culture Vibe</title>
   </programme>
-  <programme start="20260920091000 +0000" stop="20260920094000 +0000" channel="silkway">
+  <programme start="20260921091500 +0000" stop="20260921093000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260921093000 +0000" stop="20260921100000 +0000" channel="silkway">
     <title>Travel and Comfort</title>
   </programme>
-  <programme start="20260920094000 +0000" stop="20260920100500 +0000" channel="silkway">
+  <programme start="20260921093000 +0000" stop="20260921100000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260921100000 +0000" stop="20260921103000 +0000" channel="silkway">
     <title>Men’s talk</title>
   </programme>
-  <programme start="20260920100500 +0000" stop="20260920102500 +0000" channel="silkway">
+  <programme start="20260921100000 +0000" stop="20260921102500 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260921102500 +0000" stop="20260921105500 +0000" channel="silkway">
     <title>Sense of Style</title>
   </programme>
-  <programme start="20260920102500 +0000" stop="20260920104500 +0000" channel="silkway">
+  <programme start="20260921102500 +0000" stop="20260921104500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260921104500 +0000" stop="20260921111500 +0000" channel="silkway">
     <title>Kazakhstan from above</title>
   </programme>
-  <programme start="20260920104500 +0000" stop="20260920110500 +0000" channel="silkway">
+  <programme start="20260921104500 +0000" stop="20260921110000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260921110000 +0000" stop="20260921113000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260921110000 +0000" stop="20260921111000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260921111000 +0000" stop="20260921114000 +0000" channel="silkway">
     <title>Inside Family Business</title>
   </programme>
-  <programme start="20260920110500 +0000" stop="20260920112000 +0000" channel="silkway">
+  <programme start="20260921111000 +0000" stop="20260921113000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260921113000 +0000" stop="20260921120000 +0000" channel="silkway">
     <title>Living monuments</title>
   </programme>
-  <programme start="20260920112000 +0000" stop="20260920114500 +0000" channel="silkway">
+  <programme start="20260921113000 +0000" stop="20260921114500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260921114500 +0000" stop="20260921121500 +0000" channel="silkway">
     <title>Success stories of Central Asian Women</title>
   </programme>
-  <programme start="20260920114500 +0000" stop="20260920121000 +0000" channel="silkway">
+  <programme start="20260921114500 +0000" stop="20260921121000 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260921121000 +0000" stop="20260921124000 +0000" channel="silkway">
     <title>Faces of Science</title>
   </programme>
-  <programme start="20260920121000 +0000" stop="20260920122500 +0000" channel="silkway">
-    <title>Welcome to Kazakhstan</title>
+  <programme start="20260921121000 +0000" stop="20260921123000 +0000" channel="silkway">
+    <title>Лица науки</title>
   </programme>
-  <programme start="20260920122500 +0000" stop="20260920131500 +0000" channel="silkway">
+  <programme start="20260921123000 +0000" stop="20260921130000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260921123000 +0000" stop="20260921124000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260921124000 +0000" stop="20260921131000 +0000" channel="silkway">
     <title>Our History</title>
   </programme>
-  <programme start="20260920131500 +0000" stop="20260920133500 +0000" channel="silkway">
-    <title>East-West Link</title>
+  <programme start="20260921124000 +0000" stop="20260921133000 +0000" channel="silkway">
+    <title>Наша история</title>
   </programme>
-  <programme start="20260920133500 +0000" stop="20260920135500 +0000" channel="silkway">
+  <programme start="20260921133000 +0000" stop="20260921140000 +0000" channel="silkway">
+    <title>Health Code</title>
+  </programme>
+  <programme start="20260921133000 +0000" stop="20260921135000 +0000" channel="silkway">
+    <title>Код здоровья</title>
+  </programme>
+  <programme start="20260921135000 +0000" stop="20260921142000 +0000" channel="silkway">
     <title>Kazakhstan from above</title>
   </programme>
-  <programme start="20260920135500 +0000" stop="20260920142500 +0000" channel="silkway">
-    <title>Sporting marvels</title>
+  <programme start="20260921135000 +0000" stop="20260921140000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
   </programme>
-  <programme start="20260920142500 +0000" stop="20260920144500 +0000" channel="silkway">
+  <programme start="20260921140000 +0000" stop="20260921143000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260921140000 +0000" stop="20260921141000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260921141000 +0000" stop="20260921144000 +0000" channel="silkway">
+    <title>Reporter With President</title>
+  </programme>
+  <programme start="20260921141000 +0000" stop="20260921143000 +0000" channel="silkway">
+    <title>Репортер с Президентом</title>
+  </programme>
+  <programme start="20260921143000 +0000" stop="20260921150000 +0000" channel="silkway">
     <title>Kazakh Brand</title>
   </programme>
-  <programme start="20260920144500 +0000" stop="20260920150000 +0000" channel="silkway">
+  <programme start="20260921143000 +0000" stop="20260921145000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260921145000 +0000" stop="20260921152000 +0000" channel="silkway">
     <title>Taste Kazakhstan</title>
   </programme>
-  <programme start="20260920150000 +0000" stop="20260920152500 +0000" channel="silkway">
-    <title>Open talk</title>
+  <programme start="20260921145000 +0000" stop="20260921150500 +0000" channel="silkway">
+    <title>Национальная кухня</title>
   </programme>
-  <programme start="20260920152500 +0000" stop="20260920154000 +0000" channel="silkway">
-    <title>Welcome to Kazakhstan</title>
+  <programme start="20260921150500 +0000" stop="20260921153500 +0000" channel="silkway">
+    <title>Road to Gold</title>
   </programme>
-  <programme start="20260920154000 +0000" stop="20260920160000 +0000" channel="silkway">
+  <programme start="20260921150500 +0000" stop="20260921153000 +0000" channel="silkway">
+    <title>Путь к золоту</title>
+  </programme>
+  <programme start="20260921153000 +0000" stop="20260921160000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260921153000 +0000" stop="20260921154000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260921154000 +0000" stop="20260921161000 +0000" channel="silkway">
     <title>Culture Vibe</title>
   </programme>
-  <programme start="20260920160000 +0000" stop="20260920163000 +0000" channel="silkway">
+  <programme start="20260921154000 +0000" stop="20260921160000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260921160000 +0000" stop="20260921163000 +0000" channel="silkway">
     <title>Travel and Comfort</title>
   </programme>
-  <programme start="20260920163000 +0000" stop="20260920172500 +0000" channel="silkway">
+  <programme start="20260921160000 +0000" stop="20260921163000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260921163000 +0000" stop="20260921170000 +0000" channel="silkway">
     <title>Men’s talk</title>
   </programme>
-  <programme start="20260920172500 +0000" stop="20260920175000 +0000" channel="silkway">
+  <programme start="20260921163000 +0000" stop="20260921170000 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260921170000 +0000" stop="20260921173000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260921170000 +0000" stop="20260921171000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260921171000 +0000" stop="20260921174000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260921171000 +0000" stop="20260921173000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260921173000 +0000" stop="20260921180000 +0000" channel="silkway">
     <title>Success stories of Central Asian Women</title>
   </programme>
-  <programme start="20260920175000 +0000" stop="20260920181000 +0000" channel="silkway">
+  <programme start="20260921173000 +0000" stop="20260921175500 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260921175500 +0000" stop="20260921182500 +0000" channel="silkway">
     <title>Faces of Science</title>
   </programme>
-  <programme start="20260920181000 +0000" stop="20260920184000 +0000" channel="silkway">
+  <programme start="20260921175500 +0000" stop="20260921181500 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260921181500 +0000" stop="20260921184500 +0000" channel="silkway">
     <title>Our History</title>
+  </programme>
+  <programme start="20260921181500 +0000" stop="20260921190000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260921190000 +0000" stop="20260921193000 +0000" channel="silkway">
+    <title>Anthem of the Republic of Kazakhstan</title>
+  </programme>
+  <programme start="20260921190000 +0000" stop="20260921190500 +0000" channel="silkway">
+    <title>Государственный гимн Республики Казахстан</title>
+  </programme>
+  <programme start="20260921190500 +0000" stop="20260921193500 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260921190500 +0000" stop="20260921192000 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260921192000 +0000" stop="20260921195000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260921192000 +0000" stop="20260921193500 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260921193500 +0000" stop="20260921200500 +0000" channel="silkway">
+    <title>Sporting marvels</title>
+  </programme>
+  <programme start="20260921193500 +0000" stop="20260921200000 +0000" channel="silkway">
+    <title>Спортивные чудеса</title>
+  </programme>
+  <programme start="20260921200000 +0000" stop="20260921203000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260921200000 +0000" stop="20260921201000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260921201000 +0000" stop="20260921204000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260921201000 +0000" stop="20260921202000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260921202000 +0000" stop="20260921205000 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260921202000 +0000" stop="20260921203500 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260921203500 +0000" stop="20260921210500 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260921203500 +0000" stop="20260921210500 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260921203500 +0000" stop="20260921210500 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260921210500 +0000" stop="20260921213500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260921210500 +0000" stop="20260921212500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260921212500 +0000" stop="20260921215500 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260921212500 +0000" stop="20260921215500 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260921215500 +0000" stop="20260921222500 +0000" channel="silkway">
+    <title>Art focus</title>
+  </programme>
+  <programme start="20260921215500 +0000" stop="20260921221000 +0000" channel="silkway">
+    <title>Арт-фокус</title>
+  </programme>
+  <programme start="20260921221000 +0000" stop="20260921224000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260921221000 +0000" stop="20260921223000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260921223000 +0000" stop="20260921230000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260921223000 +0000" stop="20260921224500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260921224500 +0000" stop="20260921231500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260921224500 +0000" stop="20260921230000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260921230000 +0000" stop="20260921233000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260921230000 +0000" stop="20260921231000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260921231000 +0000" stop="20260921234000 +0000" channel="silkway">
+    <title>Reflections on History</title>
+  </programme>
+  <programme start="20260921231000 +0000" stop="20260921233000 +0000" channel="silkway">
+    <title>Загадки истории</title>
+  </programme>
+  <programme start="20260921233000 +0000" stop="20260922000000 +0000" channel="silkway">
+    <title>Guardians of the Legacy</title>
+  </programme>
+  <programme start="20260921233000 +0000" stop="20260921235500 +0000" channel="silkway">
+    <title>Хранители истории</title>
+  </programme>
+  <programme start="20260921235500 +0000" stop="20260922002500 +0000" channel="silkway">
+    <title>School of Nomads</title>
+  </programme>
+  <programme start="20260921235500 +0000" stop="20260922002500 +0000" channel="silkway">
+    <title>Школа кочевников</title>
+  </programme>
+  <programme start="20260922002500 +0000" stop="20260922005500 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260922002500 +0000" stop="20260922010000 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260922010000 +0000" stop="20260922013000 +0000" channel="silkway">
+    <title>Searching for Mystery</title>
+  </programme>
+  <programme start="20260922010000 +0000" stop="20260922013000 +0000" channel="silkway">
+    <title>В поисках тайны</title>
+  </programme>
+  <programme start="20260922013000 +0000" stop="20260922020000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260922013000 +0000" stop="20260922015000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260922015000 +0000" stop="20260922022000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260922015000 +0000" stop="20260922020000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260922020000 +0000" stop="20260922023000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260922020000 +0000" stop="20260922024500 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260922024500 +0000" stop="20260922031500 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260922024500 +0000" stop="20260922030000 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260922030000 +0000" stop="20260922033000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260922030000 +0000" stop="20260922032500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260922032500 +0000" stop="20260922035500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260922032500 +0000" stop="20260922034000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260922034000 +0000" stop="20260922041000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260922034000 +0000" stop="20260922041000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260922041000 +0000" stop="20260922044000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260922041000 +0000" stop="20260922044000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260922041000 +0000" stop="20260922044000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260922044000 +0000" stop="20260922051000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260922044000 +0000" stop="20260922050000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260922050000 +0000" stop="20260922053000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922050000 +0000" stop="20260922051000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922051000 +0000" stop="20260922054000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260922051000 +0000" stop="20260922053000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260922053000 +0000" stop="20260922060000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260922053000 +0000" stop="20260922055000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260922055000 +0000" stop="20260922062000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260922055000 +0000" stop="20260922060500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260922060500 +0000" stop="20260922063500 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260922060500 +0000" stop="20260922063000 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260922063000 +0000" stop="20260922070000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260922063000 +0000" stop="20260922065000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260922065000 +0000" stop="20260922072000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260922065000 +0000" stop="20260922071000 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260922071000 +0000" stop="20260922074000 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260922071000 +0000" stop="20260922072500 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260922072500 +0000" stop="20260922075500 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260922072500 +0000" stop="20260922075000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260922075000 +0000" stop="20260922082000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260922075000 +0000" stop="20260922080000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260922080000 +0000" stop="20260922083000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922080000 +0000" stop="20260922081000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922081000 +0000" stop="20260922084000 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260922081000 +0000" stop="20260922083500 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260922083500 +0000" stop="20260922090500 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260922083500 +0000" stop="20260922085000 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260922085000 +0000" stop="20260922092000 +0000" channel="silkway">
+    <title>Road to Gold</title>
+  </programme>
+  <programme start="20260922085000 +0000" stop="20260922092000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260922085000 +0000" stop="20260922091500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260922091500 +0000" stop="20260922094500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260922091500 +0000" stop="20260922093000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260922093000 +0000" stop="20260922100000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260922093000 +0000" stop="20260922100000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260922100000 +0000" stop="20260922103000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260922100000 +0000" stop="20260922103000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260922100000 +0000" stop="20260922103000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260922103000 +0000" stop="20260922110000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260922103000 +0000" stop="20260922105000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260922105000 +0000" stop="20260922112000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260922105000 +0000" stop="20260922110000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260922110000 +0000" stop="20260922113000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922110000 +0000" stop="20260922111000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922111000 +0000" stop="20260922114000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260922111000 +0000" stop="20260922113000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260922113000 +0000" stop="20260922120000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260922113000 +0000" stop="20260922114500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260922114500 +0000" stop="20260922121500 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260922114500 +0000" stop="20260922121000 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260922121000 +0000" stop="20260922124000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260922121000 +0000" stop="20260922123000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260922123000 +0000" stop="20260922130000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922123000 +0000" stop="20260922124000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922124000 +0000" stop="20260922131000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260922124000 +0000" stop="20260922133000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260922133000 +0000" stop="20260922140000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260922133000 +0000" stop="20260922135000 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260922135000 +0000" stop="20260922142000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260922135000 +0000" stop="20260922140000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260922140000 +0000" stop="20260922143000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922140000 +0000" stop="20260922141000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922141000 +0000" stop="20260922144000 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260922141000 +0000" stop="20260922143000 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260922143000 +0000" stop="20260922150000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260922143000 +0000" stop="20260922145000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260922145000 +0000" stop="20260922152000 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260922145000 +0000" stop="20260922150500 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260922150500 +0000" stop="20260922153500 +0000" channel="silkway">
+    <title>Road to Gold</title>
+  </programme>
+  <programme start="20260922150500 +0000" stop="20260922153500 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260922150500 +0000" stop="20260922153000 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260922153000 +0000" stop="20260922160000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922153000 +0000" stop="20260922154000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922154000 +0000" stop="20260922161000 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260922154000 +0000" stop="20260922160000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260922160000 +0000" stop="20260922163000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260922160000 +0000" stop="20260922163000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260922163000 +0000" stop="20260922170000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260922163000 +0000" stop="20260922170000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260922163000 +0000" stop="20260922170000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260922170000 +0000" stop="20260922173000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922170000 +0000" stop="20260922171000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922171000 +0000" stop="20260922174000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260922171000 +0000" stop="20260922173000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260922173000 +0000" stop="20260922180000 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260922173000 +0000" stop="20260922175500 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260922175500 +0000" stop="20260922182500 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260922175500 +0000" stop="20260922181500 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260922181500 +0000" stop="20260922184500 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260922181500 +0000" stop="20260922190000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260922190000 +0000" stop="20260922193000 +0000" channel="silkway">
+    <title>Anthem of the Republic of Kazakhstan</title>
+  </programme>
+  <programme start="20260922190000 +0000" stop="20260922190500 +0000" channel="silkway">
+    <title>Государственный гимн Республики Казахстан</title>
+  </programme>
+  <programme start="20260922190500 +0000" stop="20260922193500 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260922190500 +0000" stop="20260922192000 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260922192000 +0000" stop="20260922195000 +0000" channel="silkway">
+    <title>Health Code</title>
+  </programme>
+  <programme start="20260922192000 +0000" stop="20260922193500 +0000" channel="silkway">
+    <title>Код здоровья</title>
+  </programme>
+  <programme start="20260922193500 +0000" stop="20260922200500 +0000" channel="silkway">
+    <title>Sporting marvels</title>
+  </programme>
+  <programme start="20260922193500 +0000" stop="20260922200000 +0000" channel="silkway">
+    <title>Спортивные чудеса</title>
+  </programme>
+  <programme start="20260922200000 +0000" stop="20260922203000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922200000 +0000" stop="20260922201000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922201000 +0000" stop="20260922204000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260922201000 +0000" stop="20260922203000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260922203000 +0000" stop="20260922210000 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260922203000 +0000" stop="20260922204500 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260922204500 +0000" stop="20260922211500 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260922204500 +0000" stop="20260922210500 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260922210500 +0000" stop="20260922213500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260922210500 +0000" stop="20260922212500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260922212500 +0000" stop="20260922215500 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260922212500 +0000" stop="20260922215500 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260922215500 +0000" stop="20260922222500 +0000" channel="silkway">
+    <title>Art focus</title>
+  </programme>
+  <programme start="20260922215500 +0000" stop="20260922221000 +0000" channel="silkway">
+    <title>Арт-фокус</title>
+  </programme>
+  <programme start="20260922221000 +0000" stop="20260922224000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260922221000 +0000" stop="20260922223000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260922223000 +0000" stop="20260922230000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260922223000 +0000" stop="20260922224500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260922224500 +0000" stop="20260922231500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260922224500 +0000" stop="20260922230000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260922230000 +0000" stop="20260922233000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260922230000 +0000" stop="20260922231000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260922231000 +0000" stop="20260922234000 +0000" channel="silkway">
+    <title>Reflections on History</title>
+  </programme>
+  <programme start="20260922231000 +0000" stop="20260922233000 +0000" channel="silkway">
+    <title>Загадки истории</title>
+  </programme>
+  <programme start="20260922233000 +0000" stop="20260923000000 +0000" channel="silkway">
+    <title>Guardians of the Legacy</title>
+  </programme>
+  <programme start="20260922233000 +0000" stop="20260922235500 +0000" channel="silkway">
+    <title>Хранители истории</title>
+  </programme>
+  <programme start="20260922235500 +0000" stop="20260923002500 +0000" channel="silkway">
+    <title>School of Nomads</title>
+  </programme>
+  <programme start="20260922235500 +0000" stop="20260923002500 +0000" channel="silkway">
+    <title>Школа кочевников</title>
+  </programme>
+  <programme start="20260923002500 +0000" stop="20260923005500 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260923002500 +0000" stop="20260923010000 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260923010000 +0000" stop="20260923013000 +0000" channel="silkway">
+    <title>Searching for Mystery</title>
+  </programme>
+  <programme start="20260923010000 +0000" stop="20260923013000 +0000" channel="silkway">
+    <title>В поисках тайны</title>
+  </programme>
+  <programme start="20260923013000 +0000" stop="20260923020000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260923013000 +0000" stop="20260923015000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260923015000 +0000" stop="20260923022000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260923015000 +0000" stop="20260923020000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260923020000 +0000" stop="20260923023000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260923020000 +0000" stop="20260923025000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260923025000 +0000" stop="20260923032000 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260923025000 +0000" stop="20260923030500 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260923030500 +0000" stop="20260923033500 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260923030500 +0000" stop="20260923033000 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260923033000 +0000" stop="20260923040000 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260923033000 +0000" stop="20260923034500 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260923034500 +0000" stop="20260923041500 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260923034500 +0000" stop="20260923041500 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260923041500 +0000" stop="20260923044500 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260923041500 +0000" stop="20260923044000 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260923044000 +0000" stop="20260923051000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260923044000 +0000" stop="20260923050000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260923050000 +0000" stop="20260923053000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923050000 +0000" stop="20260923051000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923051000 +0000" stop="20260923054000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260923051000 +0000" stop="20260923053000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260923053000 +0000" stop="20260923060000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260923053000 +0000" stop="20260923055000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260923055000 +0000" stop="20260923062000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260923055000 +0000" stop="20260923060500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260923060500 +0000" stop="20260923063500 +0000" channel="silkway">
+    <title>Success stories of Central Asian Women</title>
+  </programme>
+  <programme start="20260923060500 +0000" stop="20260923063000 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260923063000 +0000" stop="20260923070000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260923063000 +0000" stop="20260923065000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260923065000 +0000" stop="20260923072000 +0000" channel="silkway">
+    <title>Health Code</title>
+  </programme>
+  <programme start="20260923065000 +0000" stop="20260923071000 +0000" channel="silkway">
+    <title>Код здоровья</title>
+  </programme>
+  <programme start="20260923071000 +0000" stop="20260923074000 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260923071000 +0000" stop="20260923072500 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260923072500 +0000" stop="20260923075500 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260923072500 +0000" stop="20260923075000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260923075000 +0000" stop="20260923082000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260923075000 +0000" stop="20260923080000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260923080000 +0000" stop="20260923083000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923080000 +0000" stop="20260923081000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923081000 +0000" stop="20260923084000 +0000" channel="silkway">
+    <title>The Personality Code</title>
+  </programme>
+  <programme start="20260923081000 +0000" stop="20260923085500 +0000" channel="silkway">
+    <title>Код личности</title>
+  </programme>
+  <programme start="20260923085500 +0000" stop="20260923092500 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260923085500 +0000" stop="20260923092500 +0000" channel="silkway">
+    <title>Road to Gold</title>
+  </programme>
+  <programme start="20260923085500 +0000" stop="20260923092000 +0000" channel="silkway">
+    <title>Путь к золоту</title>
+  </programme>
+  <programme start="20260923092000 +0000" stop="20260923095000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260923092000 +0000" stop="20260923095000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260923095000 +0000" stop="20260923102000 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260923095000 +0000" stop="20260923101500 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260923101500 +0000" stop="20260923104500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260923101500 +0000" stop="20260923103500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260923103500 +0000" stop="20260923110500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260923103500 +0000" stop="20260923110000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260923110000 +0000" stop="20260923113000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923110000 +0000" stop="20260923111000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923111000 +0000" stop="20260923114000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260923111000 +0000" stop="20260923113000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260923113000 +0000" stop="20260923120000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260923113000 +0000" stop="20260923114500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260923114500 +0000" stop="20260923121500 +0000" channel="silkway">
+    <title>Success stories of Central Asian Women</title>
+  </programme>
+  <programme start="20260923114500 +0000" stop="20260923121000 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260923121000 +0000" stop="20260923124000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260923121000 +0000" stop="20260923123000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260923123000 +0000" stop="20260923130000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923123000 +0000" stop="20260923124000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923124000 +0000" stop="20260923131000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260923124000 +0000" stop="20260923133000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260923133000 +0000" stop="20260923140000 +0000" channel="silkway">
+    <title>Health Code</title>
+  </programme>
+  <programme start="20260923133000 +0000" stop="20260923135000 +0000" channel="silkway">
+    <title>Код здоровья</title>
+  </programme>
+  <programme start="20260923135000 +0000" stop="20260923142000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260923135000 +0000" stop="20260923140000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260923140000 +0000" stop="20260923143000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923140000 +0000" stop="20260923141000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923141000 +0000" stop="20260923144000 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260923141000 +0000" stop="20260923143000 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260923143000 +0000" stop="20260923150000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260923143000 +0000" stop="20260923145000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260923145000 +0000" stop="20260923152000 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260923145000 +0000" stop="20260923150500 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260923150500 +0000" stop="20260923153500 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260923150500 +0000" stop="20260923153500 +0000" channel="silkway">
+    <title>Road to Gold</title>
+  </programme>
+  <programme start="20260923150500 +0000" stop="20260923153000 +0000" channel="silkway">
+    <title>Путь к золоту</title>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923160000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923154000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923154000 +0000" stop="20260923161000 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260923154000 +0000" stop="20260923160000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260923160000 +0000" stop="20260923163000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260923160000 +0000" stop="20260923163000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260923163000 +0000" stop="20260923170000 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260923163000 +0000" stop="20260923170000 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260923170000 +0000" stop="20260923173000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923170000 +0000" stop="20260923171000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923171000 +0000" stop="20260923174000 +0000" channel="silkway">
+    <title>The Personality Code</title>
+  </programme>
+  <programme start="20260923171000 +0000" stop="20260923175500 +0000" channel="silkway">
+    <title>Код личности</title>
+  </programme>
+  <programme start="20260923175500 +0000" stop="20260923182500 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260923175500 +0000" stop="20260923181500 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260923181500 +0000" stop="20260923184500 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260923181500 +0000" stop="20260923190000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260923190000 +0000" stop="20260923193000 +0000" channel="silkway">
+    <title>Anthem of the Republic of Kazakhstan</title>
+  </programme>
+  <programme start="20260923190000 +0000" stop="20260923190500 +0000" channel="silkway">
+    <title>Государственный гимн Республики Казахстан</title>
+  </programme>
+  <programme start="20260923190500 +0000" stop="20260923193500 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260923190500 +0000" stop="20260923192000 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260923192000 +0000" stop="20260923195000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260923192000 +0000" stop="20260923193500 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260923193500 +0000" stop="20260923200500 +0000" channel="silkway">
+    <title>Sporting marvels</title>
+  </programme>
+  <programme start="20260923193500 +0000" stop="20260923200000 +0000" channel="silkway">
+    <title>Спортивные чудеса</title>
+  </programme>
+  <programme start="20260923200000 +0000" stop="20260923203000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923200000 +0000" stop="20260923201000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923201000 +0000" stop="20260923204000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260923201000 +0000" stop="20260923202000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260923202000 +0000" stop="20260923205000 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260923202000 +0000" stop="20260923203500 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260923203500 +0000" stop="20260923210500 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260923203500 +0000" stop="20260923210500 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260923203500 +0000" stop="20260923210500 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260923210500 +0000" stop="20260923213500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260923210500 +0000" stop="20260923212500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260923212500 +0000" stop="20260923215500 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260923212500 +0000" stop="20260923215500 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260923215500 +0000" stop="20260923222500 +0000" channel="silkway">
+    <title>Art focus</title>
+  </programme>
+  <programme start="20260923215500 +0000" stop="20260923221000 +0000" channel="silkway">
+    <title>Арт-фокус</title>
+  </programme>
+  <programme start="20260923221000 +0000" stop="20260923224000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260923221000 +0000" stop="20260923223000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260923223000 +0000" stop="20260923230000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260923223000 +0000" stop="20260923224500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260923224500 +0000" stop="20260923231500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260923224500 +0000" stop="20260923230000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260923230000 +0000" stop="20260923233000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260923230000 +0000" stop="20260923231000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260923231000 +0000" stop="20260923234000 +0000" channel="silkway">
+    <title>Reflections on History</title>
+  </programme>
+  <programme start="20260923231000 +0000" stop="20260923233000 +0000" channel="silkway">
+    <title>Загадки истории</title>
+  </programme>
+  <programme start="20260923233000 +0000" stop="20260924000000 +0000" channel="silkway">
+    <title>Guardians of the Legacy</title>
+  </programme>
+  <programme start="20260923233000 +0000" stop="20260923235500 +0000" channel="silkway">
+    <title>Хранители истории</title>
+  </programme>
+  <programme start="20260923235500 +0000" stop="20260924002500 +0000" channel="silkway">
+    <title>School of Nomads</title>
+  </programme>
+  <programme start="20260923235500 +0000" stop="20260924002500 +0000" channel="silkway">
+    <title>Школа кочевников</title>
+  </programme>
+  <programme start="20260924002500 +0000" stop="20260924005500 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260924002500 +0000" stop="20260924010000 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260924010000 +0000" stop="20260924013000 +0000" channel="silkway">
+    <title>Searching for Mystery</title>
+  </programme>
+  <programme start="20260924010000 +0000" stop="20260924013000 +0000" channel="silkway">
+    <title>В поисках тайны</title>
+  </programme>
+  <programme start="20260924013000 +0000" stop="20260924020000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260924013000 +0000" stop="20260924015000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260924015000 +0000" stop="20260924022000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260924015000 +0000" stop="20260924020000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924023000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924024500 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260924024500 +0000" stop="20260924031500 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260924024500 +0000" stop="20260924030000 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260924030000 +0000" stop="20260924033000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260924030000 +0000" stop="20260924032500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260924032500 +0000" stop="20260924035500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260924032500 +0000" stop="20260924034000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260924034000 +0000" stop="20260924041000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260924034000 +0000" stop="20260924041000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260924041000 +0000" stop="20260924044000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260924041000 +0000" stop="20260924044000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260924041000 +0000" stop="20260924044000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260924044000 +0000" stop="20260924051000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260924044000 +0000" stop="20260924050000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260924050000 +0000" stop="20260924053000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924050000 +0000" stop="20260924051000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924051000 +0000" stop="20260924054000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260924051000 +0000" stop="20260924053000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260924053000 +0000" stop="20260924060000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260924053000 +0000" stop="20260924055000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260924055000 +0000" stop="20260924062000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260924055000 +0000" stop="20260924060500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260924060500 +0000" stop="20260924063500 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260924060500 +0000" stop="20260924063000 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260924063000 +0000" stop="20260924070000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260924063000 +0000" stop="20260924065000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260924065000 +0000" stop="20260924072000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260924065000 +0000" stop="20260924071000 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260924071000 +0000" stop="20260924074000 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260924071000 +0000" stop="20260924072500 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260924072500 +0000" stop="20260924075500 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260924072500 +0000" stop="20260924075000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260924075000 +0000" stop="20260924082000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260924075000 +0000" stop="20260924080000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260924080000 +0000" stop="20260924083000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924080000 +0000" stop="20260924081000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924081000 +0000" stop="20260924084000 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260924081000 +0000" stop="20260924083500 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260924083500 +0000" stop="20260924090500 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260924083500 +0000" stop="20260924085000 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260924085000 +0000" stop="20260924092000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260924085000 +0000" stop="20260924091500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260924091500 +0000" stop="20260924094500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260924091500 +0000" stop="20260924093000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260924093000 +0000" stop="20260924100000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260924093000 +0000" stop="20260924100000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924103000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924103000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924103000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260924103000 +0000" stop="20260924110000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260924103000 +0000" stop="20260924105000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260924105000 +0000" stop="20260924112000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260924105000 +0000" stop="20260924110000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260924110000 +0000" stop="20260924113000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924110000 +0000" stop="20260924111000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924111000 +0000" stop="20260924114000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260924111000 +0000" stop="20260924113000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260924113000 +0000" stop="20260924120000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260924113000 +0000" stop="20260924114500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260924114500 +0000" stop="20260924121500 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260924114500 +0000" stop="20260924121000 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260924121000 +0000" stop="20260924124000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260924121000 +0000" stop="20260924123000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260924123000 +0000" stop="20260924130000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924123000 +0000" stop="20260924124000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924124000 +0000" stop="20260924131000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260924124000 +0000" stop="20260924133000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260924133000 +0000" stop="20260924140000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260924133000 +0000" stop="20260924135000 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260924135000 +0000" stop="20260924142000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260924135000 +0000" stop="20260924140000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260924140000 +0000" stop="20260924143000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924140000 +0000" stop="20260924141000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924141000 +0000" stop="20260924144000 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260924141000 +0000" stop="20260924143000 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924150000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924145000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260924145000 +0000" stop="20260924152000 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260924145000 +0000" stop="20260924150500 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260924150500 +0000" stop="20260924153500 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260924150500 +0000" stop="20260924153000 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260924153000 +0000" stop="20260924160000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924153000 +0000" stop="20260924154000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924154000 +0000" stop="20260924161000 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260924154000 +0000" stop="20260924160000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260924160000 +0000" stop="20260924163000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260924160000 +0000" stop="20260924163000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260924163000 +0000" stop="20260924170000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260924163000 +0000" stop="20260924170000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260924163000 +0000" stop="20260924170000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260924170000 +0000" stop="20260924173000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924170000 +0000" stop="20260924171000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924171000 +0000" stop="20260924174000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260924171000 +0000" stop="20260924173000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260924173000 +0000" stop="20260924175500 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260924175500 +0000" stop="20260924182500 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260924175500 +0000" stop="20260924181500 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260924181500 +0000" stop="20260924184500 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260924181500 +0000" stop="20260924190000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260924190000 +0000" stop="20260924193000 +0000" channel="silkway">
+    <title>Anthem of the Republic of Kazakhstan</title>
+  </programme>
+  <programme start="20260924190000 +0000" stop="20260924190500 +0000" channel="silkway">
+    <title>Государственный гимн Республики Казахстан</title>
+  </programme>
+  <programme start="20260924190500 +0000" stop="20260924193500 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260924190500 +0000" stop="20260924192000 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260924192000 +0000" stop="20260924195000 +0000" channel="silkway">
+    <title>Health Code</title>
+  </programme>
+  <programme start="20260924192000 +0000" stop="20260924193500 +0000" channel="silkway">
+    <title>Код здоровья</title>
+  </programme>
+  <programme start="20260924193500 +0000" stop="20260924200500 +0000" channel="silkway">
+    <title>Sporting marvels</title>
+  </programme>
+  <programme start="20260924193500 +0000" stop="20260924200000 +0000" channel="silkway">
+    <title>Спортивные чудеса</title>
+  </programme>
+  <programme start="20260924200000 +0000" stop="20260924203000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924200000 +0000" stop="20260924201000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924201000 +0000" stop="20260924204000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260924201000 +0000" stop="20260924203000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260924203000 +0000" stop="20260924210000 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260924203000 +0000" stop="20260924204500 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260924204500 +0000" stop="20260924211500 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260924204500 +0000" stop="20260924210500 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260924210500 +0000" stop="20260924213500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260924210500 +0000" stop="20260924212500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260924212500 +0000" stop="20260924215500 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260924212500 +0000" stop="20260924215500 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260924215500 +0000" stop="20260924222500 +0000" channel="silkway">
+    <title>Art focus</title>
+  </programme>
+  <programme start="20260924215500 +0000" stop="20260924221000 +0000" channel="silkway">
+    <title>Арт-фокус</title>
+  </programme>
+  <programme start="20260924221000 +0000" stop="20260924224000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260924221000 +0000" stop="20260924223000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260924223000 +0000" stop="20260924230000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260924223000 +0000" stop="20260924224500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260924224500 +0000" stop="20260924231500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260924224500 +0000" stop="20260924230000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260924230000 +0000" stop="20260924233000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260924230000 +0000" stop="20260924231000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260924231000 +0000" stop="20260924234000 +0000" channel="silkway">
+    <title>Reflections on History</title>
+  </programme>
+  <programme start="20260924231000 +0000" stop="20260924233000 +0000" channel="silkway">
+    <title>Загадки истории</title>
+  </programme>
+  <programme start="20260924233000 +0000" stop="20260925000000 +0000" channel="silkway">
+    <title>Guardians of the Legacy</title>
+  </programme>
+  <programme start="20260924233000 +0000" stop="20260924235500 +0000" channel="silkway">
+    <title>Хранители истории</title>
+  </programme>
+  <programme start="20260924235500 +0000" stop="20260925002500 +0000" channel="silkway">
+    <title>School of Nomads</title>
+  </programme>
+  <programme start="20260924235500 +0000" stop="20260925002500 +0000" channel="silkway">
+    <title>Школа кочевников</title>
+  </programme>
+  <programme start="20260925002500 +0000" stop="20260925005500 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260925002500 +0000" stop="20260925010000 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260925010000 +0000" stop="20260925013000 +0000" channel="silkway">
+    <title>Searching for Mystery</title>
+  </programme>
+  <programme start="20260925010000 +0000" stop="20260925013000 +0000" channel="silkway">
+    <title>В поисках тайны</title>
+  </programme>
+  <programme start="20260925013000 +0000" stop="20260925020000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260925013000 +0000" stop="20260925015000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260925015000 +0000" stop="20260925022000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260925015000 +0000" stop="20260925020000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260925020000 +0000" stop="20260925023000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260925020000 +0000" stop="20260925025000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260925025000 +0000" stop="20260925032000 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260925025000 +0000" stop="20260925030500 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260925030500 +0000" stop="20260925033500 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260925030500 +0000" stop="20260925033000 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260925033000 +0000" stop="20260925034500 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260925034500 +0000" stop="20260925041500 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260925034500 +0000" stop="20260925041500 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260925041500 +0000" stop="20260925044500 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260925041500 +0000" stop="20260925044000 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260925044000 +0000" stop="20260925051000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260925044000 +0000" stop="20260925050000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260925050000 +0000" stop="20260925053000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260925050000 +0000" stop="20260925051000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260925051000 +0000" stop="20260925054000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260925051000 +0000" stop="20260925053000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260925053000 +0000" stop="20260925060000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260925053000 +0000" stop="20260925055000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260925055000 +0000" stop="20260925062000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260925055000 +0000" stop="20260925060500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260925060500 +0000" stop="20260925063500 +0000" channel="silkway">
+    <title>Success stories of Central Asian Women</title>
+  </programme>
+  <programme start="20260925060500 +0000" stop="20260925063000 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260925063000 +0000" stop="20260925070000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260925063000 +0000" stop="20260925065000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260925065000 +0000" stop="20260925072000 +0000" channel="silkway">
+    <title>Health Code</title>
+  </programme>
+  <programme start="20260925065000 +0000" stop="20260925071000 +0000" channel="silkway">
+    <title>Код здоровья</title>
+  </programme>
+  <programme start="20260925071000 +0000" stop="20260925074000 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260925071000 +0000" stop="20260925072500 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260925072500 +0000" stop="20260925075500 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260925072500 +0000" stop="20260925075000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260925075000 +0000" stop="20260925082000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260925075000 +0000" stop="20260925080000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260925080000 +0000" stop="20260925083000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260925080000 +0000" stop="20260925081000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260925081000 +0000" stop="20260925084000 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260925081000 +0000" stop="20260925083500 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260925083500 +0000" stop="20260925090500 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260925083500 +0000" stop="20260925085000 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260925085000 +0000" stop="20260925092000 +0000" channel="silkway">
+    <title>Road to Gold</title>
+  </programme>
+  <programme start="20260925085000 +0000" stop="20260925091500 +0000" channel="silkway">
+    <title>Путь к золоту</title>
+  </programme>
+  <programme start="20260925091500 +0000" stop="20260925094500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260925091500 +0000" stop="20260925093000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260925093000 +0000" stop="20260925100000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260925093000 +0000" stop="20260925100000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260925100000 +0000" stop="20260925103000 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260925100000 +0000" stop="20260925102500 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260925102500 +0000" stop="20260925105500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260925102500 +0000" stop="20260925104500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260925104500 +0000" stop="20260925111500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260925104500 +0000" stop="20260925110000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260925110000 +0000" stop="20260925113000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260925110000 +0000" stop="20260925111000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260925111000 +0000" stop="20260925114000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260925111000 +0000" stop="20260925113000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260925113000 +0000" stop="20260925120000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260925113000 +0000" stop="20260925114500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260925114500 +0000" stop="20260925121500 +0000" channel="silkway">
+    <title>Success stories of Central Asian Women</title>
+  </programme>
+  <programme start="20260925114500 +0000" stop="20260925121000 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260925121000 +0000" stop="20260925124000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260925121000 +0000" stop="20260925123000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260925123000 +0000" stop="20260925130000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260925123000 +0000" stop="20260925124000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260925124000 +0000" stop="20260925131000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260925124000 +0000" stop="20260925133000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260925133000 +0000" stop="20260925140000 +0000" channel="silkway">
+    <title>Health Code</title>
+  </programme>
+  <programme start="20260925133000 +0000" stop="20260925135000 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260925135000 +0000" stop="20260925142000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260925135000 +0000" stop="20260925140000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260925140000 +0000" stop="20260925143000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260925140000 +0000" stop="20260925141000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260925141000 +0000" stop="20260925144000 +0000" channel="silkway">
+    <title>Life of a Diplomat</title>
+  </programme>
+  <programme start="20260925141000 +0000" stop="20260925143000 +0000" channel="silkway">
+    <title>Жизнь дипломата</title>
+  </programme>
+  <programme start="20260925143000 +0000" stop="20260925150000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260925143000 +0000" stop="20260925145000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260925145000 +0000" stop="20260925152000 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260925145000 +0000" stop="20260925150500 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260925150500 +0000" stop="20260925153500 +0000" channel="silkway">
+    <title>Road to Gold</title>
+  </programme>
+  <programme start="20260925150500 +0000" stop="20260925153000 +0000" channel="silkway">
+    <title>Путь к золоту</title>
+  </programme>
+  <programme start="20260925153000 +0000" stop="20260925160000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260925153000 +0000" stop="20260925154000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260925154000 +0000" stop="20260925161000 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260925154000 +0000" stop="20260925160000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925163000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925163000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260925170000 +0000" stop="20260925173000 +0000" channel="silkway">
+    <title>News</title>
+  </programme>
+  <programme start="20260925170000 +0000" stop="20260925171000 +0000" channel="silkway">
+    <title>Новости</title>
+  </programme>
+  <programme start="20260925171000 +0000" stop="20260925174000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260925171000 +0000" stop="20260925173000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260925173000 +0000" stop="20260925180000 +0000" channel="silkway">
+    <title>Success stories of Central Asian Women</title>
+  </programme>
+  <programme start="20260925173000 +0000" stop="20260925175500 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260925175500 +0000" stop="20260925182500 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260925175500 +0000" stop="20260925181500 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260925181500 +0000" stop="20260925184500 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260925181500 +0000" stop="20260925190000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260925190000 +0000" stop="20260925193000 +0000" channel="silkway">
+    <title>Anthem of the Republic of Kazakhstan</title>
+  </programme>
+  <programme start="20260925190000 +0000" stop="20260925190500 +0000" channel="silkway">
+    <title>Государственный гимн Республики Казахстан</title>
+  </programme>
+  <programme start="20260925190500 +0000" stop="20260925193500 +0000" channel="silkway">
+    <title>Reporter With President</title>
+  </programme>
+  <programme start="20260925190500 +0000" stop="20260925192000 +0000" channel="silkway">
+    <title>Репортер с Президентом</title>
+  </programme>
+  <programme start="20260925192000 +0000" stop="20260925195000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260925192000 +0000" stop="20260925193500 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260925193500 +0000" stop="20260925200500 +0000" channel="silkway">
+    <title>Sporting marvels</title>
+  </programme>
+  <programme start="20260925193500 +0000" stop="20260925200000 +0000" channel="silkway">
+    <title>Спортивные чудеса</title>
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925203000 +0000" channel="silkway">
+    <title>New Time</title>
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925203000 +0000" channel="silkway">
+    <title>Новое время</title>
+  </programme>
+  <programme start="20260925203000 +0000" stop="20260925210000 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260925203000 +0000" stop="20260925204500 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260925204500 +0000" stop="20260925211500 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260925204500 +0000" stop="20260925211500 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260925204500 +0000" stop="20260925211500 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260925211500 +0000" stop="20260925214500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260925211500 +0000" stop="20260925213500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260925213500 +0000" stop="20260925220500 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260925213500 +0000" stop="20260925220500 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260925220500 +0000" stop="20260925223500 +0000" channel="silkway">
+    <title>Art focus</title>
+  </programme>
+  <programme start="20260925220500 +0000" stop="20260925222000 +0000" channel="silkway">
+    <title>Арт-фокус</title>
+  </programme>
+  <programme start="20260925222000 +0000" stop="20260925225000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260925222000 +0000" stop="20260925224000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260925224000 +0000" stop="20260925231000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260925224000 +0000" stop="20260925230000 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260925233000 +0000" channel="silkway">
+    <title>New Time</title>
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260925233000 +0000" channel="silkway">
+    <title>Новое время</title>
+  </programme>
+  <programme start="20260925233000 +0000" stop="20260926000000 +0000" channel="silkway">
+    <title>Guardians of the Legacy</title>
+  </programme>
+  <programme start="20260925233000 +0000" stop="20260925235500 +0000" channel="silkway">
+    <title>Хранители истории</title>
+  </programme>
+  <programme start="20260925235500 +0000" stop="20260926002500 +0000" channel="silkway">
+    <title>School of Nomads</title>
+  </programme>
+  <programme start="20260925235500 +0000" stop="20260926002500 +0000" channel="silkway">
+    <title>Школа кочевников</title>
+  </programme>
+  <programme start="20260926002500 +0000" stop="20260926005500 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260926002500 +0000" stop="20260926010000 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="silkway">
+    <title>Searching for Mystery</title>
+  </programme>
+  <programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="silkway">
+    <title>В поисках тайны</title>
+  </programme>
+  <programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260926013000 +0000" stop="20260926015000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260926015000 +0000" stop="20260926022000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260926015000 +0000" stop="20260926020000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926024500 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260926024500 +0000" stop="20260926031500 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260926024500 +0000" stop="20260926030000 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926032500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260926032500 +0000" stop="20260926035500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260926032500 +0000" stop="20260926034000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260926034000 +0000" stop="20260926041000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260926034000 +0000" stop="20260926041000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260926041000 +0000" stop="20260926044000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260926041000 +0000" stop="20260926044000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260926041000 +0000" stop="20260926044000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260926044000 +0000" stop="20260926051000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260926044000 +0000" stop="20260926050000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="silkway">
+    <title>New Time</title>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="silkway">
+    <title>Новое время</title>
+  </programme>
+  <programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260926053000 +0000" stop="20260926055000 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260926055000 +0000" stop="20260926062000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260926055000 +0000" stop="20260926060500 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260926060500 +0000" stop="20260926063500 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260926060500 +0000" stop="20260926063000 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260926063000 +0000" stop="20260926070000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260926063000 +0000" stop="20260926065000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260926065000 +0000" stop="20260926072000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260926065000 +0000" stop="20260926071000 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260926071000 +0000" stop="20260926074000 +0000" channel="silkway">
+    <title>Reporter With President</title>
+  </programme>
+  <programme start="20260926071000 +0000" stop="20260926072500 +0000" channel="silkway">
+    <title>Репортер с Президентом</title>
+  </programme>
+  <programme start="20260926072500 +0000" stop="20260926075500 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260926072500 +0000" stop="20260926075000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260926075000 +0000" stop="20260926082000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260926075000 +0000" stop="20260926080000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926083000 +0000" channel="silkway">
+    <title>New Time</title>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926083000 +0000" channel="silkway">
+    <title>Новое время</title>
+  </programme>
+  <programme start="20260926083000 +0000" stop="20260926090000 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260926083000 +0000" stop="20260926085000 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260926085000 +0000" stop="20260926092000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260926085000 +0000" stop="20260926091500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260926091500 +0000" stop="20260926094500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260926091500 +0000" stop="20260926093000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260926093000 +0000" stop="20260926100000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260926093000 +0000" stop="20260926100000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926103000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926103000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926103000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260926103000 +0000" stop="20260926110000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260926103000 +0000" stop="20260926105000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260926105000 +0000" stop="20260926112000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260926105000 +0000" stop="20260926110000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926113000 +0000" channel="silkway">
+    <title>New Time</title>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926113000 +0000" channel="silkway">
+    <title>Новое время</title>
+  </programme>
+  <programme start="20260926113000 +0000" stop="20260926120000 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260926113000 +0000" stop="20260926115000 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260926115000 +0000" stop="20260926122000 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260926115000 +0000" stop="20260926121500 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260926121500 +0000" stop="20260926124500 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260926121500 +0000" stop="20260926123500 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260926123500 +0000" stop="20260926130500 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260926123500 +0000" stop="20260926124500 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260926124500 +0000" stop="20260926131500 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260926124500 +0000" stop="20260926133000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260926133000 +0000" stop="20260926135000 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260926135000 +0000" stop="20260926142000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260926135000 +0000" stop="20260926140000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="silkway">
+    <title>New Time</title>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="silkway">
+    <title>Новое время</title>
+  </programme>
+  <programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260926143000 +0000" stop="20260926145000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260926145000 +0000" stop="20260926152000 +0000" channel="silkway">
+    <title>Inside AI</title>
+  </programme>
+  <programme start="20260926145000 +0000" stop="20260926150500 +0000" channel="silkway">
+    <title>Внутри ИИ</title>
+  </programme>
+  <programme start="20260926150500 +0000" stop="20260926153500 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260926150500 +0000" stop="20260926153000 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926154000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260926154000 +0000" stop="20260926161000 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260926154000 +0000" stop="20260926160000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="silkway">
+    <title>Зеленый рубеж/ Green frontier</title>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="silkway">
+    <title>Green frontier</title>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="silkway">
+    <title>Зеленый рубеж</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="silkway">
+    <title>New Time</title>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="silkway">
+    <title>Новое время</title>
+  </programme>
+  <programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="silkway">
+    <title>Zaman Trend</title>
+  </programme>
+  <programme start="20260926173000 +0000" stop="20260926175500 +0000" channel="silkway">
+    <title>Заман тренд</title>
+  </programme>
+  <programme start="20260926175500 +0000" stop="20260926182500 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260926175500 +0000" stop="20260926181500 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260926181500 +0000" stop="20260926184500 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260926181500 +0000" stop="20260926190000 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926193000 +0000" channel="silkway">
+    <title>Anthem of the Republic of Kazakhstan</title>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926190500 +0000" channel="silkway">
+    <title>Государственный гимн Республики Казахстан</title>
+  </programme>
+  <programme start="20260926190500 +0000" stop="20260926193500 +0000" channel="silkway">
+    <title>Reporter With President</title>
+  </programme>
+  <programme start="20260926190500 +0000" stop="20260926192000 +0000" channel="silkway">
+    <title>Репортер с Президентом</title>
+  </programme>
+  <programme start="20260926192000 +0000" stop="20260926195000 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260926192000 +0000" stop="20260926193500 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260926193500 +0000" stop="20260926200500 +0000" channel="silkway">
+    <title>Sporting marvels</title>
+  </programme>
+  <programme start="20260926193500 +0000" stop="20260926200000 +0000" channel="silkway">
+    <title>Спортивные чудеса</title>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926203000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926201500 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260926201500 +0000" stop="20260926204500 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260926201500 +0000" stop="20260926203000 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260926203000 +0000" stop="20260926210000 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260926203000 +0000" stop="20260926205000 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260926205000 +0000" stop="20260926212000 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260926205000 +0000" stop="20260926211000 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260926211000 +0000" stop="20260926214000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260926211000 +0000" stop="20260926214000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260926214000 +0000" stop="20260926221000 +0000" channel="silkway">
+    <title>Art focus</title>
+  </programme>
+  <programme start="20260926214000 +0000" stop="20260926215500 +0000" channel="silkway">
+    <title>Арт-фокус</title>
+  </programme>
+  <programme start="20260926215500 +0000" stop="20260926222500 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260926215500 +0000" stop="20260926221500 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260926221500 +0000" stop="20260926224500 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260926221500 +0000" stop="20260926223000 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260926223000 +0000" stop="20260926230000 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260926223000 +0000" stop="20260926225000 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260926225000 +0000" stop="20260926232000 +0000" channel="silkway">
+    <title>Hello, Kazakhstan</title>
+  </programme>
+  <programme start="20260926225000 +0000" stop="20260926232000 +0000" channel="silkway">
+    <title>Привет, Казахстан</title>
+  </programme>
+  <programme start="20260926232000 +0000" stop="20260926235000 +0000" channel="silkway">
+    <title>Guardians of the Legacy</title>
+  </programme>
+  <programme start="20260926232000 +0000" stop="20260926234500 +0000" channel="silkway">
+    <title>Хранители истории</title>
+  </programme>
+  <programme start="20260926234500 +0000" stop="20260927001500 +0000" channel="silkway">
+    <title>School of Nomads</title>
+  </programme>
+  <programme start="20260926234500 +0000" stop="20260927001500 +0000" channel="silkway">
+    <title>Школа кочевников</title>
+  </programme>
+  <programme start="20260927001500 +0000" stop="20260927004500 +0000" channel="silkway">
+    <title>Ken dala</title>
+  </programme>
+  <programme start="20260927001500 +0000" stop="20260927005000 +0000" channel="silkway">
+    <title>Кен дала</title>
+  </programme>
+  <programme start="20260927005000 +0000" stop="20260927012000 +0000" channel="silkway">
+    <title>Searching for Mystery</title>
+  </programme>
+  <programme start="20260927005000 +0000" stop="20260927012000 +0000" channel="silkway">
+    <title>В поисках тайны</title>
+  </programme>
+  <programme start="20260927012000 +0000" stop="20260927015000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260927012000 +0000" stop="20260927014000 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260927014000 +0000" stop="20260927021000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260927014000 +0000" stop="20260927015500 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260927015500 +0000" stop="20260927022500 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260927015500 +0000" stop="20260927024500 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260927024500 +0000" stop="20260927031500 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260927024500 +0000" stop="20260927030000 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260927030000 +0000" stop="20260927032500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260927032500 +0000" stop="20260927035500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260927032500 +0000" stop="20260927034000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260927034000 +0000" stop="20260927041000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260927034000 +0000" stop="20260927041000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260927041000 +0000" stop="20260927044000 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260927041000 +0000" stop="20260927043500 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260927043500 +0000" stop="20260927050500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260927043500 +0000" stop="20260927045500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260927045500 +0000" stop="20260927052500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260927045500 +0000" stop="20260927051500 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260927051500 +0000" stop="20260927054500 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260927051500 +0000" stop="20260927053500 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260927053500 +0000" stop="20260927060500 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260927053500 +0000" stop="20260927055000 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260927055000 +0000" stop="20260927062000 +0000" channel="silkway">
+    <title>Success stories of Central Asian Women</title>
+  </programme>
+  <programme start="20260927055000 +0000" stop="20260927061500 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260927061500 +0000" stop="20260927064500 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260927061500 +0000" stop="20260927063500 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260927063500 +0000" stop="20260927070500 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260927063500 +0000" stop="20260927065500 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260927065500 +0000" stop="20260927072500 +0000" channel="silkway">
+    <title>Reporter With President</title>
+  </programme>
+  <programme start="20260927065500 +0000" stop="20260927071000 +0000" channel="silkway">
+    <title>Репортер с Президентом</title>
+  </programme>
+  <programme start="20260927071000 +0000" stop="20260927074000 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260927071000 +0000" stop="20260927073500 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260927073500 +0000" stop="20260927080500 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260927073500 +0000" stop="20260927075000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260927075000 +0000" stop="20260927082000 +0000" channel="silkway">
+    <title>Silk Way music</title>
+  </programme>
+  <programme start="20260927075000 +0000" stop="20260927081500 +0000" channel="silkway">
+    <title>Музыка на Силк Вэй</title>
+  </programme>
+  <programme start="20260927081500 +0000" stop="20260927084500 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260927081500 +0000" stop="20260927083000 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260927083000 +0000" stop="20260927090000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260927083000 +0000" stop="20260927085500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260927085500 +0000" stop="20260927092500 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260927085500 +0000" stop="20260927091000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260927091000 +0000" stop="20260927094000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260927091000 +0000" stop="20260927094000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260927094000 +0000" stop="20260927101000 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260927094000 +0000" stop="20260927100500 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260927100500 +0000" stop="20260927103500 +0000" channel="silkway">
+    <title>Sense of Style</title>
+  </programme>
+  <programme start="20260927100500 +0000" stop="20260927102500 +0000" channel="silkway">
+    <title>Чувство стиля</title>
+  </programme>
+  <programme start="20260927102500 +0000" stop="20260927105500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260927102500 +0000" stop="20260927104500 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260927104500 +0000" stop="20260927111500 +0000" channel="silkway">
+    <title>Inside Family Business</title>
+  </programme>
+  <programme start="20260927104500 +0000" stop="20260927110500 +0000" channel="silkway">
+    <title>Семейный бизнес</title>
+  </programme>
+  <programme start="20260927110500 +0000" stop="20260927113500 +0000" channel="silkway">
+    <title>Living monuments</title>
+  </programme>
+  <programme start="20260927110500 +0000" stop="20260927112000 +0000" channel="silkway">
+    <title>Монументы времени</title>
+  </programme>
+  <programme start="20260927112000 +0000" stop="20260927115000 +0000" channel="silkway">
+    <title>Success stories of Central Asian Women</title>
+  </programme>
+  <programme start="20260927112000 +0000" stop="20260927114500 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260927114500 +0000" stop="20260927121500 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260927114500 +0000" stop="20260927121000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260927121000 +0000" stop="20260927124000 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260927121000 +0000" stop="20260927122500 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260927122500 +0000" stop="20260927125500 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260927122500 +0000" stop="20260927131500 +0000" channel="silkway">
+    <title>Наша история</title>
+  </programme>
+  <programme start="20260927131500 +0000" stop="20260927134500 +0000" channel="silkway">
+    <title>East-West Link</title>
+  </programme>
+  <programme start="20260927131500 +0000" stop="20260927133500 +0000" channel="silkway">
+    <title>Восток - Запад: логистика</title>
+  </programme>
+  <programme start="20260927133500 +0000" stop="20260927140500 +0000" channel="silkway">
+    <title>Kazakhstan from above</title>
+  </programme>
+  <programme start="20260927133500 +0000" stop="20260927135500 +0000" channel="silkway">
+    <title>Казахстан: воздушные прогулки</title>
+  </programme>
+  <programme start="20260927135500 +0000" stop="20260927142500 +0000" channel="silkway">
+    <title>Sporting marvels</title>
+  </programme>
+  <programme start="20260927135500 +0000" stop="20260927141500 +0000" channel="silkway">
+    <title>Спортивные чудеса</title>
+  </programme>
+  <programme start="20260927141500 +0000" stop="20260927144500 +0000" channel="silkway">
+    <title>Reporter With President</title>
+  </programme>
+  <programme start="20260927141500 +0000" stop="20260927142500 +0000" channel="silkway">
+    <title>Репортер с Президентом</title>
+  </programme>
+  <programme start="20260927142500 +0000" stop="20260927145500 +0000" channel="silkway">
+    <title>Kazakh Brand</title>
+  </programme>
+  <programme start="20260927142500 +0000" stop="20260927144500 +0000" channel="silkway">
+    <title>Казах бренд</title>
+  </programme>
+  <programme start="20260927144500 +0000" stop="20260927151500 +0000" channel="silkway">
+    <title>Taste Kazakhstan</title>
+  </programme>
+  <programme start="20260927144500 +0000" stop="20260927150000 +0000" channel="silkway">
+    <title>Национальная кухня</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="silkway">
+    <title>Open talk</title>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927152500 +0000" channel="silkway">
+    <title>Открытый разговор</title>
+  </programme>
+  <programme start="20260927152500 +0000" stop="20260927155500 +0000" channel="silkway">
+    <title>Welcome to Kazakhstan</title>
+  </programme>
+  <programme start="20260927152500 +0000" stop="20260927154000 +0000" channel="silkway">
+    <title>Добро пожаловать в Казахстан</title>
+  </programme>
+  <programme start="20260927154000 +0000" stop="20260927161000 +0000" channel="silkway">
+    <title>Culture Vibe</title>
+  </programme>
+  <programme start="20260927154000 +0000" stop="20260927160000 +0000" channel="silkway">
+    <title>Культурный вайб</title>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="silkway">
+    <title>Travel and Comfort</title>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="silkway">
+    <title>Путешествия с комфортом</title>
+  </programme>
+  <programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="silkway">
+    <title>Men’s talk</title>
+  </programme>
+  <programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="silkway">
+    <title>Мужской разговор</title>
+  </programme>
+  <programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="silkway">
+    <title>Silk Way music</title>
+  </programme>
+  <programme start="20260927170000 +0000" stop="20260927172500 +0000" channel="silkway">
+    <title>Музыка на Силк Вэй</title>
+  </programme>
+  <programme start="20260927172500 +0000" stop="20260927175500 +0000" channel="silkway">
+    <title>Success stories of Central Asian Women</title>
+  </programme>
+  <programme start="20260927172500 +0000" stop="20260927175000 +0000" channel="silkway">
+    <title>Истории успеха женщин Центральной Азии</title>
+  </programme>
+  <programme start="20260927175000 +0000" stop="20260927182000 +0000" channel="silkway">
+    <title>Faces of Science</title>
+  </programme>
+  <programme start="20260927175000 +0000" stop="20260927181000 +0000" channel="silkway">
+    <title>Лица науки</title>
+  </programme>
+  <programme start="20260927181000 +0000" stop="20260927184000 +0000" channel="silkway">
+    <title>Our History</title>
+  </programme>
+  <programme start="20260927181000 +0000" stop="20260927184000 +0000" channel="silkway">
+    <title>Наша история</title>
   </programme>
 </tv>
