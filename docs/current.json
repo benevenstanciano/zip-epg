@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
       "title": "Reflections",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "The Daily Report",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "title": "Press Perspective",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T06:00:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T10:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T10:00:00+00:00"
+      "start": "2026-09-25T10:00:00+00:00",
+      "end": "2026-09-25T12:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:00:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     },
     "next": {
-      "title": "Kirk's Folly Jewelry",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T09:00:00+00:00"
+      "title": "Inside Q With Mally -- Beauty Edition",
+      "start": "2026-09-25T09:00:00+00:00",
+      "end": "2026-09-25T10:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:00:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     },
     "next": {
-      "title": "Best of HSN",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T09:00:00+00:00"
+      "title": "Best of Fashion",
+      "start": "2026-09-25T09:00:00+00:00",
+      "end": "2026-09-25T10:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "NHK Newsline",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "title": "Grand Sumo Highlights",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T08:57:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
       "title": "Concentration",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T06:15:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "Holly Hobbie",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:29:00+00:00"
+      "title": "The InBESTigators",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "Bob and Penny Lord Present",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "title": "The Holy Rosary With Mother Angelica",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T06:00:00+00:00",
-      "end": "2026-09-24T10:00:00+00:00"
+      "start": "2026-09-25T06:00:00+00:00",
+      "end": "2026-09-25T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-09-24T10:00:00+00:00",
-      "end": "2026-09-24T14:00:00+00:00"
+      "start": "2026-09-25T10:00:00+00:00",
+      "end": "2026-09-25T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T06:00:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T10:00:00+00:00"
     },
     "next": {
-      "title": "Radiant TV",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T10:00:00+00:00"
+      "title": "Michael A. Youssef",
+      "start": "2026-09-25T10:00:00+00:00",
+      "end": "2026-09-25T10:30:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:00:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "title": "Miracle Word Today With Marilyn Hickey",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:39:00+00:00",
-      "end": "2026-09-24T09:25:00+00:00"
+      "start": "2026-09-25T07:36:00+00:00",
+      "end": "2026-09-25T09:24:00+00:00"
     },
     "next": {
-      "title": "The Great St. Louis Bank Robbery",
-      "start": "2026-09-24T09:25:00+00:00",
-      "end": "2026-09-24T11:04:00+00:00"
+      "title": "And Then There Were None",
+      "start": "2026-09-25T09:24:00+00:00",
+      "end": "2026-09-25T11:11:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     },
     "next": {
-      "title": "New Wine Church",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "title": "Jack Hibbs Real Life",
+      "start": "2026-09-25T09:00:00+00:00",
+      "end": "2026-09-25T09:30:00+00:00"
     }
   },
   "bctv": {
@@ -210,26 +210,26 @@
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "This Old House",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "title": "Yoga in Practice",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:00:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     },
     "next": {
-      "title": "Amanpour and Company",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T09:00:00+00:00"
+      "title": "Un Trip: RaúlRSalinas and the Poetry of Liberation",
+      "start": "2026-09-25T09:00:00+00:00",
+      "end": "2026-09-25T09:30:00+00:00"
     }
   },
   "skyweather": {
@@ -241,65 +241,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T09:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-09-24T09:00:00+00:00",
-      "end": "2026-09-24T09:30:00+00:00"
+      "title": "Hair Growth Secrets!",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:00:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     },
     "next": {
-      "title": "American Justice",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T09:00:00+00:00"
+      "title": "CSN Mint: 2026 July 4th Privy Declaration of Independence Quarter",
+      "start": "2026-09-25T09:00:00+00:00",
+      "end": "2026-09-25T09:30:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:00:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "Tired of Aging? Super Pill's Secret to Lasting Youth & Vitality!",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:00:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "Walk In Tubs",
-      "start": "2026-09-24T08:00:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "title": "Best Mattress Topper Ever!",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-24T07:30:00+00:00",
-      "end": "2026-09-24T08:30:00+00:00"
+      "start": "2026-09-25T08:00:00+00:00",
+      "end": "2026-09-25T08:30:00+00:00"
     },
     "next": {
-      "title": "Stories From Israel",
-      "start": "2026-09-24T08:30:00+00:00",
-      "end": "2026-09-24T09:30:00+00:00"
+      "title": "LMAO",
+      "start": "2026-09-25T08:30:00+00:00",
+      "end": "2026-09-25T09:00:00+00:00"
     }
   }
 }
