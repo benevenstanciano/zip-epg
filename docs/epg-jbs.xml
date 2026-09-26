@@ -3,202 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20260925080000 +0000" stop="20260925083000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Jennifer Breheny Wallace"</title>
-    <desc>Jennifer Breheny Wallace, New York Times bestselling author, joins Zibby Owens to explore the importance of Mattering and how small words and actions can help others feel valued while bringing greater meaning to our own lives.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925083000 +0000" stop="20260925090000 +0000" channel="jbs">
-    <title>Sukkot "Rabbi Meir Soloveichik"</title>
-    <desc>Rabbi Meir Soloveichik explores Sukkot through art and Jewish history, examining the tension between Jewish particularism and universalism and the possibility of balancing religious faith with the modern world. A program of Tikvah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925090000 +0000" stop="20260925093000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925093000 +0000" stop="20260925100000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Conspiracies Against Jews"</title>
-    <desc>Micah Halpern unpacks conspiracy theories that falsely place Jews at the center of 9/11 and other events.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925100000 +0000" stop="20260925103000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925103000 +0000" stop="20260925110000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925110000 +0000" stop="20260925120000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "From Time Immemorial: Responding to Antisemitism"</title>
-    <desc>Rabbi Ammiel Hirsch reflects on rising antisemitism, his faith in America and how American Jews should respond, urging them to remain engaged and fight for their place in the country they call home, in a Yom Kippur sermon.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925123000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925123000 +0000" stop="20260925130000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925130000 +0000" stop="20260925140000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Justin Pines in Conversation"</title>
-    <desc>Join JBS CEO Justin Pines to explore the Torah, people and historical events shaping the Jewish journey.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925140000 +0000" stop="20260925150000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonah Platt in Concert"</title>
-    <desc>Jonah Platt takes the stage in Atlanta for a special concert combining music and conversation, reflecting on his Broadway career, Jewish identity, Israel and his path from acting to Jewish advocacy, with performances from Broadway, Jewish music and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "From Time Immemorial: Responding to Antisemitism"</title>
-    <desc>Rabbi Ammiel Hirsch reflects on rising antisemitism, his faith in America and how American Jews should respond, urging them to remain engaged and fight for their place in the country they call home, in a Yom Kippur sermon.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925160000 +0000" stop="20260925163000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925163000 +0000" stop="20260925170000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925170000 +0000" stop="20260925180000 +0000" channel="jbs">
-    <title>The ISGAP Hour "Antizionism and the Campus"</title>
-    <desc>Columbia professor Shai Davidai, Professor Andrew Pessin and student leader Tali Smus examine antizionism and antisemitism on university campuses, from their ideological roots and normalization to the experiences of students confronting them.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925180000 +0000" stop="20260925190000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonah Platt in Concert"</title>
-    <desc>Jonah Platt takes the stage in Atlanta for a special concert combining music and conversation, reflecting on his Broadway career, Jewish identity, Israel and his path from acting to Jewish advocacy, with performances from Broadway, Jewish music and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925190000 +0000" stop="20260925200000 +0000" channel="jbs">
-    <title>L'Chayim "Shai HeldEpisode Pt 1"</title>
-    <desc>Shai Held, Founding President, Dean and Chair in Jewish Thought of Hadar Institute, discusses growing up with Survivor Zionist parents and how his upbringing shaped his life and Jewish journey. With Mark S. Golub. (Part 1 of 2)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925200000 +0000" stop="20260925210000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "From Time Immemorial: Responding to Antisemitism"</title>
-    <desc>Rabbi Ammiel Hirsch reflects on rising antisemitism, his faith in America and how American Jews should respond, urging them to remain engaged and fight for their place in the country they call home, in a Yom Kippur sermon.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925210000 +0000" stop="20260925213000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925213000 +0000" stop="20260925220000 +0000" channel="jbs">
-    <title>Torah Parsha "Sukkot"</title>
-    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260925220000 +0000" stop="20260925233000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat and Erev Sukkot Services"</title>
-    <desc>Live Reform Friday night and Erev Sukkot services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat and Erev Sukkot Services"</title>
-    <desc>Pre-recorded Orthodox Friday Shabbat &amp; Erev Sukkot services led by Rabbi Marc Schneier &amp; Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov &amp; the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Justin Pines in Conversation"</title>
-    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260926013000 +0000" stop="20260926023000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonah Platt in Concert"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260926023000 +0000" stop="20260926033000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat and Erev Sukkot Services"</title>
-    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox services of the Hampton Synagogue</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260926033000 +0000" stop="20260926050000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat and Erev Sukkot Services"</title>
-    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="jbs">
-    <title>Jewish 101 "Sukkot"</title>
-    <desc>For the Festival Sukkot (Festival of Booths), an explanation of the significance and the symbols of the holiday. With Rabbi Mark S. Golub z"l.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260926060000 +0000" stop="20260926073000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat and Erev Sukkot Services"</title>
-    <desc>Live Reform Friday night and Erev Sukkot services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20260926073000 +0000" stop="20260926093000 +0000" channel="jbs">
     <title>Joey Weisenberg &amp; Hadar Ensemble</title>
     <desc>A soul-stirring concert of nigunim, where ancient prayers meet new songs, masterful improvisations, and ethereal harmonies in a powerful blend of performance and ritual.</desc>
@@ -2950,6 +2754,223 @@
   <programme start="20261009080000 +0000" stop="20261009083000 +0000" channel="jbs">
     <title>Totally Booked "Zibby Owens with Dan Senor"</title>
     <desc>Dan Senor, bestselling author, podcast host and foreign policy advisor, joins Zibby Owens to discuss his book The Genius of Israel, exploring the people, culture &amp; societal bonds behind Israel's resilience &amp; its ability to endure in times of crisis.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009083000 +0000" stop="20261009090000 +0000" channel="jbs">
+    <title>A Special Look "Documentary My Beloved Son"</title>
+    <desc>Noam Demsky, Israeli director and filmmaker, discusses his documentary that follows two Yeshiva leaders as they face crisis and loss in the days following October 7th.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009090000 +0000" stop="20261009093000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009093000 +0000" stop="20261009100000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009100000 +0000" stop="20261009103000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009103000 +0000" stop="20261009110000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009110000 +0000" stop="20261009120000 +0000" channel="jbs">
+    <title>The Torah of Joy "Alex Edelman &amp; Rabbi Sharon Brous"</title>
+    <desc>Text study and conversation between comedian Alex Edelman and IKAR’s Rabbi Sharon Brous on the Torah of joy, and the power, promise and necessity of laughter in dark times.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009120000 +0000" stop="20261009123000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009123000 +0000" stop="20261009130000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Friends Producer Kevin S. Bright"</title>
+    <desc>Kevin S. Bright produced all 10 seasons of Friends. Now he's made The Bridge, following 10 young Israeli survivors of October 7th to Rock and Roll Fantasy Camp, where legendary rockers help them find their voices again</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Jonah Platt with Dara Horn"</title>
+    <desc>Dara Horn, award-winning author and scholar of Jewish literature, joins Jonah Platt for a wide-ranging conversation inspired by her new book, exploring antisemitism, Jewish identity and contemporary Jewish life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009150000 +0000" stop="20261009153000 +0000" channel="jbs">
+    <title>In The Spotlight "American Intellectual Antisemitism"</title>
+    <desc>Shai Davidai, social psychologist and author, joins Abigail Pogrebin to discuss the anti-Jewish movement he sees tearing through American universities and how October 7th turned a professor into an activist.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009153000 +0000" stop="20261009160000 +0000" channel="jbs">
+    <title>A Special Look "Documentary My Beloved Son"</title>
+    <desc>Noam Demsky, Israeli director and filmmaker, discusses his documentary that follows two Yeshiva leaders as they face crisis and loss in the days following October 7th.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009160000 +0000" stop="20261009163000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009163000 +0000" stop="20261009170000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009180000 +0000" stop="20261009190000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Jonah Platt with Dara Horn"</title>
+    <desc>Dara Horn, award-winning author and scholar of Jewish literature, joins Jonah Platt for a wide-ranging conversation inspired by her new book, exploring antisemitism, Jewish identity and contemporary Jewish life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009190000 +0000" stop="20261009200000 +0000" channel="jbs">
+    <title>L'Chayim "Jewish Historians"</title>
+    <desc>Three of American Jewry’s leading historians reflect on their chosen field which they write about in “Conversations With Colleagues.” The book’s editor Jeffrey Gurock (YU), Jonathan Sarna (Brandeis) and Shuly Rubin Schwartz (JTS).</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009200000 +0000" stop="20261009203000 +0000" channel="jbs">
+    <title>In The Spotlight "American Intellectual Antisemitism"</title>
+    <desc>Shai Davidai, social psychologist and author, joins Abigail Pogrebin to discuss the anti-Jewish movement he sees tearing through American universities and how October 7th turned a professor into an activist.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009203000 +0000" stop="20261009210000 +0000" channel="jbs">
+    <title>In The Spotlight "Stephen Spector"</title>
+    <desc>Stephen Spector, professor emeritus at Stony Brook University, scholar of the Hebrew Bible, Israel, and Christian Zionism, joins Abigail Pogrebin to discuss God and the First Families.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009210000 +0000" stop="20261009213000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009213000 +0000" stop="20261009220000 +0000" channel="jbs">
+    <title>Torah Parsha "Bereshit"</title>
+    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261009220000 +0000" stop="20261009233000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261009233000 +0000" stop="20261010003000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Friday night Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261010003000 +0000" stop="20261010013000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Friends Producer Kevin S. Bright"</title>
+    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261010013000 +0000" stop="20261010023000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Jonah Platt with Dara Horn"</title>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261010023000 +0000" stop="20261010033000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox services of the Hampton Synagogue</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261010033000 +0000" stop="20261010050000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261010050000 +0000" stop="20261010060000 +0000" channel="jbs">
+    <title>Jewish 101 "Torah Poetry"</title>
+    <desc>Is the Torah "poetry" according to the Jewish Tradition? And what is the "essence" of Torah?</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261010060000 +0000" stop="20261010073000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261010073000 +0000" stop="20261010080000 +0000" channel="jbs">
+    <title>In The Spotlight "Stephen Spector"</title>
+    <desc>Stephen Spector, professor emeritus at Stony Brook University, scholar of the Hebrew Bible, Israel, and Christian Zionism, joins Abigail Pogrebin to discuss God and the First Families.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="jbs">
+    <title>The Sovereign</title>
+    <desc>Michal Hartman from Shalom Hartman Institute explores a Jewish theology of sovereignty, asking how Israel can wield power while remaining a blessing to the world, practicing moral self-criticism and retaining distress at the use of lethal force.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
