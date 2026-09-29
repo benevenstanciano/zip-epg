@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T08:30:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T08:30:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
       "title": "Reflections",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     },
     "next": {
-      "title": "Talk Room",
-      "start": "2026-09-28T10:00:00+00:00",
-      "end": "2026-09-28T10:30:00+00:00"
+      "title": "With Science, We Live",
+      "start": "2026-09-29T10:00:00+00:00",
+      "end": "2026-09-29T10:30:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T08:00:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T08:00:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-09-28T10:00:00+00:00",
-      "end": "2026-09-28T12:00:00+00:00"
+      "start": "2026-09-29T10:00:00+00:00",
+      "end": "2026-09-29T12:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T08:00:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T08:00:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     },
     "next": {
-      "title": "Evelyn & Bobbie -- Intimates",
-      "start": "2026-09-28T10:00:00+00:00",
-      "end": "2026-09-28T11:00:00+00:00"
+      "title": "First Aid Beauty for FAB Skin",
+      "start": "2026-09-29T10:00:00+00:00",
+      "end": "2026-09-29T11:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     },
     "next": {
-      "title": "Take Care Of Yourself - Omnicare",
-      "start": "2026-09-28T10:00:00+00:00",
-      "end": "2026-09-28T11:00:00+00:00"
+      "title": "Overnight TBD",
+      "start": "2026-09-29T10:00:00+00:00",
+      "end": "2026-09-29T11:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
-      "title": "Journeys in Japan",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "title": "Medical Frontiers",
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
       "title": "Classic Concentration",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:36:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     },
     "next": {
-      "title": "Conference Report",
-      "start": "2026-09-28T09:36:00+00:00",
-      "end": "2026-09-28T09:50:00+00:00"
+      "title": "The Story Trek",
+      "start": "2026-09-29T10:00:00+00:00",
+      "end": "2026-09-29T10:30:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
-      "title": "The Quest for Shakespeare",
-      "start": "2026-09-28T10:00:00+00:00",
-      "end": "2026-09-28T10:30:00+00:00"
+      "title": "Life Is Worth Living",
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T06:00:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T06:00:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-09-28T10:00:00+00:00",
-      "end": "2026-09-28T14:00:00+00:00"
+      "start": "2026-09-29T10:00:00+00:00",
+      "end": "2026-09-29T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T08:00:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T08:00:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     },
     "next": {
-      "title": "Your Life",
-      "start": "2026-09-28T10:00:00+00:00",
-      "end": "2026-09-28T10:30:00+00:00"
+      "title": "Focus Today",
+      "start": "2026-09-29T10:00:00+00:00",
+      "end": "2026-09-29T10:30:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
       "title": "Miracles Do Happen With Apostle Wayne T. Jackson",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,27 +179,19 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T08:00:00+00:00",
-      "end": "2026-09-28T09:44:00+00:00"
+      "start": "2026-09-29T08:50:00+00:00",
+      "end": "2026-09-29T10:22:00+00:00"
     },
     "next": {
-      "title": "The Wackiest Wagon Train in the West",
-      "start": "2026-09-28T09:44:00+00:00",
-      "end": "2026-09-28T11:20:00+00:00"
+      "title": "Three Husbands",
+      "start": "2026-09-29T10:22:00+00:00",
+      "end": "2026-09-29T11:50:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
-    "current": {
-      "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
-    },
-    "next": {
-      "title": "Tree of Life",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
-    }
+    "current": null,
+    "next": null
   },
   "bctv": {
     "name": "Being Catholic TV",
@@ -210,26 +202,26 @@
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
-      "title": "Christina Cooks: Back to the Cutting Board",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "title": "The Best of the Joy of Painting",
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     },
     "next": {
-      "title": "Taco Mafia",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "title": "BBC News",
+      "start": "2026-09-29T10:00:00+00:00",
+      "end": "2026-09-29T10:30:00+00:00"
     }
   },
   "skyweather": {
@@ -241,65 +233,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
-      "title": "1776 - 2026 250th Anniversary Quarter Celebration Program",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "title": "Inogen Portable Oxygen - No More Tanks!",
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
       "title": "Paid Programming",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T09:00:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
-      "title": "CSN Mint 1776-2026 Complete 20-Coin U.S. Mint Set in ANACS MS68",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-09-28T09:00:00+00:00",
-      "end": "2026-09-28T09:30:00+00:00"
+      "start": "2026-09-29T08:30:00+00:00",
+      "end": "2026-09-29T09:30:00+00:00"
     },
     "next": {
-      "title": "The Mandylicious Kitchen",
-      "start": "2026-09-28T09:30:00+00:00",
-      "end": "2026-09-28T10:00:00+00:00"
+      "title": "Tripping Kosher",
+      "start": "2026-09-29T09:30:00+00:00",
+      "end": "2026-09-29T10:00:00+00:00"
     }
   }
 }

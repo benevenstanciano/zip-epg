@@ -3,237 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20260928090000 +0000" stop="20260928100000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Who is the Jewish Messiah? With Rabbi Ken Spiro"</title>
-    <desc>Rabbi Ken Spiro joins Justin Pines for part one of a Sukkot special on the Messiah: where the idea comes from, the checklist Mashiach must complete, why we are "late Friday afternoon" in history, and how we would know the real one.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928100000 +0000" stop="20260928103000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928103000 +0000" stop="20260928110000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928110000 +0000" stop="20260928120000 +0000" channel="jbs">
-    <title>Rabbi Sacks z"l "On Sukkot"</title>
-    <desc>The Wisdom of Rabbi Sacks z"l</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928120000 +0000" stop="20260928123000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928123000 +0000" stop="20260928130000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928130000 +0000" stop="20260928140000 +0000" channel="jbs">
-    <title>Jewish 101 "Sukkot"</title>
-    <desc>For the Festival Sukkot (Festival of Booths), an explanation of the significance and the symbols of the holiday. With Rabbi Mark S. Golub z"l.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928140000 +0000" stop="20260928150000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Rabbi Dr. Shmuly Yanklowitz"</title>
-    <desc>Justin is joined by Jewish educator, author and activist Rabbi Dr. Shmuly Yanklowitz to explore the lessons of Sukkot, the call to justice, the future of Jewish life and how joy, humility and activism intersect in Jewish tradition today.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928150000 +0000" stop="20260928160000 +0000" channel="jbs">
-    <title>The ISGAP Hour "Antizionism and the Campus"</title>
-    <desc>Columbia professor Shai Davidai, Professor Andrew Pessin and student leader Tali Smus examine antizionism and antisemitism on university campuses, from their ideological roots and normalization to the experiences of students confronting them.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928160000 +0000" stop="20260928163000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928163000 +0000" stop="20260928170000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928170000 +0000" stop="20260928180000 +0000" channel="jbs">
-    <title>Rabbi Sacks z"l "On Sukkot"</title>
-    <desc>The Wisdom of Rabbi Sacks z"l</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928180000 +0000" stop="20260928190000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonah Platt in Concert"</title>
-    <desc>Jonah Platt takes the stage in Atlanta for a special concert combining music and conversation, reflecting on his Broadway career, Jewish identity, Israel and his path from acting to Jewish advocacy, with performances from Broadway, Jewish music and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928190000 +0000" stop="20260928200000 +0000" channel="jbs">
-    <title>L'Chayim "Shai HeldEpisode Pt 1"</title>
-    <desc>Shai Held, Founding President, Dean and Chair in Jewish Thought of Hadar Institute, discusses growing up with Survivor Zionist parents and how his upbringing shaped his life and Jewish journey. With Mark S. Golub. (Part 1 of 2)</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928200000 +0000" stop="20260928210000 +0000" channel="jbs">
-    <title>Jewish 101 "Sukkot"</title>
-    <desc>For the Festival Sukkot (Festival of Booths), an explanation of the significance and the symbols of the holiday. With Rabbi Mark S. Golub z"l.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928210000 +0000" stop="20260928220000 +0000" channel="jbs">
-    <title>Rabbi Sacks z"l "On Sukkot"</title>
-    <desc>The Wisdom of Rabbi Sacks z"l</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928220000 +0000" stop="20260928223000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260928223000 +0000" stop="20260928230000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260928230000 +0000" stop="20260929000000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="jbs">
-    <title>In The Spotlight "The Woman Question in Jewish Studies"</title>
-    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Documentary Labors of Love"</title>
-    <desc>Series with Jewish Cinema Scholar Eric Goldman</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="jbs">
-    <title>L'Chayim "Actress Ayelet Zurer"</title>
-    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community. With Mark S. Golub z"l</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929020000 +0000" stop="20260929023000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929030000 +0000" stop="20260929033000 +0000" channel="jbs">
-    <title>In The Spotlight "The Woman Question in Jewish Studies"</title>
-    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929033000 +0000" stop="20260929040000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Documentary Labors of Love"</title>
-    <desc>Series with Jewish Cinema Scholar Eric Goldman</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929040000 +0000" stop="20260929050000 +0000" channel="jbs">
-    <title>L'Chayim "Actress Ayelet Zurer"</title>
-    <desc>Award-winning Israeli Actress Ayelet Zurer discusses her feelings about acting and creating art, and describes portraying the Haredi widow "Elisheva" on the hit Israeli series on Netflix, Shtisel. With Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929050000 +0000" stop="20260929053000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929060000 +0000" stop="20260929063000 +0000" channel="jbs">
-    <title>In The Spotlight "The Woman Question in Jewish Studies"</title>
-    <desc>Susannah Heschel, scholar and author, joins Abigail Pogrebin to discuss her critical examination of the obstacles women face in the field and how gender has shaped its history and culture.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929063000 +0000" stop="20260929070000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Documentary Labors of Love"</title>
-    <desc>Abby Ginzberg, director and producer, joins Eric Goldman to discuss her documentary on Henrietta Szold, founder of Hadassah and pioneering Jewish American humanitarian who helped rescue thousands of Jewish children from Nazi Europe.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929070000 +0000" stop="20260929080000 +0000" channel="jbs">
-    <title>L'Chayim "Actress Ayelet Zurer"</title>
-    <desc>Award-winning Israeli Actress Ayelet Zurer discusses her feelings about acting and creating art, and describes portraying the Haredi widow "Elisheva" on the hit Israeli series on Netflix, Shtisel. With Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="jbs">
     <title>Tahini Baby Cookbook "Eden Grinshpan in Conversation with Sarah Fennel"</title>
     <desc>Top Chef Canada host, cookbook author &amp; social media entrepreneur Eden Grinshpan celebrates her second cookbook Tahini Baby and shares her playful Middle Eastern–inspired vegetarian dishes with Broma Bakery’s Sarah Fennel. From the Streicker Center.</desc>
@@ -585,14 +354,14 @@
     </rating>
   </programme>
   <programme start="20260930223000 +0000" stop="20260930230000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "The Oldest Hatred"</title>
+    <desc>Jew hatred is the oldest hatred. Micah Halpern explains why it will not disappear.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20260930230000 +0000" stop="20260930233000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
+    <title>Defending Israel "Suzan Quitaz"</title>
     <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -627,14 +396,14 @@
     </rating>
   </programme>
   <programme start="20261001030000 +0000" stop="20261001033000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
+    <title>Defending Israel "Suzan Quitaz"</title>
     <desc>Lifelong Jewish frontline activist and JBS strategic analyst David Harris shares his perspectives of the Hamas-triggered war with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261001033000 +0000" stop="20261001040000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
+    <title>Thinking Out Loud "The Oldest Hatred"</title>
     <desc>"Thinking Out Loud" with columnist and social and political commentator, Micah Halpern ("The Micah Report"), with analysis of stories, op op-ed pieces and political cartoons in the news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -656,7 +425,7 @@
   </programme>
   <programme start="20261001060000 +0000" stop="20261001070000 +0000" channel="jbs">
     <title>Robert Siegel "Living in the Age of Longevity"</title>
-    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger, Jewish Sacred Aging founder Rabbi Richard Address, and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
+    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -711,8 +480,8 @@
     </rating>
   </programme>
   <programme start="20261001123000 +0000" stop="20261001130000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "The Oldest Hatred"</title>
+    <desc>Jew hatred is the oldest hatred. Micah Halpern explains why it will not disappear.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -733,7 +502,7 @@
   </programme>
   <programme start="20261001150000 +0000" stop="20261001160000 +0000" channel="jbs">
     <title>Robert Siegel "Living in the Age of Longevity"</title>
-    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger, Jewish Sacred Aging founder Rabbi Richard Address, and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
+    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -746,14 +515,14 @@
     </rating>
   </programme>
   <programme start="20261001163000 +0000" stop="20261001170000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "The Oldest Hatred"</title>
+    <desc>Jew hatred is the oldest hatred. Micah Halpern explains why it will not disappear.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
+    <title>Defending Israel "Suzan Quitaz"</title>
     <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -809,7 +578,7 @@
     </rating>
   </programme>
   <programme start="20261001223000 +0000" stop="20261001230000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
+    <title>Defending Israel "Suzan Quitaz"</title>
     <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -921,8 +690,8 @@
     </rating>
   </programme>
   <programme start="20261002093000 +0000" stop="20261002100000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "The Oldest Hatred"</title>
+    <desc>Jew hatred is the oldest hatred. Micah Halpern explains why it will not disappear.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -943,7 +712,7 @@
   </programme>
   <programme start="20261002110000 +0000" stop="20261002120000 +0000" channel="jbs">
     <title>Robert Siegel "Living in the Age of Longevity"</title>
-    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger, Jewish Sacred Aging founder Rabbi Richard Address, and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
+    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -956,7 +725,7 @@
     </rating>
   </programme>
   <programme start="20261002123000 +0000" stop="20261002130000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
+    <title>Defending Israel "Suzan Quitaz"</title>
     <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -998,7 +767,7 @@
     </rating>
   </programme>
   <programme start="20261002163000 +0000" stop="20261002170000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
+    <title>Defending Israel "Suzan Quitaz"</title>
     <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
