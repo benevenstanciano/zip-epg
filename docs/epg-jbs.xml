@@ -3,223 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20260930090000 +0000" stop="20260930093000 +0000" channel="jbs">
-    <title>In The Spotlight "The Woman Question in Jewish Studies"</title>
-    <desc>Susannah Heschel, scholar and author, joins Abigail Pogrebin to discuss her critical examination of the obstacles women face in the field and how gender has shaped its history and culture.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930093000 +0000" stop="20260930100000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Documentary Labors of Love"</title>
-    <desc>Abby Ginzberg, director and producer, joins Eric Goldman to discuss her documentary on Henrietta Szold, founder of Hadassah and pioneering Jewish American humanitarian who helped rescue thousands of Jewish children from Nazi Europe.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930100000 +0000" stop="20260930103000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930103000 +0000" stop="20260930110000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930110000 +0000" stop="20260930120000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930120000 +0000" stop="20260930123000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930123000 +0000" stop="20260930130000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonah Platt in Concert"</title>
-    <desc>Jonah Platt takes the stage in Atlanta for a special concert combining music and conversation, reflecting on his Broadway career, Jewish identity, Israel and his path from acting to Jewish advocacy, with performances from Broadway, Jewish music and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Simchat Torah: What Is the Torah, Really?"</title>
-    <desc>Historian Rabbi Ken Spiro traces the Torah from Sinai to today — written and oral law, the Mishnah and Talmud, moments it was nearly lost, the Dead Sea Scrolls, and how Jewish law is derived today. Part of the Sukkot &amp; Simchat Torah series.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Votes: And What If It’s Deadlocked?"</title>
-    <desc>As critical polling deadlines approach, Donniel Hartman and Yossi Klein Halevi confront the sobering reality of Israel's impending political stalemate.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930163000 +0000" stop="20260930170000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930170000 +0000" stop="20260930173000 +0000" channel="jbs">
-    <title>Sukkot "Rabbi Meir Soloveichik"</title>
-    <desc>Rabbi Meir Soloveichik explores Sukkot through art and Jewish history, examining the tension between Jewish particularism and universalism and the possibility of balancing religious faith with the modern world. A program of Tikvah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930173000 +0000" stop="20260930190000 +0000" channel="jbs">
-    <title>The Human Being and Our Possible Selves</title>
-    <desc>Yehuda Kurtzer, Shalom Hartman Institute President, explores three biblical models of humanity - creator, social being and fragile mortal - and how Jewish tradition can help us balance human potential and power with responsibility and vulnerability.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930200000 +0000" channel="jbs">
-    <title>L'Chayim "Joseph Telushkin"</title>
-    <desc>Rabbi, lecturer and best-selling author Joseph Telushkin discusses the Jewish Tradition through the lens of his book Words That Hurt, Words That Heal.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930200000 +0000" stop="20260930210000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonah Platt in Concert"</title>
-    <desc>Jonah Platt takes the stage in Atlanta for a special concert combining music and conversation, reflecting on his Broadway career, Jewish identity, Israel and his path from acting to Jewish advocacy, with performances from Broadway, Jewish music and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Votes: And What If It’s Deadlocked?"</title>
-    <desc>As critical polling deadlines approach, Donniel Hartman and Yossi Klein Halevi confront the sobering reality of Israel's impending political stalemate.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930220000 +0000" stop="20260930223000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930223000 +0000" stop="20260930230000 +0000" channel="jbs">
-    <title>Thinking Out Loud "The Oldest Hatred"</title>
-    <desc>Jew hatred is the oldest hatred. Micah Halpern explains why it will not disappear.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930230000 +0000" stop="20260930233000 +0000" channel="jbs">
-    <title>Defending Israel "Suzan Quitaz"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="jbs">
-    <title>Sukkot "Rabbi Meir Soloveichik"</title>
-    <desc>Rabbi Meir Soloveichik explores Sukkot through art and Jewish history, examining the tension between Jewish particularism and universalism and the possibility of balancing religious faith with the modern world. A program of Tikvah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001010000 +0000" channel="jbs">
-    <title>Robert Siegel "Living in the Age of Longevity"</title>
-    <desc>Legendary radio host of All Things Considered for over 30 years Robert Siegel hosts a forum, interviewing experts on vital issues and challenges in our world arising now from the global pandemic. A series from American Friends of Rabin Medical (AFRMC).</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001010000 +0000" stop="20261001023000 +0000" channel="jbs">
-    <title>L'Chayim "Riskin &amp; Brander"</title>
-    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001023000 +0000" stop="20261001030000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001030000 +0000" stop="20261001033000 +0000" channel="jbs">
-    <title>Defending Israel "Suzan Quitaz"</title>
-    <desc>Lifelong Jewish frontline activist and JBS strategic analyst David Harris shares his perspectives of the Hamas-triggered war with Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001033000 +0000" stop="20261001040000 +0000" channel="jbs">
-    <title>Thinking Out Loud "The Oldest Hatred"</title>
-    <desc>"Thinking Out Loud" with columnist and social and political commentator, Micah Halpern ("The Micah Report"), with analysis of stories, op op-ed pieces and political cartoons in the news.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001040000 +0000" stop="20261001053000 +0000" channel="jbs">
-    <title>L'Chayim "Riskin &amp; Brander"</title>
-    <desc>The founding dean and Chancellor Emeritus of Ohr Torah Stone educational institutions, Shlomo Riskin, and the new President of Ohr Torah Stone, Kenneth Brander, share their perspectives on women in Judaism and the essence of Torah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001053000 +0000" stop="20261001060000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001060000 +0000" stop="20261001070000 +0000" channel="jbs">
-    <title>Robert Siegel "Living in the Age of Longevity"</title>
-    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001070000 +0000" stop="20261001083000 +0000" channel="jbs">
-    <title>L'Chayim "Riskin &amp; Brander"</title>
-    <desc>The founding dean and Chancellor Emeritus of Ohr Torah Stone educational institutions, Shlomo Riskin, and the new President of Ohr Torah Stone, Kenneth Brander, share their perspectives on women in Judaism and the essence of Torah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261001083000 +0000" stop="20261001090000 +0000" channel="jbs">
-    <title>Sukkot "Rabbi Meir Soloveichik"</title>
-    <desc>Rabbi Meir Soloveichik explores Sukkot through art and Jewish history, examining the tension between Jewish particularism and universalism and the possibility of balancing religious faith with the modern world. A program of Tikvah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261001090000 +0000" stop="20261001100000 +0000" channel="jbs">
     <title>Jewish Insights with Justin Pines "Simchat Torah: What Is the Torah, Really?"</title>
     <desc>Historian Rabbi Ken Spiro traces the Torah from Sinai to today — written and oral law, the Mishnah and Talmud, moments it was nearly lost, the Dead Sea Scrolls, and how Jewish law is derived today. Part of the Sukkot &amp; Simchat Torah series.</desc>
@@ -3013,6 +2796,209 @@
   <programme start="20261014090000 +0000" stop="20261014093000 +0000" channel="jbs">
     <title>In The Spotlight "Zionism in Crisis"</title>
     <desc>Rabbi Zachary Truboff, author of Zionism in Crisis: Jewish Power and Moral Responsibility After October 7, joins Abigail Pogrebin to discuss how the war has tested Zionism's founding ideals and what it means to wield Jewish power while staying morally accountable</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014093000 +0000" stop="20261014100000 +0000" channel="jbs">
+    <title>In The Spotlight "American Intellectual Antisemitism"</title>
+    <desc>Shai Davidai, social psychologist and author, joins Abigail Pogrebin to discuss the anti-Jewish movement he sees tearing through American universities and how October 7th turned a professor into an activist.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014100000 +0000" stop="20261014103000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014103000 +0000" stop="20261014110000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014110000 +0000" stop="20261014120000 +0000" channel="jbs">
+    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
+    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014120000 +0000" stop="20261014123000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="jbs">
+    <title>ILTV Insider</title>
+    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014130000 +0000" stop="20261014140000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Jonah Platt with Dara Horn"</title>
+    <desc>Dara Horn, award-winning author and scholar of Jewish literature, joins Jonah Platt for a wide-ranging conversation inspired by her new book, exploring antisemitism, Jewish identity and contemporary Jewish life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014140000 +0000" stop="20261014150000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "The Real West Bank with Tuvia Tenenbom"</title>
+    <desc>The Real West Bank with Tuvia Tenenbom</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014150000 +0000" stop="20261014160000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014160000 +0000" stop="20261014163000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014163000 +0000" stop="20261014170000 +0000" channel="jbs">
+    <title>ILTV Insider</title>
+    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014170000 +0000" stop="20261014190000 +0000" channel="jbs">
+    <title>Noah's Flood &amp; Climate Change</title>
+    <desc>Panels discuss the Biblical story of the Flood and how it relates to contemporary challenges of climate change. By the Congregation for Humanistic Judaism (Fairfield, Ct) &amp; the Fed of Upper Fairfield County at Sacred Heart University (Fairfield).</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014190000 +0000" stop="20261014200000 +0000" channel="jbs">
+    <title>L'Chayim "David Renzer"</title>
+    <desc>Former Chairman &amp; CEO of Universal Music Publishing, David Renzer, explains how he formed “Creative Community for Peace” to build bridges with Palestinians, to support artistic freedom and to counter the cultural boycott of Israel . With Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014200000 +0000" stop="20261014210000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Jonah Platt with Dara Horn"</title>
+    <desc>Dara Horn, award-winning author and scholar of Jewish literature, joins Jonah Platt for a wide-ranging conversation inspired by her new book, exploring antisemitism, Jewish identity and contemporary Jewish life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014210000 +0000" stop="20261014220000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014220000 +0000" stop="20261014223000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014223000 +0000" stop="20261014230000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014230000 +0000" stop="20261014233000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261014233000 +0000" stop="20261015000000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Dan Senor"</title>
+    <desc>Dan Senor, bestselling author and podcast host joins Zibby Owens to discuss, The Genius of Israel, his book exploring the people, culture and societal bonds behind Israel's resilience and its ability to endure in times of crisis.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015000000 +0000" stop="20261015010000 +0000" channel="jbs">
+    <title>The ISGAP Hour "Antizionism, Antisemitism &amp; the Law"</title>
+    <desc>The ISGAP Hour is a series on antisemitism from ISGAP.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015010000 +0000" stop="20261015023000 +0000" channel="jbs">
+    <title>L'Chayim "Dan Almagor-Tel Saki"</title>
+    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community. With Mark S. Golub z"l</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015023000 +0000" stop="20261015030000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015030000 +0000" stop="20261015033000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>Lifelong Jewish frontline activist and JBS strategic analyst David Harris shares his perspectives of the Hamas-triggered war with Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015040000 +0000" stop="20261015053000 +0000" channel="jbs">
+    <title>L'Chayim "Dan Almagor-Tel Saki"</title>
+    <desc>On October 25, 1973, the Yom Kippur War ended in a cease fire. Dan Almagor describes the heroic defense of the IDF on the Golan Heights at the start of the war which prevented the Syrian Army from overrunning the north of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015053000 +0000" stop="20261015060000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015060000 +0000" stop="20261015070000 +0000" channel="jbs">
+    <title>The ISGAP Hour "Antizionism, Antisemitism &amp; the Law"</title>
+    <desc>Adam Louis-Klein examines the history and evolution of antizionism and its relationship to antisemitism, while legal scholars Andrea Martin and Rona Kaufman explore discrimination against Jews and the legal and policy tools available to confront it.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015070000 +0000" stop="20261015083000 +0000" channel="jbs">
+    <title>L'Chayim "Dan Almagor-Tel Saki"</title>
+    <desc>On October 25, 1973, the Yom Kippur War ended in a cease fire. Dan Almagor describes the heroic defense of the IDF on the Golan Heights at the start of the war which prevented the Syrian Army from overrunning the north of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015090000 +0000" channel="jbs">
+    <title>JBS Film Festival "Yom Kippur War"</title>
+    <desc>The inspiring story of Yeshivat Har Etzion during the Yom Kippur War, highlighting the resilience, sacrifice, and profound losses experienced by its students and Rashei Yeshiva during a pivotal moment in Israel's history.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015100000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "The Real West Bank with Tuvia Tenenbom"</title>
+    <desc>The Real West Bank with Tuvia Tenenbom</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
