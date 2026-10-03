@@ -3,202 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261002090000 +0000" stop="20261002093000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002093000 +0000" stop="20261002100000 +0000" channel="jbs">
-    <title>Thinking Out Loud "The Oldest Hatred"</title>
-    <desc>Jew hatred is the oldest hatred. Micah Halpern explains why it will not disappear.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002100000 +0000" stop="20261002103000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002103000 +0000" stop="20261002110000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002110000 +0000" stop="20261002120000 +0000" channel="jbs">
-    <title>Robert Siegel "Living in the Age of Longevity"</title>
-    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002120000 +0000" stop="20261002123000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002123000 +0000" stop="20261002130000 +0000" channel="jbs">
-    <title>Defending Israel "Suzan Quitaz"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002130000 +0000" stop="20261002140000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Simchat Torah: What Is the Torah, Really?"</title>
-    <desc>Historian Rabbi Ken Spiro traces the Torah from Sinai to today — written and oral law, the Mishnah and Talmud, moments it was nearly lost, the Dead Sea Scrolls, and how Jewish law is derived today. Part of the Sukkot &amp; Simchat Torah series.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002140000 +0000" stop="20261002150000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mosab Hassan Yousef"</title>
-    <desc>Mosab Hassan Yousef, son of a Hamas co-founder and former Shin Bet informant known as “The Green Prince,” joins Jonah Platt for a live conversation recorded at the Jewish American Summit in Los Angeles.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002150000 +0000" stop="20261002153000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Annabelle Gurwitch"</title>
-    <desc>Actress and bestselling author Annabelle Gurwitch joins Zibby Owens to discuss her hilarious, heartbreaking new book, The End of My Life Is Killing Me, on aging, mortality, and finding humor in life's hardest realities.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002153000 +0000" stop="20261002160000 +0000" channel="jbs">
-    <title>Sukkot "Rabbi Meir Soloveichik"</title>
-    <desc>Rabbi Meir Soloveichik explores Sukkot through art and Jewish history, examining the tension between Jewish particularism and universalism and the possibility of balancing religious faith with the modern world. A program of Tikvah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002160000 +0000" stop="20261002163000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002163000 +0000" stop="20261002170000 +0000" channel="jbs">
-    <title>Defending Israel "Suzan Quitaz"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002170000 +0000" stop="20261002180000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Votes: And What If It’s Deadlocked?"</title>
-    <desc>As critical polling deadlines approach, Donniel Hartman and Yossi Klein Halevi confront the sobering reality of Israel's impending political stalemate.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002180000 +0000" stop="20261002190000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mosab Hassan Yousef"</title>
-    <desc>Mosab Hassan Yousef, son of a Hamas co-founder and former Shin Bet informant known as “The Green Prince,” joins Jonah Platt for a live conversation recorded at the Jewish American Summit in Los Angeles.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002190000 +0000" stop="20261002200000 +0000" channel="jbs">
-    <title>L'Chayim "Becoming Jewish in FSU"</title>
-    <desc>Rabbi Aryeh Katzin, Exec. Dir. Of RAJE (Russian American Jewish Experience), describes how we became one of the early leaders of the Jewish Refusnik Movement in the Moscow and his experiences with Yosef Begun and Yulie Edelstein. With Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002200000 +0000" stop="20261002203000 +0000" channel="jbs">
-    <title>In The Spotlight "The Woman Question in Jewish Studies"</title>
-    <desc>Susannah Heschel, scholar and author, joins Abigail Pogrebin to discuss her critical examination of the obstacles women face in the field and how gender has shaped its history and culture.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002203000 +0000" stop="20261002210000 +0000" channel="jbs">
-    <title>Sukkot "Rabbi Meir Soloveichik"</title>
-    <desc>Rabbi Meir Soloveichik explores Sukkot through art and Jewish history, examining the tension between Jewish particularism and universalism and the possibility of balancing religious faith with the modern world. A program of Tikvah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002210000 +0000" stop="20261002213000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261002213000 +0000" stop="20261002220000 +0000" channel="jbs">
-    <title>Torah Parsha "Shemini - Atzeret"</title>
-    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261002220000 +0000" stop="20261002233000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Simchat Torah Service"</title>
-    <desc>Live Reform Simchat Torah service led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261002233000 +0000" stop="20261003003000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat and Sh'mini Atzeret Evening Services"</title>
-    <desc>Pre-recorded Orthodox Shabbat and Sh'mini Atzeret Services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261003003000 +0000" stop="20261003013000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Simchat Torah: What Is the Torah, Really?"</title>
-    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261003013000 +0000" stop="20261003023000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mosab Hassan Yousef"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261003023000 +0000" stop="20261003033000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat and Sh'mini Atzeret Evening Services"</title>
-    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox services of the Hampton Synagogue</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261003033000 +0000" stop="20261003050000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Simchat Torah Service"</title>
-    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261003050000 +0000" stop="20261003060000 +0000" channel="jbs">
-    <title>Jewish 101 "Torah Poetry"</title>
-    <desc>Is the Torah "poetry" according to the Jewish Tradition? And what is the "essence" of Torah?</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261003060000 +0000" stop="20261003073000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Simchat Torah Service"</title>
-    <desc>Live Reform Simchat Torah service led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20261003073000 +0000" stop="20261003090000 +0000" channel="jbs">
     <title>The Human Being and Our Possible Selves</title>
     <desc>Yehuda Kurtzer, Shalom Hartman Institute President, explores three biblical models of humanity - creator, social being and fragile mortal - and how Jewish tradition can help us balance human potential and power with responsibility and vulnerability.</desc>
@@ -3006,6 +2810,216 @@
   <programme start="20261016090000 +0000" stop="20261016093000 +0000" channel="jbs">
     <title>Defending Israel "David Harris"</title>
     <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016093000 +0000" stop="20261016100000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016100000 +0000" stop="20261016103000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016110000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016110000 +0000" stop="20261016120000 +0000" channel="jbs">
+    <title>The ISGAP Hour "Antizionism, Antisemitism &amp; the Law"</title>
+    <desc>Adam Louis-Klein examines the history and evolution of antizionism and its relationship to antisemitism, while legal scholars Andrea Martin and Rona Kaufman explore discrimination against Jews and the legal and policy tools available to confront it.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016120000 +0000" stop="20261016123000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016123000 +0000" stop="20261016130000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "The Real West Bank with Tuvia Tenenbom"</title>
+    <desc>The Real West Bank with Tuvia Tenenbom</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016140000 +0000" stop="20261016150000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Being Jewish with Jonah Platt"</title>
+    <desc>Dara Horn, award-winning author and scholar of Jewish literature, returns to continue her conversation with Jonah Platt</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016150000 +0000" stop="20261016153000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Emma Brodie"</title>
+    <desc>Emma Brodie, author of the Reese’s Book Club pick Into the Blue, joins Zibby Owens to discuss her novel about young love, life’s “what ifs,” the film and television world, and the process of writing it.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016153000 +0000" stop="20261016160000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "Hallelujah - Leonard Cohen'"</title>
+    <desc>Directors Dan Geller and Dayna Goldfine discuss Hallelujah: Leonard Cohen, A Journey, A Song, their documentary that explores the life and career of Jewish singer/songwriter Leonard Cohen through the prism of his internationally renowned hymn.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016160000 +0000" stop="20261016163000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016170000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Being Jewish with Jonah Platt"</title>
+    <desc>Dara Horn, award-winning author and scholar of Jewish literature, returns to continue her conversation with Jonah Platt</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="jbs">
+    <title>L'Chayim "Fauda Star Lior Raz"</title>
+    <desc>The co-creator and star of the hit Israeli series on Netflix, Fauda, discusses how the action series draws a sharp distinction between Palestinian violence and the Israeli response while portraying the humanity of both societies. With Mark S.Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261016200000 +0000" stop="20261016203000 +0000" channel="jbs">
+    <title>In The Spotlight "Zionism in Crisis"</title>
+    <desc>Rabbi Zachary Truboff, author of Zionism in Crisis: Jewish Power and Moral Responsibility After October 7, joins Abigail Pogrebin to discuss how the war has tested Zionism's founding ideals and what it means to wield Jewish power while staying morally accountable</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016203000 +0000" stop="20261016210000 +0000" channel="jbs">
+    <title>In The Spotlight "Devora Steinmetz"</title>
+    <desc>Abigail Pogrebin is joined by Jewish scholar and author Devora Steinmetz to discuss ideas from her book Why Rain Comes From Above, which explores how imaginative religious reading can deepen our understanding of life, the world and God.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016210000 +0000" stop="20261016213000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016213000 +0000" stop="20261016220000 +0000" channel="jbs">
+    <title>Torah Parsha "Noach"</title>
+    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261016220000 +0000" stop="20261016233000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261016233000 +0000" stop="20261017003000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Friday night Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261017003000 +0000" stop="20261017013000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "The Real West Bank with Tuvia Tenenbom"</title>
+    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261017013000 +0000" stop="20261017023000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Being Jewish with Jonah Platt"</title>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261017023000 +0000" stop="20261017033000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox services of the Hampton Synagogue</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261017033000 +0000" stop="20261017050000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261017050000 +0000" stop="20261017053000 +0000" channel="jbs">
+    <title>Jewish 101 "The Rambam"</title>
+    <desc>Learn about the greatest legal authority and philosopher of Jewish history, the Rambam, Moses Maimonides, in an ongoing discussion of how the Jewish tradition is all about "people."</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261017053000 +0000" stop="20261017060000 +0000" channel="jbs">
+    <title>Torah Parsha "Noach"</title>
+    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261017060000 +0000" stop="20261017073000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261017073000 +0000" stop="20261017080000 +0000" channel="jbs">
+    <title>In The Spotlight "Devora Steinmetz"</title>
+    <desc>Abigail Pogrebin is joined by Jewish scholar and author Devora Steinmetz to discuss ideas from her book Why Rain Comes From Above, which explores how imaginative religious reading can deepen our understanding of life, the world and God.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261017080000 +0000" stop="20261017100000 +0000" channel="jbs">
+    <title>Noah's Flood &amp; Climate Change</title>
+    <desc>Panels discuss the Biblical story of the Flood and how it relates to contemporary challenges of climate change. By the Congregation for Humanistic Judaism (Fairfield, Ct) &amp; the Fed of Upper Fairfield County at Sacred Heart University (Fairfield).</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
