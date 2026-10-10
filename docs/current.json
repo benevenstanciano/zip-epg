@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     },
     "next": {
-      "title": "Kingdom Connection With Jentezen Franklin",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "Reflections",
+      "start": "2026-10-10T10:00:00+00:00",
+      "end": "2026-10-10T10:30:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:00:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "K-Culture Minutes: K-People",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:15:00+00:00"
+      "title": "Simply K-Pop 2026",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:30:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T08:00:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T08:00:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T12:00:00+00:00"
+      "start": "2026-10-10T10:00:00+00:00",
+      "end": "2026-10-10T12:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:00:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T08:00:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     },
     "next": {
-      "title": "Belle by Kim Gravel -- Fashion",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T11:00:00+00:00"
+      "title": "Skechers",
+      "start": "2026-10-10T10:00:00+00:00",
+      "end": "2026-10-10T11:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:00:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     },
     "next": {
-      "title": "Vince Camuto Collection - All On Free Shipping",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T11:00:00+00:00"
+      "title": "Great Gifts",
+      "start": "2026-10-10T10:00:00+00:00",
+      "end": "2026-10-10T11:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:10:00+00:00",
+      "end": "2026-10-10T09:40:00+00:00"
     },
     "next": {
-      "title": "NHK News 7",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "Storyland",
+      "start": "2026-10-10T09:40:00+00:00",
+      "end": "2026-10-10T09:50:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "Press Your Luck",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:00:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     },
     "next": {
-      "title": "The Story Trek",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "All-Round Champion",
+      "start": "2026-10-10T10:00:00+00:00",
+      "end": "2026-10-10T11:00:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "The Choices We Face",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "Catholics Come Home",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T06:00:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T06:00:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T14:00:00+00:00"
+      "start": "2026-10-10T10:00:00+00:00",
+      "end": "2026-10-10T14:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T08:00:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "Discerning Our Days",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "Truth for Today: Dr. Neal Jackson",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "International Fellowship of Christians and Jews",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "Miracles Do Happen With Apostle Wayne T. Jackson",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T08:49:00+00:00",
-      "end": "2026-10-09T10:44:00+00:00"
+      "start": "2026-10-10T08:00:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     },
     "next": {
-      "title": "Little Lord Fauntleroy",
-      "start": "2026-10-09T10:44:00+00:00",
-      "end": "2026-10-09T12:36:00+00:00"
+      "title": "Dangerous Assignment",
+      "start": "2026-10-10T10:00:00+00:00",
+      "end": "2026-10-10T10:30:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "Through the Bible with Les Feldick",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "Impact Gospel Centre",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "bctv": {
@@ -210,26 +210,26 @@
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "Baby Makes 3",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "The Best of the Joy of Painting",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     },
     "next": {
-      "title": "BBC News",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "The Whitney Reynolds Show",
+      "start": "2026-10-10T10:00:00+00:00",
+      "end": "2026-10-10T10:30:00+00:00"
     }
   },
   "skyweather": {
@@ -241,65 +241,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T11:00:00+00:00"
     },
     "next": {
       "title": "Paid Programming",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "start": "2026-10-10T11:00:00+00:00",
+      "end": "2026-10-10T11:30:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:00:00+00:00",
-      "end": "2026-10-09T11:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-10-09T11:00:00+00:00",
-      "end": "2026-10-09T11:30:00+00:00"
+      "title": "Emma: Natural Relief for Bloating, Constipation & Gut Imbalance",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "Amazing Facts With Doug Batchelor",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T10:30:00+00:00"
+      "title": "CSN Mint: 2026 U.S. Silver Proof Set PF70",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-10-09T09:30:00+00:00",
-      "end": "2026-10-09T10:00:00+00:00"
+      "start": "2026-10-10T09:00:00+00:00",
+      "end": "2026-10-10T09:30:00+00:00"
     },
     "next": {
-      "title": "Total Body Sculpt Plus",
-      "start": "2026-10-09T10:00:00+00:00",
-      "end": "2026-10-09T11:00:00+00:00"
+      "title": "You Bet Your Life",
+      "start": "2026-10-10T09:30:00+00:00",
+      "end": "2026-10-10T10:00:00+00:00"
     }
   }
 }
