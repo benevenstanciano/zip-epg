@@ -3,223 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261016070000 +0000" stop="20261016080000 +0000" channel="jbs">
-    <title>L'Chayim "Fauda Star Lior Raz"</title>
-    <desc>The co-creator and star of the hit Israeli series on Netflix, Fauda, discusses how the action series draws a sharp distinction between Palestinian violence and the Israeli response while portraying the humanity of both societies. With Mark S.Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261016080000 +0000" stop="20261016083000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Emma Brodie"</title>
-    <desc>Emma Brodie, author of the Reese’s Book Club pick Into the Blue, joins Zibby Owens to discuss her novel about young love, life’s “what ifs,” the film and television world, and the process of writing it.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016083000 +0000" stop="20261016090000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Hallelujah - Leonard Cohen'"</title>
-    <desc>Directors Dan Geller and Dayna Goldfine discuss Hallelujah: Leonard Cohen, A Journey, A Song, their documentary that explores the life and career of Jewish singer/songwriter Leonard Cohen through the prism of his internationally renowned hymn.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016090000 +0000" stop="20261016093000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016093000 +0000" stop="20261016100000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Election Season"</title>
-    <desc>Micah Halpern offers his perspective on election season in Israel and the U.S., examining possible outcomes and what they could mean for the Jewish world.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016100000 +0000" stop="20261016103000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016103000 +0000" stop="20261016110000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016110000 +0000" stop="20261016120000 +0000" channel="jbs">
-    <title>The ISGAP Hour "Antizionism, Antisemitism &amp; the Law"</title>
-    <desc>Adam Louis-Klein examines the history and evolution of antizionism and its relationship to antisemitism, while legal scholars Andrea Martin and Rona Kaufman explore discrimination against Jews and the legal and policy tools available to confront it.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016120000 +0000" stop="20261016123000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016123000 +0000" stop="20261016130000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Real West Bank with Tuvia Tenenbom"</title>
-    <desc>The Real West Bank with Tuvia Tenenbom</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016140000 +0000" stop="20261016150000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonathan Neman (CEO Sweetgreen)"</title>
-    <desc>Jonathan Neman, Sweetgreen co-founder and CEO and son of Persian Jews who fled Iran, joins Jonah Platt to discuss building Sweetgreen, the Cyclospora outbreak, and earning consumer trust.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016150000 +0000" stop="20261016153000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Emma Brodie"</title>
-    <desc>Emma Brodie, author of the Reese’s Book Club pick Into the Blue, joins Zibby Owens to discuss her novel about young love, life’s “what ifs,” the film and television world, and the process of writing it.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016153000 +0000" stop="20261016160000 +0000" channel="jbs">
-    <title>Remembering October 7</title>
-    <desc>Rabbi Ammiel Hirsch reflects on the anniversary of October 7 from the bimah of Stephen Wise Free Synagogue in New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016160000 +0000" stop="20261016163000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016163000 +0000" stop="20261016170000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonathan Neman (CEO Sweetgreen)"</title>
-    <desc>Jonathan Neman, Sweetgreen co-founder and CEO and son of Persian Jews who fled Iran, joins Jonah Platt to discuss building Sweetgreen, the Cyclospora outbreak, and earning consumer trust.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="jbs">
-    <title>L'Chayim "Fauda Star Lior Raz"</title>
-    <desc>The co-creator and star of the hit Israeli series on Netflix, Fauda, discusses how the action series draws a sharp distinction between Palestinian violence and the Israeli response while portraying the humanity of both societies. With Mark S.Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261016200000 +0000" stop="20261016203000 +0000" channel="jbs">
-    <title>In The Spotlight "Zionism in Crisis"</title>
-    <desc>Rabbi Zachary Truboff, author of Zionism in Crisis: Jewish Power and Moral Responsibility After October 7, joins Abigail Pogrebin to discuss how the war has tested Zionism's founding ideals and what it means to wield Jewish power while staying morally accountable</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016203000 +0000" stop="20261016210000 +0000" channel="jbs">
-    <title>Remembering October 7</title>
-    <desc>Rabbi Ammiel Hirsch reflects on the anniversary of October 7 from the bimah of Stephen Wise Free Synagogue in New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016210000 +0000" stop="20261016213000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016213000 +0000" stop="20261016220000 +0000" channel="jbs">
-    <title>Torah Parsha "Noach"</title>
-    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261016220000 +0000" stop="20261016233000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261016233000 +0000" stop="20261017003000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>Pre-recorded Orthodox Friday night Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261017003000 +0000" stop="20261017013000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Real West Bank with Tuvia Tenenbom"</title>
-    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261017013000 +0000" stop="20261017023000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Jonathan Neman (CEO Sweetgreen)"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261017023000 +0000" stop="20261017033000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox services of the Hampton Synagogue</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261017033000 +0000" stop="20261017050000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261017050000 +0000" stop="20261017053000 +0000" channel="jbs">
-    <title>Jewish 101 "The Rambam"</title>
-    <desc>Learn about the greatest legal authority and philosopher of Jewish history, the Rambam, Moses Maimonides, in an ongoing discussion of how the Jewish tradition is all about "people."</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261017053000 +0000" stop="20261017060000 +0000" channel="jbs">
-    <title>Torah Parsha "Noach"</title>
-    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
   <programme start="20261017060000 +0000" stop="20261017073000 +0000" channel="jbs">
     <title>Central Synagogue "Reform Shabbat Service"</title>
     <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
@@ -389,15 +172,15 @@
     </rating>
   </programme>
   <programme start="20261018050000 +0000" stop="20261018060000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Being Jewish with Jonah Platt"</title>
-    <desc>Dara Horn, award-winning author and scholar of Jewish literature, returns to continue her conversation with Jonah Platt</desc>
+    <title>Being Jewish with Jonah Platt "Jonathan Neman (CEO Sweetgreen)"</title>
+    <desc>Jonathan Neman, Sweetgreen co-founder and CEO and son of Persian Jews who fled Iran, joins Jonah Platt to discuss building Sweetgreen, the Cyclospora outbreak, and earning consumer trust.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261018060000 +0000" stop="20261018063000 +0000" channel="jbs">
-    <title>In The Spotlight "American Intellectual Antisemitism"</title>
-    <desc>Shai Davidai, social psychologist and author, joins Abigail Pogrebin to discuss the anti-Jewish movement he sees tearing through American universities and how October 7th turned a professor into an activist.</desc>
+    <title>Rabbi Hirsch "Remembering October 7"</title>
+    <desc>Rabbi Ammiel Hirsch reflects on the anniversary of October 7 from the bimah of Stephen Wise Free Synagogue in New York City.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -438,22 +221,22 @@
     </rating>
   </programme>
   <programme start="20261018110000 +0000" stop="20261018120000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Being Jewish with Jonah Platt"</title>
-    <desc>Dara Horn, award-winning author and scholar of Jewish literature, returns to continue her conversation with Jonah Platt</desc>
+    <title>Being Jewish with Jonah Platt "Jonathan Neman (CEO Sweetgreen)"</title>
+    <desc>Jonathan Neman, Sweetgreen co-founder and CEO and son of Persian Jews who fled Iran, joins Jonah Platt to discuss building Sweetgreen, the Cyclospora outbreak, and earning consumer trust.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261018120000 +0000" stop="20261018123000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Dr. Alexander Oscar"</title>
+    <desc>David Harris interviews Dr. Alexander Oscar in Sofia to discuss Bulgarian Jewish history, the rescue of 50,000 Jews in WWII, NEGEV (Friends of Israel) and fighting modern antisemitism.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261018123000 +0000" stop="20261018130000 +0000" channel="jbs">
-    <title>In The Spotlight "Anthony Julius on Abraham the First Jew"</title>
-    <desc>Abby Pogrebin is joined by Anthony Julius to discuss his new biography of Judaism’s foundational figure, Abraham, and the origins of a fundamental Jewish struggle with contradictions throughout history.</desc>
+    <title>Rabbi Hirsch "Remembering October 7"</title>
+    <desc>Rabbi Ammiel Hirsch reflects on the anniversary of October 7 from the bimah of Stephen Wise Free Synagogue in New York City.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -508,8 +291,8 @@
     </rating>
   </programme>
   <programme start="20261018200000 +0000" stop="20261018210000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "It's Still October 7"</title>
+    <desc>Donniel Hartman and Yossi Klein Halevi face an uncomfortable truth: for Israelis, October 7 is not a memory but a lens.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -522,8 +305,8 @@
     </rating>
   </programme>
   <programme start="20261018213000 +0000" stop="20261018220000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Dr. Alexander Oscar"</title>
+    <desc>David Harris interviews Dr. Alexander Oscar in Sofia to discuss Bulgarian Jewish history, the rescue of 50,000 Jews in WWII, NEGEV (Friends of Israel) and fighting modern antisemitism.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -725,8 +508,8 @@
     </rating>
   </programme>
   <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Being Jewish with Jonah Platt"</title>
-    <desc>Dara Horn, award-winning author and scholar of Jewish literature, returns to continue her conversation with Jonah Platt</desc>
+    <title>Being Jewish with Jonah Platt "Jonathan Neman (CEO Sweetgreen)"</title>
+    <desc>Jonathan Neman, Sweetgreen co-founder and CEO and son of Persian Jews who fled Iran, joins Jonah Platt to discuss building Sweetgreen, the Cyclospora outbreak, and earning consumer trust.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -773,16 +556,9 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261020003000 +0000" channel="jbs">
+  <programme start="20261020000000 +0000" stop="20261020010000 +0000" channel="jbs">
     <title>In The Spotlight "Amichai Lau-Lavie"</title>
     <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261020003000 +0000" stop="20261020010000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Hallelujah - Leonard Cohen'"</title>
-    <desc>Series with Jewish Cinema Scholar Eric Goldman</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -809,8 +585,8 @@
     </rating>
   </programme>
   <programme start="20261020030000 +0000" stop="20261020040000 +0000" channel="jbs">
-    <title>For Heaven's Sake "The Post October 7 Jew"</title>
-    <desc>For Heaven’s Sake, hosted by Donniel Hartman and Yossi Klein Halevi, draws its name from the Jewish concept of machloket l’shem shemayim which means disagreeing for the sake of heaven, discussing the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>In The Spotlight "Amichai Lau-Lavie"</title>
+    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -836,16 +612,9 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261020060000 +0000" stop="20261020063000 +0000" channel="jbs">
+  <programme start="20261020060000 +0000" stop="20261020070000 +0000" channel="jbs">
     <title>In The Spotlight "Amichai Lau-Lavie"</title>
-    <desc>Rabbi Amichai Lau-Lavie in conversation with Abigail Pogrebin</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261020063000 +0000" stop="20261020070000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Hallelujah - Leonard Cohen'"</title>
-    <desc>Directors Dan Geller and Dayna Goldfine discuss Hallelujah: Leonard Cohen, A Journey, A Song, their documentary that explores the life and career of Jewish singer/songwriter Leonard Cohen through the prism of his internationally renowned hymn.</desc>
+    <desc>After nearly 30 years in NYC, Lab/Shul founder Rabbi Amichai Lau-Lavie joins Abigail Pogrebin before returning to Israel to talk human rights, the intermarriage stance that cost him the Rabbinical Assembly, and the Israeli-Palestinian conflict.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -885,16 +654,9 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261020110000 +0000" stop="20261020113000 +0000" channel="jbs">
+  <programme start="20261020110000 +0000" stop="20261020120000 +0000" channel="jbs">
     <title>In The Spotlight "Amichai Lau-Lavie"</title>
-    <desc>Rabbi Amichai Lau-Lavie in conversation with Abigail Pogrebin</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261020113000 +0000" stop="20261020120000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Guy Nattiv"</title>
-    <desc>Eric Goldman speaks with Guy Nattiv, Israeli director of Golda, the 2023 film starring Helen Mirren and Liev Schreiber that depicts the life of Israel’s first and only female Prime Minister, Golda Meir, particularly during the Yom Kippur War.</desc>
+    <desc>After nearly 30 years in NYC, Lab/Shul founder Rabbi Amichai Lau-Lavie joins Abigail Pogrebin before returning to Israel to talk human rights, the intermarriage stance that cost him the Rabbinical Assembly, and the Israeli-Palestinian conflict.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -934,16 +696,9 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261020150000 +0000" stop="20261020153000 +0000" channel="jbs">
+  <programme start="20261020150000 +0000" stop="20261020160000 +0000" channel="jbs">
     <title>In The Spotlight "Amichai Lau-Lavie"</title>
-    <desc>Rabbi Amichai Lau-Lavie in conversation with Abigail Pogrebin</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261020153000 +0000" stop="20261020160000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Sabbath Queen"</title>
-    <desc>Filmmaker Sandi DuBowski and Rabbi Amichau Lau-Lavie sit with Eric to discuss Sabbath Queen, their epic documentary that follows Lau-Lavie’s 20-year journey from radical drag queen to influential Rabbi of a God-optional, artist-driven synagogue.</desc>
+    <desc>After nearly 30 years in NYC, Lab/Shul founder Rabbi Amichai Lau-Lavie joins Abigail Pogrebin before returning to Israel to talk human rights, the intermarriage stance that cost him the Rabbinical Assembly, and the Israeli-Palestinian conflict.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1019,14 +774,14 @@
     </rating>
   </programme>
   <programme start="20261020230000 +0000" stop="20261021000000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Votes: World Jewry - The Invisible Stockholders"</title>
+    <desc>Donniel Hartman and Yossi Klein Halevi compare how Israelis and diaspora Jews view the election, exploring their differing fears and hopes and asking whether Israel sees world Jewry as essential to its future.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261021000000 +0000" stop="20261021010000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
     <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1047,7 +802,7 @@
     </rating>
   </programme>
   <programme start="20261021030000 +0000" stop="20261021040000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
     <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1068,8 +823,8 @@
     </rating>
   </programme>
   <programme start="20261021060000 +0000" stop="20261021070000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
-    <desc>Description: Justin Pines in conversation with Judah Mischel.</desc>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
+    <desc>Rabbi Judah Mischel joins Justin Pines on his new two-volume Baderech: Along the Path of the Torah. Chasidic stories, mussar and practical wisdom for every parsha, plus why he says the Torah portion is better than the morning news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1082,22 +837,15 @@
     </rating>
   </programme>
   <programme start="20261021083000 +0000" stop="20261021090000 +0000" channel="jbs">
-    <title>In The Spotlight "Anthony Julius on Abraham the First Jew"</title>
-    <desc>Abby Pogrebin is joined by Anthony Julius to discuss his new biography of Judaism’s foundational figure, Abraham, and the origins of a fundamental Jewish struggle with contradictions throughout history.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="jbs">
-    <title>In The Spotlight "Amichai Lau-Lavie"</title>
-    <desc>Rabbi Amichai Lau-Lavie in conversation with Abigail Pogrebin</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="jbs">
     <title>Jewish Cinematheque "Sabbath Queen"</title>
     <desc>Filmmaker Sandi DuBowski and Rabbi Amichau Lau-Lavie sit with Eric to discuss Sabbath Queen, their epic documentary that follows Lau-Lavie’s 20-year journey from radical drag queen to influential Rabbi of a God-optional, artist-driven synagogue.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021100000 +0000" channel="jbs">
+    <title>In The Spotlight "Amichai Lau-Lavie"</title>
+    <desc>After nearly 30 years in NYC, Lab/Shul founder Rabbi Amichai Lau-Lavie joins Abigail Pogrebin before returning to Israel to talk human rights, the intermarriage stance that cost him the Rabbinical Assembly, and the Israeli-Palestinian conflict.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1138,22 +886,22 @@
     </rating>
   </programme>
   <programme start="20261021130000 +0000" stop="20261021140000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Being Jewish with Jonah Platt"</title>
-    <desc>Dara Horn, award-winning author and scholar of Jewish literature, returns to continue her conversation with Jonah Platt</desc>
+    <title>Being Jewish with Jonah Platt "Jonathan Neman (CEO Sweetgreen)"</title>
+    <desc>Jonathan Neman, Sweetgreen co-founder and CEO and son of Persian Jews who fled Iran, joins Jonah Platt to discuss building Sweetgreen, the Cyclospora outbreak, and earning consumer trust.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261021140000 +0000" stop="20261021150000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
-    <desc>Description: Justin Pines in conversation with Judah Mischel.</desc>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
+    <desc>Rabbi Judah Mischel joins Justin Pines on his new two-volume Baderech: Along the Path of the Torah. Chasidic stories, mussar and practical wisdom for every parsha, plus why he says the Torah portion is better than the morning news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261021150000 +0000" stop="20261021160000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Votes: World Jewry - The Invisible Stockholders"</title>
+    <desc>Donniel Hartman and Yossi Klein Halevi compare how Israelis and diaspora Jews view the election, exploring their differing fears and hopes and asking whether Israel sees world Jewry as essential to its future.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1194,8 +942,8 @@
     </rating>
   </programme>
   <programme start="20261021203000 +0000" stop="20261021213000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Being Jewish with Jonah Platt"</title>
-    <desc>Dara Horn, award-winning author and scholar of Jewish literature, returns to continue her conversation with Jonah Platt</desc>
+    <title>Being Jewish with Jonah Platt "Jonathan Neman (CEO Sweetgreen)"</title>
+    <desc>Jonathan Neman, Sweetgreen co-founder and CEO and son of Persian Jews who fled Iran, joins Jonah Platt to discuss building Sweetgreen, the Cyclospora outbreak, and earning consumer trust.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1215,8 +963,8 @@
     </rating>
   </programme>
   <programme start="20261021223000 +0000" stop="20261021230000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Azerbaijan is the perfect Ally"</title>
+    <desc>Micah Halpern Micah explains how Azerbaijan became such a close ally of Israel and why.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1228,23 +976,9 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261021233000 +0000" stop="20261022000000 +0000" channel="jbs">
-    <title>JBS Film Festival "Yom Kippur War"</title>
-    <desc>The inspiring story of Yeshivat Har Etzion during the Yom Kippur War, highlighting the resilience, sacrifice, and profound losses experienced by its students and Rashei Yeshiva during a pivotal moment in Israel's history.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="jbs">
-    <title>Unpacked Israel</title>
-    <desc>Short videos that celebrate and explore issues relating to Israel and Zionism today</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261022003000 +0000" stop="20261022010000 +0000" channel="jbs">
-    <title>Unpacked Israel</title>
-    <desc>Short videos that celebrate and explore issues relating to Israel and Zionism today</desc>
+  <programme start="20261021233000 +0000" stop="20261022010000 +0000" channel="jbs">
+    <title>Israeli Elections 2026</title>
+    <desc>Representatives of nine Israeli political parties came together at ANU – Museum of the Jewish People to answer a question that matters to Jews everywhere: what is Israel's relationship with, and responsibility toward, the global Jewish people?</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1271,7 +1005,7 @@
     </rating>
   </programme>
   <programme start="20261022033000 +0000" stop="20261022040000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
+    <title>Thinking Out Loud "Azerbaijan is the perfect Ally"</title>
     <desc>"Thinking Out Loud" with columnist and social and political commentator, Micah Halpern ("The Micah Report"), with analysis of stories, op op-ed pieces and political cartoons in the news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1312,7 +1046,7 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261022083000 +0000" stop="20261022093000 +0000" channel="jbs">
+  <programme start="20261022083000 +0000" stop="20261022090000 +0000" channel="jbs">
     <title>In The Spotlight "Francine Klagsbrun"</title>
     <desc>Abigail Pogrebin is joined by author Francine Klagsbrun to discuss her book that uses letters, diaries, and other archival documents to trace the life and legacy of Hadassah founder and Zionist icon, Henrietta Szold.</desc>
     <rating system="MPAA">
@@ -1320,8 +1054,8 @@
     </rating>
   </programme>
   <programme start="20261022090000 +0000" stop="20261022100000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
-    <desc>Description: Justin Pines in conversation with Judah Mischel.</desc>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
+    <desc>Rabbi Judah Mischel joins Justin Pines on his new two-volume Baderech: Along the Path of the Torah. Chasidic stories, mussar and practical wisdom for every parsha, plus why he says the Torah portion is better than the morning news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1341,8 +1075,8 @@
     </rating>
   </programme>
   <programme start="20261022110000 +0000" stop="20261022120000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Votes: World Jewry - The Invisible Stockholders"</title>
+    <desc>Donniel Hartman and Yossi Klein Halevi compare how Israelis and diaspora Jews view the election, exploring their differing fears and hopes and asking whether Israel sees world Jewry as essential to its future.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1355,8 +1089,8 @@
     </rating>
   </programme>
   <programme start="20261022123000 +0000" stop="20261022130000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Azerbaijan is the perfect Ally"</title>
+    <desc>Micah Halpern Micah explains how Azerbaijan became such a close ally of Israel and why.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1368,23 +1102,16 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261022140000 +0000" stop="20261022150000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+  <programme start="20261022140000 +0000" stop="20261022143000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Dan Senor"</title>
+    <desc>Dan Senor, bestselling author and podcast host joins Zibby Owens to discuss, The Genius of Israel, his book exploring the people, culture and societal bonds behind Israel's resilience and its ability to endure in times of crisis.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261022150000 +0000" stop="20261022153000 +0000" channel="jbs">
-    <title>JBS Film Festival "Yom Kippur War"</title>
-    <desc>The inspiring story of Yeshivat Har Etzion during the Yom Kippur War, highlighting the resilience, sacrifice, and profound losses experienced by its students and Rashei Yeshiva during a pivotal moment in Israel's history.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="jbs">
-    <title>Unpacked Israel</title>
-    <desc>Short videos that celebrate and explore issues relating to Israel and Zionism today</desc>
+  <programme start="20261022143000 +0000" stop="20261022160000 +0000" channel="jbs">
+    <title>Israeli Elections 2026</title>
+    <desc>Representatives of nine Israeli political parties came together at ANU – Museum of the Jewish People to answer a question that matters to Jews everywhere: what is Israel's relationship with, and responsibility toward, the global Jewish people?</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1397,8 +1124,8 @@
     </rating>
   </programme>
   <programme start="20261022163000 +0000" stop="20261022170000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Azerbaijan is the perfect Ally"</title>
+    <desc>Micah Halpern Micah explains how Azerbaijan became such a close ally of Israel and why.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1411,22 +1138,15 @@
     </rating>
   </programme>
   <programme start="20261022173000 +0000" stop="20261022180000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Guy Nattiv"</title>
-    <desc>Eric Goldman speaks with Guy Nattiv, Israeli director of Golda, the 2023 film starring Helen Mirren and Liev Schreiber that depicts the life of Israel’s first and only female Prime Minister, Golda Meir, particularly during the Yom Kippur War.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261022180000 +0000" stop="20261022183000 +0000" channel="jbs">
     <title>Jewish Cinematheque "Sabbath Queen"</title>
     <desc>Filmmaker Sandi DuBowski and Rabbi Amichau Lau-Lavie sit with Eric to discuss Sabbath Queen, their epic documentary that follows Lau-Lavie’s 20-year journey from radical drag queen to influential Rabbi of a God-optional, artist-driven synagogue.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261022183000 +0000" stop="20261022190000 +0000" channel="jbs">
+  <programme start="20261022180000 +0000" stop="20261022190000 +0000" channel="jbs">
     <title>In The Spotlight "Amichai Lau-Lavie"</title>
-    <desc>Rabbi Amichai Lau-Lavie in conversation with Abigail Pogrebin</desc>
+    <desc>After nearly 30 years in NYC, Lab/Shul founder Rabbi Amichai Lau-Lavie joins Abigail Pogrebin before returning to Israel to talk human rights, the intermarriage stance that cost him the Rabbinical Assembly, and the Israeli-Palestinian conflict.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1481,7 +1201,7 @@
     </rating>
   </programme>
   <programme start="20261023000000 +0000" stop="20261023010000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh,"</title>
+    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
     <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1508,8 +1228,8 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261023030000 +0000" stop="20261023033000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh,"</title>
+  <programme start="20261023030000 +0000" stop="20261023040000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
     <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1537,7 +1257,7 @@
     </rating>
   </programme>
   <programme start="20261023060000 +0000" stop="20261023070000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh,"</title>
+    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
     <desc>Tovah Feldshuh, six-time Emmy and Tony nominee and star of Netflix’s returning Nobody Wants This, joins Jonah Platt in conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1572,8 +1292,8 @@
     </rating>
   </programme>
   <programme start="20261023093000 +0000" stop="20261023100000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Azerbaijan is the perfect Ally"</title>
+    <desc>Micah Halpern Micah explains how Azerbaijan became such a close ally of Israel and why.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1621,14 +1341,14 @@
     </rating>
   </programme>
   <programme start="20261023130000 +0000" stop="20261023140000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
-    <desc>Description: Justin Pines in conversation with Judah Mischel.</desc>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
+    <desc>Rabbi Judah Mischel joins Justin Pines on his new two-volume Baderech: Along the Path of the Torah. Chasidic stories, mussar and practical wisdom for every parsha, plus why he says the Torah portion is better than the morning news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261023140000 +0000" stop="20261023150000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh,"</title>
+    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
     <desc>Tovah Feldshuh, six-time Emmy and Tony nominee and star of Netflix’s returning Nobody Wants This, joins Jonah Platt in conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1663,14 +1383,14 @@
     </rating>
   </programme>
   <programme start="20261023170000 +0000" stop="20261023180000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Votes: World Jewry - The Invisible Stockholders"</title>
+    <desc>Donniel Hartman and Yossi Klein Halevi compare how Israelis and diaspora Jews view the election, exploring their differing fears and hopes and asking whether Israel sees world Jewry as essential to its future.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261023180000 +0000" stop="20261023190000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh,"</title>
+    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
     <desc>Tovah Feldshuh, six-time Emmy and Tony nominee and star of Netflix’s returning Nobody Wants This, joins Jonah Platt in conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1683,16 +1403,9 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20261023200000 +0000" stop="20261023203000 +0000" channel="jbs">
+  <programme start="20261023200000 +0000" stop="20261023210000 +0000" channel="jbs">
     <title>In The Spotlight "Amichai Lau-Lavie"</title>
-    <desc>Rabbi Amichai Lau-Lavie in conversation with Abigail Pogrebin</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261023203000 +0000" stop="20261023210000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Sabbath Queen"</title>
-    <desc>Filmmaker Sandi DuBowski and Rabbi Amichau Lau-Lavie sit with Eric to discuss Sabbath Queen, their epic documentary that follows Lau-Lavie’s 20-year journey from radical drag queen to influential Rabbi of a God-optional, artist-driven synagogue.</desc>
+    <desc>After nearly 30 years in NYC, Lab/Shul founder Rabbi Amichai Lau-Lavie joins Abigail Pogrebin before returning to Israel to talk human rights, the intermarriage stance that cost him the Rabbinical Assembly, and the Israeli-Palestinian conflict.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1726,14 +1439,14 @@
     </rating>
   </programme>
   <programme start="20261024003000 +0000" stop="20261024013000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
     <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261024013000 +0000" stop="20261024023000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh,"</title>
+    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
     <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1824,8 +1537,8 @@
     </rating>
   </programme>
   <programme start="20261024123000 +0000" stop="20261024133000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
-    <desc>Description: Justin Pines in conversation with Judah Mischel.</desc>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
+    <desc>Rabbi Judah Mischel joins Justin Pines on his new two-volume Baderech: Along the Path of the Torah. Chasidic stories, mussar and practical wisdom for every parsha, plus why he says the Torah portion is better than the morning news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1866,15 +1579,15 @@
     </rating>
   </programme>
   <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel"</title>
-    <desc>Description: Justin Pines in conversation with Judah Mischel.</desc>
+    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
+    <desc>Rabbi Judah Mischel joins Justin Pines on his new two-volume Baderech: Along the Path of the Torah. Chasidic stories, mussar and practical wisdom for every parsha, plus why he says the Torah portion is better than the morning news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261024210000 +0000" stop="20261024220000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Votes: World Jewry - The Invisible Stockholders"</title>
+    <desc>Donniel Hartman and Yossi Klein Halevi compare how Israelis and diaspora Jews view the election, exploring their differing fears and hopes and asking whether Israel sees world Jewry as essential to its future.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1886,16 +1599,9 @@
       <value>TV-G</value>
     </rating>
   </programme>
-  <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="jbs">
+  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="jbs">
     <title>In The Spotlight "Amichai Lau-Lavie"</title>
-    <desc>Rabbi Amichai Lau-Lavie in conversation with Abigail Pogrebin</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261024233000 +0000" stop="20261025000000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Sabbath Queen"</title>
-    <desc>Filmmaker Sandi DuBowski and Rabbi Amichau Lau-Lavie sit with Eric to discuss Sabbath Queen, their epic documentary that follows Lau-Lavie’s 20-year journey from radical drag queen to influential Rabbi of a God-optional, artist-driven synagogue.</desc>
+    <desc>After nearly 30 years in NYC, Lab/Shul founder Rabbi Amichai Lau-Lavie joins Abigail Pogrebin before returning to Israel to talk human rights, the intermarriage stance that cost him the Rabbinical Assembly, and the Israeli-Palestinian conflict.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1922,14 +1628,14 @@
     </rating>
   </programme>
   <programme start="20261025020000 +0000" stop="20261025030000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh,"</title>
+    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
     <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261025030000 +0000" stop="20261025040000 +0000" channel="jbs">
-    <title>Central Synagogue Concert "Sing A Little More"</title>
+  <programme start="20261025030000 +0000" stop="20261025043000 +0000" channel="jbs">
+    <title>Israeli Elections 2026</title>
     <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -3107,6 +2813,216 @@
   <programme start="20261030070000 +0000" stop="20261030080000 +0000" channel="jbs">
     <title>L'Chayim "Fauda Star Yaakov Daniel"</title>
     <desc>Yaakov Daniel, who plays a leading role in the hit Israeli series Fauda about an Israeli unit that must deal with Palestinian terrorists on the West Bank, describes his personal story and his feelings for the series seen on Netflix. With Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030080000 +0000" stop="20261030083000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Francesca Fontana"</title>
+    <desc>Francesca Fontana joins Zibby Owens to discuss The Family Snitch, her memoir about investigating her own parents and uncovering long-held family secrets.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030083000 +0000" stop="20261030090000 +0000" channel="jbs">
+    <title>Rabbi Sacks on the Holocaust "The Big Questions"</title>
+    <desc>The 2016 Templeton Prize Laureate, Rabbi Lord Jonathan Sacks, brings his Jewish wisdom and insights to the big questions that shape how we live and what we believe.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030090000 +0000" stop="20261030093000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030093000 +0000" stop="20261030100000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030100000 +0000" stop="20261030103000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030103000 +0000" stop="20261030110000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030110000 +0000" stop="20261030120000 +0000" channel="jbs">
+    <title>The ISGAP Hour "Education, Institutions &amp; Resilience: Powers, Parcles, Amsel &amp; Berkovits"</title>
+    <desc>Explore how education and institutions can confront antisemitism and strengthen Jewish resilience, with April Powers on inclusion, Austin Parcels on campus safety in Canada, and Lawrence Amsel and Balazs Berkovits on resilience in academic life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030120000 +0000" stop="20261030123000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030123000 +0000" stop="20261030130000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030130000 +0000" stop="20261030140000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Allison Josephs"</title>
+    <desc>Justin Pines in Conversation with Allison Josephs</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030140000 +0000" stop="20261030150000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Gad Saad"</title>
+    <desc>Gad Saad, Lebanese-born Jewish evolutionary behavioral scientist, author of Suicidal Empathy and host of The Saad Truth, joins Jonah Platt in conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030150000 +0000" stop="20261030153000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Francesca Fontana"</title>
+    <desc>Francesca Fontana joins Zibby Owens to discuss The Family Snitch, her memoir about investigating her own parents and uncovering long-held family secrets.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030153000 +0000" stop="20261030160000 +0000" channel="jbs">
+    <title>Rabbi Sacks on the Holocaust "The Big Questions"</title>
+    <desc>The 2016 Templeton Prize Laureate, Rabbi Lord Jonathan Sacks, brings his Jewish wisdom and insights to the big questions that shape how we live and what we believe.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030160000 +0000" stop="20261030163000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030163000 +0000" stop="20261030170000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030170000 +0000" stop="20261030180000 +0000" channel="jbs">
+    <title>The ISGAP Hour "Education, Institutions &amp; Resilience: Powers, Parcles, Amsel &amp; Berkovits"</title>
+    <desc>Explore how education and institutions can confront antisemitism and strengthen Jewish resilience, with April Powers on inclusion, Austin Parcels on campus safety in Canada, and Lawrence Amsel and Balazs Berkovits on resilience in academic life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030180000 +0000" stop="20261030190000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Gad Saad"</title>
+    <desc>Gad Saad, Lebanese-born Jewish evolutionary behavioral scientist, author of Suicidal Empathy and host of The Saad Truth, joins Jonah Platt in conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030190000 +0000" stop="20261030200000 +0000" channel="jbs">
+    <title>L'Chayim "Fauda Star Yaakov Daniel"</title>
+    <desc>Yaakov Daniel, who plays a leading role in the hit Israeli series Fauda about an Israeli unit that must deal with Palestinian terrorists on the West Bank, describes his personal story and his feelings for the series seen on Netflix. With Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030200000 +0000" stop="20261030203000 +0000" channel="jbs">
+    <title>In The Spotlight "Letty Cottin Pogrebin"</title>
+    <desc>Abigail Pogrebin in conversation with Letty Cottin Pogrebin.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030203000 +0000" stop="20261030210000 +0000" channel="jbs">
+    <title>Rabbi Hirsch "Weekly Sermon"</title>
+    <desc>Rabbi Ammiel Hirsch delivers a sermon to his congregation of the Stephen Wise Free Synagogue in New York City</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030210000 +0000" stop="20261030213000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030213000 +0000" stop="20261030220000 +0000" channel="jbs">
+    <title>Torah Parsha "Vayera"</title>
+    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261030220000 +0000" stop="20261030233000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261030233000 +0000" stop="20261031003000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Friday night Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261031003000 +0000" stop="20261031013000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Allison Josephs"</title>
+    <desc>Join JBS CEO Justin Pines to explore the Torah, people and historical events shaping the Jewish journey.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261031013000 +0000" stop="20261031023000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Gad Saad"</title>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261031023000 +0000" stop="20261031033000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox services of the Hampton Synagogue</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261031033000 +0000" stop="20261031050000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261031050000 +0000" stop="20261031060000 +0000" channel="jbs">
+    <title>Jewish 101 "Preparing for Sinai"</title>
+    <desc>A dramatic telling of what it was like for the Children of Israel to stand at "Sinai" to hear the voice of God, and how the rabbis explain that each person "heard" God in his own way that day.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261031060000 +0000" stop="20261031073000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
