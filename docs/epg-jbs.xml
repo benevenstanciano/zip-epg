@@ -3,251 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261026070000 +0000" stop="20261026083000 +0000" channel="jbs">
-    <title>L'Chayim "Yossi Beilin"</title>
-    <desc>One of Israel’s most creative career diplomats, Yossi Beilin (the architect of the Oslo Peace Process and Accords), discusses his participation in the Six Day War and the Yom Kippur War; and explains the rise and fall of Oslo. With Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026083000 +0000" stop="20261026090000 +0000" channel="jbs">
-    <title>Talmud Study "Put It To A Vote"</title>
-    <desc>The Talmudic concept of "governing" is discussed by Rabbi Mordechai Becher, senior lecturer of Gateways Organization, in an episode entitled, "Put It To A Vote."</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
-    <desc>Rabbi Judah Mischel joins Justin Pines on his new two-volume Baderech: Along the Path of the Torah. Chasidic stories, mussar and practical wisdom for every parsha, plus why he says the Torah portion is better than the morning news.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="jbs">
-    <title>Temple Emanu-El Streicker Center "Sarah Hurwitz in Conversation"</title>
-    <desc>Former White House speechwriter and author Sarah Hurwitz is joined by all-star American Jewish commentators Dara Horn, Dan Senor and Abigail Pogrebin to discuss As a Jew, her book documenting her quest to reclaim Jewish identity.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="jbs">
-    <title>Jewish 101 "Preparing for Sinai"</title>
-    <desc>A dramatic telling of what it was like for the Children of Israel to stand at "Sinai" to hear the voice of God, and how the rabbis explain that each person "heard" God in his own way that day.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Judah Mischel on the Torah"</title>
-    <desc>Rabbi Judah Mischel joins Justin Pines on his new two-volume Baderech: Along the Path of the Torah. Chasidic stories, mussar and practical wisdom for every parsha, plus why he says the Torah portion is better than the morning news.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026150000 +0000" stop="20261026160000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Votes: World Jewry - The Invisible Stockholders"</title>
-    <desc>Donniel Hartman and Yossi Klein Halevi compare how Israelis and diaspora Jews view the election, exploring their differing fears and hopes and asking whether Israel sees world Jewry as essential to its future.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026163000 +0000" stop="20261026170000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="jbs">
-    <title>Rabbi Sacks z”l "Templeton Keynote and Prize"</title>
-    <desc>The late Rabbi Lord Jonathan Sacks delivers a keynote on the dangers of outsourcing morality in the West as he accepts the 2016 Templeton Prize at a ceremony in London.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="jbs">
-    <title>Rabbi Sacks on the Holocaust "The Big Questions"</title>
-    <desc>The 2016 Templeton Prize Laureate, Rabbi Lord Jonathan Sacks, brings his Jewish wisdom and insights to the big questions that shape how we live and what we believe.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
-    <desc>Tovah Feldshuh, six-time Emmy and Tony nominee and star of Netflix’s returning Nobody Wants This, joins Jonah Platt in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="jbs">
-    <title>L'Chayim "Yossi Klein Halevi"</title>
-    <desc>Yossi Klein Halevi, Israeli journalist, author and fellow at the Shalom Hartman Institute in Jerusalem, discusses issues confronting contemporary Israel today and his book on the aftermath of the 1973 Yom Kippur War, "Like Dreamers."</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="jbs">
-    <title>Jewish 101 "Preparing for Sinai"</title>
-    <desc>A dramatic telling of what it was like for the Children of Israel to stand at "Sinai" to hear the voice of God, and how the rabbis explain that each person "heard" God in his own way that day.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026210000 +0000" stop="20261026220000 +0000" channel="jbs">
-    <title>Robert Siegel "Living in the Age of Longevity"</title>
-    <desc>Robert Siegel is joined by neurologist Dr. Felix Benninger, Professor Terrie Moffett and businessman, philanthropist and superager Justin Wyner to explore the realities of living longer.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261026223000 +0000" stop="20261026230000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261026230000 +0000" stop="20261027000000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027000000 +0000" stop="20261027003000 +0000" channel="jbs">
-    <title>In The Spotlight "Times of Israel"</title>
-    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027003000 +0000" stop="20261027010000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Comedy Yaniv"</title>
-    <desc>Series with Jewish Cinema Scholar Eric Goldman</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027010000 +0000" stop="20261027020000 +0000" channel="jbs">
-    <title>L'Chayim "Uri Regev"</title>
-    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027020000 +0000" stop="20261027023000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261027023000 +0000" stop="20261027030000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027030000 +0000" stop="20261027033000 +0000" channel="jbs">
-    <title>In The Spotlight "Times of Israel"</title>
-    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Comedy Yaniv"</title>
-    <desc>Series with Jewish Cinema Scholar Eric Goldman</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="jbs">
-    <title>L'Chayim "Uri Regev"</title>
-    <desc>Rabbi Uri Regev, Pres/CEO of “Hiddush, For Freedom or Religion &amp; Equality in Israel,” discusses Israeli reaction to the destructive ways in which the Orthodox Chief Rabbinate maintains Jewish control; and comments on the PEW Study of Israeli attitudes.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027050000 +0000" stop="20261027053000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027060000 +0000" stop="20261027063000 +0000" channel="jbs">
-    <title>In The Spotlight "Times of Israel"</title>
-    <desc>On the eve of Israel’s election, Times of Israel founding editor David Horovitz sits with Abigail Pogrebin in Jerusalem: Netanyahu and October 7th accountability, the Declaration of Independence, and why he made aliyah at 21.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027063000 +0000" stop="20261027070000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Comedy Yaniv"</title>
-    <desc>Filmmakers Amnon Carmi and Ben Ducoff join Eric Goldman to discuss Yaniv, their comedy about Bronx teachers who infiltrate an underground Hasidic card game to save a school musical.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261027070000 +0000" stop="20261027080000 +0000" channel="jbs">
-    <title>L'Chayim "Uri Regev"</title>
-    <desc>Rabbi Uri Regev, Pres/CEO of “Hiddush, For Freedom or Religion &amp; Equality in Israel,” discusses Israeli reaction to the destructive ways in which the Orthodox Chief Rabbinate maintains Jewish control; and comments on the PEW Study of Israeli attitudes.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261027080000 +0000" stop="20261027090000 +0000" channel="jbs">
     <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
     <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
@@ -571,8 +326,8 @@
     </rating>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028180000 +0000" channel="jbs">
-    <title>The Binding of Isaac</title>
-    <desc>Dr. Jacob Wisse, art historian and scholar, shows how artistic interpretations of the Binding of Isaac reveal Abraham’s inner struggle and how different eras and traditions have depicted the biblical story.</desc>
+    <title>Bruce Blakeman in Conversation</title>
+    <desc>Bruce Blakeman, Republican and Conservative candidate for governor of New York, discusses his priorities and answers questions from the audience ahead of the November election.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -592,8 +347,8 @@
     </rating>
   </programme>
   <programme start="20261028200000 +0000" stop="20261028210000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Tovah Feldshuh"</title>
-    <desc>Tovah Feldshuh, six-time Emmy and Tony nominee and star of Netflix’s returning Nobody Wants This, joins Jonah Platt in conversation.</desc>
+    <title>Bruce Blakeman in Conversation</title>
+    <desc>Bruce Blakeman, Republican and Conservative candidate for governor of New York, discusses his priorities and answers questions from the audience ahead of the November election.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -627,8 +382,8 @@
     </rating>
   </programme>
   <programme start="20261028233000 +0000" stop="20261029000000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
-    <desc>Rabbi Ammiel Hirsch delivers a sermon to his congregation of the Stephen Wise Free Synagogue in New York City</desc>
+    <title>Rabbi Hirsch "Human Choice and the Inevitability of Progress"</title>
+    <desc>In his reflection on Lech Lecha, Rabbi Ammi Hirsch explores how small moments alter history, noting that Abraham's choice to leave Haran birthed ethical monotheism, human free will, and our partnership with God.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -648,7 +403,7 @@
     </rating>
   </programme>
   <programme start="20261029020000 +0000" stop="20261029023000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
+    <title>Rabbi Hirsch "Human Choice and the Inevitability of Progress"</title>
     <desc>Rabbi Ammiel Hirsch is the senior rabbi of Stephen Wise Free Synagogue in New York City,</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -711,8 +466,8 @@
     </rating>
   </programme>
   <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="jbs">
-    <title>All About Herzl Discussion "Zionism in America"</title>
-    <desc>From Theodor Herzl’s dream of a Jewish state to the challenges Zionism faces today, prominent scholars Anita Shapira and Jonathan Sarna explore the movement’s evolving story in America in a conversation moderated by Russell Robinson.</desc>
+    <title>Bruce Blakeman in Conversation</title>
+    <desc>Bruce Blakeman, Republican and Conservative candidate for governor of New York, discusses his priorities and answers questions from the audience ahead of the November election.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -774,8 +529,8 @@
     </rating>
   </programme>
   <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="jbs">
-    <title>The Binding of Isaac</title>
-    <desc>Dr. Jacob Wisse, art historian and scholar, shows how artistic interpretations of the Binding of Isaac reveal Abraham’s inner struggle and how different eras and traditions have depicted the biblical story.</desc>
+    <title>Bruce Blakeman in Conversation</title>
+    <desc>Bruce Blakeman, Republican and Conservative candidate for governor of New York, discusses his priorities and answers questions from the audience ahead of the November election.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -802,8 +557,8 @@
     </rating>
   </programme>
   <programme start="20261029173000 +0000" stop="20261029180000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
-    <desc>Rabbi Ammiel Hirsch delivers a sermon to his congregation of the Stephen Wise Free Synagogue in New York City</desc>
+    <title>Rabbi Hirsch "Human Choice and the Inevitability of Progress"</title>
+    <desc>In his reflection on Lech Lecha, Rabbi Ammi Hirsch explores how small moments alter history, noting that Abraham's choice to leave Haran birthed ethical monotheism, human free will, and our partnership with God.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1075,8 +830,8 @@
     </rating>
   </programme>
   <programme start="20261030203000 +0000" stop="20261030210000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
-    <desc>Rabbi Ammiel Hirsch delivers a sermon to his congregation of the Stephen Wise Free Synagogue in New York City</desc>
+    <title>Rabbi Hirsch "Human Choice and the Inevitability of Progress"</title>
+    <desc>In his reflection on Lech Lecha, Rabbi Ammi Hirsch explores how small moments alter history, noting that Abraham's choice to leave Haran birthed ethical monotheism, human free will, and our partnership with God.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1159,8 +914,8 @@
     </rating>
   </programme>
   <programme start="20261031083000 +0000" stop="20261031090000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
-    <desc>Rabbi Ammiel Hirsch delivers a sermon to his congregation of the Stephen Wise Free Synagogue in New York City</desc>
+    <title>Rabbi Hirsch "Human Choice and the Inevitability of Progress"</title>
+    <desc>In his reflection on Lech Lecha, Rabbi Ammi Hirsch explores how small moments alter history, noting that Abraham's choice to leave Haran birthed ethical monotheism, human free will, and our partnership with God.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
