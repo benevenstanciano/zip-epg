@@ -3,202 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261106100000 +0000" stop="20261106103000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106103000 +0000" stop="20261106110000 +0000" channel="jbs">
-    <title>Thinking Out Loud "New Election, Same Hatred"</title>
-    <desc>Micah Halpern offers his perspective that Jew hatred around the world will not change regardless of the composition of Israel’s government.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106110000 +0000" stop="20261106113000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106113000 +0000" stop="20261106120000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="jbs">
-    <title>Legacy of Yitzhak Rabin "Dr. Hillel Ben Sasson"</title>
-    <desc>Dr. Hillel Ben Sasson (Hebrew University) explores how the achievements made by Yitzhak Rabin are being systematically undone as Israeli politics drift further to the right and Palestinian leadership becomes more intransigent</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106140000 +0000" stop="20261106150000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Comedian Turning Suffering Into Joy"</title>
-    <desc>Israeli comedian Yohay Sponder joins Justin Pines on his new Genesis tour, the cousin he lost on October 7th, why he came to see comedy as his reserve duty, and how Jews turn suffering into joy</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106150000 +0000" stop="20261106160000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mosheh Oinounou and Jake Sherman"</title>
-    <desc>Mosheh Oinounou, founder of Mo News, and Jake Sherman, co-founder of Punchbowl News, join Jonah Platt in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Laura Dave &amp; Gabrielle Korn"</title>
-    <desc>Bestselling authors Laura Dave (The First Time I Saw Him) and Gabrielle Korn (Long Island Girls ) join Zibby Owens to discuss writing, process and where inspiration begins.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106163000 +0000" stop="20261106170000 +0000" channel="jbs">
-    <title>Hannah Senesh "Remembering Hannah Senesh z"l"</title>
-    <desc>A tribute to Hannah Senesh, a Jewish heroine who gave her life trying to save Hungarian Jews from Nazi Germany, executed November 7, 1944. Katahdin Productions videos provided from an exhibit at The Museum of Jewish Heritage (NYC).</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106170000 +0000" stop="20261106173000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106173000 +0000" stop="20261106180000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106180000 +0000" stop="20261106190000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Voted: What's Next?"</title>
-    <desc>Recorded live on election night, 30 minutes after the polls closed, Donniel Hartman and Yossi Klein Halevi react to exit polls that leave Israel deadlocked</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mosheh Oinounou and Jake Sherman"</title>
-    <desc>Mosheh Oinounou, founder of Mo News, and Jake Sherman, co-founder of Punchbowl News, join Jonah Platt in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106200000 +0000" stop="20261106210000 +0000" channel="jbs">
-    <title>L'Chayim "Titi” Aynaw"</title>
-    <desc>“Titi” Aynaw discusses her journey from her hometown in Ethiopia to Aliyah to Israel, to serving in the IDF, to becoming the first Ethiopian Miss Israel in 2013. L’Chayim with Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106210000 +0000" stop="20261106213000 +0000" channel="jbs">
-    <title>In The Spotlight "Letty Cottin Pogrebin"</title>
-    <desc>Ms. founding editor Letty Cottin Pogrebin, author of Shanda and Abigail’s mother, recalls Gloria Steinem, her closest friend of 55 years, who died in September: their feminist Seder, Gloria’s Jewishness, and her posthumous memoir, An Unexpected Life.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106213000 +0000" stop="20261106220000 +0000" channel="jbs">
-    <title>Hannah Senesh "Remembering Hannah Senesh z"l"</title>
-    <desc>A tribute to Hannah Senesh, a Jewish heroine who gave her life trying to save Hungarian Jews from Nazi Germany, executed November 7, 1944. Katahdin Productions videos provided from an exhibit at The Museum of Jewish Heritage (NYC).</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106220000 +0000" stop="20261106223000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261106223000 +0000" stop="20261106230000 +0000" channel="jbs">
-    <title>Torah Parsha "Chayei Sarah"</title>
-    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261106230000 +0000" stop="20261107003000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261107003000 +0000" stop="20261107013000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>Pre-recorded Orthodox Friday night Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261107013000 +0000" stop="20261107023000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Comedian Turning Suffering Into Joy"</title>
-    <desc>Join JBS CEO Justin Pines to explore the Torah, people and historical events shaping the Jewish journey.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261107023000 +0000" stop="20261107033000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mosheh Oinounou and Jake Sherman"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261107033000 +0000" stop="20261107043000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox services of the Hampton Synagogue</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261107043000 +0000" stop="20261107060000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261107060000 +0000" stop="20261107070000 +0000" channel="jbs">
-    <title>Jewish 101 "At Sinai"</title>
-    <desc>A fascinating look at how various rabbinic midrash answer the question: What Really Happened At Sinai? is provided by Rabbi Mark S. Golub z"l</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261107070000 +0000" stop="20261107083000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261107083000 +0000" stop="20261107093000 +0000" channel="jbs">
     <title>Hope in Action "Young Israeli Leadership in a Divided World"</title>
     <desc>Ronit Heyd, VP and director of Hartman’s Center for Israeli &amp; Jewish Identity, and three alumni of its Hazon leadership program examine the future of Israeli democracy, election integrity, political culture and the role of world Jewry.</desc>
@@ -396,8 +200,8 @@
     </rating>
   </programme>
   <programme start="20261108110000 +0000" stop="20261108113000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Kerry Docherty"</title>
-    <desc>Kerry Docherty, author of Selfish and co-founder of the clothing brand Faherty, joins Zibby Owens to discuss truth-telling, choosing yourself and her call to action for women.</desc>
+    <title>Totally Booked "Zibby Owens with Laura Dave &amp; Gabrielle Korn"</title>
+    <desc>Bestselling authors Laura Dave (The First Time I Saw Him) and Gabrielle Korn (Long Island Girls ) join Zibby Owens to discuss writing, process and where inspiration begins.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -417,15 +221,15 @@
     </rating>
   </programme>
   <programme start="20261108130000 +0000" stop="20261108133000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Nora Bussigny"</title>
+    <desc>David Harris is joined by Nora Bussigny, a French investigative journalist exposing the Muslim Brotherhood infiltration in the West and giving an urgent warning to France and the United States.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "New Election, Same Hatred"</title>
+    <desc>Micah Halpern offers his perspective that Jew hatred around the world will not change regardless of the composition of Israel’s government.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -446,7 +250,7 @@
   </programme>
   <programme start="20261108150000 +0000" stop="20261108160000 +0000" channel="jbs">
     <title>A View from the Mountaintop</title>
-    <desc>Qes Efraim Zion Lawi, the first Israeli-born Qes and a spiritual leader of the Ethiopian Jewish community, explores the meaning of Sigd, its traditions of longing and renewal, and Jewish life in Ethiopia today.</desc>
+    <desc>Discover the meaning of Sigd and explore World Jewish Relief’s work in Ethiopia today in this special conversation with Qes Efraim Zion Lawi, the first Israeli-born Qes, the spiritual leader of the Ethiopian Jewish community.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -460,14 +264,14 @@
   </programme>
   <programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="jbs">
     <title>L'Chayim "Titi” Aynaw"</title>
-    <desc>“Titi” Aynaw discusses her journey from her hometown in Ethiopia to Aliyah to Israel, to serving in the IDF, to becoming the first Ethiopian Miss Israel in 2013. L'Chayim with Mark S. Golub.</desc>
+    <desc>“Titi” Aynaw discusses her journey from her hometown in Ethiopia to Aliyah to Israel, to serving in the IDF, to becoming the first Ethiopian Miss Israel in 2013. L’Chayim with Mark S. Golub.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261108180000 +0000" stop="20261108190000 +0000" channel="jbs">
     <title>A View from the Mountaintop</title>
-    <desc>Qes Efraim Zion Lawi, the first Israeli-born Qes and a spiritual leader of the Ethiopian Jewish community, explores the meaning of Sigd, its traditions of longing and renewal, and Jewish life in Ethiopia today.</desc>
+    <desc>Discover the meaning of Sigd and explore World Jewish Relief’s work in Ethiopia today in this special conversation with Qes Efraim Zion Lawi, the first Israeli-born Qes, the spiritual leader of the Ethiopian Jewish community.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -487,8 +291,8 @@
     </rating>
   </programme>
   <programme start="20261108210000 +0000" stop="20261108220000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: What's Next?"</title>
+    <desc>Recorded live on election night, 30 minutes after the polls closed, Donniel Hartman and Yossi Klein Halevi react to exit polls that leave Israel deadlocked</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -501,8 +305,8 @@
     </rating>
   </programme>
   <programme start="20261108223000 +0000" stop="20261108230000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Nora Bussigny"</title>
+    <desc>David Harris is joined by Nora Bussigny, a French investigative journalist exposing the Muslim Brotherhood infiltration in the West and giving an urgent warning to France and the United States.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -558,7 +362,7 @@
   </programme>
   <programme start="20261109070000 +0000" stop="20261109080000 +0000" channel="jbs">
     <title>A View from the Mountaintop</title>
-    <desc>Qes Efraim Zion Lawi, the first Israeli-born Qes and a spiritual leader of the Ethiopian Jewish community, explores the meaning of Sigd, its traditions of longing and renewal, and Jewish life in Ethiopia today.</desc>
+    <desc>Discover the meaning of Sigd and explore World Jewish Relief’s work in Ethiopia today in this special conversation with Qes Efraim Zion Lawi, the first Israeli-born Qes, the spiritual leader of the Ethiopian Jewish community.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -661,23 +465,23 @@
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261109180000 +0000" stop="20261109193000 +0000" channel="jbs">
-    <title>Kristallnacht Commemoration "Rafael Medoff"</title>
-    <desc>Rafael Medoff, noted historian, author and lecturer, analyzes President Roosevelt’s response to Kristallnacht and what the U.S. could have possibly done to help the Jews. From Iona University and the Holocaust &amp; Human Rights Education Center.</desc>
+  <programme start="20261109180000 +0000" stop="20261109190000 +0000" channel="jbs">
+    <title>Kristallnacht Anniversary</title>
+    <desc>Kristallnacht and the Voyage Of The St. Louis with Renate "Ronnie" Breslow, a survivor of the St Louis. The Anniversary of Kristallnacht commemorated at Congregation Netivot Shalom, Teaneck, NJ.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
-  <programme start="20261109193000 +0000" stop="20261109200000 +0000" channel="jbs">
+  <programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="jbs">
     <title>A View from the Mountaintop</title>
-    <desc>Qes Efraim Zion Lawi, the first Israeli-born Qes and a spiritual leader of the Ethiopian Jewish community, explores the meaning of Sigd, its traditions of longing and renewal, and Jewish life in Ethiopia today.</desc>
+    <desc>Discover the meaning of Sigd and explore World Jewish Relief’s work in Ethiopia today in this special conversation with Qes Efraim Zion Lawi, the first Israeli-born Qes, the spiritual leader of the Ethiopian Jewish community.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261109200000 +0000" stop="20261109210000 +0000" channel="jbs">
     <title>L'Chayim "Titi” Aynaw"</title>
-    <desc>“Titi” Aynaw discusses her journey from her hometown in Ethiopia to Aliyah to Israel, to serving in the IDF, to becoming the first Ethiopian Miss Israel in 2013. L'Chayim with Mark S. Golub.</desc>
+    <desc>“Titi” Aynaw discusses her journey from her hometown in Ethiopia to Aliyah to Israel, to serving in the IDF, to becoming the first Ethiopian Miss Israel in 2013. L’Chayim with Mark S. Golub.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -963,8 +767,8 @@
     </rating>
   </programme>
   <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
+    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1040,8 +844,8 @@
     </rating>
   </programme>
   <programme start="20261111090000 +0000" stop="20261111100000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
+    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1110,8 +914,8 @@
     </rating>
   </programme>
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
+    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1159,22 +963,22 @@
     </rating>
   </programme>
   <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
+    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261111233000 +0000" stop="20261112000000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Politics Requires Patience"</title>
+    <desc>Micah Halpern explains why politics requires patience, not revolution or fast change, and why maturity is what the United States and Israel need now.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1208,8 +1012,8 @@
     </rating>
   </programme>
   <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1222,7 +1026,7 @@
     </rating>
   </programme>
   <programme start="20261112043000 +0000" stop="20261112050000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
+    <title>Thinking Out Loud "Politics Requires Patience"</title>
     <desc>"Thinking Out Loud" with columnist and social and political commentator, Micah Halpern ("The Micah Report"), with analysis of stories, op op-ed pieces and political cartoons in the news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1285,8 +1089,8 @@
     </rating>
   </programme>
   <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
+    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1299,8 +1103,8 @@
     </rating>
   </programme>
   <programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Politics Requires Patience"</title>
+    <desc>Micah Halpern explains why politics requires patience, not revolution or fast change, and why maturity is what the United States and Israel need now.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1313,8 +1117,8 @@
     </rating>
   </programme>
   <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
+    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1334,8 +1138,8 @@
     </rating>
   </programme>
   <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Politics Requires Patience"</title>
+    <desc>Micah Halpern explains why politics requires patience, not revolution or fast change, and why maturity is what the United States and Israel need now.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1411,8 +1215,8 @@
     </rating>
   </programme>
   <programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Laura Dave and Gabrielle Korn"</title>
-    <desc>Bestselling authors Laura Dave and Gabrielle Korn join Zibby Owens live at the Zibby Retreat for Book Lovers to discuss The First Time I Saw Him and Long Island Girls.</desc>
+    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
+    <desc>NYT bestselling author Judy Batalion shares a compelling pre-WWII story of a family in a changing city, in The Last Woman of Warsaw.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1432,7 +1236,7 @@
     </rating>
   </programme>
   <programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Laura Dave and Gabrielle Korn"</title>
+    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
     <desc>Totally Booked with Zibby Owens offers interviews centered around books, authors and story creators.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1460,8 +1264,8 @@
     </rating>
   </programme>
   <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Laura Dave and Gabrielle Korn"</title>
-    <desc>Bestselling authors Laura Dave and Gabrielle Korn join Zibby Owens live at the Zibby Retreat for Book Lovers to discuss The First Time I Saw Him and Long Island Girls.</desc>
+    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
+    <desc>NYT bestselling author Judy Batalion shares a compelling pre-WWII story of a family in a changing city, in The Last Woman of Warsaw.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1488,8 +1292,8 @@
     </rating>
   </programme>
   <programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Laura Dave and Gabrielle Korn"</title>
-    <desc>Bestselling authors Laura Dave and Gabrielle Korn join Zibby Owens live at the Zibby Retreat for Book Lovers to discuss The First Time I Saw Him and Long Island Girls.</desc>
+    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
+    <desc>NYT bestselling author Judy Batalion shares a compelling pre-WWII story of a family in a changing city, in The Last Woman of Warsaw.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1509,8 +1313,8 @@
     </rating>
   </programme>
   <programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Politics Requires Patience"</title>
+    <desc>Micah Halpern explains why politics requires patience, not revolution or fast change, and why maturity is what the United States and Israel need now.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1565,8 +1369,8 @@
     </rating>
   </programme>
   <programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Laura Dave and Gabrielle Korn"</title>
-    <desc>Bestselling authors Laura Dave and Gabrielle Korn join Zibby Owens live at the Zibby Retreat for Book Lovers to discuss The First Time I Saw Him and Long Island Girls.</desc>
+    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
+    <desc>NYT bestselling author Judy Batalion shares a compelling pre-WWII story of a family in a changing city, in The Last Woman of Warsaw.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1593,8 +1397,8 @@
     </rating>
   </programme>
   <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
+    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1796,8 +1600,8 @@
     </rating>
   </programme>
   <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
+    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1831,7 +1635,7 @@
     </rating>
   </programme>
   <programme start="20261115023000 +0000" stop="20261115030000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Laura Dave and Gabrielle Korn"</title>
+    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
     <desc>Totally Booked with Zibby Owens offers interviews centered around books, authors and story creators.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -2952,6 +2756,185 @@
   <programme start="20261120100000 +0000" stop="20261120103000 +0000" channel="jbs">
     <title>Defending Israel "David Harris"</title>
     <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120103000 +0000" stop="20261120110000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120110000 +0000" stop="20261120113000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120120000 +0000" stop="20261120130000 +0000" channel="jbs">
+    <title>Hope in Action "Young Israeli Leadership in a Divided World"</title>
+    <desc>Ronit Heyd, VP and director of Hartman’s Center for Israeli &amp; Jewish Identity, and three alumni of its Hazon leadership program examine the future of Israeli democracy, election integrity, political culture and the role of world Jewry.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120140000 +0000" stop="20261120150000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Nechama Price"</title>
+    <desc>Justin Pines in conversation with Nechama Price</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
+    <desc>Jonah Platt is joined by celebrity event planner Mindy Weiss, who revisits some of her most extravagant, meaningful and challenging weddings and Bar/Bat Mitzvahs, and discusses her relationship with and falling out with Kanye West.</desc>
+  </programme>
+  <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Anne Patchet"</title>
+    <desc>Bestselling author Ann Patchett joins Zibby Owens to discuss Whistler, her new novel, about a former stepdaughter and stepfather who reconnect unexpectedly after decades apart, and the enduring connections that can defy time</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120170000 +0000" stop="20261120173000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120173000 +0000" stop="20261120180000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120180000 +0000" stop="20261120190000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120190000 +0000" stop="20261120200000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
+    <desc>Jonah Platt is joined by celebrity event planner Mindy Weiss, who revisits some of her most extravagant, meaningful and challenging weddings and Bar/Bat Mitzvahs, and discusses her relationship with and falling out with Kanye West.</desc>
+  </programme>
+  <programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="jbs">
+    <title>L'Chayim "Joy Levitt"</title>
+    <desc>Joe Levitt, Exec. Dir. of the JCC Manhattan and the former president of the Reconstructionist Rabbinical Association, discusses the nature of Jewish education for young people today and other issues confronting the future of American Jewry.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120210000 +0000" stop="20261120213000 +0000" channel="jbs">
+    <title>In The Spotlight "The Clancy Trial"</title>
+    <desc>Dr. Catherine Birndorf and Rabbi Dov Linzer join Abigail Pogrebin on the Lindsay Clancy mistrial, postpartum psychosis, and what Judaism says about guilt when the mind is impaired.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120213000 +0000" stop="20261120220000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "The Darkest Light"</title>
+    <desc>Filmmaker Simon Mendes joins Eric Goldman to discuss his documentary examining Rabbi Shlomo Carlebach’s complicated legacy through his daughter Neshama, survivors’ accounts and questions of faith, accountability and harm.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120220000 +0000" stop="20261120223000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="jbs">
+    <title>Torah Parsha "Vayeitzei"</title>
+    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261120230000 +0000" stop="20261121003000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121003000 +0000" stop="20261121013000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Friday night Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121013000 +0000" stop="20261121023000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Nechama Price"</title>
+    <desc>Join JBS CEO Justin Pines to explore the Torah, people and historical events shaping the Jewish journey.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121023000 +0000" stop="20261121033000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
+  </programme>
+  <programme start="20261121033000 +0000" stop="20261121043000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>For those unable to attend a High Holiday service in person, JBS provides the exclusive opportunity for people to share in the Orthodox services of the Hampton Synagogue</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121043000 +0000" stop="20261121060000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="jbs">
+    <title>Jewish 101 "The List!"</title>
+    <desc>Another way of understanding how the Torah was written and what it means to say that the Torah comes from God is explained in this "Jewish 101" episode, JBS' original series on Judaism and Jewish life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121070000 +0000" stop="20261121083000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121083000 +0000" stop="20261121093000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Anne Patchet"</title>
+    <desc>Bestselling author Ann Patchett joins Zibby Owens to discuss Whistler, her new novel, about a former stepdaughter and stepfather who reconnect unexpectedly after decades apart, and the enduring connections that can defy time</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
