@@ -3,237 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261109100000 +0000" stop="20261109110000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Comedian Turning Suffering Into Joy"</title>
-    <desc>Israeli comedian Yohay Sponder joins Justin Pines on his new Genesis tour, the cousin he lost on October 7th, why he came to see comedy as his reserve duty, and how Jews turn suffering into joy</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109113000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109113000 +0000" stop="20261109120000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Beejhy Barhany"</title>
-    <desc>Jonah Platt meets with Ethiopian-Israeli chef Beejhy Barhany, Harlem’s queen of Ethiopian Jewish cuisine and owner of Tsion Cafe, where she tells her community's story through food.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109130000 +0000" stop="20261109133000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109133000 +0000" stop="20261109140000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="jbs">
-    <title>Jewish 101 "Torah Response"</title>
-    <desc>A look at various midrash and at Abraham Joshua Heschel's notion that the Torah is the Jewish People's “response” to revelation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Comedian Turning Suffering Into Joy"</title>
-    <desc>Israeli comedian Yohay Sponder joins Justin Pines on his new Genesis tour, the cousin he lost on October 7th, why he came to see comedy as his reserve duty, and how Jews turn suffering into joy</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="jbs">
-    <title>L'Chayim "Hadas Yosef"</title>
-    <desc>An Ethiopian Israeli whose family made Aliyah when she was only two years old, Hadas Yosef shares her story of growing up in Israel, serving in the IDF, and encountering racism as an Ethiopian Jew.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="jbs">
-    <title>ILTV News Sunday</title>
-    <desc>ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109173000 +0000" stop="20261109180000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109190000 +0000" channel="jbs">
-    <title>Kristallnacht Anniversary</title>
-    <desc>Kristallnacht and the Voyage Of The St. Louis with Renate "Ronnie" Breslow, a survivor of the St Louis. The Anniversary of Kristallnacht commemorated at Congregation Netivot Shalom, Teaneck, NJ.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="jbs">
-    <title>A View from the Mountaintop</title>
-    <desc>Discover the meaning of Sigd and explore World Jewish Relief’s work in Ethiopia today in this special conversation with Qes Efraim Zion Lawi, the first Israeli-born Qes, the spiritual leader of the Ethiopian Jewish community.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109210000 +0000" channel="jbs">
-    <title>L'Chayim "Titi” Aynaw"</title>
-    <desc>“Titi” Aynaw discusses her journey from her hometown in Ethiopia to Aliyah to Israel, to serving in the IDF, to becoming the first Ethiopian Miss Israel in 2013. L’Chayim with Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109210000 +0000" stop="20261109220000 +0000" channel="jbs">
-    <title>Jewish 101 "Torah Response"</title>
-    <desc>A look at various midrash and at Abraham Joshua Heschel's notion that the Torah is the Jewish People's “response” to revelation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109220000 +0000" stop="20261109230000 +0000" channel="jbs">
-    <title>Kristallnacht Anniversary</title>
-    <desc>Kristallnacht and the Voyage Of The St. Louis with Renate "Ronnie" Breslow, a survivor of the St Louis. The Anniversary of Kristallnacht commemorated at Congregation Netivot Shalom, Teaneck, NJ.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109230000 +0000" stop="20261109233000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261109233000 +0000" stop="20261110000000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110010000 +0000" stop="20261110013000 +0000" channel="jbs">
-    <title>In The Spotlight "Danny Meyer"</title>
-    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110013000 +0000" stop="20261110020000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Marisa Fox's Film My Underground Mother"</title>
-    <desc>Series with Jewish Cinema Scholar Eric Goldman</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="jbs">
-    <title>L'Chayim "Kristallnacht Remembered with Ernie Michel z"l"</title>
-    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110030000 +0000" stop="20261110033000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110040000 +0000" stop="20261110043000 +0000" channel="jbs">
-    <title>In The Spotlight "Danny Meyer"</title>
-    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110043000 +0000" stop="20261110050000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Marisa Fox's Film My Underground Mother"</title>
-    <desc>Series with Jewish Cinema Scholar Eric Goldman</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="jbs">
-    <title>L'Chayim "Kristallnacht Remembered with Ernie Michel z"l"</title>
-    <desc>Ernie Michel z"l, who lived through Kristallnacht (The Night of Broken Glass) in Germany (Nov 9-10, 1938) and saw his synagogue burned to the ground, recalls this pogrom and his life during the Holocaust as told in his book, "Promises to Keep."</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110060000 +0000" stop="20261110063000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261110063000 +0000" stop="20261110070000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110070000 +0000" stop="20261110073000 +0000" channel="jbs">
-    <title>In The Spotlight "Danny Meyer"</title>
-    <desc>Restaurateur Danny Meyer joins Abigail Pogrebin on his new book What Could Possibly Go Right?, starting it with a failure, holding on to culture from one hot dog stand to 700 Shake Shacks, and the wake he hopes to leave.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Marisa Fox's Film My Underground Mother"</title>
-    <desc>Filmmaker Marisa Fox joins Eric Goldman to discuss her documentary about a daughter uncovering the hidden life of her freedom fighter and survivor mother after long-lost writings come to light decades later.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="jbs">
-    <title>L'Chayim "Kristallnacht Remembered with Ernie Michel z"l"</title>
-    <desc>Ernie Michel z"l, who lived through Kristallnacht (The Night of Broken Glass) in Germany (Nov 9-10, 1938) and saw his synagogue burned to the ground, recalls this pogrom and his life during the Holocaust as told in his book, "Promises to Keep."</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="jbs">
     <title>Kristallnacht Anniversary</title>
     <desc>Kristallnacht and the Voyage Of The St. Louis with Renate "Ronnie" Breslow, a survivor of the St Louis. The Anniversary of Kristallnacht commemorated at Congregation Netivot Shalom, Teaneck, NJ.</desc>
@@ -606,8 +375,8 @@
     </rating>
   </programme>
   <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="jbs">
-    <title>TEXTing IRL "Jews: Strangers in Their Own Home? Sarah Hurwitz"</title>
-    <desc>Elana Stein Hain &amp; author Sarah Hurwitz discuss the concept of the ger toshav, the resident alien, to understand how American Jews might navigate identity, faith and the challenge of embracing Jewish particularism while living in diverse societies.</desc>
+    <title>Rabbi Hirsch "Blue Crush"</title>
+    <desc>Rabbi Ammiel Hirsch reflects on the midterm elections as a testament to democracy while warning that American Jewry has entered a new era in which anti-Jewish sentiment has become normalized on both the right and the left.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -767,8 +536,8 @@
     </rating>
   </programme>
   <programme start="20261112183000 +0000" stop="20261112190000 +0000" channel="jbs">
-    <title>TEXTing IRL "Jews: Strangers in Their Own Home? Sarah Hurwitz"</title>
-    <desc>Elana Stein Hain &amp; author Sarah Hurwitz discuss the concept of the ger toshav, the resident alien, to understand how American Jews might navigate identity, faith and the challenge of embracing Jewish particularism while living in diverse societies.</desc>
+    <title>Rabbi Hirsch "Blue Crush"</title>
+    <desc>Rabbi Ammiel Hirsch reflects on the midterm elections as a testament to democracy while warning that American Jewry has entered a new era in which anti-Jewish sentiment has become normalized on both the right and the left.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -802,8 +571,8 @@
     </rating>
   </programme>
   <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <title>Rabbi Hirsch "Blue Crush"</title>
+    <desc>Rabbi Ammiel Hirsch reflects on the midterm elections as a testament to democracy while warning that American Jewry has entered a new era in which anti-Jewish sentiment has become normalized on both the right and the left.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -991,8 +760,8 @@
     </rating>
   </programme>
   <programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="jbs">
-    <title>In The Spotlight "Letty Cottin Pogrebin"</title>
-    <desc>Ms. founding editor Letty Cottin Pogrebin, author of Shanda and Abigail’s mother, recalls Gloria Steinem, her closest friend of 55 years, who died in September: their feminist Seder, Gloria’s Jewishness, and her posthumous memoir, An Unexpected Life.</desc>
+    <title>Rabbi Hirsch "Blue Crush"</title>
+    <desc>Rabbi Ammiel Hirsch reflects on the midterm elections as a testament to democracy while warning that American Jewry has entered a new era in which anti-Jewish sentiment has become normalized on both the right and the left.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1040,8 +809,8 @@
     </rating>
   </programme>
   <programme start="20261113213000 +0000" stop="20261113220000 +0000" channel="jbs">
-    <title>Eppes Essen "Factor’s Famous DeliEpisode Ep. 1"</title>
-    <desc>Mike Burstyn and Perla Karney celebrate Jewish heritage and converse in Yiddish as they share pastrami, chopped liver and other favorite dishes of Factor's Famous Deli in Los Angeles.</desc>
+    <title>Rabbi Hirsch "Blue Crush"</title>
+    <desc>Rabbi Ammiel Hirsch reflects on the midterm elections as a testament to democracy while warning that American Jewry has entered a new era in which anti-Jewish sentiment has become normalized on both the right and the left.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
