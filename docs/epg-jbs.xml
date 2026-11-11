@@ -3,230 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="jbs">
-    <title>Kristallnacht Anniversary</title>
-    <desc>Kristallnacht and the Voyage Of The St. Louis with Renate "Ronnie" Breslow, a survivor of the St Louis. The Anniversary of Kristallnacht commemorated at Congregation Netivot Shalom, Teaneck, NJ.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110110000 +0000" stop="20261110113000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110113000 +0000" stop="20261110120000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="jbs">
-    <title>In The Spotlight "Danny Meyer"</title>
-    <desc>Restaurateur Danny Meyer joins Abigail Pogrebin on his new book What Could Possibly Go Right?, starting it with a failure, holding on to culture from one hot dog stand to 700 Shake Shacks, and the wake he hopes to leave.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110123000 +0000" stop="20261110130000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Nick Davis' This Ordinary Thing Documentary"</title>
-    <desc>Eric Goldman speaks with Nick Davis about his documentary, which uses never-before-seen footage and performances by Academy Award–winning actors to tell the stories of non-Jews who risked everything to shelter Jewish strangers during the Holocaust.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110130000 +0000" stop="20261110133000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110133000 +0000" stop="20261110140000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261110140000 +0000" stop="20261110143000 +0000" channel="jbs">
-    <title>The Aleph Bet "Lesson 1Episode 1"</title>
-    <desc>Learn your first three Hebrew letters &amp; read the most important word in the practice of Judaism. For anyone of any age who wishes to read &amp; understand Hebrew, download Lessons and Worksheets free at jbstv.org/From The Aleph Bet.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261110143000 +0000" stop="20261110150000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Marisa Fox's Film My Underground Mother"</title>
-    <desc>Filmmaker Marisa Fox joins Eric Goldman to discuss her documentary about a daughter uncovering the hidden life of her freedom fighter and survivor mother after long-lost writings come to light decades later.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110150000 +0000" stop="20261110160000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110160000 +0000" stop="20261110163000 +0000" channel="jbs">
-    <title>In The Spotlight "Danny Meyer"</title>
-    <desc>Restaurateur Danny Meyer joins Abigail Pogrebin on his new book What Could Possibly Go Right?, starting it with a failure, holding on to culture from one hot dog stand to 700 Shake Shacks, and the wake he hopes to leave.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110163000 +0000" stop="20261110170000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "Among Neighbors Documentary"</title>
-    <desc>Eric Goldman is joined by filmmaker Yoav Potash to discuss Among Neighbors, his haunting documentary that blends animation and magical realism to uncover the long-buried truths of a Polish town where echoes of Jewish life still reverberate.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110170000 +0000" stop="20261110173000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110173000 +0000" stop="20261110180000 +0000" channel="jbs">
-    <title>Good Week Israel</title>
-    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="jbs">
-    <title>Kristallnacht Anniversary</title>
-    <desc>Kristallnacht and the Voyage Of The St. Louis with Renate "Ronnie" Breslow, a survivor of the St Louis. The Anniversary of Kristallnacht commemorated at Congregation Netivot Shalom, Teaneck, NJ.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="jbs">
-    <title>L'Chayim "Kristallnacht Remembered with Ernie Michel z"l"</title>
-    <desc>Ernie Michel z"l, who lived through Kristallnacht (The Night of Broken Glass) in Germany (Nov 9-10, 1938) and saw his synagogue burned to the ground, recalls this pogrom and his life during the Holocaust as told in his book, "Promises to Keep."</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110210000 +0000" stop="20261110213000 +0000" channel="jbs">
-    <title>The Aleph Bet "Lesson 1Episode 1"</title>
-    <desc>Learn your first three Hebrew letters &amp; read the most important word in the practice of Judaism. For anyone of any age who wishes to read &amp; understand Hebrew, download Lessons and Worksheets free at jbstv.org/From The Aleph Bet.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261110213000 +0000" stop="20261110230000 +0000" channel="jbs">
-    <title>Kristallnacht Commemoration "Rafael Medoff"</title>
-    <desc>Rafael Medoff, noted historian, author and lecturer, analyzes President Roosevelt’s response to Kristallnacht and what the U.S. could have possibly done to help the Jews. From Iona University and the Holocaust &amp; Human Rights Education Center.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110230000 +0000" stop="20261110233000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261110233000 +0000" stop="20261111000000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
-    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Finance Titan Making God Dance"</title>
-    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111020000 +0000" stop="20261111030000 +0000" channel="jbs">
-    <title>L'Chayim "Michael and Shannon Taylor"</title>
-    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111033000 +0000" stop="20261111040000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Finance Titan Making God Dance"</title>
-    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="jbs">
-    <title>L'Chayim "Michael and Shannon Taylor"</title>
-    <desc>Holocaust survivor and war veteran Michael Taylor, with his son Shannon, shares his remarkable story of escaping concentration camps, rescuing fellow Jews, sailing to Palestine and fighting in the Haganah in the Independence War. With Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111060000 +0000" stop="20261111063000 +0000" channel="jbs">
-    <title>Jewish Triumph "A WWII Story"</title>
-    <desc>Nina Wolf Feld tells the story of her father's journey - escaping Europe to make his way to the U.S. and later to return with the U.S. Army Intelligence Crops to fight Nazi Germany and to ultimately win the return his family's property. From ISGAP.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111063000 +0000" stop="20261111070000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Finance Titan Making God Dance"</title>
-    <desc>Greystone founder Steve Rosenberg joins Justin Pines to talk building a leading real estate lender from the back of a music store, why nothing we own is truly ours, and why most of his giving goes directly to families in need.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261111080000 +0000" stop="20261111090000 +0000" channel="jbs">
-    <title>L'Chayim "Michael and Shannon Taylor"</title>
-    <desc>Holocaust survivor and war veteran Michael Taylor, with his son Shannon, shares his remarkable story of escaping concentration camps, rescuing fellow Jews, sailing to Palestine and fighting in the Haganah in the Independence War. With Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261111090000 +0000" stop="20261111100000 +0000" channel="jbs">
     <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
     <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
@@ -2469,6 +2245,692 @@
   <programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="jbs">
     <title>America at 250 "Navigating This Moment in Jewish History"</title>
     <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="jbs">
+    <title>92nd Street Y "Rabbi Capers Funnye"</title>
+    <desc>Meet Michelle Obama's first cousin (once removed), Rabbi Capers Funnye, who discusses his conversion to Judaism, his work in Africa, and what the black Jewish experience is like in America.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261122060000 +0000" stop="20261122070000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
+    <desc>Jonah Platt is joined by celebrity event planner Mindy Weiss, who revisits some of her most extravagant, meaningful and challenging weddings and Bar/Bat Mitzvahs, and discusses her relationship with and falling out with Kanye West.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122070000 +0000" stop="20261122080000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Rabbi Dr. Ari LammEpisode Ep. 34"</title>
+    <desc>Rabbi Dr. Ari Lamm, Chief Executive of BZ Media, joins Justin to discuss how Jewish ideas have shaped world and American history, including American government, the first Thanksgiving and American universities.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122080000 +0000" stop="20261122083000 +0000" channel="jbs">
+    <title>In The Spotlight "Danny Meyer"</title>
+    <desc>Restaurateur Danny Meyer joins Abigail Pogrebin on his new book What Could Possibly Go Right?, starting it with a failure, holding on to culture from one hot dog stand to 700 Shake Shacks, and the wake he hopes to leave.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122083000 +0000" stop="20261122100000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Lani Anpo and Sarah Podemski"</title>
+    <desc>From the Weitzman National Museum for American Jewish History, Jonah takes the stage with Lani Anpo and Sarah Podemski, two trailblazing Indigenous Jewish artists and advocates, for an exploration of identity, culture and creativity.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Ann Patchett"</title>
+    <desc>Bestselling author Ann Patchett joins Zibby Owens to discuss Whistler, her new novel, about a former stepdaughter and stepfather who reconnect unexpectedly after decades apart, and the enduring connections that can defy time.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "The Darkest Light"</title>
+    <desc>Filmmaker Simon Mendes joins Eric Goldman to discuss his documentary examining Rabbi Shlomo Carlebach’s complicated legacy through his daughter Neshama, survivors’ accounts and questions of faith, accountability and harm.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122120000 +0000" stop="20261122130000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
+    <desc>Jonah Platt is joined by celebrity event planner Mindy Weiss, who revisits some of her most extravagant, meaningful and challenging weddings and Bar/Bat Mitzvahs, and discusses her relationship with and falling out with Kanye West.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="jbs">
+    <title>Talmud Study "Change and Grow"</title>
+    <desc>Drawing from a series of traditional commentaries, Rabbi Mordechai Becher explores the Talmudic notion of a person's ability to change and grow through one's actions and prayers.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="jbs">
+    <title>Talmud Study "In Heaven's Hands?"</title>
+    <desc>Rabbi Mordechai Becher (Senior Lecturer, Gateways Organization) discusses a letter from Rabbi Ovadiah to Maimonides about the Talmudic statement "everything is in the hands of Heaven except for the fear of Heaven." JBS original “Dimensions of the Daf.”</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122150000 +0000" stop="20261122160000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Gail SimmonsEpisode Ep. 7"</title>
+    <desc>Jonah talks Jewish identity and more with Gail Simmons, a food writer, cookbook author and a judge on Bravo's Emmy-winning series Top Chef since the show's inception in 2006.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "Tell Me Everything"</title>
+    <desc>Eric Goldman is joined by writer and director Moshe Rosenthal to discuss Tell Me Everything, his intimate drama about a young boy navigating family, identity and loss after discovering a secret that changes his relationship with his father.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122163000 +0000" stop="20261122170000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "The Darkest Light"</title>
+    <desc>Filmmaker Simon Mendes joins Eric Goldman to discuss his documentary examining Rabbi Shlomo Carlebach’s complicated legacy through his daughter Neshama, survivors’ accounts and questions of faith, accountability and harm.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122170000 +0000" stop="20261122180000 +0000" channel="jbs">
+    <title>L'Chayim "Neshama Carlebach"</title>
+    <desc>Grammy Award winning singer, songwriter and educator Neshama Carlebach talks about her personal journey, her music and how she has overcome the cancel culture that impacted her life and career.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122180000 +0000" stop="20261122190000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Ann Patchett"</title>
+    <desc>Bestselling author Ann Patchett joins Zibby Owens to discuss Whistler, her new novel, about a former stepdaughter and stepfather who reconnect unexpectedly after decades apart, and the enduring connections that can defy time.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122190000 +0000" stop="20261122210000 +0000" channel="jbs">
+    <title>Yeshiva University Basketball "Wesleyan University at Yeshiva University"</title>
+    <desc>The Yeshiva University Maccabees take on the Wesleyan Cardinals in men’s basketball action, live on JBS.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122220000 +0000" stop="20261122223000 +0000" channel="jbs">
+    <title>ILTV News Sunday</title>
+    <desc>ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261122230000 +0000" stop="20261123003000 +0000" channel="jbs">
+    <title>L'Chayim "Allen Fagin of the OU"</title>
+    <desc>Executive Vice President of the Orthodox Union Allen Fagin shares his perspectives on Jewish life, American Jewry and the State of Israel today.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123003000 +0000" stop="20261123020000 +0000" channel="jbs">
+    <title>The Jews of Newport "Jonathan Sarna and Joseph Weisberg"</title>
+    <desc>American Jewish historian Dr. Jonathan Sarna and Brandeis doctoral candidate Joseph Weisberg examine how Newport’s Jews navigated the early American Revolution and how their choices shaped Jewish life and the wider community.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="jbs">
+    <title>Giving Thanks "People of the Cook"</title>
+    <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123023000 +0000" stop="20261123033000 +0000" channel="jbs">
+    <title>Eat Small Plates "Bengingi &amp; Zikki in Conversation with Jake Cohen"</title>
+    <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123040000 +0000" channel="jbs">
+    <title>ILTV News Sunday</title>
+    <desc>ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123053000 +0000" channel="jbs">
+    <title>The Jews of Newport "Jonathan Sarna and Joseph Weisberg"</title>
+    <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123053000 +0000" stop="20261123063000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Independence Day: The First Salute"</title>
+    <desc>Justin Pines travels to Philadelphia’s historic district to explore the deep, centuries-old intertwining of American liberty and Jewish history, from the Liberty Bell to the Weitzman Museum’s new revolutionary exhibit to Congregation Mikveh Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123063000 +0000" stop="20261123070000 +0000" channel="jbs">
+    <title>ILTV News Sunday</title>
+    <desc>ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123080000 +0000" channel="jbs">
+    <title>Tahini Baby Cookbook "Eden Grinshpan in Conversation with Sarah Fennel"</title>
+    <desc>Top Chef Canada host, cookbook author &amp; social media entrepreneur Eden Grinshpan celebrates her second cookbook Tahini Baby and shares her playful Middle Eastern–inspired vegetarian dishes with Broma Bakery’s Sarah Fennel. From the Streicker Center.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123080000 +0000" stop="20261123090000 +0000" channel="jbs">
+    <title>L'Chayim "Frederick M. Lawrence"</title>
+    <desc>The former president of Brandeis University, Frederick M. Lawrence (now a Senior Research Scholar at Yale Law School), discusses his response to the BDS Movement on campus and how he dealt with it at Brandeis.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="jbs">
+    <title>Talmud Study "Change and Grow"</title>
+    <desc>Drawing from a series of traditional commentaries, Rabbi Mordechai Becher explores the Talmudic notion of a person's ability to change and grow through one's actions and prayers.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123093000 +0000" stop="20261123100000 +0000" channel="jbs">
+    <title>Talmud Study "In Heaven's Hands?"</title>
+    <desc>Rabbi Mordechai Becher (Senior Lecturer, Gateways Organization) discusses a letter from Rabbi Ovadiah to Maimonides about the Talmudic statement "everything is in the hands of Heaven except for the fear of Heaven." JBS original “Dimensions of the Daf.”</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123100000 +0000" stop="20261123110000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Nechama Price"</title>
+    <desc>Justin Pines in conversation with Nechama Price.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123110000 +0000" stop="20261123113000 +0000" channel="jbs">
+    <title>ILTV News Sunday</title>
+    <desc>ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123113000 +0000" stop="20261123120000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123130000 +0000" channel="jbs">
+    <title>92nd Street Y "Rabbi Capers Funnye"</title>
+    <desc>Meet Michelle Obama's first cousin (once removed), Rabbi Capers Funnye, who discusses his conversion to Judaism, his work in Africa, and what the black Jewish experience is like in America.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123130000 +0000" stop="20261123133000 +0000" channel="jbs">
+    <title>ILTV News Sunday</title>
+    <desc>ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="jbs">
+    <title>ILTV Insider</title>
+    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123140000 +0000" stop="20261123150000 +0000" channel="jbs">
+    <title>Jewish 101 "Not In Heaven"</title>
+    <desc>In a continuing study of what it means to say that "the Torah is written by God," a discussion of the famous Talmudic story which teaches that Jews do not listen to voices from heaven to understand the Torah.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Nechama Price"</title>
+    <desc>Justin Pines in conversation with Nechama Price.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123170000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Ann Patchett"</title>
+    <desc>Bestselling author Ann Patchett joins Zibby Owens to discuss Whistler, her new novel, about a former stepdaughter and stepfather who reconnect unexpectedly after decades apart, and the enduring connections that can defy time.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123173000 +0000" channel="jbs">
+    <title>ILTV News Sunday</title>
+    <desc>ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123173000 +0000" stop="20261123180000 +0000" channel="jbs">
+    <title>ILTV Insider</title>
+    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="jbs">
+    <title>Giving Thanks "People of the Cook"</title>
+    <desc>The American Thanksgiving menu gets an Israeli twist as President of the Shalom Hartman Institute Yehuda Kurtzer and Rabbi-Chef Nissimmi Naim Naor collaborate to create a unique holiday meal.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123183000 +0000" stop="20261123200000 +0000" channel="jbs">
+    <title>The Jews of Newport "Jonathan Sarna and Joseph Weisberg"</title>
+    <desc>American Jewish historian Dr. Jonathan Sarna and Brandeis doctoral candidate Joseph Weisberg examine how Newport’s Jews navigated the early American Revolution and how their choices shaped Jewish life and the wider community.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="jbs">
+    <title>L'Chayim "Neshama Carlebach"</title>
+    <desc>Grammy Award winning singer, songwriter and educator Neshama Carlebach talks about her personal journey, her music and how she has overcome the cancel culture that impacted her life and career.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="jbs">
+    <title>Jewish 101 "Not In Heaven"</title>
+    <desc>In a continuing study of what it means to say that "the Torah is written by God," a discussion of the famous Talmudic story which teaches that Jews do not listen to voices from heaven to understand the Torah.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="jbs">
+    <title>92nd Street Y "Rabbi Capers Funnye"</title>
+    <desc>Meet Michelle Obama's first cousin (once removed), Rabbi Capers Funnye, who discusses his conversion to Judaism, his work in Africa, and what the black Jewish experience is like in America.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261123233000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123233000 +0000" stop="20261124000000 +0000" channel="jbs">
+    <title>Good Week Israel</title>
+    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="jbs">
+    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
+    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124013000 +0000" channel="jbs">
+    <title>In The Spotlight "Danielle Crittendon"</title>
+    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "Dust Bowls and Jewish Souls"</title>
+    <desc>Series with Jewish Cinema Scholar Eric Goldman.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124033000 +0000" channel="jbs">
+    <title>L'Chayim "Robin Kanarek on Transcending Loss"</title>
+    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124033000 +0000" stop="20261124040000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124043000 +0000" channel="jbs">
+    <title>In The Spotlight "Danielle Crittendon"</title>
+    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "Dust Bowls and Jewish Souls"</title>
+    <desc>Series with Jewish Cinema Scholar Eric Goldman.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124063000 +0000" channel="jbs">
+    <title>L'Chayim "Robin Kanarek on Transcending Loss"</title>
+    <desc>Robin Kanarek, who lost her teenage son David to cancer, describes how she has been able to continue to embrace life and why she feels the development of palliative care is so essential for patients of all ages. With Rabbi Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124063000 +0000" stop="20261124070000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124073000 +0000" channel="jbs">
+    <title>In The Spotlight "Danielle Crittendon"</title>
+    <desc>Journalist Danielle Crittenden joins Abigail Pogrebin on Dispatches from Grief, the sudden death of her daughter Miranda at 31, converting to Judaism, and the mourning rituals she never expected to need.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "Dust Bowls and Jewish Souls"</title>
+    <desc>Filmmaker Steve Pressman joins Eric Goldman to discuss his documentary revealing Woody Guthrie’s deep ties to Jewish life and culture through his family, Yiddish poet Aliza Greenblatt and the figures who helped shape his career.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124093000 +0000" channel="jbs">
+    <title>L'Chayim "Robin Kanarek on Transcending Loss"</title>
+    <desc>Robin Kanarek, who lost her teenage son David to cancer, describes how she has been able to continue to embrace life and why she feels the development of palliative care is so essential for patients of all ages. With Rabbi Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124093000 +0000" stop="20261124103000 +0000" channel="jbs">
+    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
+    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124103000 +0000" stop="20261124110000 +0000" channel="jbs">
+    <title>Giving Thanks "People of the Cook"</title>
+    <desc>The American Thanksgiving menu gets an Israeli twist as President of the Shalom Hartman Institute Yehuda Kurtzer and Rabbi-Chef Nissimmi Naim Naor collaborate to create a unique holiday meal.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124110000 +0000" stop="20261124113000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124113000 +0000" stop="20261124120000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124120000 +0000" stop="20261124123000 +0000" channel="jbs">
+    <title>In The Spotlight "Danielle Crittendon"</title>
+    <desc>Journalist Danielle Crittenden joins Abigail Pogrebin on Dispatches from Grief, the sudden death of her daughter Miranda at 31, converting to Judaism, and the mourning rituals she never expected to need.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124123000 +0000" stop="20261124130000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "Dust Bowls and Jewish Souls"</title>
+    <desc>Filmmaker Steve Pressman joins Eric Goldman to discuss his documentary revealing Woody Guthrie’s deep ties to Jewish life and culture through his family, Yiddish poet Aliza Greenblatt and the figures who helped shape his career.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124133000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="jbs">
+    <title>Good Week Israel</title>
+    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="jbs">
+    <title>The Aleph Bet "Lesson 3Episode 3"</title>
+    <desc>Learn the letter "Bet" and how to read the most important word in the experience of Judaism.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="jbs">
+    <title>Giving Thanks "People of the Cook"</title>
+    <desc>The American Thanksgiving menu gets an Israeli twist as President of the Shalom Hartman Institute Yehuda Kurtzer and Rabbi-Chef Nissimmi Naim Naor collaborate to create a unique holiday meal.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="jbs">
+    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
+    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="jbs">
+    <title>In The Spotlight "Danielle Crittendon"</title>
+    <desc>Journalist Danielle Crittenden joins Abigail Pogrebin on Dispatches from Grief, the sudden death of her daughter Miranda at 31, converting to Judaism, and the mourning rituals she never expected to need.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "Dust Bowls and Jewish Souls"</title>
+    <desc>Filmmaker Steve Pressman joins Eric Goldman to discuss his documentary revealing Woody Guthrie’s deep ties to Jewish life and culture through his family, Yiddish poet Aliza Greenblatt and the figures who helped shape his career.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124173000 +0000" stop="20261124180000 +0000" channel="jbs">
+    <title>Good Week Israel</title>
+    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="jbs">
+    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
+    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="jbs">
+    <title>Temple Emanu-El Streicker Center "Jews and the American Revolution"</title>
+    <desc>Dr. Jonathan Sarna and Dr. Laura Leibman, two of the foremost experts on early American Jewish history, explore how Jews experienced, debated and helped shape the American Revolution, and how their choices reshaped Jewish life and American history.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124213000 +0000" channel="jbs">
+    <title>L'Chayim "Robin Kanarek on Transcending Loss"</title>
+    <desc>Robin Kanarek, who lost her teenage son David to cancer, describes how she has been able to continue to embrace life and why she feels the development of palliative care is so essential for patients of all ages. With Rabbi Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124213000 +0000" stop="20261124220000 +0000" channel="jbs">
+    <title>The Aleph Bet "Lesson 3Episode 3"</title>
+    <desc>Learn the letter "Bet" and how to read the most important word in the experience of Judaism.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="jbs">
+    <title>Tahini Baby Cookbook "Eden Grinshpan in Conversation with Sarah Fennel"</title>
+    <desc>Top Chef Canada host, cookbook author &amp; social media entrepreneur Eden Grinshpan celebrates her second cookbook Tahini Baby and shares her playful Middle Eastern–inspired vegetarian dishes with Broma Bakery’s Sarah Fennel. From the Streicker Center.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261124233000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261124233000 +0000" stop="20261125000000 +0000" channel="jbs">
+    <title>ILTV Insider</title>
+    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Joel Haber"</title>
+    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="jbs">
+    <title>L'Chayim "Helen Nash z"l"</title>
+    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125033000 +0000" channel="jbs">
+    <title>ILTV Insider</title>
+    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125033000 +0000" stop="20261125040000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Joel Haber"</title>
+    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="jbs">
+    <title>L'Chayim "Helen Nash z"l"</title>
+    <desc>The author of "New Kosher Cuisine," Helen Nash z"l discusses her personal Jewish journey and why she wrote the most recent of her three kosher cookbooks.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125063000 +0000" channel="jbs">
+    <title>Good Week Israel</title>
+    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261125063000 +0000" stop="20261125070000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Joel Haber"</title>
+    <desc>Justin Pines in conversation with Joel Haber.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="jbs">
+    <title>L'Chayim "Helen Nash z"l"</title>
+    <desc>The author of "New Kosher Cuisine," Helen Nash z"l discusses her personal Jewish journey and why she wrote the most recent of her three kosher cookbooks.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
