@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "start": "2026-11-12T09:30:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
       "title": "Reflections",
-      "start": "2026-11-11T10:30:00+00:00",
-      "end": "2026-11-11T11:00:00+00:00"
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
-      "title": "Premium Collection",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "title": "Moo No Plan",
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T11:00:00+00:00"
+      "start": "2026-11-12T09:00:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-11-11T11:00:00+00:00",
-      "end": "2026-11-11T13:00:00+00:00"
+      "start": "2026-11-12T11:00:00+00:00",
+      "end": "2026-11-12T13:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T11:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     },
     "next": {
-      "title": "Gourmet Holiday",
-      "start": "2026-11-11T11:00:00+00:00",
-      "end": "2026-11-11T12:00:00+00:00"
+      "title": "Football Team Shop",
+      "start": "2026-11-12T11:00:00+00:00",
+      "end": "2026-11-12T12:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     },
     "next": {
-      "title": "Great Gifts",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T11:00:00+00:00"
+      "title": "DG2 by Diane Gilman Fashions",
+      "start": "2026-11-12T11:00:00+00:00",
+      "end": "2026-11-12T12:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
-      "title": "NHK News 7",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "title": "Today's Close-Up",
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
-      "title": "Temptation",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "title": "Press Your Luck",
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:28:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     },
     "next": {
-      "title": "Lark Rise to Candleford",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T11:00:00+00:00"
+      "title": "The Story Trek",
+      "start": "2026-11-12T11:00:00+00:00",
+      "end": "2026-11-12T11:30:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     },
     "next": {
-      "title": "Dominican Sisters of Mary, Mother of the Eucharist",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "title": "Saints vs. Scoundrels",
+      "start": "2026-11-12T11:00:00+00:00",
+      "end": "2026-11-12T11:30:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T07:00:00+00:00",
-      "end": "2026-11-11T11:00:00+00:00"
+      "start": "2026-11-12T07:00:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-11-11T11:00:00+00:00",
-      "end": "2026-11-11T15:00:00+00:00"
+      "start": "2026-11-12T11:00:00+00:00",
+      "end": "2026-11-12T15:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T11:00:00+00:00"
+      "start": "2026-11-12T09:00:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     },
     "next": {
-      "title": "Rejoice in the Lord",
-      "start": "2026-11-11T11:00:00+00:00",
-      "end": "2026-11-11T11:30:00+00:00"
+      "title": "Something Good With Dr. Ron Jones",
+      "start": "2026-11-12T11:00:00+00:00",
+      "end": "2026-11-12T11:30:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
-      "title": "The Jim Bakker Show",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "title": "Miracles Do Happen With Apostle Wayne T. Jackson",
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,27 +179,19 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T08:45:00+00:00",
-      "end": "2026-11-11T10:15:00+00:00"
+      "start": "2026-11-12T10:10:00+00:00",
+      "end": "2026-11-12T12:30:00+00:00"
     },
     "next": {
-      "title": "Murder by Decree",
-      "start": "2026-11-11T10:15:00+00:00",
-      "end": "2026-11-11T12:30:00+00:00"
+      "title": "Home Town Story",
+      "start": "2026-11-12T12:30:00+00:00",
+      "end": "2026-11-12T13:40:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
-    "current": {
-      "title": "Unknown",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
-    },
-    "next": {
-      "title": "part 2",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
-    }
+    "current": null,
+    "next": null
   },
   "bctv": {
     "name": "Being Catholic TV",
@@ -210,26 +202,26 @@
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
-      "title": "Rick Steves' Europe",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "title": "The Best of the Joy of Painting",
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
-      "title": "The Gettysburg Book: A Father, Son and the Killer Angels",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T11:00:00+00:00"
+      "title": "Live From the LBJ Library With Mark Updegrove",
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "skyweather": {
@@ -241,65 +233,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T08:30:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
       "title": "Paid Programming",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:00:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
       "title": "Paid Programming",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T12:00:00+00:00"
     },
     "next": {
-      "title": "2026 Silver Eagle is here & it is a once-in-a-lifetime coin!",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "title": "Cindy Crawford talks about the latest breakthroughs in skincare",
+      "start": "2026-11-12T12:00:00+00:00",
+      "end": "2026-11-12T12:30:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T08:00:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:00:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
       "title": "Paid Programming",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-11T09:30:00+00:00",
-      "end": "2026-11-11T10:00:00+00:00"
+      "start": "2026-11-12T10:20:00+00:00",
+      "end": "2026-11-12T10:30:00+00:00"
     },
     "next": {
-      "title": "The Beverly Hillbillies",
-      "start": "2026-11-11T10:00:00+00:00",
-      "end": "2026-11-11T10:30:00+00:00"
+      "title": "The George Burns and Gracie Allen Show",
+      "start": "2026-11-12T10:30:00+00:00",
+      "end": "2026-11-12T11:00:00+00:00"
     }
   }
 }
