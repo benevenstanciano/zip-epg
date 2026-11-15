@@ -3,174 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261114093000 +0000" stop="20261114110000 +0000" channel="jbs">
-    <title>Current State &amp; Future of American Jewry</title>
-    <desc>Yehuda Kurtzer and Barry Finestone assess the future of North American Jewry, asking how Jewish communities can move beyond surviving antisemitism to thriving institutions and a deeper commitment to their highest values.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="jbs">
-    <title>Shalom Kids "No Rules for Michael"</title>
-    <desc>A young boy named Michael learns how difficult life is when there are no rules in Sylvia Rouss' delightful story, "No Rules For Michael," published by Kar-Ben Publishing. Read by Ruth Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="jbs">
-    <title>Shalom Kids "A Mezuzah On The Door"</title>
-    <desc>When his family places a mezuzah on its new home, Noah learns the meaning and comfort of friendship. A Kar-Ben book written by Amy Meltzer and illustrated by Janice Fried. Read by Ruth Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-Y</value>
-    </rating>
-  </programme>
-  <programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114133000 +0000" stop="20261114143000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Finance Titan Making God Dance"</title>
-    <desc>Greystone founder Steve Rosenberg joins Justin Pines to talk building a leading real estate lender from the back of a music store, why nothing we own is truly ours, and why most of his giving goes directly to families in need.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114143000 +0000" stop="20261114160000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261114160000 +0000" stop="20261114173000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261114173000 +0000" stop="20261114180000 +0000" channel="jbs">
-    <title>Torah Parsha "Toldot"</title>
-    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261114180000 +0000" stop="20261114193000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261114193000 +0000" stop="20261114210000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Finance Titan Making God Dance"</title>
-    <desc>Greystone founder Steve Rosenberg joins Justin Pines to talk building a leading real estate lender from the back of a music store, why nothing we own is truly ours, and why most of his giving goes directly to families in need.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Voted: Rotten Compromises"</title>
-    <desc>Yossi Klein Halevi and Donniel Hartman examine the election results and debate what could come next: the compromises needed to form a unity or minority government or whether the country could head to the polls once again.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="jbs">
-    <title>L'Chayim "J.T. Rogers"</title>
-    <desc>J.T. Rogers, whose historical drama “Oslo” played at Lincoln Center, discusses how he chose to portray Israelis and Palestinians in his fictionalized account of the secret meetings in Norway that produced the Oslo Accords.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="jbs">
-    <title>In The Spotlight "Danny Meyer"</title>
-    <desc>Restaurateur Danny Meyer joins Abigail Pogrebin on his new book What Could Possibly Go Right?, starting it with a failure, holding on to culture from one hot dog stand to 700 Shake Shacks, and the wake he hopes to leave.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115003000 +0000" stop="20261115010000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115010000 +0000" stop="20261115023000 +0000" channel="jbs">
-    <title>Current State &amp; Future of American Jewry</title>
-    <desc>A program of the Shalom Hartman Institute's annual Community Leadership Program.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115023000 +0000" stop="20261115030000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
-    <desc>Totally Booked with Zibby Owens offers interviews centered around books, authors and story creators.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Moises Kaufman"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115040000 +0000" stop="20261115053000 +0000" channel="jbs">
-    <title>Current State &amp; Future of American Jewry</title>
-    <desc>A program of the Shalom Hartman Institute's annual Community Leadership Program.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
-    <desc>NYT bestselling author Judy Batalion shares a compelling pre-WWII story of a family in a changing city, in The Last Woman of Warsaw.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Moises Kaufman"</title>
-    <desc>Venezuelan-born Jewish playwright and director Moises Kaufman, founder of Tectonic Theater Project and creator of The Laramie Project, joins Jonah Platt in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261115070000 +0000" stop="20261115090000 +0000" channel="jbs">
-    <title>JBS Film Festival "Blind Spot Documentary and Discussion"</title>
-    <desc>Campus antisemitism is uniquely examined through firsthand accounts from students, officials, and experts in this film that’s the first to document the problem both before and after 10/7, followed by a discussion with Executive Producer Leonard Gold.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261115090000 +0000" stop="20261115103000 +0000" channel="jbs">
     <title>Current State &amp; Future of American Jewry</title>
     <desc>Yehuda Kurtzer and Barry Finestone assess the future of North American Jewry, asking how Jewish communities can move beyond surviving antisemitism to thriving institutions and a deeper commitment to their highest values.</desc>
@@ -2988,6 +2820,153 @@
   <programme start="20261128093000 +0000" stop="20261128110000 +0000" channel="jbs">
     <title>JBS Film Festival "Remembering the Family Store"</title>
     <desc>A nostalgic documentary featuring families and small businesses that contributed to the beloved community of Stamford, CT circa 1940-1965, from their peak years as the center of downtown business through the early years of urban redevelopment.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128110000 +0000" stop="20261128113000 +0000" channel="jbs">
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128113000 +0000" stop="20261128120000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128120000 +0000" stop="20261128123000 +0000" channel="jbs">
+    <title>Shalom Kids "Benjamin and The Silver Goblet"</title>
+    <desc>Through the eyes of Benjamin, hear the story of how Joseph, now governor of the land, tests his brothers when they travel from Canaan to Egypt looking for food. Written by Jacqueline Jules, with illustrations by Natascia Ugliano. Read by Ruth Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20261128123000 +0000" stop="20261128130000 +0000" channel="jbs">
+    <title>Shalom Kids "The Littlest Pair"</title>
+    <desc>Delightful tale of two termites who ultimately save Noah's Ark. Winner of the National Jewish Book Award. Written by Sylvia Rouss, with illustrations by Holly Hannon. Published by Pitspopany Press. Read by Ruth Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20261128130000 +0000" stop="20261128133000 +0000" channel="jbs">
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128133000 +0000" stop="20261128143000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Joel Haber"</title>
+    <desc>Justin Pines in conversation with Joel Haber.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128143000 +0000" stop="20261128160000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261128160000 +0000" stop="20261128173000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261128173000 +0000" stop="20261128180000 +0000" channel="jbs">
+    <title>Torah Parsha "Vayishlach"</title>
+    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261128180000 +0000" stop="20261128193000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261128193000 +0000" stop="20261128210000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261128210000 +0000" stop="20261128220000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Joel Haber"</title>
+    <desc>Justin Pines in conversation with Joel Haber.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128220000 +0000" stop="20261128230000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261128230000 +0000" stop="20261129000000 +0000" channel="jbs">
+    <title>L'Chayim "Dr. Jeffrey Gurock on Jews in America"</title>
+    <desc>Dr. Jeffrey Gurock, professor of American Jewish History at Yeshiva University, describes aspects of the Jewish experience in America. A special "L'Chayim" episode hosted by Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261129000000 +0000" stop="20261129003000 +0000" channel="jbs">
+    <title>In The Spotlight "Danielle Crittendon"</title>
+    <desc>Journalist Danielle Crittenden joins Abigail Pogrebin on Dispatches from Grief, the sudden death of her daughter Miranda at 31, converting to Judaism, and the mourning rituals she never expected to need.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261129003000 +0000" stop="20261129010000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261129010000 +0000" stop="20261129023000 +0000" channel="jbs">
+    <title>The Jews of Newport "Jonathan Sarna and Joseph Weisberg"</title>
+    <desc>JBS presents "PBS" type coverage of addresses, conventions, events and cultural performances.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261129023000 +0000" stop="20261129030000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Tovah Feldshuh"</title>
+    <desc>Totally Booked with Zibby Owens offers interviews centered around books, authors and story creators.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261129030000 +0000" stop="20261129040000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Haviv Rettig Gur"</title>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261129040000 +0000" stop="20261129043000 +0000" channel="jbs">
+    <title>Rabbi Hirsch "Weekly Sermon"</title>
+    <desc>Rabbi Ammiel Hirsch is the senior rabbi of Stephen Wise Free Synagogue in New York City.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261129043000 +0000" stop="20261129050000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "Dust Bowls and Jewish Souls"</title>
+    <desc>Series with Jewish Cinema Scholar Eric Goldman.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
