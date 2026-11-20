@@ -3,237 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Villains of Genesis with Nechama Price"</title>
-    <desc>Dr. Nechama Price joins Justin Pines to explore the complex characters we call the villains of Genesis, and what they teach us about chosenness, evil, and the hope for redemption.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119110000 +0000" stop="20261119113000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119113000 +0000" stop="20261119120000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119120000 +0000" stop="20261119130000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Voted: The Haredim Are Back"</title>
-    <desc>Donniel Hartman and Yossi Klein Halevi examine why Haredim remain essential political players, what their return could mean for military service and public policy, and whether compromise is necessary or a missed chance for change.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119130000 +0000" stop="20261119133000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119133000 +0000" stop="20261119140000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Myths &amp; Facts"</title>
-    <desc>Micah Halpern looks at what he sees as widespread misunderstandings about Israel, separating common myths from facts.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119140000 +0000" stop="20261119150000 +0000" channel="jbs">
-    <title>Jewish 101 "The List!"</title>
-    <desc>Another way of understanding how the Torah was written and what it means to say that the Torah comes from God is explained in this "Jewish 101" episode, JBS' original series on Judaism and Jewish life.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119150000 +0000" stop="20261119160000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Israel Voted: The Haredim Are Back"</title>
-    <desc>Donniel Hartman and Yossi Klein Halevi examine why Haredim remain essential political players, what their return could mean for military service and public policy, and whether compromise is necessary or a missed chance for change.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119160000 +0000" stop="20261119170000 +0000" channel="jbs">
-    <title>Re-CHARGING Reform Judaism "Legacy Institutions and Innovation"</title>
-    <desc>Rabbi Yoshi Zweiback from Stephen Wise Temple and Russell Robinson, CEO of the Jewish National Fund-USA, discuss the future of Jewish community, leadership, and institutional engagement in a conversation moderated by Karen Rivo.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119170000 +0000" stop="20261119173000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119173000 +0000" stop="20261119180000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Myths &amp; Facts"</title>
-    <desc>Micah Halpern looks at what he sees as widespread misunderstandings about Israel, separating common myths from facts.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119180000 +0000" stop="20261119183000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119183000 +0000" stop="20261119190000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Judy Batalion"</title>
-    <desc>NYT bestselling author Judy Batalion shares a compelling pre-WWII story of a family in a changing city, in The Last Woman of Warsaw.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="jbs">
-    <title>In The Spotlight "The Clancy Trial"</title>
-    <desc>Dr. Catherine Birndorf and Rabbi Dov Linzer join Abigail Pogrebin on the Lindsay Clancy mistrial, postpartum psychosis, and what Judaism says about guilt when the mind is impaired.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119193000 +0000" stop="20261119200000 +0000" channel="jbs">
-    <title>Jewish Cinematheque "The Darkest Light"</title>
-    <desc>Filmmaker Simon Mendes joins Eric Goldman to discuss his documentary examining Rabbi Shlomo Carlebach’s complicated legacy through his daughter Neshama, survivors’ accounts and questions of faith, accountability and harm.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="jbs">
-    <title>L'Chayim "Frederick M. Lawrence"</title>
-    <desc>The former president of Brandeis University, Frederick M. Lawrence (now a Senior Research Scholar at Yale Law School), discusses his response to the BDS Movement on campus and how he dealt with it at Brandeis.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="jbs">
-    <title>Jewish 101 "The List!"</title>
-    <desc>Another way of understanding how the Torah was written and what it means to say that the Torah comes from God is explained in this "Jewish 101" episode, JBS' original series on Judaism and Jewish life.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "The Villains of Genesis with Nechama Price"</title>
-    <desc>Dr. Nechama Price joins Justin Pines to explore the complex characters we call the villains of Genesis, and what they teach us about chosenness, evil, and the hope for redemption.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261119233000 +0000" stop="20261120000000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120000000 +0000" stop="20261120010000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Ann Patchett"</title>
-    <desc>Bestselling author Ann Patchett joins Zibby Owens to discuss Whistler, her new novel, about a former stepdaughter and stepfather who reconnect unexpectedly after decades apart, and the enduring connections that can defy time.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120010000 +0000" stop="20261120020000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120020000 +0000" stop="20261120030000 +0000" channel="jbs">
-    <title>L'Chayim "Joy Levitt"</title>
-    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120030000 +0000" stop="20261120033000 +0000" channel="jbs">
-    <title>In The Spotlight "Zionism in Crisis"</title>
-    <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120033000 +0000" stop="20261120040000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120040000 +0000" stop="20261120050000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120050000 +0000" stop="20261120060000 +0000" channel="jbs">
-    <title>L'Chayim "Joy Levitt"</title>
-    <desc>Joe Levitt, Exec. Dir. of the JCC Manhattan and the former president of the Reconstructionist Rabbinical Association, discusses the nature of Jewish education for young people today and other issues confronting the future of American Jewry.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120060000 +0000" stop="20261120063000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Laura Dave &amp; Gabrielle Korn"</title>
-    <desc>Bestselling authors Laura Dave (The First Time I Saw Him) and Gabrielle Korn (Long Island Girls) join Zibby Owens to discuss writing, process and where inspiration begins.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120063000 +0000" stop="20261120070000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120070000 +0000" stop="20261120080000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
-    <desc>Jonah Platt is joined by celebrity event planner Mindy Weiss, who revisits some of her most extravagant, meaningful and challenging weddings and Bar/Bat Mitzvahs, and discusses her relationship with and falling out with Kanye West.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120080000 +0000" stop="20261120090000 +0000" channel="jbs">
-    <title>L'Chayim "Joy Levitt"</title>
-    <desc>Joe Levitt, Exec. Dir. of the JCC Manhattan and the former president of the Reconstructionist Rabbinical Association, discusses the nature of Jewish education for young people today and other issues confronting the future of American Jewry.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Ann Patchett"</title>
-    <desc>Bestselling author Ann Patchett joins Zibby Owens to discuss Whistler, her new novel, about a former stepdaughter and stepfather who reconnect unexpectedly after decades apart, and the enduring connections that can defy time.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261120100000 +0000" stop="20261120103000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261120103000 +0000" stop="20261120110000 +0000" channel="jbs">
     <title>Thinking Out Loud "Myths &amp; Facts"</title>
     <desc>Micah Halpern looks at what he sees as widespread misunderstandings about Israel, separating common myths from facts.</desc>
@@ -3030,6 +2799,237 @@
   <programme start="20261203100000 +0000" stop="20261203110000 +0000" channel="jbs">
     <title>Jewish Insights with Justin Pines "David Ashear: Trusting in God"</title>
     <desc>Rabbi David Ashear, author of the bestselling Living Emunah series, shares how a self-described worrier discovered emunah (faith) and bitachon (trust), and how anyone can trade worry for trust, one day at a time.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203110000 +0000" stop="20261203113000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203113000 +0000" stop="20261203120000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203120000 +0000" stop="20261203130000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203130000 +0000" stop="20261203133000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203133000 +0000" stop="20261203140000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203140000 +0000" stop="20261203150000 +0000" channel="jbs">
+    <title>Jewish 101 "God Unseen"</title>
+    <desc>In a continuing study of what it means to say that "the Torah is written by God," a discussion of the famous Talmudic story which teaches that Jews do not listen to voices from heaven to understand the Torah.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203150000 +0000" stop="20261203160000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203160000 +0000" stop="20261203170000 +0000" channel="jbs">
+    <title>Robert Siegel "What's Next in Washington 2027"</title>
+    <desc>Robert Siegel is joined by NPR’s Tamara Keith, Columbia Business School’s Abby Joseph Cohen and political scholar Norm Ornstein for a panel discussion on the political landscape ahead.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203170000 +0000" stop="20261203173000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203173000 +0000" stop="20261203180000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203180000 +0000" stop="20261203183000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203183000 +0000" stop="20261203190000 +0000" channel="jbs">
+    <title>A Special Look "Jean Meltzer"</title>
+    <desc>Bestselling novelist and leading advocate for Jewish joy and authentic representation, Jean Meltzer joins Teisha Bader to share her story, her passion and her book, The Eight Heartbreaks of Chanukah.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203190000 +0000" stop="20261203193000 +0000" channel="jbs">
+    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
+    <desc>Abigail Pogrebin in conversation with Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203193000 +0000" stop="20261203200000 +0000" channel="jbs">
+    <title>Re-CHARGING Reform Judaism "Rabbi Buchdahl"</title>
+    <desc>Central Synagogue Senior Rabbi Angela Buchdahl explores the science of awe and what it can teach about creating meaningful worship experiences, drawing on insights from Jewish liturgy and communal life.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203200000 +0000" stop="20261203210000 +0000" channel="jbs">
+    <title>L'Chayim "Russell Robinson, JNF"</title>
+    <desc>JNF CEO Russell Robinson became Jewish National Fund’s Chief Executive Officer in September 1997, the youngest CEO in its then almost 100-year history.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203210000 +0000" stop="20261203220000 +0000" channel="jbs">
+    <title>Jewish 101 "God Unseen"</title>
+    <desc>In a continuing study of what it means to say that "the Torah is written by God," a discussion of the famous Talmudic story which teaches that Jews do not listen to voices from heaven to understand the Torah.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203220000 +0000" stop="20261203230000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "David Ashear: Trusting in God"</title>
+    <desc>Rabbi David Ashear, author of the bestselling Living Emunah series, shares how a self-described worrier discovered emunah (faith) and bitachon (trust), and how anyone can trade worry for trust, one day at a time.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203230000 +0000" stop="20261203233000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261203233000 +0000" stop="20261204000000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204000000 +0000" stop="20261204010000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Emma Heming Willis, Cleo Wade and Tess Sanchez"</title>
+    <desc>Bestselling authors Emma Heming Willis, Cleo Wade and Tess Sanchez join Zibby Owens for a conversation about unexpected pivots, resilience and hope.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204010000 +0000" stop="20261204020000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Brianna Wu"</title>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204020000 +0000" stop="20261204030000 +0000" channel="jbs">
+    <title>L'Chayim "Stephen Schwartz"</title>
+    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204030000 +0000" stop="20261204033000 +0000" channel="jbs">
+    <title>A Special Look "Jean Meltzer"</title>
+    <desc>JBS Host Teisha Bader shines a light on guests and topics shaping American and Israeli culture, society, and experience.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204033000 +0000" stop="20261204040000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204040000 +0000" stop="20261204050000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Brianna Wu"</title>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204050000 +0000" stop="20261204060000 +0000" channel="jbs">
+    <title>L'Chayim "Stephen Schwartz"</title>
+    <desc>Musical theatre composer and lyricist Stephen Schwartz discusses some of his classic Broadway shows, including Pippin, Wicked and The Prince of Egypt, and describes how Jewish values have shaped his life and work.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204060000 +0000" stop="20261204063000 +0000" channel="jbs">
+    <title>The Knish "Author Laura Silver"</title>
+    <desc>Author Laura Silver describes her personal journey from New York to Poland seeking the origin of the classic pastry, the Knish. Co-sponsored by the Jewish Historical Society of Fairfield County and the Darien Library, Darien, CT, from the Darien Library.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261204063000 +0000" stop="20261204070000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204070000 +0000" stop="20261204080000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Brianna Wu"</title>
+    <desc>Brianna Wu, progressive activist and former congressional candidate who has become an outspoken supporter of Israel and critic of antisemitism and anti-Israel politics on the left since October 7, joins Jonah Platt in conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204080000 +0000" stop="20261204090000 +0000" channel="jbs">
+    <title>L'Chayim "Stephen Schwartz"</title>
+    <desc>Musical theatre composer and lyricist Stephen Schwartz discusses some of his classic Broadway shows, including Pippin, Wicked and The Prince of Egypt, and describes how Jewish values have shaped his life and work.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204090000 +0000" stop="20261204100000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Emma Heming Willis, Cleo Wade and Tess Sanchez"</title>
+    <desc>Bestselling authors Emma Heming Willis, Cleo Wade and Tess Sanchez join Zibby Owens for a conversation about unexpected pivots, resilience and hope.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204100000 +0000" stop="20261204103000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261204103000 +0000" stop="20261204110000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op-ed pieces and cartoons in the news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
