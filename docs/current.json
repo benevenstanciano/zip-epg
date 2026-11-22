@@ -3,39 +3,39 @@
     "name": "Daystar",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "Reflections",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T11:30:00+00:00"
+      "title": "Israel Now News",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "arirang": {
     "name": "Arirang",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T09:30:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "SmartBiz Accelerators",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "Trip In Korea",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "weathernation": {
     "name": "WeatherNation",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T09:00:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T09:00:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     },
     "next": {
       "title": "Top Weather News, Regional Forecasts, Live Severe Coverage, and Local Weather",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T13:00:00+00:00"
+      "start": "2026-11-22T11:00:00+00:00",
+      "end": "2026-11-22T13:00:00+00:00"
     }
   },
   "realamericasvoice": {
@@ -47,78 +47,78 @@
     "name": "QVC",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T09:00:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     },
     "next": {
-      "title": "Barefoot Dreams -- California Style",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T12:00:00+00:00"
+      "title": "The Black Friday Before Black Friday Event - Gifts",
+      "start": "2026-11-22T11:00:00+00:00",
+      "end": "2026-11-22T12:00:00+00:00"
     }
   },
   "hsn": {
     "name": "HSN",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     },
     "next": {
-      "title": "Joy Mangano Collection",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T12:00:00+00:00"
+      "title": "Electronic Connection featuring Delorean E-Bikes",
+      "start": "2026-11-22T11:00:00+00:00",
+      "end": "2026-11-22T12:00:00+00:00"
     }
   },
   "nhkworld": {
     "name": "NHK World-Japan",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:10:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T10:10:00+00:00",
+      "end": "2026-11-22T10:40:00+00:00"
     },
     "next": {
-      "title": "NHK Newsline",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T11:10:00+00:00"
+      "title": "Little Charo",
+      "start": "2026-11-22T10:40:00+00:00",
+      "end": "2026-11-22T10:50:00+00:00"
     }
   },
   "buzzr": {
     "name": "Buzzr",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
       "title": "Press Your Luck",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "byutv": {
     "name": "BYUtv",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "All-Round Champion",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T12:00:00+00:00"
+      "title": "Music & the Spoken Word",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "ewtn": {
     "name": "EWTN",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "Catholics Come Home",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "Where God Weeps",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "rightnowtv": {
@@ -130,26 +130,26 @@
     "name": "Classic Arts Showcase",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T07:00:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T07:00:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     },
     "next": {
       "title": "Classic Arts Showcase",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T15:00:00+00:00"
+      "start": "2026-11-22T11:00:00+00:00",
+      "end": "2026-11-22T15:00:00+00:00"
     }
   },
   "nrbtv": {
     "name": "NRB TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "Truth for Today: Dr. Neal Jackson",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "The John Ankerberg Show",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "smtv": {
@@ -161,13 +161,13 @@
     "name": "Impact",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T09:00:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     },
     "next": {
-      "title": "Miracles Do Happen With Apostle Wayne T. Jackson",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "Believer's Voice of Victory",
+      "start": "2026-11-22T11:00:00+00:00",
+      "end": "2026-11-22T11:30:00+00:00"
     }
   },
   "tvriworld": {
@@ -179,26 +179,26 @@
     "name": "NOST",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T09:15:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T09:00:00+00:00",
+      "end": "2026-11-22T11:05:00+00:00"
     },
     "next": {
-      "title": "Dangerous Assignment",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T11:30:00+00:00"
+      "title": "The Golden Voyage of Sinbad",
+      "start": "2026-11-22T11:05:00+00:00",
+      "end": "2026-11-22T13:00:00+00:00"
     }
   },
   "faithworld": {
     "name": "Faith World TV",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "Impact Gospel Centre",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "Harvestime Evangelistic Ministries",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "bctv": {
@@ -210,26 +210,26 @@
     "name": "Create",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "The Best of the Joy of Painting",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "Christina Cooks: Back to the Cutting Board",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "world": {
     "name": "World Channel",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     },
     "next": {
-      "title": "The Whitney Reynolds Show",
-      "start": "2026-11-21T11:00:00+00:00",
-      "end": "2026-11-21T11:30:00+00:00"
+      "title": "On Story",
+      "start": "2026-11-22T11:00:00+00:00",
+      "end": "2026-11-22T11:30:00+00:00"
     }
   },
   "skyweather": {
@@ -241,65 +241,65 @@
     "name": "ROAR",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
       "title": "CSN Mint - 2027 Silver Eagles MS70 First Strike Presale",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "thenest": {
     "name": "The Nest",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T12:00:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T12:00:00+00:00"
     },
     "next": {
-      "title": "Paid Programming",
-      "start": "2026-11-21T12:00:00+00:00",
-      "end": "2026-11-21T12:30:00+00:00"
+      "title": "Key of David",
+      "start": "2026-11-22T12:00:00+00:00",
+      "end": "2026-11-22T12:30:00+00:00"
     }
   },
   "comet": {
     "name": "Comet",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "Emma: Natural Relief for Bloating, Constipation & Gut Imbalance",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "charge": {
     "name": "Charge!",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "CSN Mint - 2027 Silver Eagles MS70 First Strike Presale",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "Paid Programming",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   },
   "jltv": {
     "name": "JLTV",
     "current": {
       "title": "Unknown",
-      "start": "2026-11-21T10:00:00+00:00",
-      "end": "2026-11-21T10:30:00+00:00"
+      "start": "2026-11-22T10:00:00+00:00",
+      "end": "2026-11-22T10:30:00+00:00"
     },
     "next": {
-      "title": "You Bet Your Life",
-      "start": "2026-11-21T10:30:00+00:00",
-      "end": "2026-11-21T11:00:00+00:00"
+      "title": "LMAO",
+      "start": "2026-11-22T10:30:00+00:00",
+      "end": "2026-11-22T11:00:00+00:00"
     }
   }
 }
