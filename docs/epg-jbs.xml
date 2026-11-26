@@ -3,230 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261125113000 +0000" stop="20261125120000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="jbs">
-    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
-    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125130000 +0000" stop="20261125133000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125133000 +0000" stop="20261125140000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
-    <desc>Jonah Platt is joined by celebrity event planner Mindy Weiss, who revisits some of her most extravagant, meaningful and challenging weddings and Bar/Bat Mitzvahs, and discusses her relationship with and falling out with Kanye West.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Cholent: The Most Jewish Food"</title>
-    <desc>Food historian Joel Haber traces the Shabbat stew from ancient Babylon to Brooklyn, revealing how one overnight pot traveled with the Jewish people around the world, and why cholent may be the most Jewish food on earth.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Pariah Nation Again"</title>
-    <desc>Donniel Hartman and Yossi Klein Halevi debate what Israel’s declining global standing means for its security and the Jewish psyche, whether Israel bears responsibility for its isolation, and how to rebuild ties with potential allies.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125170000 +0000" stop="20261125173000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125173000 +0000" stop="20261125180000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125180000 +0000" stop="20261125190000 +0000" channel="jbs">
-    <title>Eat Small Plates "Bengingi &amp; Zikki in Conversation with Jake Cohen"</title>
-    <desc>Husband and wife creators Ben and Zikki Siman-Tov discuss turning their passion for food into a social media phenomenon (@Bengingi) and how their cookbook Eat Small Plates celebrates food as an engine of travel, family and friendship.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125190000 +0000" stop="20261125200000 +0000" channel="jbs">
-    <title>Tahini Baby Cookbook "Eden Grinshpan in Conversation with Sarah Fennel"</title>
-    <desc>Top Chef Canada host, cookbook author &amp; social media entrepreneur Eden Grinshpan celebrates her second cookbook Tahini Baby and shares her playful Middle Eastern–inspired vegetarian dishes with Broma Bakery’s Sarah Fennel. From the Streicker Center.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125200000 +0000" stop="20261125210000 +0000" channel="jbs">
-    <title>L'Chayim "Helen Nash z"l"</title>
-    <desc>The author of "New Kosher Cuisine," Helen Nash z"l discusses her personal Jewish journey and why she wrote the most recent of her three kosher cookbooks.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125210000 +0000" stop="20261125220000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Mindy Weiss"</title>
-    <desc>Jonah Platt is joined by celebrity event planner Mindy Weiss, who revisits some of her most extravagant, meaningful and challenging weddings and Bar/Bat Mitzvahs, and discusses her relationship with and falling out with Kanye West.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Pariah Nation Again"</title>
-    <desc>Donniel Hartman and Yossi Klein Halevi debate what Israel’s declining global standing means for its security and the Jewish psyche, whether Israel bears responsibility for its isolation, and how to rebuild ties with potential allies.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125230000 +0000" stop="20261125233000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261125233000 +0000" stop="20261126000000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Jewish Influence Post Midterms"</title>
-    <desc>Micah Halpern offers his analysis of how shifts in Washington following the midterm elections may affect the influence of Jewish leaders in American politics.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126000000 +0000" stop="20261126003000 +0000" channel="jbs">
-    <title>Defending Israel "Rabbi Dr. Mark Goldfeder"</title>
-    <desc>Rabbi Dr. Mark Goldfeder, CEO and Director of the National Jewish Advocacy Center (NJAC) and Director of the Antisemitism Law Clinic at Touro University, joins David Harris in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126003000 +0000" stop="20261126010000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
-    <desc>Rabbi Ammiel Hirsch delivers a sermon to his congregation of the Stephen Wise Free Synagogue in New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="jbs">
-    <title>The ISGAP Hour "Antizionism and the Campus"</title>
-    <desc>ISGAP founder Charles Asher Small, professor Dyanne Martin and student and peace activist Nervanah Ghabra explore confronting antisemitism through education, leadership, and cross-cultural understanding.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="jbs">
-    <title>L'Chayim "Dr. Jeffrey Gurock on Jews in America"</title>
-    <desc>Interviews with the most outstanding leaders, newsmakers and celebrities on the world Jewish scene today who address the issues and events of importance to the Jewish community. With Mark S. Golub z"l.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126030000 +0000" stop="20261126033000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
-    <desc>Rabbi Ammiel Hirsch is the senior rabbi of Stephen Wise Free Synagogue in New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126040000 +0000" stop="20261126043000 +0000" channel="jbs">
-    <title>Defending Israel "Rabbi Dr. Mark Goldfeder"</title>
-    <desc>Lifelong Jewish frontline activist and JBS strategic analyst David Harris shares his perspectives of the Hamas-triggered war with Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126043000 +0000" stop="20261126050000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Jewish Influence Post Midterms"</title>
-    <desc>"Thinking Out Loud" with columnist and social and political commentator, Micah Halpern ("The Micah Report"), with analysis of stories, op-ed pieces and political cartoons in the news.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="jbs">
-    <title>L'Chayim "Dr. Jeffrey Gurock on Jews in America"</title>
-    <desc>Dr. Jeffrey Gurock, professor of American Jewish History at Yeshiva University, describes aspects of the Jewish experience in America. A special "L'Chayim" episode hosted by Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="jbs">
-    <title>ILTV Insider</title>
-    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="jbs">
-    <title>The ISGAP Hour "Antizionism and the Campus"</title>
-    <desc>Columbia professor Shai Davidai, Professor Andrew Pessin and student leader Tali Smus examine antizionism and antisemitism on university campuses, from their ideological roots and normalization to the experiences of students confronting them.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="jbs">
-    <title>L'Chayim "Dr. Jeffrey Gurock on Jews in America"</title>
-    <desc>Dr. Jeffrey Gurock, professor of American Jewish History at Yeshiva University, describes aspects of the Jewish experience in America. A special "L'Chayim" episode hosted by Mark S. Golub.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="jbs">
-    <title>Tahini Baby Cookbook "Eden Grinshpan in Conversation with Sarah Fennel"</title>
-    <desc>Top Chef Canada host, cookbook author &amp; social media entrepreneur Eden Grinshpan celebrates her second cookbook Tahini Baby and shares her playful Middle Eastern–inspired vegetarian dishes with Broma Bakery’s Sarah Fennel. From the Streicker Center.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126100000 +0000" stop="20261126110000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Cholent: The Most Jewish Food"</title>
-    <desc>Food historian Joel Haber traces the Shabbat stew from ancient Babylon to Brooklyn, revealing how one overnight pot traveled with the Jewish people around the world, and why cholent may be the most Jewish food on earth.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="jbs">
-    <title>JBS Daily News</title>
-    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261126113000 +0000" stop="20261126120000 +0000" channel="jbs">
     <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
     <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
@@ -880,14 +656,14 @@
   </programme>
   <programme start="20261129130000 +0000" stop="20261129133000 +0000" channel="jbs">
     <title>Defending Israel "Rabbi Dr. Mark Goldfeder"</title>
-    <desc>Rabbi Dr. Mark Goldfeder, CEO and Director of the National Jewish Advocacy Center (NJAC) and Director of the Antisemitism Law Clinic at Touro University joins David Harris in conversation.</desc>
+    <desc>Rabbi Dr. Mark Goldfeder, CEO and Director of the National Jewish Advocacy Center (NJAC) and Director of the Antisemitism Law Clinic at Touro University, joins David Harris in conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261129133000 +0000" stop="20261129140000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Jewish Influence Post Midterms"</title>
+    <desc>Micah Halpern offers his analysis of how shifts in Washington following the midterm elections may affect the influence of Jewish leaders in American politics.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -943,7 +719,7 @@
   </programme>
   <programme start="20261129183000 +0000" stop="20261129190000 +0000" channel="jbs">
     <title>Eppes Essen "Yiddish at Pasternak RestaurantEpisode Ep. 2"</title>
-    <desc>Hosts Mike Burstyn and Perla Karney savor traditional Jewish dishes and share family stories in Yiddish at Pasternak Restaurant, a historic gem in a once-vibrant Jewish neighborhood of Berlin, Germany</desc>
+    <desc>Hosts Mike Burstyn and Perla Karney savor traditional Jewish dishes and share family stories in Yiddish at Pasternak Restaurant, a historic gem in a once-vibrant Jewish neighborhood of Berlin, Germany.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -963,8 +739,8 @@
     </rating>
   </programme>
   <programme start="20261129210000 +0000" stop="20261129220000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
-    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <title>For Heaven's Sake "Pariah Nation Again"</title>
+    <desc>Donniel Hartman and Yossi Klein Halevi debate what Israel’s declining global standing means for its security and the Jewish psyche, whether Israel bears responsibility for its isolation, and how to rebuild ties with potential allies.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -978,7 +754,7 @@
   </programme>
   <programme start="20261129223000 +0000" stop="20261129230000 +0000" channel="jbs">
     <title>Defending Israel "Rabbi Dr. Mark Goldfeder"</title>
-    <desc>Rabbi Dr. Mark Goldfeder, CEO and Director of the National Jewish Advocacy Center (NJAC) and Director of the Antisemitism Law Clinic at Touro University joins David Harris in conversation.</desc>
+    <desc>Rabbi Dr. Mark Goldfeder, CEO and Director of the National Jewish Advocacy Center (NJAC) and Director of the Antisemitism Law Clinic at Touro University, joins David Harris in conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1201,7 +977,7 @@
     </rating>
   </programme>
   <programme start="20261201010000 +0000" stop="20261201013000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
+    <title>In The Spotlight "The Goldschmidts"</title>
     <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1236,7 +1012,7 @@
     </rating>
   </programme>
   <programme start="20261201040000 +0000" stop="20261201043000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
+    <title>In The Spotlight "The Goldschmidts"</title>
     <desc>JBS original conversation series featuring Abigail Pogrebin in discussion with Jewish leaders, authors, and more.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
@@ -1271,8 +1047,8 @@
     </rating>
   </programme>
   <programme start="20261201070000 +0000" stop="20261201073000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
-    <desc>Abigail Pogrebin in conversation with Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt</desc>
+    <title>In The Spotlight "The Goldschmidts"</title>
+    <desc>Writer Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt join Abigail Pogrebin on Altneu, Orthodox feminism, leadership on both sides of the mechitza, and raising four kids while building a shul.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1320,8 +1096,8 @@
     </rating>
   </programme>
   <programme start="20261201120000 +0000" stop="20261201123000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
-    <desc>Abigail Pogrebin in conversation with Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt</desc>
+    <title>In The Spotlight "The Goldschmidts"</title>
+    <desc>Writer Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt join Abigail Pogrebin on Altneu, Orthodox feminism, leadership on both sides of the mechitza, and raising four kids while building a shul.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1362,8 +1138,8 @@
     </rating>
   </programme>
   <programme start="20261201160000 +0000" stop="20261201163000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
-    <desc>Abigail Pogrebin in conversation with Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt</desc>
+    <title>In The Spotlight "The Goldschmidts"</title>
+    <desc>Writer Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt join Abigail Pogrebin on Altneu, Orthodox feminism, leadership on both sides of the mechitza, and raising four kids while building a shul.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1523,8 +1299,8 @@
     </rating>
   </programme>
   <programme start="20261202100000 +0000" stop="20261202103000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
-    <desc>Abigail Pogrebin in conversation with Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt</desc>
+    <title>In The Spotlight "The Goldschmidts"</title>
+    <desc>Writer Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt join Abigail Pogrebin on Altneu, Orthodox feminism, leadership on both sides of the mechitza, and raising four kids while building a shul.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1642,15 +1418,15 @@
     </rating>
   </programme>
   <programme start="20261202233000 +0000" stop="20261203000000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Love It or Not, They Need Israel"</title>
+    <desc>Micah Halpern offers his perspective on why countries may condemn, sanction and rail against Israel while remaining deeply reliant on what Israel contributes to the world.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261203000000 +0000" stop="20261203003000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Poppy Coburn"</title>
+    <desc>Poppy Coburn, Associate Comments Editor at London-based The Telegraph, joins David Harris to discuss Britain’s uncertain future, risks to free speech, rising antisemitism and the UK’s declining ties with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1691,15 +1467,15 @@
     </rating>
   </programme>
   <programme start="20261203040000 +0000" stop="20261203043000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
+    <title>Defending Israel "Poppy Coburn"</title>
     <desc>Lifelong Jewish frontline activist and JBS strategic analyst David Harris shares his perspectives of the Hamas-triggered war with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261203043000 +0000" stop="20261203050000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>"Thinking Out Loud" with columnist and social and political commentator, Micah Halpern ("The Micah Report"), with analysis of stories, op op-ed pieces and political cartoons in the news.</desc>
+    <title>Thinking Out Loud "Love It or Not, They Need Israel"</title>
+    <desc>"Thinking Out Loud" with columnist and social and political commentator, Micah Halpern ("The Micah Report"), with analysis of stories, op-ed pieces and political cartoons in the news.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1782,8 +1558,8 @@
     </rating>
   </programme>
   <programme start="20261203133000 +0000" stop="20261203140000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Love It or Not, They Need Israel"</title>
+    <desc>Micah Halpern offers his perspective on why countries may condemn, sanction and rail against Israel while remaining deeply reliant on what Israel contributes to the world.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1817,15 +1593,15 @@
     </rating>
   </programme>
   <programme start="20261203173000 +0000" stop="20261203180000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Love It or Not, They Need Israel"</title>
+    <desc>Micah Halpern offers his perspective on why countries may condemn, sanction and rail against Israel while remaining deeply reliant on what Israel contributes to the world.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261203180000 +0000" stop="20261203183000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Poppy Coburn"</title>
+    <desc>Poppy Coburn, Associate Comments Editor at London-based The Telegraph, joins David Harris to discuss Britain’s uncertain future, risks to free speech, rising antisemitism and the UK’s declining ties with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1838,8 +1614,8 @@
     </rating>
   </programme>
   <programme start="20261203190000 +0000" stop="20261203193000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
-    <desc>Abigail Pogrebin in conversation with Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt</desc>
+    <title>In The Spotlight "The Goldschmidts"</title>
+    <desc>Writer Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt join Abigail Pogrebin on Altneu, Orthodox feminism, leadership on both sides of the mechitza, and raising four kids while building a shul.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1880,8 +1656,8 @@
     </rating>
   </programme>
   <programme start="20261203233000 +0000" stop="20261204000000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Poppy Coburn"</title>
+    <desc>Poppy Coburn, Associate Comments Editor at London-based The Telegraph, joins David Harris to discuss Britain’s uncertain future, risks to free speech, rising antisemitism and the UK’s declining ties with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1895,7 +1671,7 @@
   </programme>
   <programme start="20261204010000 +0000" stop="20261204020000 +0000" channel="jbs">
     <title>Being Jewish with Jonah Platt "Brianna Wu"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1923,7 +1699,7 @@
   </programme>
   <programme start="20261204040000 +0000" stop="20261204050000 +0000" channel="jbs">
     <title>Being Jewish with Jonah Platt "Brianna Wu"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -1971,15 +1747,15 @@
     </rating>
   </programme>
   <programme start="20261204100000 +0000" stop="20261204103000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Poppy Coburn"</title>
+    <desc>Poppy Coburn, Associate Comments Editor at London-based The Telegraph, joins David Harris to discuss Britain’s uncertain future, risks to free speech, rising antisemitism and the UK’s declining ties with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261204103000 +0000" stop="20261204110000 +0000" channel="jbs">
-    <title>Thinking Out Loud "Micah Halpern"</title>
-    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op-ed pieces and cartoons in the news.</desc>
+    <title>Thinking Out Loud "Love It or Not, They Need Israel"</title>
+    <desc>Micah Halpern offers his perspective on why countries may condemn, sanction and rail against Israel while remaining deeply reliant on what Israel contributes to the world.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -2013,8 +1789,8 @@
     </rating>
   </programme>
   <programme start="20261204133000 +0000" stop="20261204140000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Poppy Coburn"</title>
+    <desc>Poppy Coburn, Associate Comments Editor at London-based The Telegraph, joins David Harris to discuss Britain’s uncertain future, risks to free speech, rising antisemitism and the UK’s declining ties with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -2048,8 +1824,8 @@
     </rating>
   </programme>
   <programme start="20261204173000 +0000" stop="20261204180000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Poppy Coburn"</title>
+    <desc>Poppy Coburn, Associate Comments Editor at London-based The Telegraph, joins David Harris to discuss Britain’s uncertain future, risks to free speech, rising antisemitism and the UK’s declining ties with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -2076,8 +1852,8 @@
     </rating>
   </programme>
   <programme start="20261204210000 +0000" stop="20261204213000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
-    <desc>Abigail Pogrebin in conversation with Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt</desc>
+    <title>In The Spotlight "The Goldschmidts"</title>
+    <desc>Writer Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt join Abigail Pogrebin on Altneu, Orthodox feminism, leadership on both sides of the mechitza, and raising four kids while building a shul.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -2126,7 +1902,7 @@
   </programme>
   <programme start="20261205023000 +0000" stop="20261205033000 +0000" channel="jbs">
     <title>Being Jewish with Jonah Platt "Chanukah Night 1 and Jonah Platt with Brianna Wu"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -2219,14 +1995,14 @@
     <title>Central Synagogue "Reform Shabbat Service"</title>
     <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
     <rating system="MPAA">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261205160000 +0000" stop="20261205173000 +0000" channel="jbs">
     <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
     <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
     <rating system="MPAA">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261205173000 +0000" stop="20261205180000 +0000" channel="jbs">
@@ -2240,14 +2016,14 @@
     <title>Central Synagogue "Reform Shabbat Service"</title>
     <desc>Shabbat Morning Services from the Reform Movement’s Central Synagogue of New York City.</desc>
     <rating system="MPAA">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261205193000 +0000" stop="20261205210000 +0000" channel="jbs">
     <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
     <desc>Pre-recorded Orthodox Saturday morning Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
     <rating system="MPAA">
-      <value>TV-G</value>
+      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261205210000 +0000" stop="20261205220000 +0000" channel="jbs">
@@ -2279,15 +2055,15 @@
     </rating>
   </programme>
   <programme start="20261206000000 +0000" stop="20261206003000 +0000" channel="jbs">
-    <title>In The Spotlight "Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt"</title>
-    <desc>Abigail Pogrebin in conversation with Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt</desc>
+    <title>In The Spotlight "The Goldschmidts"</title>
+    <desc>Writer Avital Chizhik-Goldschmidt and Rabbi Benjamin Goldschmidt join Abigail Pogrebin on Altneu, Orthodox feminism, leadership on both sides of the mechitza, and raising four kids while building a shul.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20261206003000 +0000" stop="20261206010000 +0000" channel="jbs">
-    <title>Defending Israel "David Harris"</title>
-    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <title>Defending Israel "Poppy Coburn"</title>
+    <desc>Poppy Coburn, Associate Comments Editor at London-based The Telegraph, joins David Harris to discuss Britain’s uncertain future, risks to free speech, rising antisemitism and the UK’s declining ties with Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -2308,7 +2084,7 @@
   </programme>
   <programme start="20261206030000 +0000" stop="20261206040000 +0000" channel="jbs">
     <title>Being Jewish with Jonah Platt "Chanukah Night 2 and Jonah Platt with Brianna Wu"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation</desc>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
@@ -3049,6 +2825,230 @@
     </rating>
   </programme>
   <programme start="20261209113000 +0000" stop="20261209120000 +0000" channel="jbs">
+    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
+    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209120000 +0000" stop="20261209130000 +0000" channel="jbs">
+    <title>JL Minute "News and Analysis of Weekly Events in Israel"</title>
+    <desc>JNS Bureau Chief Alex Traiman and journalist Josh Hasten break down the week’s events in Israel, offering clear, timely news and analysis on The Jerusalem Minute.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209130000 +0000" stop="20261209133000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209133000 +0000" stop="20261209140000 +0000" channel="jbs">
+    <title>ILTV Insider</title>
+    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209140000 +0000" stop="20261209150000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Brianna Wu"</title>
+    <desc>Brianna Wu, progressive activist and former congressional candidate who has become an outspoken supporter of Israel and critic of antisemitism and anti-Israel politics on the left since October 7, joins Jonah Platt in conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209150000 +0000" stop="20261209160000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Dr. Erica Brown"</title>
+    <desc>Justin Pines in conversation with Dr. Erica Brown</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209160000 +0000" stop="20261209170000 +0000" channel="jbs">
+    <title>For Heaven's Sake</title>
+    <desc>Donniel Hartman and Yossi Klein Halevi</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209170000 +0000" stop="20261209173000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209173000 +0000" stop="20261209180000 +0000" channel="jbs">
+    <title>ILTV Insider</title>
+    <desc>Israelis discuss politics and other pressing issues of the day. A production of ILTV in Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209180000 +0000" stop="20261209190000 +0000" channel="jbs">
+    <title>Flame "A Chanukah Musical"</title>
+    <desc>When a family’s special shamash goes missing on the eighth night of Chanukah, they embark on a magical journey filled with familiar holiday songs, original music and family fun in this musical short from writer-director Rebecca Schoffer.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261209190000 +0000" stop="20261209200000 +0000" channel="jbs">
+    <title>Jewish 101 "Chanukah Special"</title>
+    <desc>From an adult perspective, learn the history, the story, and the celebrations of Chanukah, and why it is the quintessential expression of Jewish identity and the American principle of religious freedom. "Jewish 101" with Rabbi Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209200000 +0000" stop="20261209210000 +0000" channel="jbs">
+    <title>L'Chayim "Shlomo Riskin"</title>
+    <desc>Shlomo Riskin, founder of Ohr Torah Stone, describes the influence upon him of Rav Soloveitchik (z”l) and the Lubavitcher Rebbe (z”l), and discusses his disagreements with today’s Chief Rabbinate of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209210000 +0000" stop="20261209220000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Brianna Wu"</title>
+    <desc>Brianna Wu, progressive activist and former congressional candidate who has become an outspoken supporter of Israel and critic of antisemitism and anti-Israel politics on the left since October 7, joins Jonah Platt in conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209220000 +0000" stop="20261209223000 +0000" channel="jbs">
+    <title>A Special Look "Jean Meltzer"</title>
+    <desc>Bestselling novelist and leading advocate for Jewish joy and authentic representation, Jean Meltzer joins Teisha Bader to share her story, her passion and her book, The Eight Heartbreaks of Chanukah.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209223000 +0000" stop="20261209230000 +0000" channel="jbs">
+    <title>Chanukah Night 6 "With Rabbi Hirsch"</title>
+    <desc>Celebrate the Sixth Night of Chanukah with JBS.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209230000 +0000" stop="20261209233000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261209233000 +0000" stop="20261210000000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>Journalist and commentator Micah Halpern, The Micah Report, analyzes stories, op-ed pieces and cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210000000 +0000" stop="20261210003000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210003000 +0000" stop="20261210023000 +0000" channel="jbs">
+    <title>Yeshiva University Basketball "Swarthmore College at Yeshiva University"</title>
+    <desc>The Yeshiva University Maccabees host the Swarthmore Garnet in men’s basketball action, live on JBS, with coverage made possible in part by Janet and Lior Hod and family.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210023000 +0000" stop="20261210030000 +0000" channel="jbs">
+    <title>Good Week Israel</title>
+    <desc>Good Week Israel takes a look into the stories and people that make up Israeli life.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261210030000 +0000" stop="20261210033000 +0000" channel="jbs">
+    <title>Chanukah Night 6 "With Rabbi Hirsch"</title>
+    <desc>Chanukah, which is Hebrew for “dedication,” is the Festival of Lights commemorating the victory of the Maccabees over the Syrian Greek army and the subsequent miracle of rededicating the Holy Temple in Jerusalem and restoring its menorah, or lamp.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210033000 +0000" stop="20261210040000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210040000 +0000" stop="20261210043000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>Lifelong Jewish frontline activist and JBS strategic analyst David Harris shares his perspectives of the Hamas-triggered war with Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210043000 +0000" stop="20261210050000 +0000" channel="jbs">
+    <title>Thinking Out Loud "Micah Halpern"</title>
+    <desc>"Thinking Out Loud" with columnist and social and political commentator, Micah Halpern ("The Micah Report"), with analysis of stories, op-ed pieces and political cartoons in the news.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210050000 +0000" stop="20261210060000 +0000" channel="jbs">
+    <title>L'Chayim "Helen Nash z"l"</title>
+    <desc>The author of "New Kosher Cuisine," Helen Nash z"l discusses her personal Jewish journey and why she wrote the most recent of her three kosher cookbooks.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210060000 +0000" stop="20261210063000 +0000" channel="jbs">
+    <title>Chanukah Night 6 "With Rabbi Hirsch"</title>
+    <desc>Celebrate the Sixth Night of Chanukah with JBS.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210063000 +0000" stop="20261210070000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210070000 +0000" stop="20261210080000 +0000" channel="jbs">
+    <title>Jewish 101 "Chanukah Special"</title>
+    <desc>From an adult perspective, learn the history, the story, and the celebrations of Chanukah, and why it is the quintessential expression of Jewish identity and the American principle of religious freedom. "Jewish 101" with Rabbi Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210080000 +0000" stop="20261210090000 +0000" channel="jbs">
+    <title>L'Chayim "Helen Nash z"l"</title>
+    <desc>The author of "New Kosher Cuisine," Helen Nash z"l discusses her personal Jewish journey and why she wrote the most recent of her three kosher cookbooks.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210090000 +0000" stop="20261210100000 +0000" channel="jbs">
+    <title>The Great Latke Debate</title>
+    <desc>Eating latkes can feel almost as important as lighting the menorah, but which topping is best? Debaters present oral arguments on behalf of applesauce, sour cream, ketchup and more in the Great Latke Topping Debate from Moment Magazine.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210100000 +0000" stop="20261210110000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Dr. Erica Brown"</title>
+    <desc>Justin Pines in conversation with Dr. Erica Brown.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210110000 +0000" stop="20261210113000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261210113000 +0000" stop="20261210120000 +0000" channel="jbs">
     <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
     <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
     <rating system="MPAA">
