@@ -3,195 +3,6 @@
   <channel id="jbs">
     <display-name>JBS</display-name>
   </channel>
-  <programme start="20261127113000 +0000" stop="20261127120000 +0000" channel="jbs">
-    <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
-    <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127120000 +0000" stop="20261127130000 +0000" channel="jbs">
-    <title>The ISGAP Hour "Antizionism and the Campus"</title>
-    <desc>Columbia professor Shai Davidai, Professor Andrew Pessin and student leader Tali Smus examine antizionism and antisemitism on university campuses, from their ideological roots and normalization to the experiences of students confronting them.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127133000 +0000" stop="20261127140000 +0000" channel="jbs">
-    <title>Defending Israel "Rabbi Dr. Mark Goldfeder"</title>
-    <desc>Rabbi Dr. Mark Goldfeder, CEO and Director of the National Jewish Advocacy Center (NJAC) and Director of the Antisemitism Law Clinic at Touro University, joins David Harris in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127140000 +0000" stop="20261127150000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Cholent: The Most Jewish Food"</title>
-    <desc>Food historian Joel Haber traces the Shabbat stew from ancient Babylon to Brooklyn, revealing how one overnight pot traveled with the Jewish people around the world, and why cholent may be the most Jewish food on earth.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127150000 +0000" stop="20261127160000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Haviv Rettig Gur"</title>
-    <desc>Haviv Rettig Gur, senior analyst at The Times of Israel and host of Ask Haviv Anything, joins Jonah Platt in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="jbs">
-    <title>Totally Booked "Zibby Owens with Tovah Feldshuh"</title>
-    <desc>Broadway and screen star Tovah Feldshuh joins Zibby Owens to discuss her career, her memoir Lilyville, and her role in the hit Netflix series Nobody Wants This.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127163000 +0000" stop="20261127170000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
-    <desc>Rabbi Ammiel Hirsch delivers a sermon to his congregation of the Stephen Wise Free Synagogue in New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127170000 +0000" stop="20261127173000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127173000 +0000" stop="20261127180000 +0000" channel="jbs">
-    <title>Defending Israel "Rabbi Dr. Mark Goldfeder"</title>
-    <desc>Rabbi Dr. Mark Goldfeder, CEO and Director of the National Jewish Advocacy Center (NJAC) and Director of the Antisemitism Law Clinic at Touro University, joins David Harris in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="jbs">
-    <title>For Heaven's Sake "Pariah Nation Again"</title>
-    <desc>Donniel Hartman and Yossi Klein Halevi debate what Israel’s declining global standing means for its security and the Jewish psyche, whether Israel bears responsibility for its isolation, and how to rebuild ties with potential allies.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127190000 +0000" stop="20261127200000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Haviv Rettig Gur"</title>
-    <desc>Haviv Rettig Gur, senior analyst at The Times of Israel and host of Ask Haviv Anything, joins Jonah Platt in conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127200000 +0000" stop="20261127210000 +0000" channel="jbs">
-    <title>L'Chayim "Foodie Gil Hovav"</title>
-    <desc>Israeli celebrity chef, culinary journalist, author and TV personality Gil Hovav discusses his Jerusalem family background and his work in Israeli culinary arts and media.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="jbs">
-    <title>In The Spotlight "Danielle Crittenden"</title>
-    <desc>Journalist Danielle Crittenden joins Abigail Pogrebin on Dispatches from Grief, the sudden death of her daughter Miranda at 32, converting to Judaism, and the mourning rituals she never expected to need.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127213000 +0000" stop="20261127220000 +0000" channel="jbs">
-    <title>Rabbi Hirsch "Weekly Sermon"</title>
-    <desc>Rabbi Ammiel Hirsch delivers a sermon to his congregation of the Stephen Wise Free Synagogue in New York City.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127220000 +0000" stop="20261127223000 +0000" channel="jbs">
-    <title>ILTV Israel News</title>
-    <desc>JBS presents ILTV English Language News from Israel.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="jbs">
-    <title>Torah Parsha "Vayishlach"</title>
-    <desc>Rabbinic luminaries Rabbi Jonathan Sacks z”l and Rabbi Shlomo Riskin offer timeless wisdom from the Torah portion, guiding life and learning for the week ahead.</desc>
-    <rating system="MPAA">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20261127230000 +0000" stop="20261128003000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128003000 +0000" stop="20261128013000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>Pre-recorded Orthodox Friday night Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128013000 +0000" stop="20261128023000 +0000" channel="jbs">
-    <title>Jewish Insights with Justin Pines "Cholent: The Most Jewish Food"</title>
-    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128023000 +0000" stop="20261128033000 +0000" channel="jbs">
-    <title>Being Jewish with Jonah Platt "Haviv Rettig Gur"</title>
-    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128033000 +0000" stop="20261128043000 +0000" channel="jbs">
-    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
-    <desc>JBS provides the exclusive opportunity for people to share in the Orthodox Shabbat services of the Hampton Synagogue.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128043000 +0000" stop="20261128060000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128060000 +0000" stop="20261128070000 +0000" channel="jbs">
-    <title>Jewish 101 "Not In Heaven"</title>
-    <desc>In a continuing study of what it means to say that "the Torah is written by God," a discussion of the famous Talmudic story which teaches that Jews do not listen to voices from heaven to understand the Torah.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128070000 +0000" stop="20261128083000 +0000" channel="jbs">
-    <title>Central Synagogue "Reform Shabbat Service"</title>
-    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128083000 +0000" stop="20261128093000 +0000" channel="jbs">
-    <title>Tahini Baby Cookbook "Eden Grinshpan in Conversation with Sarah Fennel"</title>
-    <desc>Top Chef Canada host, cookbook author &amp; social media entrepreneur Eden Grinshpan celebrates her second cookbook Tahini Baby and shares her playful Middle Eastern–inspired vegetarian dishes with Broma Bakery’s Sarah Fennel. From the Streicker Center.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20261128093000 +0000" stop="20261128110000 +0000" channel="jbs">
-    <title>JBS Film Festival "Remembering the Family Store"</title>
-    <desc>A nostalgic documentary featuring families and small businesses that contributed to the beloved community of Stamford, CT circa 1940-1965, from their peak years as the center of downtown business through the early years of urban redevelopment.</desc>
-    <rating system="MPAA">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20261128110000 +0000" stop="20261128113000 +0000" channel="jbs">
     <title>ILTV Israel News</title>
     <desc>JBS presents ILTV English Language News from Israel.</desc>
@@ -3051,6 +2862,202 @@
   <programme start="20261211113000 +0000" stop="20261211120000 +0000" channel="jbs">
     <title>Harmony Yoga "Kripalu Yoga Sessions"</title>
     <desc>Occupational Therapist and Reiki Master Carol Shwidock leads viewers through yoga exercises to strengthen and restore body, mind and spirit.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211120000 +0000" stop="20261211130000 +0000" channel="jbs">
+    <title>Flame "A Chanukah Musical"</title>
+    <desc>When a family’s special shamash goes missing on the eighth night of Chanukah, they embark on a magical journey filled with familiar holiday songs, original music and family fun in this musical short from writer-director Rebecca Schoffer.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261211130000 +0000" stop="20261211133000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211133000 +0000" stop="20261211140000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211140000 +0000" stop="20261211150000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Dr. Erica Brown"</title>
+    <desc>Justin Pines in conversation with Dr. Erica Brown.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211150000 +0000" stop="20261211160000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Raphael Bob-Waksberg"</title>
+    <desc>Award-winning writer, producer and comedian Raphael Bob-Waksberg, creator of BoJack Horseman and the Jewish family comedy Long Story Short, joins Jonah Platt in conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211160000 +0000" stop="20261211163000 +0000" channel="jbs">
+    <title>Totally Booked "Zibby Owens with Marisa Renee Lee"</title>
+    <desc>Marisa Renee Lee joins Zibby Owens to discuss Waiting for Dawn: Living with Uncertainty, her account of long Covid and loss, and a guide to healing, rediscovering your worth and finding a way through dark periods.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211163000 +0000" stop="20261211170000 +0000" channel="jbs">
+    <title>Millie Magid "Israel &amp; Advocacy"</title>
+    <desc>Peruvian-born American Jewish activist and philanthropist Millie Magid joins JNS Features Editor Steve Linde to share her story and discuss her longtime support for Israel and her humanitarian, medical and advocacy work.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211170000 +0000" stop="20261211173000 +0000" channel="jbs">
+    <title>JBS Daily News</title>
+    <desc>ILTV reporting from Israel and JBS coverage of American and global Jewish news, culture and community, hosted by Teisha Bader.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211173000 +0000" stop="20261211180000 +0000" channel="jbs">
+    <title>Defending Israel "David Harris"</title>
+    <desc>David Harris delves into critical issues facing American Jewry and its relationship with the state of Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211180000 +0000" stop="20261211190000 +0000" channel="jbs">
+    <title>For Heaven's Sake "Donniel Hartman and Yossi Klein Halevi"</title>
+    <desc>Hosts Donniel Hartman and Yossi Klein Halevi engage in constructive disagreement as they discuss the moral aspects of topics affecting Israel, world Jewry and the future of Zionism.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211190000 +0000" stop="20261211200000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Raphael Bob-Waksberg"</title>
+    <desc>Award-winning writer, producer and comedian Raphael Bob-Waksberg, creator of BoJack Horseman and the Jewish family comedy Long Story Short, joins Jonah Platt in conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211200000 +0000" stop="20261211210000 +0000" channel="jbs">
+    <title>L'Chayim "Elie Wiesel's book After The Darkness"</title>
+    <desc>Survivor and Nobel laureate Elie Wiesel z"l discusses After The Darkness, his "sequel" to Night.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211210000 +0000" stop="20261211213000 +0000" channel="jbs">
+    <title>In The Spotlight "Amanda Gronich and Moisés Kaufman"</title>
+    <desc>What do you do with photographs of perpetrators at leisure? Moisés Kaufman and Amanda Gronich join Abigail Pogrebin to discuss their Broadway play “Here There Are Blueberries,” a detective story about an Auschwitz photo album.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211213000 +0000" stop="20261211220000 +0000" channel="jbs">
+    <title>Jewish Cinematheque "We Met at Grossinger’s"</title>
+    <desc>Filmmaker Paula Eiselt joins Eric Goldman to discuss We Met at Grossinger’s, her documentary exploring the famed Catskills resort, its place in Jewish American life and culture, and the vanished world of the Borscht Belt.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211220000 +0000" stop="20261211223000 +0000" channel="jbs">
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211223000 +0000" stop="20261211230000 +0000" channel="jbs">
+    <title>Chanukah Night 8 "With Rabbi Justin Pines"</title>
+    <desc>Celebrate the Eighth Night of Chanukah with JBS.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261211230000 +0000" stop="20261212003000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212003000 +0000" stop="20261212013000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>Pre-recorded Orthodox Friday night Shabbat services led by Rabbi Marc Schneier and Rabbi Avraham Bronstein, with Cantor Netanel Hershtik and Maestro Izhak Haimov and the Hampton Synagogue Choir. With Hebrew, transliteration and English subtitles.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212013000 +0000" stop="20261212023000 +0000" channel="jbs">
+    <title>Jewish Insights with Justin Pines "Dr. Erica Brown"</title>
+    <desc>Join JBS CEO Justin Pines to explore the Torah, people, and historical events shaping the Jewish journey.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212023000 +0000" stop="20261212033000 +0000" channel="jbs">
+    <title>Being Jewish with Jonah Platt "Raphael Bob-Waksberg"</title>
+    <desc>Being Jewish explores Jewish Identity with unfiltered conversation.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212033000 +0000" stop="20261212043000 +0000" channel="jbs">
+    <title>Hampton Synagogue "Orthodox Shabbat Service"</title>
+    <desc>JBS provides the exclusive opportunity for people to share in the Orthodox Shabbat services of the Hampton Synagogue.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212043000 +0000" stop="20261212060000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>For those unable to attend services in person, JBS provides the exclusive opportunity for people to share in the services of Central Synagogue in Manhattan, one of the leading Reform synagogues in America.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212060000 +0000" stop="20261212070000 +0000" channel="jbs">
+    <title>Jewish 101 "Chanukah Special"</title>
+    <desc>From an adult perspective, learn the history, the story, and the celebrations of Chanukah, and why it is the quintessential expression of Jewish identity and the American principle of religious freedom. "Jewish 101" with Rabbi Mark S. Golub.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212070000 +0000" stop="20261212083000 +0000" channel="jbs">
+    <title>Central Synagogue "Reform Shabbat Service"</title>
+    <desc>Live Reform Friday night services led by Rabbi Angela Buchdahl, Cantor Dan Mutlu and the clergy and orchestra of Central Synagogue in Manhattan.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212083000 +0000" stop="20261212093000 +0000" channel="jbs">
+    <title>Flame "A Chanukah Musical"</title>
+    <desc>When a family’s special shamash goes missing on the eighth night of Chanukah, they embark on a magical journey filled with familiar holiday songs, original music and family fun in this musical short from writer-director Rebecca Schoffer.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261212093000 +0000" stop="20261212103000 +0000" channel="jbs">
+    <title>Jake Ehrenreich Winter Concert</title>
+    <desc>In a winter holiday special, Jake Ehrenreich pays tribute to Jewish songwriters like Irving Berlin who have written some of the most famous Christmas holiday songs, including “Winter Wonderland.” With a live band, Sheldon Harnick and Charles Strouse.</desc>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20261212103000 +0000" stop="20261212110000 +0000" channel="jbs">
+    <title>Millie Magid "Israel &amp; Advocacy"</title>
+    <desc>Peruvian-born American Jewish activist and philanthropist Millie Magid joins JNS Features Editor Steve Linde to share her story and discuss her longtime support for Israel and her humanitarian, medical and advocacy work.</desc>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20261212110000 +0000" stop="20261212113000 +0000" channel="jbs">
+    <title>ILTV Israel News</title>
+    <desc>JBS presents ILTV English Language News from Israel.</desc>
     <rating system="MPAA">
       <value>TV-PG</value>
     </rating>
